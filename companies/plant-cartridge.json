@@ -1,0 +1,21 @@
+{
+  "id": 2984,
+  "name": "Plant Cartridge Sdn. Bhd.",
+  "slug": "plant-cartridge",
+  "website": "plantcartridge.com",
+  "description": "Operator of an agriculture technology company intended to offer sustainable micro-urban farming systems. The company's growing kit consists of a box of cartridges that contain selected seeds and the growing medium and a rectangular ultraviolet-coated polyethylene tank, with a hole in the center for topping up the water for the plants and holes to hold the pods in place, enabling people to grow their own food at home in order to solve the global food production shortage.",
+  "one_liner": "Operator of an agriculture technology company intended to offer sustainable micro-urban farming systems. The company's growing kit consists of a box of cartridges that contain selected seeds and the growing medium and a rectangular ultraviolet-coated polyethylene tank, with a hole in the center for topping up the water for the plants and holes to hold the pods in place, enabling people to grow their own food at home in order to solve the global food production shortage.",
+  "location": "Malaysia",
+  "industry": "AgTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AgTech"
+  ],
+  "url": "https://500.co/portfolio/plant-cartridge",
+  "api": "/companies/plant-cartridge.json"
+}

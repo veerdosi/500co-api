@@ -1,0 +1,21 @@
+{
+  "id": 3899,
+  "name": "Revivn, Inc.",
+  "slug": "revivn-inc",
+  "website": "www.revivn.com",
+  "description": "Provider of electronic recycling services designed to re-purpose unused hardware to under-served communities. The company's electronic recycling services include collecting excess hardware from organizational sites and re-purposing them for communities in need by providing a detailed hardware inventory and certifying data destruction and ethical recycling, enabling organizations to re-purpose their unused technical gadgets and hardware for a greater cause.",
+  "one_liner": "Provider of electronic recycling services designed to re-purpose unused hardware to under-served communities. The company's electronic recycling services include collecting excess hardware from organizational sites and re-purposing them for communities in need by providing a detailed hardware inventory and certifying data destruction and ethical recycling, enabling organizations to re-purpose their unused technical gadgets and hardware for a greater cause.",
+  "location": "United States",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/6546f301-7b1b-4596-929a-80338543b7b3.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/revivn-inc",
+  "api": "/companies/revivn-inc.json"
+}

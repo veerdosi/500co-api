@@ -1,0 +1,22 @@
+{
+  "id": 2715,
+  "name": "Orchard Labs Inc.",
+  "slug": "orchard-",
+  "website": "www.getorchard.com",
+  "description": "Developer of an online phone-based retail platform intended to make devices accessible to people. The company's platform connects buyers and sellers of used phones and helps bring down the cost of ownership by providing an inclusive return to someone selling their device, helping customers get an affordable option, and transact in a safe and hassle-free manner.",
+  "one_liner": "Developer of an online phone-based retail platform intended to make devices accessible to people. The company's platform connects buyers and sellers of used phones and helps bring down the cost of ownership by providing an inclusive return to someone selling their device, helping customers get an affordable option, and transact in a safe and hassle-free manner.",
+  "location": "Canada",
+  "industry": "Ecommerce, Consumer",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Ecommerce",
+    "Consumer"
+  ],
+  "url": "https://500.co/portfolio/orchard-",
+  "api": "/companies/orchard-.json"
+}

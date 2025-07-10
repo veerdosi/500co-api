@@ -1,0 +1,21 @@
+{
+  "id": 3645,
+  "name": "CompStak, Inc.",
+  "slug": "compstak",
+  "website": "www.compstak.com",
+  "description": "Developer of a real estate data platform designed to provide timely, analyst-reviewed commercial lease, sales, and property details. The company's platform gathers and quality checks lease and sales contracts from professionals, enabling lenders, landlords, and investors to close business by focusing on meaningful networking and accurate analyses.",
+  "one_liner": "Developer of a real estate data platform designed to provide timely, analyst-reviewed commercial lease, sales, and property details. The company's platform gathers and quality checks lease and sales contracts from professionals, enabling lenders, landlords, and investors to close business by focusing on meaningful networking and accurate analyses.",
+  "location": "United States",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7d55737c-86ce-49d9-8eee-75c9b66d082f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/compstak",
+  "api": "/companies/compstak.json"
+}

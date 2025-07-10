@@ -1,0 +1,21 @@
+{
+  "id": 3689,
+  "name": "Govlist Inc.",
+  "slug": "govlist-inc",
+  "website": "thegovlist.com",
+  "description": "Provider of a data-driven platform designed to streamline the IT procurement process and improve the quality of public digital services offered by the government. The company's data-driven platform has an inbuilt analytics dashboard that tracks and optimizes government purchasing through automation and data analytics, makes intelligent decisions by leveraging valuable data and insights, makes procurement faster by automating and organizing documents, forms, and paperwork in one place, enabling local governments and vendors to improve IT procurement and amplify government sales respectively.",
+  "one_liner": "Provider of a data-driven platform designed to streamline the IT procurement process and improve the quality of public digital services offered by the government. The company's data-driven platform has an inbuilt analytics dashboard that tracks and optimizes government purchasing through automation and data analytics, makes intelligent decisions by leveraging valuable data and insights, makes procurement faster by automating and organizing documents, forms, and paperwork in one place, enabling local governments and vendors to improve IT procurement and amplify government sales respectively.",
+  "location": "United States",
+  "industry": "Government",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Government"
+  ],
+  "url": "https://500.co/portfolio/govlist-inc",
+  "api": "/companies/govlist-inc.json"
+}

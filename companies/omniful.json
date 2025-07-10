@@ -1,0 +1,23 @@
+{
+  "id": 5515,
+  "name": "Omniful, Inc.",
+  "slug": "omniful",
+  "website": "www.omniful.com",
+  "description": "Developer of an operations platform designed for omnichannel retail and omnichannel management. The company's platform help retailers fulfill orders in minutes by instantly shipping online orders directly from physical retail stores and providing tools & software to help omnichannel retailers operate better, and faster, enabling brick-and-mortar retailers to operate more efficiently.",
+  "one_liner": "Developer of an operations platform designed for omnichannel retail and omnichannel management. The company's platform help retailers fulfill orders in minutes by instantly shipping online orders directly from physical retail stores and providing tools & software to help omnichannel retailers operate better, and faster, enabling brick-and-mortar retailers to operate more efficiently.",
+  "location": "Saudi Arabia",
+  "industry": "Ecommerce, Enterprise, Retail",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5b596313-2bcb-48f4-bb2d-9cc4dbc73fdc.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Ecommerce",
+    "Enterprise",
+    "Retail"
+  ],
+  "url": "https://500.co/portfolio/omniful",
+  "api": "/companies/omniful.json"
+}

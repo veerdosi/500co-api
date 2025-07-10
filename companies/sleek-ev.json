@@ -1,0 +1,24 @@
+{
+  "id": 5743,
+  "name": "Sleek EV Pte Ltd.",
+  "slug": "sleek-ev",
+  "website": "www.sleekev.com",
+  "description": "Manufacturer of electric scooters designed for urban riding and create a world where green vehicles become the new standard. The company's scooters utilize motors with field-oriented control, ensuring power optimization and maximum acceleration and removable batteries that can be charged in-bike or via sockets, enabling users to travel efficiently and sustainably.",
+  "one_liner": "Manufacturer of electric scooters designed for urban riding and create a world where green vehicles become the new standard. The company's scooters utilize motors with field-oriented control, ensuring power optimization and maximum acceleration and removable batteries that can be charged in-bike or via sockets, enabling users to travel efficiently and sustainably.",
+  "location": "Thailand",
+  "industry": "App, Automotive, Manufacturing, Mobility",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b94a4d60-7243-4bfc-992a-b5a4884d64f8.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "App",
+    "Automotive",
+    "Manufacturing",
+    "Mobility"
+  ],
+  "url": "https://500.co/portfolio/sleek-ev",
+  "api": "/companies/sleek-ev.json"
+}

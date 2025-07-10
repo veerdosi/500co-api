@@ -1,0 +1,23 @@
+{
+  "id": 5135,
+  "name": "PT Rekan Usaha Mikro Anda",
+  "slug": "mapan",
+  "website": "mapan.id",
+  "description": "Developer of a payment and lending networking platform designed to increase access and income for low-income communities through technology. The company's platform is focused on eliminating barriers to financial access for the masses and offers cell phone airtime and bill-pay services and helps create employment opportunities for the poor, enabling users to access products more easily, safely and comfortably.",
+  "one_liner": "Developer of a payment and lending networking platform designed to increase access and income for low-income communities through technology. The company's platform is focused on eliminating barriers to financial access for the masses and offers cell phone airtime and bill-pay services and helps create employment opportunities for the poor, enabling users to access products more easily, safely and comfortably.",
+  "location": "Indonesia",
+  "industry": "Ecommerce, Retail, Consumer",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/2c9cc197-dc49-4420-90d4-31ed68e48b28.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Ecommerce",
+    "Retail",
+    "Consumer"
+  ],
+  "url": "https://500.co/portfolio/mapan",
+  "api": "/companies/mapan.json"
+}

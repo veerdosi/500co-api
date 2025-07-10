@@ -1,0 +1,21 @@
+{
+  "id": 4066,
+  "name": "Mayvenn, Inc.",
+  "slug": "mayvenn",
+  "website": "shop.mayvenn.com",
+  "description": "Retailer of online hair care products intended to provide quality beauty products with an unparalleled shopping experience. The company's services offer tools to hair stylists to sell hair extensions directly to their clients without the burden of upfront costs and holding inventory, allowing customers to shop in a dignified way while receiving related products and services.",
+  "one_liner": "Retailer of online hair care products intended to provide quality beauty products with an unparalleled shopping experience. The company's services offer tools to hair stylists to sell hair extensions directly to their clients without the burden of upfront costs and holding inventory, allowing customers to shop in a dignified way while receiving related products and services.",
+  "location": "United States",
+  "industry": "Fashion",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f233c1e0-9a78-4e8b-a092-053b4b69b641.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion"
+  ],
+  "url": "https://500.co/portfolio/mayvenn",
+  "api": "/companies/mayvenn.json"
+}

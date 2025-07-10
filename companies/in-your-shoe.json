@@ -1,0 +1,21 @@
+{
+  "id": 4383,
+  "name": "In Your Shoe, Inc.",
+  "slug": "in-your-shoe",
+  "website": "inyourshoe.com",
+  "description": "The company offers unique outwear, homeware, socks, sportswear, and accessories that cater to all different tastes and are of high quality, providing users with diverse statement and playful designs of apparel.",
+  "one_liner": "The company offers unique outwear, homeware, socks, sportswear, and accessories that cater to all different tastes and are of high quality, providing users with diverse statement and playful designs of apparel.",
+  "location": "Egypt",
+  "industry": "Fashion",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/94545d44-9372-45c6-85ce-e32abe0d5c58.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion"
+  ],
+  "url": "https://500.co/portfolio/in-your-shoe",
+  "api": "/companies/in-your-shoe.json"
+}

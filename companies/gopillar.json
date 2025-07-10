@@ -1,0 +1,22 @@
+{
+  "id": 4964,
+  "name": "CoContest S.r.l.",
+  "slug": "gopillar",
+  "website": "gopillar.com",
+  "description": "Operator of a designer community platform intended to provide an architectural marketplace. The company's platform helps people to find professionals they can rely on to support renovation or construction projects as well as provide a single 3D render or virtual tour and designs a whole construction project from the ground up, enabling clients to access and connect with designers to make their designs come true.",
+  "one_liner": "Operator of a designer community platform intended to provide an architectural marketplace. The company's platform helps people to find professionals they can rely on to support renovation or construction projects as well as provide a single 3D render or virtual tour and designs a whole construction project from the ground up, enabling clients to access and connect with designers to make their designs come true.",
+  "location": "United States",
+  "industry": "Education, Marketplace",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b030aa0b-4a90-4a28-85ec-d17cd1b34b48.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education",
+    "Marketplace"
+  ],
+  "url": "https://500.co/portfolio/gopillar",
+  "api": "/companies/gopillar.json"
+}

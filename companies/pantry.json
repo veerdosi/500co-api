@@ -1,0 +1,21 @@
+{
+  "id": 4290,
+  "name": "Pantry Retail, Inc.",
+  "slug": "pantry",
+  "website": "pantryretail.com",
+  "description": "Provider of refrigerated vending kiosks for the food-service market. The company provides instant access to fresh food through a network of swipe, grab and go kiosks. Its local food partners curate a seasonal menu of fresh meals, snacks and beverages for the kiosks. The company deploys its kiosks across the US to workplaces, hospitals, universities and hotels.",
+  "one_liner": "Provider of refrigerated vending kiosks for the food-service market. The company provides instant access to fresh food through a network of swipe, grab and go kiosks. Its local food partners curate a seasonal menu of fresh meals, snacks and beverages for the kiosks. The company deploys its kiosks across the US to workplaces, hospitals, universities and hotels.",
+  "location": "United States",
+  "industry": "Food",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Food"
+  ],
+  "url": "https://500.co/portfolio/pantry",
+  "api": "/companies/pantry.json"
+}

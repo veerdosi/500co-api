@@ -1,0 +1,22 @@
+{
+  "id": 4310,
+  "name": "ElCoach, Inc.",
+  "slug": "elcoach",
+  "website": "elcoach.me",
+  "description": "Developer of a fitness and nutrition application designed to offer personalized body transformation programs based on individual needs. The company's application offers current stats, fitness levels, and personal goals that are used for customized diet and workout programs that offer tools and food tables to follow the instructions and calculate the progress of the training, enabling users to track their fitness and to get diet and exercise from anywhere, at any time.",
+  "one_liner": "Developer of a fitness and nutrition application designed to offer personalized body transformation programs based on individual needs. The company's application offers current stats, fitness levels, and personal goals that are used for customized diet and workout programs that offer tools and food tables to follow the instructions and calculate the progress of the training, enabling users to track their fitness and to get diet and exercise from anywhere, at any time.",
+  "location": "Saudi Arabia",
+  "industry": "AI/Machine Learning, Health Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/fe81debd-a8c3-436d-9019-bce435400ae7.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "Health Tech"
+  ],
+  "url": "https://500.co/portfolio/elcoach",
+  "api": "/companies/elcoach.json"
+}

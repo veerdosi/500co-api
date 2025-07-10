@@ -1,0 +1,81 @@
+[
+  {
+    "id": 4653,
+    "name": "Boon, Inc",
+    "slug": "boon-referral-hiring-that-scales",
+    "website": "https://goboon.co/",
+    "description": "Boon is the world’s most agile referral hiring platform that scales across your entire community to deliver better hires, faster. ",
+    "one_liner": "Boon is the world’s most agile referral hiring platform that scales across your entire community to deliver better hires, faster. ",
+    "location": "United States",
+    "industry": "Crowdsourcing, SaaS, Artificial Intelligence / Machine Learning, Work, Network Effects, B2B Marketplaces, HR Tech",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/0666c160-8904-4597-9098-4a8b8c8cee53.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Crowdsourcing",
+      "SaaS",
+      "Artificial Intelligence / Machine Learning",
+      "Work",
+      "Network Effects",
+      "B2B Marketplaces",
+      "HR Tech"
+    ],
+    "url": "https://500.co/portfolio/boon-referral-hiring-that-scales",
+    "api": "/companies/boon-referral-hiring-that-scales.json"
+  },
+  {
+    "id": 3472,
+    "name": "CurieVision, Inc.",
+    "slug": "curie",
+    "website": "www.curie.co",
+    "description": "Developer of a 3D product generation platform designed to offer 3D shopping assistance. The company's platform allows shoppers to discover the best reviews and product news at the point of a camera, enabling customers to instantly educate and consense information and make purchases.",
+    "one_liner": "Developer of a 3D product generation platform designed to offer 3D shopping assistance. The company's platform allows shoppers to discover the best reviews and product news at the point of a camera, enabling customers to instantly educate and consense information and make purchases.",
+    "location": "United States",
+    "industry": "AI/Machine Learning, Ecommerce, Retail, VR/AR, Deep Tech, Artificial Intelligence / Machine Learning, Augmented Reality / Virtual Reality, Mobile, Commerce",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/80b9182f-9e71-4a00-a900-a654042096c2.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "AI/Machine Learning",
+      "Ecommerce",
+      "Retail",
+      "VR/AR",
+      "Deep Tech",
+      "Artificial Intelligence / Machine Learning",
+      "Augmented Reality / Virtual Reality",
+      "Mobile",
+      "Commerce"
+    ],
+    "url": "https://500.co/portfolio/curie",
+    "api": "/companies/curie.json"
+  },
+  {
+    "id": 5379,
+    "name": "Rosetta.Ai Holding Pte. Ltd.",
+    "slug": "rosettaai",
+    "website": "https://www.rosetta.ai",
+    "description": "Developer of a customer retention platform designed to facilitate e-commerce companies in improving conversion and customer loyalty. The company's platform uses artificial intelligence technology to enhance customer conversion and retention by analyzing consumer preferences, and predicting inventory, and recommending products for online and offline during shopping flow, enabling e-commerce businesses to increase conversion and order value.",
+    "one_liner": "Developer of a customer retention platform designed to facilitate e-commerce companies in improving conversion and customer loyalty. The company's platform uses artificial intelligence technology to enhance customer conversion and retention by analyzing consumer preferences, and predicting inventory, and recommending products for online and offline during shopping flow, enabling e-commerce businesses to increase conversion and order value.",
+    "location": "Taiwan",
+    "industry": "Ecommerce, SaaS, Artificial Intelligence / Machine Learning",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/0121651c-a9e2-4916-b379-dfef63f8a251.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Ecommerce",
+      "SaaS",
+      "Artificial Intelligence / Machine Learning"
+    ],
+    "url": "https://500.co/portfolio/rosettaai",
+    "api": "/companies/rosettaai.json"
+  }
+]

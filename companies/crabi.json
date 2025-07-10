@@ -1,0 +1,21 @@
+{
+  "id": 4429,
+  "name": "Crabi, Inc.",
+  "slug": "crabi",
+  "website": "www.crabi.com",
+  "description": "Developer of an automobile insurance platform designed to offer a new way of insurance that focuses on the person and not the car. The company's platform delivers simple, easy, and accessible personalized car insurance, a human-centered design to create a better digital experience around buying, managing, and making claims on a policy, enabling customers to get insured wherever they are, whenever they want, and pay what they need.",
+  "one_liner": "Developer of an automobile insurance platform designed to offer a new way of insurance that focuses on the person and not the car. The company's platform delivers simple, easy, and accessible personalized car insurance, a human-centered design to create a better digital experience around buying, managing, and making claims on a policy, enabling customers to get insured wherever they are, whenever they want, and pay what they need.",
+  "location": "Mexico",
+  "industry": "InsurTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/4c596e66-5a01-41dc-bf78-26ecda165187.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "InsurTech"
+  ],
+  "url": "https://500.co/portfolio/crabi",
+  "api": "/companies/crabi.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5296,
+  "name": "NUME LLC",
+  "slug": "nuevo-mtodo",
+  "website": "nuevometodo.com",
+  "description": "Developer of a monthly subscription solution Platform intended to help women purchase contraceptives and access medical consultations in a simple and affordable way. The company's platform provides advice on sexual and reproductive health, and medical evaluation and offers contraceptive methods and pills at home, enabling women to eradicate unwanted pregnancies and reduce the occurrence of sexually transmitted diseases.",
+  "one_liner": "Developer of a monthly subscription solution Platform intended to help women purchase contraceptives and access medical consultations in a simple and affordable way. The company's platform provides advice on sexual and reproductive health, and medical evaluation and offers contraceptive methods and pills at home, enabling women to eradicate unwanted pregnancies and reduce the occurrence of sexually transmitted diseases.",
+  "location": "Argentina",
+  "industry": "FemTech (women's health)",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/c1384c9e-c3c7-44cc-8ae4-e4e85bc1f517.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FemTech (women's health)"
+  ],
+  "url": "https://500.co/portfolio/nuevo-mtodo",
+  "api": "/companies/nuevo-mtodo.json"
+}

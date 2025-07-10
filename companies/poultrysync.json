@@ -1,0 +1,22 @@
+{
+  "id": 8110,
+  "name": "ABU ERDAN DMCC",
+  "slug": "poultrysync",
+  "website": "https://poultrysync.com",
+  "description": "An end-to-end SaaS poultry management cloud solution that empowers poultry companies to maximize production, increase efficiency, and reduce waste.",
+  "one_liner": "An end-to-end SaaS poultry management cloud solution that empowers poultry companies to maximize production, increase efficiency, and reduce waste.",
+  "location": "United Arab Emirates",
+  "industry": "AI/Machine Learning, AgTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "AgTech"
+  ],
+  "url": "https://500.co/portfolio/poultrysync",
+  "api": "/companies/poultrysync.json"
+}

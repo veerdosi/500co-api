@@ -1,0 +1,21 @@
+{
+  "id": 4237,
+  "name": "Baby List, Inc.",
+  "slug": "babylist",
+  "website": "www.babylist.com",
+  "description": "Developer of a vertical marketplace and commerce destination designed for babies and driving purchase decisions. The company platform utilizes robust proprietary data, patented technology, and unbiased editorial guidance, it recommends expert-tested products to those starting their parenting journey, and registries connect new parents and a community of family and friends who help plan, prepare, and shop for a child's arrival, enabling client with smooth purchasing experience for parents.",
+  "one_liner": "Developer of a vertical marketplace and commerce destination designed for babies and driving purchase decisions. The company platform utilizes robust proprietary data, patented technology, and unbiased editorial guidance, it recommends expert-tested products to those starting their parenting journey, and registries connect new parents and a community of family and friends who help plan, prepare, and shop for a child's arrival, enabling client with smooth purchasing experience for parents.",
+  "location": "United States",
+  "industry": "Social Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7831bb47-a4b3-4628-9ac2-acb6aa7d0793.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Impact"
+  ],
+  "url": "https://500.co/portfolio/babylist",
+  "api": "/companies/babylist.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 8094,
+  "name": "Decube Data Pte. Ltd.",
+  "slug": "decube",
+  "website": "www.decube.io",
+  "description": "Developer of data observability software intended to help businesses ensure the accuracy, completeness, and consistency of their data. The company's software provides automated policy management through a policy-driven approach, safeguarding sensitive information by applying rules to mask specific keywords, such as addresses, ensuring privacy and compliance, classifying assets according to your organization's specific requirements, enabling products and business teams to revolutionize the way businesses engage with their data.",
+  "one_liner": "Developer of data observability software intended to help businesses ensure the accuracy, completeness, and consistency of their data. The company's software provides automated policy management through a policy-driven approach, safeguarding sensitive information by applying rules to mask specific keywords, such as addresses, ensuring privacy and compliance, classifying assets according to your organization's specific requirements, enabling products and business teams to revolutionize the way businesses engage with their data.",
+  "location": "Singapore",
+  "industry": "Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/febb5d65-f17c-4f0c-b190-d513f992dc11.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/decube",
+  "api": "/companies/decube.json"
+}

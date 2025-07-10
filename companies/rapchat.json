@@ -1,0 +1,22 @@
+{
+  "id": 3631,
+  "name": "RapChat, LLC.",
+  "slug": "rapchat",
+  "website": "rapchat.com",
+  "description": "Developer of a music-making platform designed to help artists record and share songs from the phone. The company's platform provides users with access to a social network of audience and artists that help drive connectivity and collaboration via its mobile recording studio that features various music-making tools, enabling artists to make content and deliver it directly to their audience with ease.",
+  "one_liner": "Developer of a music-making platform designed to help artists record and share songs from the phone. The company's platform provides users with access to a social network of audience and artists that help drive connectivity and collaboration via its mobile recording studio that features various music-making tools, enabling artists to make content and deliver it directly to their audience with ease.",
+  "location": "United States",
+  "industry": "App, Mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/197096aa-9c46-4db4-9e51-fdc78feab325.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "App",
+    "Mobile"
+  ],
+  "url": "https://500.co/portfolio/rapchat",
+  "api": "/companies/rapchat.json"
+}

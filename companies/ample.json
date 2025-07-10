@@ -1,0 +1,21 @@
+{
+  "id": 4841,
+  "name": "Ample Foods, Inc.",
+  "slug": "ample",
+  "website": "www.amplemeal.com",
+  "description": "Producer of nutritional food supplement products intended to provide a complete meal-in-a-bottle drink. The company's products are nutritious, full drinkable meals made from real food ingredients and organic materials including sweet potato starch, macadamia nut, and chia seeds, enabling consumers to get access to complete meal replacement that makes it easy and fast to achieve optimal nutrition on the go.",
+  "one_liner": "Producer of nutritional food supplement products intended to provide a complete meal-in-a-bottle drink. The company's products are nutritious, full drinkable meals made from real food ingredients and organic materials including sweet potato starch, macadamia nut, and chia seeds, enabling consumers to get access to complete meal replacement that makes it easy and fast to achieve optimal nutrition on the go.",
+  "location": "United States",
+  "industry": "Wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7a1e8924-b3ae-482f-a015-e5f79436e9c2.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Wellness"
+  ],
+  "url": "https://500.co/portfolio/ample",
+  "api": "/companies/ample.json"
+}

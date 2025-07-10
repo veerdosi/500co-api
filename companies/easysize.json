@@ -1,0 +1,21 @@
+{
+  "id": 2751,
+  "name": "Easysize ApS",
+  "slug": "easysize",
+  "website": "www.easysize.me",
+  "description": "Provider of size and fit recommendation services intended to help shoppers buy fashion that fits and looks great on them without the hassle of returns. The company's platform combines deep diverse data with advanced algorithms and does not require body measurements, garment measurements, or size charts, providing an upscale in user confidence, enhancing sales, and reducing returns for fashion merchants, enabling shop consultants to reduce the waste of manufacturing, storing, shipping and at times destruction of the merchandise.",
+  "one_liner": "Provider of size and fit recommendation services intended to help shoppers buy fashion that fits and looks great on them without the hassle of returns. The company's platform combines deep diverse data with advanced algorithms and does not require body measurements, garment measurements, or size charts, providing an upscale in user confidence, enhancing sales, and reducing returns for fashion merchants, enabling shop consultants to reduce the waste of manufacturing, storing, shipping and at times destruction of the merchandise.",
+  "location": "Denmark",
+  "industry": "Fashion",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/dec1ac1b-4249-47d6-87c8-fcde762a4585.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion"
+  ],
+  "url": "https://500.co/portfolio/easysize",
+  "api": "/companies/easysize.json"
+}

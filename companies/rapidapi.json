@@ -1,0 +1,19 @@
+{
+  "id": 4824,
+  "name": "Rapid Software Solution Ltd.",
+  "slug": "rapidapi",
+  "website": "rapidapi.com",
+  "description": "Developer of a software development platform intended to connect developers with public APIs. The company's platform tracks and manages all API connections using software tools and provides access to real-time data notifications, enabling developers to integrate seamlessly with internal systems.",
+  "one_liner": "Developer of a software development platform intended to connect developers with public APIs. The company's platform tracks and manages all API connections using software tools and provides access to real-time data notifications, enabling developers to integrate seamlessly with internal systems.",
+  "location": "Israel",
+  "industry": "",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b36c22b1-56e0-4dee-b1f8-069c96fb78c6.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://500.co/portfolio/rapidapi",
+  "api": "/companies/rapidapi.json"
+}

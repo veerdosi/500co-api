@@ -1,0 +1,21 @@
+{
+  "id": 4490,
+  "name": "Graviti Tech Inc.",
+  "slug": "graviti",
+  "website": "www.graviti.mx",
+  "description": "Developer of a financial platform intended to offer customers buy now and pay later services for home appliances. The company's platform provides families to have easy access to basic services by financing sustainable household appliances, enabling customers to improve their quality of life.",
+  "one_liner": "Developer of a financial platform intended to offer customers buy now and pay later services for home appliances. The company's platform provides families to have easy access to basic services by financing sustainable household appliances, enabling customers to improve their quality of life.",
+  "location": "Mexico",
+  "industry": "Credit & Lending",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7ce0cd11-3128-4942-845b-6bb4bab0de77.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Credit & Lending"
+  ],
+  "url": "https://500.co/portfolio/graviti",
+  "api": "/companies/graviti.json"
+}

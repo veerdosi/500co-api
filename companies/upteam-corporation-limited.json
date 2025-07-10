@@ -1,0 +1,21 @@
+{
+  "id": 5268,
+  "name": "Upteam Corporation Limited",
+  "slug": "upteam-corporation-limited",
+  "website": "www.upteamco.com",
+  "description": "Operator of an online curated platform intended to sell luxury vintage goods. The company's platform offers a collection of certified pre-owned, vintage and collectible merchandise including handbags, apparel, watches, spectacles, jewelry and accessories, of renowned brands, enabling customers to buy high-end luxury vintage goods at an affordable price.",
+  "one_liner": "Operator of an online curated platform intended to sell luxury vintage goods. The company's platform offers a collection of certified pre-owned, vintage and collectible merchandise including handbags, apparel, watches, spectacles, jewelry and accessories, of renowned brands, enabling customers to buy high-end luxury vintage goods at an affordable price.",
+  "location": "Hong Kong",
+  "industry": "Fashion",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f80764df-2570-4828-9e3b-a0ad206761d2.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion"
+  ],
+  "url": "https://500.co/portfolio/upteam-corporation-limited",
+  "api": "/companies/upteam-corporation-limited.json"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 8153,
+  "name": "JoySpace Technologies, Inc.",
+  "slug": "joyspace-ai",
+  "website": "www.joyspace.ai",
+  "description": "Create Engaging Short Clips.",
+  "one_liner": "Create Engaging Short Clips.",
+  "location": "United States",
+  "industry": "AI/Machine Learning, Content, SaaS",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/63490744-9e29-415c-b1d8-2ccf29a8183b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "Content",
+    "SaaS"
+  ],
+  "url": "https://500.co/portfolio/joyspace-ai",
+  "api": "/companies/joyspace-ai.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2913,
+  "name": "Fifth Corner, Inc.",
+  "slug": "fifth-corner-inc",
+  "website": "you-app.com",
+  "description": "Provider of a social wellness application designed to coach people for a happier and healthier life. The company provides a smartphone application that combines social media features and well-being, through a list of daily micro-actions including focus on food, mindfulness, taking a break and other small healthful activities that users complete by taking a picture and sharing it with their friends and followers enabling users maintain high levels of personal wellness.",
+  "one_liner": "Provider of a social wellness application designed to coach people for a happier and healthier life. The company provides a smartphone application that combines social media features and well-being, through a list of daily micro-actions including focus on food, mindfulness, taking a break and other small healthful activities that users complete by taking a picture and sharing it with their friends and followers enabling users maintain high levels of personal wellness.",
+  "location": "Finland",
+  "industry": "Wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a82cfb32-00c7-485e-a05f-d4c6f94c5a4a.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Wellness"
+  ],
+  "url": "https://500.co/portfolio/fifth-corner-inc",
+  "api": "/companies/fifth-corner-inc.json"
+}

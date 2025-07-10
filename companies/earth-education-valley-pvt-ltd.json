@@ -1,0 +1,21 @@
+{
+  "id": 3037,
+  "name": "Earth Education Valley Pvt Ltd.",
+  "slug": "earth-education-valley-pvt-ltd",
+  "website": "edukart.com",
+  "description": "Provider of online educational services. The company offers an online marketplace where users can choose and enroll from more than 2,000 courses in degrees, diplomas, certifications, entrance coaching and K-12 categories.",
+  "one_liner": "Provider of online educational services. The company offers an online marketplace where users can choose and enroll from more than 2,000 courses in degrees, diplomas, certifications, entrance coaching and K-12 categories.",
+  "location": "India",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/earth-education-valley-pvt-ltd",
+  "api": "/companies/earth-education-valley-pvt-ltd.json"
+}

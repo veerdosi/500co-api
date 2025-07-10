@@ -1,0 +1,21 @@
+{
+  "id": 4998,
+  "name": "Shots Studios, Inc.",
+  "slug": "shots-podcast-network",
+  "website": "shots.com",
+  "description": "Operator of a creator network intended to provide media management services to influencers and celebrities. The company creates original mobile-first content, primarily for YouTube, Instagram, TikTok and Snapchat, enabling creators to easily manage their content and its promotions.",
+  "one_liner": "Operator of a creator network intended to provide media management services to influencers and celebrities. The company creates original mobile-first content, primarily for YouTube, Instagram, TikTok and Snapchat, enabling creators to easily manage their content and its promotions.",
+  "location": "United States",
+  "industry": "Social Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5f8da7f9-bfc2-4e87-baae-496f58864144.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Impact"
+  ],
+  "url": "https://500.co/portfolio/shots-podcast-network",
+  "api": "/companies/shots-podcast-network.json"
+}

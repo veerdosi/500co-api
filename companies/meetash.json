@@ -1,0 +1,21 @@
+{
+  "id": 4874,
+  "name": "Ash Wellness, Inc.",
+  "slug": "meetash",
+  "website": "www.poweredbyash.com",
+  "description": "Operator of a software and logistics remote diagnostics company intended to offer at-home self-collected diagnostic testing services. The company integrates with clients so that they can offer at-home testing kits on behalf of patients to collect samples at home and send them back to partner labs, that are reviewed by licensed clinicians, thereby enabling customers to access remote diagnostics with secure infrastructure or preferred tech stack.",
+  "one_liner": "Operator of a software and logistics remote diagnostics company intended to offer at-home self-collected diagnostic testing services. The company integrates with clients so that they can offer at-home testing kits on behalf of patients to collect samples at home and send them back to partner labs, that are reviewed by licensed clinicians, thereby enabling customers to access remote diagnostics with secure infrastructure or preferred tech stack.",
+  "location": "United States",
+  "industry": "Wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/dac2c35a-14fe-4503-8257-7d267dcfc8b9.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Wellness"
+  ],
+  "url": "https://500.co/portfolio/meetash",
+  "api": "/companies/meetash.json"
+}

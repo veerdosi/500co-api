@@ -1,0 +1,21 @@
+{
+  "id": 2964,
+  "name": "Sumutasu Co., Ltd.",
+  "slug": "sumutasu",
+  "website": "sumutasu.co.jp",
+  "description": "Operator of an AI-based real estate marketplace intended to help homeowners to sell their properties. The company's marketplace offers a range of real estate services including the direct purchase and sale of real estate assets, enabling clients in the real estate industry to complete real estate deals in a convenient and hassle-free manner.",
+  "one_liner": "Operator of an AI-based real estate marketplace intended to help homeowners to sell their properties. The company's marketplace offers a range of real estate services including the direct purchase and sale of real estate assets, enabling clients in the real estate industry to complete real estate deals in a convenient and hassle-free manner.",
+  "location": "Japan",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d8841595-3916-4502-9e41-b630cf52c67b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/sumutasu",
+  "api": "/companies/sumutasu.json"
+}

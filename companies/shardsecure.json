@@ -1,0 +1,21 @@
+{
+  "id": 5326,
+  "name": "ShardSecure, Inc.",
+  "slug": "shardsecure",
+  "website": "shardsecure.com",
+  "description": "Developer of a data protection technology designed to securely store and share sensitive data in the cloud. The company's technology provides comprehensive data protection by limiting access, understandability, and value of sensitive cloud data, without the cost structure and operational issues inherent in encryption, enabling enterprises and government agencies to have simplified data security alternatives.",
+  "one_liner": "Developer of a data protection technology designed to securely store and share sensitive data in the cloud. The company's technology provides comprehensive data protection by limiting access, understandability, and value of sensitive cloud data, without the cost structure and operational issues inherent in encryption, enabling enterprises and government agencies to have simplified data security alternatives.",
+  "location": "United States",
+  "industry": "Cybersecurity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b52dc90a-e2cb-4b96-90f4-28141302885e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Cybersecurity"
+  ],
+  "url": "https://500.co/portfolio/shardsecure",
+  "api": "/companies/shardsecure.json"
+}

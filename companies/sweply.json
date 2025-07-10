@@ -1,0 +1,21 @@
+{
+  "id": 8109,
+  "name": "Sweply Holding Limited",
+  "slug": "sweply",
+  "website": "www.sweply.com",
+  "description": "Sweply makes it simple to create, manage and analyze digital marketing campaigns on multiple platforms from one place.",
+  "one_liner": "Sweply makes it simple to create, manage and analyze digital marketing campaigns on multiple platforms from one place.",
+  "location": "Saudi Arabia",
+  "industry": "AdTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/ab979e03-56ac-4931-85b7-74a070936416.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AdTech"
+  ],
+  "url": "https://500.co/portfolio/sweply",
+  "api": "/companies/sweply.json"
+}

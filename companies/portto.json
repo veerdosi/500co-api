@@ -1,0 +1,22 @@
+{
+  "id": 5385,
+  "name": "portto Co., Ltd.",
+  "slug": "portto",
+  "website": "portto.com",
+  "description": "Developer of dApp browser Blocto. The company aims to bring block chain usage to the masses through its seamless dApp browser Blocto, enabling users to purchase and utilize crypto assets.",
+  "one_liner": "Developer of dApp browser Blocto. The company aims to bring block chain usage to the masses through its seamless dApp browser Blocto, enabling users to purchase and utilize crypto assets.",
+  "location": "Singapore",
+  "industry": "Crypto, Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/db39fe0f-64ef-4795-a4ea-2cfe4703179a.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Crypto",
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/portto",
+  "api": "/companies/portto.json"
+}

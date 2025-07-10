@@ -1,0 +1,24 @@
+{
+  "name": "500co-api",
+  "version": "1.0.0",
+  "main": "dist/fetcher.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/fetcher.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^24.0.13",
+    "@types/node-fetch": "^2.6.12",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@types/cheerio": "^0.22.35",
+    "cheerio": "^1.1.0",
+    "node-fetch": "^2.7.0",
+    "puppeteer": "^24.12.1"
+  }
+}

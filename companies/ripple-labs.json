@@ -1,0 +1,19 @@
+{
+  "id": 8578,
+  "name": "Ripple Labs Inc.",
+  "slug": "ripple-labs",
+  "website": "www.ripple.com",
+  "description": "Developer of a blockchain platform designed to build breakthrough crypto technology for a world without economic borders. The company's platform offers an open-source payment system using a math-based virtual currency that helps in free payments to merchants, consumers, and developers, enabling global financial institutions, businesses, governments, and developers to move, manage, and tokenize value and customers to pay in any currency with no chargebacks and instant global payment options.",
+  "one_liner": "Developer of a blockchain platform designed to build breakthrough crypto technology for a world without economic borders. The company's platform offers an open-source payment system using a math-based virtual currency that helps in free payments to merchants, consumers, and developers, enabling global financial institutions, businesses, governments, and developers to move, manage, and tokenize value and customers to pay in any currency with no chargebacks and instant global payment options.",
+  "location": "UNITED STATES",
+  "industry": "",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/13b0eac0-221d-48ba-8631-eaa9280e7d1f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://500.co/portfolio/ripple-labs",
+  "api": "/companies/ripple-labs.json"
+}

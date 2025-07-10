@@ -1,0 +1,21 @@
+{
+  "id": 4624,
+  "name": "Ozzy Media Inc.",
+  "slug": "firefly",
+  "website": "www.fireflyon.com",
+  "description": "Operator of a targeted advertisement platform created to deliver outdoor marketing content. The company's platform installs proprietary displays atop ride-hailing vehicles and offers an out-of-home content marketing network that features outdoor advertising metrics and flexible targeting, enabling clients to deliver successful marketing and advertising strategies and measure where and when their campaign will have a greater impact throughout the city.",
+  "one_liner": "Operator of a targeted advertisement platform created to deliver outdoor marketing content. The company's platform installs proprietary displays atop ride-hailing vehicles and offers an out-of-home content marketing network that features outdoor advertising metrics and flexible targeting, enabling clients to deliver successful marketing and advertising strategies and measure where and when their campaign will have a greater impact throughout the city.",
+  "location": "United States",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/3281c410-849d-4908-93fd-418b05e3ee50.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/firefly",
+  "api": "/companies/firefly.json"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 4145,
+  "name": "Salido Inc.",
+  "slug": "salido-inc",
+  "website": "salido.com",
+  "description": "Developer of a restaurant operating system platform designed to manage customer data easily. The company's platform is a cloud-based application that offers a point of sale, CRM, advanced reports, labor management and kitchen supply management, enabling restaurant owners to manage and keep track of their data accurately.",
+  "one_liner": "Developer of a restaurant operating system platform designed to manage customer data easily. The company's platform is a cloud-based application that offers a point of sale, CRM, advanced reports, labor management and kitchen supply management, enabling restaurant owners to manage and keep track of their data accurately.",
+  "location": "United States",
+  "industry": "Data & Analytics, Infrastructure",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a33858b2-346a-45e2-bec3-e406b8d74dad.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics",
+    "Infrastructure"
+  ],
+  "url": "https://500.co/portfolio/salido-inc",
+  "api": "/companies/salido-inc.json"
+}

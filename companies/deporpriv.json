@@ -1,0 +1,21 @@
+{
+  "id": 3167,
+  "name": "Correo Solucion S.A.P.I. de C.V.",
+  "slug": "deporpriv",
+  "website": "www.deporprive.mx",
+  "description": "Operator of a sports e-commerce platform intended for sports products. The company's platform features sports products like running shoes, tennis rackets, swimsuits, bicycles, and travel hammocks among others from renowned brands at a discounted price, enabling customers to buy sports goods and accessories online at accessible prices in a hassle-free manner.",
+  "one_liner": "Operator of a sports e-commerce platform intended for sports products. The company's platform features sports products like running shoes, tennis rackets, swimsuits, bicycles, and travel hammocks among others from renowned brands at a discounted price, enabling customers to buy sports goods and accessories online at accessible prices in a hassle-free manner.",
+  "location": "Mexico",
+  "industry": "Ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/5fcb0d2b-8430-4b9c-882a-487174417ba9.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Ecommerce"
+  ],
+  "url": "https://500.co/portfolio/deporpriv",
+  "api": "/companies/deporpriv.json"
+}

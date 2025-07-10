@@ -1,0 +1,21 @@
+{
+  "id": 4892,
+  "name": "Open Presence, Inc.",
+  "slug": "open-presence",
+  "website": "www.presence.io",
+  "description": "Developer of student engagement and learning software designed to assist in the management and assessment process. The company's software helps universities to improve retention rates by tracking and learning about their students' involvement patterns and behaviors and makes it easy to visualize and assess efforts through data, streamlines workflows for departments and student organizations, enabling universities to map and create learning outcomes to opportunities for student success.",
+  "one_liner": "Developer of student engagement and learning software designed to assist in the management and assessment process. The company's software helps universities to improve retention rates by tracking and learning about their students' involvement patterns and behaviors and makes it easy to visualize and assess efforts through data, streamlines workflows for departments and student organizations, enabling universities to map and create learning outcomes to opportunities for student success.",
+  "location": "United States",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/9a7223bd-5a8f-41a1-9a33-0f14ee60a641.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/open-presence",
+  "api": "/companies/open-presence.json"
+}

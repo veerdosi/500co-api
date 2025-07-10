@@ -1,0 +1,21 @@
+{
+  "id": 3605,
+  "name": "Trusted Insight, Inc.",
+  "slug": "trusted-insight",
+  "website": "www.thetrustedinsight.com",
+  "description": "Operator of an online investment network designed to get insights into alternative assets. The company's network of investment professionals narrows the gap between the digital and real world with relevant alternative asset news and peer insights, enabling readers to keep up with the latest investment trends efficiently.",
+  "one_liner": "Operator of an online investment network designed to get insights into alternative assets. The company's network of investment professionals narrows the gap between the digital and real world with relevant alternative asset news and peer insights, enabling readers to keep up with the latest investment trends efficiently.",
+  "location": "United States",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/987ecdfd-3188-4371-b2c1-f60f4f6a7c46.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/trusted-insight",
+  "api": "/companies/trusted-insight.json"
+}

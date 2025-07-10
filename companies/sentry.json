@@ -1,0 +1,21 @@
+{
+  "id": 3632,
+  "name": "Functional Software, Inc.",
+  "slug": "sentry",
+  "website": "sentry.io",
+  "description": "Developer of an application monitoring system designed to reproduce and fix crashes and resolve issues. The company's tool shows every crash in the stack as it happens, with the details needed to prioritize and identify it, as well as offers insight into deployments and information to reproduce and fix crashes, enabling business organizations to see which errors are doing the most harm to their business and helps them to understand how issues affect their bottom line.",
+  "one_liner": "Developer of an application monitoring system designed to reproduce and fix crashes and resolve issues. The company's tool shows every crash in the stack as it happens, with the details needed to prioritize and identify it, as well as offers insight into deployments and information to reproduce and fix crashes, enabling business organizations to see which errors are doing the most harm to their business and helps them to understand how issues affect their bottom line.",
+  "location": "United States",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/c250acd8-ce87-455e-853d-31d1f1453303.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/sentry",
+  "api": "/companies/sentry.json"
+}

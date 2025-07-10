@@ -1,0 +1,21 @@
+{
+  "id": 4121,
+  "name": "Beeline Bikes, Inc.",
+  "slug": "beeline-bikes-inc",
+  "website": "beelinebikes.com",
+  "description": "Provider of an online mobile bike shop intended to reinvent how people interact with bike shops. The company's bike shop includes a technology platform, support infrastructure and supply chain, enabling customers to schedule a visit at the time and location of their choosing.",
+  "one_liner": "Provider of an online mobile bike shop intended to reinvent how people interact with bike shops. The company's bike shop includes a technology platform, support infrastructure and supply chain, enabling customers to schedule a visit at the time and location of their choosing.",
+  "location": "United States",
+  "industry": "Mobility",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/43b372cc-3d1d-47bf-a94e-5f410ea04856.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Mobility"
+  ],
+  "url": "https://500.co/portfolio/beeline-bikes-inc",
+  "api": "/companies/beeline-bikes-inc.json"
+}

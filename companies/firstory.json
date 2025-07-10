@@ -1,0 +1,22 @@
+{
+  "id": 8172,
+  "name": "Firstory Ltd.",
+  "slug": "firstory",
+  "website": "firstory.me",
+  "description": "All in one podcast platform with monetization solutions",
+  "one_liner": "All in one podcast platform with monetization solutions",
+  "location": "Taiwan",
+  "industry": "AI/Machine Learning, Entertainment / Media",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/c88d6a78-c639-4c15-81e8-3cdd64e562d4.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "Entertainment / Media"
+  ],
+  "url": "https://500.co/portfolio/firstory",
+  "api": "/companies/firstory.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5850,
+  "name": "STORI AI, Inc.",
+  "slug": "stori",
+  "website": "storiai.com",
+  "description": "Developer of an artificial intelligence-based marketing content automation software designed for streamlining brand building & content creation. The company's software forms an isolated brand identity tailored to goals, defining archetype, tone, tagline, and colors for a strong presence, enabling clients to captivate the audience with visually stunning and emotionally engaging content.",
+  "one_liner": "Developer of an artificial intelligence-based marketing content automation software designed for streamlining brand building & content creation. The company's software forms an isolated brand identity tailored to goals, defining archetype, tone, tagline, and colors for a strong presence, enabling clients to captivate the audience with visually stunning and emotionally engaging content.",
+  "location": "Georgia",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/1286c62e-231c-44c9-93fd-d580e89b98ac.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/stori",
+  "api": "/companies/stori.json"
+}

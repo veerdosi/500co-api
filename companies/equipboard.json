@@ -1,0 +1,21 @@
+{
+  "id": 5055,
+  "name": "Equipboard Inc.",
+  "slug": "equipboard",
+  "website": "equipboard.com",
+  "description": "Operator of a content-driven listing platform designed to find, share and shop musical gear and instruments. The company's platform offers a crowdsourced database of artists and the gear they use for users to select celebrity-endorsed gears and buy them through e-commerce platforms, enabling customers to acquire desired equipment at affordable rates.",
+  "one_liner": "Operator of a content-driven listing platform designed to find, share and shop musical gear and instruments. The company's platform offers a crowdsourced database of artists and the gear they use for users to select celebrity-endorsed gears and buy them through e-commerce platforms, enabling customers to acquire desired equipment at affordable rates.",
+  "location": "United States",
+  "industry": "Ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/1d602723-1f53-4c50-b988-23d8ea955be2.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Ecommerce"
+  ],
+  "url": "https://500.co/portfolio/equipboard",
+  "api": "/companies/equipboard.json"
+}

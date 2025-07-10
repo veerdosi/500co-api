@@ -1,0 +1,23 @@
+{
+  "id": 5199,
+  "name": "Virtualtech Frontier Sdn. Bhd.",
+  "slug": "virtualtech-frontier",
+  "website": "virtualtechfrontier.com",
+  "description": "Developer and provider of virtual event solutions created to serve as a catalyst to promote collaboration and engagement by bridging digital technologies into real-world applications. The company offers virtual solutions for any type of event including virtual exhibitions, classrooms, and conferences, live-stream events, along with some added features such as allowing visitors to take photos and edit them for social media, online payment gateway integration, enabling users to sell and carry out transactions directly from their virtual events among others.",
+  "one_liner": "Developer and provider of virtual event solutions created to serve as a catalyst to promote collaboration and engagement by bridging digital technologies into real-world applications. The company offers virtual solutions for any type of event including virtual exhibitions, classrooms, and conferences, live-stream events, along with some added features such as allowing visitors to take photos and edit them for social media, online payment gateway integration, enabling users to sell and carry out transactions directly from their virtual events among others.",
+  "location": "Malaysia",
+  "industry": "SaaS, Web 3, Augmented Reality / Virtual Reality",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/085d8184-a1c1-4b84-b9fc-f0804629dc8c.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "SaaS",
+    "Web 3",
+    "Augmented Reality / Virtual Reality"
+  ],
+  "url": "https://500.co/portfolio/virtualtech-frontier",
+  "api": "/companies/virtualtech-frontier.json"
+}

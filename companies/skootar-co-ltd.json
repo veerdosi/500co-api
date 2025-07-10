@@ -1,0 +1,21 @@
+{
+  "id": 3371,
+  "name": "Skootar Co Ltd",
+  "slug": "skootar-co-ltd",
+  "website": "skootar.com",
+  "description": "Developer of an online courier service booking platform designed to deliver goods and parcels in a convenient and reliable way. The company's online courier service booking platform matches the customer's request for document, parcel and food delivery with on-demand motorbike messenger and delivers the packages in a single trip, enabling customers to design their document workflow routes and get their things delivered quickly.",
+  "one_liner": "Developer of an online courier service booking platform designed to deliver goods and parcels in a convenient and reliable way. The company's online courier service booking platform matches the customer's request for document, parcel and food delivery with on-demand motorbike messenger and delivers the packages in a single trip, enabling customers to design their document workflow routes and get their things delivered quickly.",
+  "location": "Thailand",
+  "industry": "Supply Chain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/6de6d23a-1841-48df-a563-a1ca57a3ec5f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Supply Chain"
+  ],
+  "url": "https://500.co/portfolio/skootar-co-ltd",
+  "api": "/companies/skootar-co-ltd.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4188,
+  "name": "Textaurant Corp.",
+  "slug": "textaurant-corp",
+  "website": "textaurant.com",
+  "description": "Provider of mobile paging services. The company offers an online wait list and customer engagement system for restaurant businesses.",
+  "one_liner": "Provider of mobile paging services. The company offers an online wait list and customer engagement system for restaurant businesses.",
+  "location": "United States",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/6e58dbbe-c61b-45d2-a03d-bbf8ebc0fbba.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/textaurant-corp",
+  "api": "/companies/textaurant-corp.json"
+}

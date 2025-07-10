@@ -1,0 +1,23 @@
+{
+  "id": 4876,
+  "name": "Apothecary, Inc.",
+  "slug": "apothecary",
+  "website": "www.getcakeshop.co",
+  "description": "Operator of a skincare marketplace intended to empower the skincare journey. The company's marketplace provides recommendations, trail sampling, and connects for advice from skin influencers, aestheticians, and dermatologists, enabling customers to have a constant guide for their skincare regime.",
+  "one_liner": "Operator of a skincare marketplace intended to empower the skincare journey. The company's marketplace provides recommendations, trail sampling, and connects for advice from skin influencers, aestheticians, and dermatologists, enabling customers to have a constant guide for their skincare regime.",
+  "location": "Singapore",
+  "industry": "AdTech, Beauty, Commerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5cf95a4f-598c-4a81-8184-9be9ac0e6d22.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AdTech",
+    "Beauty",
+    "Commerce"
+  ],
+  "url": "https://500.co/portfolio/apothecary",
+  "api": "/companies/apothecary.json"
+}

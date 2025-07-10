@@ -1,0 +1,23 @@
+{
+  "id": 5462,
+  "name": "Ajjerni",
+  "slug": "ajjerni",
+  "website": "ajjerni.com",
+  "description": "Operator of a peer-to-peer rental marketplace intended to change traditional consumption behavior and revolutionize how people gain access to items and services. The company offers an online marketplace that allows users to rent items and services to and from other users in the community, enabling users to find the item or service that matches their criteria borrow items on lender contact, and agree on the rental terms.",
+  "one_liner": "Operator of a peer-to-peer rental marketplace intended to change traditional consumption behavior and revolutionize how people gain access to items and services. The company offers an online marketplace that allows users to rent items and services to and from other users in the community, enabling users to find the item or service that matches their criteria borrow items on lender contact, and agree on the rental terms.",
+  "location": "Lebanon",
+  "industry": "Ecommerce, Fashion, Marketplace",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2fe61daa-2d4a-4478-90f8-5f56fcd7bbd6.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Ecommerce",
+    "Fashion",
+    "Marketplace"
+  ],
+  "url": "https://500.co/portfolio/ajjerni",
+  "api": "/companies/ajjerni.json"
+}

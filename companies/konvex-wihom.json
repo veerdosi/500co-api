@@ -1,0 +1,25 @@
+{
+  "id": 5760,
+  "name": "Wihom Software LLC",
+  "slug": "konvex-wihom",
+  "website": "wihom.com.co",
+  "description": "Financial operations automation platform for reconciliation, commission calculations, using no-code set up.",
+  "one_liner": "Financial operations automation platform for reconciliation, commission calculations, using no-code set up.",
+  "location": "Colombia",
+  "industry": "AI/Machine Learning, Accounting, Ecommerce, FinTech, SaaS",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/8b3367e0-db76-4e59-8015-66c767f0b611.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "Accounting",
+    "Ecommerce",
+    "FinTech",
+    "SaaS"
+  ],
+  "url": "https://500.co/portfolio/konvex-wihom",
+  "api": "/companies/konvex-wihom.json"
+}

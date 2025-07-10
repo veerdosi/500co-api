@@ -1,0 +1,21 @@
+{
+  "id": 4590,
+  "name": "Avatour Technologies Inc.",
+  "slug": "avatour-imeve",
+  "website": "avatour.co",
+  "description": "Developer of remote collaboration platform designed to conduct remote inspections, training, and other site-specific meetings. The company's software allows users to share a real place where they can see the entire environment and interact with each other, enabling remote users to effectively participate in site meetings and save time and money.",
+  "one_liner": "Developer of remote collaboration platform designed to conduct remote inspections, training, and other site-specific meetings. The company's software allows users to share a real place where they can see the entire environment and interact with each other, enabling remote users to effectively participate in site meetings and save time and money.",
+  "location": "United States",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a09914d6-906d-477f-8815-4edbe0d9b930.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/avatour-imeve",
+  "api": "/companies/avatour-imeve.json"
+}

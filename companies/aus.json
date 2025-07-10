@@ -1,0 +1,21 @@
+{
+  "id": 5193,
+  "name": "Aarav Unmanned Systems Pvt. Ltd",
+  "slug": "aus",
+  "website": "aus.co.in",
+  "description": "Developer of a unique category of scalable end-to-end drone solutions designed for providing large-scale enterprise solutions for a variety of industries and infrastructure development. The company's drone solutions enables you to map about 150 hectares in a single flight with a secure proprietary 3D web-GIS platform developed to solve industry-specific challenges by processing over various images per instance with visual multi-stage quality checks, parallel processing and making use of optimized toolkits, automated workflows to give you 2D and 3D analysis and multiple types of data visualizations in an interactive dashboard using analytical outputs generated and help to create insightful analytics, enabling clients to make well-informed decisions in mining, urban planning, infrastructure, and agriculture.",
+  "one_liner": "Developer of a unique category of scalable end-to-end drone solutions designed for providing large-scale enterprise solutions for a variety of industries and infrastructure development. The company's drone solutions enables you to map about 150 hectares in a single flight with a secure proprietary 3D web-GIS platform developed to solve industry-specific challenges by processing over various images per instance with visual multi-stage quality checks, parallel processing and making use of optimized toolkits, automated workflows to give you 2D and 3D analysis and multiple types of data visualizations in an interactive dashboard using analytical outputs generated and help to create insightful analytics, enabling clients to make well-informed decisions in mining, urban planning, infrastructure, and agriculture.",
+  "location": "India",
+  "industry": "Aviation",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a0594d73-7893-41da-ad55-4e979bed2dfe.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Aviation"
+  ],
+  "url": "https://500.co/portfolio/aus",
+  "api": "/companies/aus.json"
+}

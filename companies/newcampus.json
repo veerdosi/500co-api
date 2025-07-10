@@ -1,0 +1,21 @@
+{
+  "id": 5181,
+  "name": "NewCampus Pte. Ltd.",
+  "slug": "newcampus",
+  "website": "www.newcampus.com",
+  "description": "Developer of a live learning platform designed for business education and management training. The company's portal connects talented, well-trained professionals with short-term projects as per their preferences to gain experiences, collaborate with people outside of their network and upgrade their skills, enabling users to get informed about new career and lifestyle opportunities.",
+  "one_liner": "Developer of a live learning platform designed for business education and management training. The company's portal connects talented, well-trained professionals with short-term projects as per their preferences to gain experiences, collaborate with people outside of their network and upgrade their skills, enabling users to get informed about new career and lifestyle opportunities.",
+  "location": "Singapore",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/551f4b10-1d8d-461d-94b2-1703d80f3f7d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/newcampus",
+  "api": "/companies/newcampus.json"
+}

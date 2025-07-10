@@ -1,0 +1,21 @@
+{
+  "id": 4297,
+  "name": "Wove Technologies, Inc.",
+  "slug": "wove-technologies-inc",
+  "website": "wove.com",
+  "description": "Provider of a mobile data marketplace intended to make it easy to access and act on mobile data. The company's mobile data marketplace processes over 250 billion data points on over 500 million mobile devices each day as well as develops a digital infrastructure to move offline and online data into the mobile environment, enabling mobile advertising networks, publishers and marketers to access to an unprecedented amount of person-level data.",
+  "one_liner": "Provider of a mobile data marketplace intended to make it easy to access and act on mobile data. The company's mobile data marketplace processes over 250 billion data points on over 500 million mobile devices each day as well as develops a digital infrastructure to move offline and online data into the mobile environment, enabling mobile advertising networks, publishers and marketers to access to an unprecedented amount of person-level data.",
+  "location": "United States",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/c016c081-438c-43d3-bb4c-92bf85d265e9.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/wove-technologies-inc",
+  "api": "/companies/wove-technologies-inc.json"
+}

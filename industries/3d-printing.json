@@ -1,0 +1,46 @@
+[
+  {
+    "id": 3296,
+    "name": "SiamSquared Technologies (Thailand) Co., Ltd.",
+    "slug": "stock-radars",
+    "website": "stockradars.co",
+    "description": "Developer of a mobile-based stock analysis application designed to be used for mitigating portfolio risk. The company's application utilizes total stock data before matching and adding to radars, enabling traders to avail complex statistics in a simplistic, easy-to-use design and become more successful.",
+    "one_liner": "Developer of a mobile-based stock analysis application designed to be used for mitigating portfolio risk. The company's application utilizes total stock data before matching and adding to radars, enabling traders to avail complex statistics in a simplistic, easy-to-use design and become more successful.",
+    "location": "Thailand",
+    "industry": "3D Printing",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/49e65fd8-27bd-48dd-94db-d35422b9ac60.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "3D Printing"
+    ],
+    "url": "https://500.co/portfolio/stock-radars",
+    "api": "/companies/stock-radars.json"
+  },
+  {
+    "id": 5459,
+    "name": "DMKTZ Inc.",
+    "slug": "tg3d-studio",
+    "website": "www.tg3ds.com",
+    "description": "Provider and developer of digitization designed for fashion industry. The company provides body and fabric digitization using 3D technology, enabling clients with design, manufacturing and innovative online shopping experience.",
+    "one_liner": "Provider and developer of digitization designed for fashion industry. The company provides body and fabric digitization using 3D technology, enabling clients with design, manufacturing and innovative online shopping experience.",
+    "location": "Taiwan",
+    "industry": "3D Printing, App, Content",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ed6586ab-6d3c-4e8c-a48f-a2c4a8abc391.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "3D Printing",
+      "App",
+      "Content"
+    ],
+    "url": "https://500.co/portfolio/tg3d-studio",
+    "api": "/companies/tg3d-studio.json"
+  }
+]

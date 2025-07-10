@@ -1,0 +1,22 @@
+{
+  "id": 8310,
+  "name": "Plantner Inc.",
+  "slug": "plantner",
+  "website": "www.plantner.kr",
+  "description": "Producer of organic fertilizers using technology that extracts plant growth hormones and other beneficial compounds such as alginic acids, amino acids, and phytic acids from ocean byproducts like algae. By harnessing these natural substances from otherwise discarded materials, the company not only maximizes the value of these byproducts but also contributes to the production of environmentally friendly fertilizers.",
+  "one_liner": "Producer of organic fertilizers using technology that extracts plant growth hormones and other beneficial compounds such as alginic acids, amino acids, and phytic acids from ocean byproducts like algae. By harnessing these natural substances from otherwise discarded materials, the company not only maximizes the value of these byproducts but also contributes to the production of environmentally friendly fertilizers.",
+  "location": "South Korea",
+  "industry": "AgTech, BioTech & Life Sciences",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/0f05b9db-6383-4dce-8d8c-d385a773cfce.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AgTech",
+    "BioTech & Life Sciences"
+  ],
+  "url": "https://500.co/portfolio/plantner",
+  "api": "/companies/plantner.json"
+}

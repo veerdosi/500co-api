@@ -1,0 +1,21 @@
+{
+  "id": 5024,
+  "name": "iCart Group Pte. Ltd.",
+  "slug": "happyfresh",
+  "website": "www.happyfresh.com",
+  "description": "Operator of an online grocery service designed for an easy grocery shopping experience. The company helps to shop all products from local grocery stores around the city to deliver a simplified life, enabling customers to purchase groceries without having to worry about their freshness.",
+  "one_liner": "Operator of an online grocery service designed for an easy grocery shopping experience. The company helps to shop all products from local grocery stores around the city to deliver a simplified life, enabling customers to purchase groceries without having to worry about their freshness.",
+  "location": "Malaysia",
+  "industry": "Mobility",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/dd49127e-911f-4eb7-a7d2-797508877338.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Mobility"
+  ],
+  "url": "https://500.co/portfolio/happyfresh",
+  "api": "/companies/happyfresh.json"
+}

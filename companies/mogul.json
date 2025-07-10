@@ -1,0 +1,21 @@
+{
+  "id": 4858,
+  "name": "Mogul Inc.",
+  "slug": "mogul",
+  "website": "onmogul.com",
+  "description": "Operator of artificial intelligence-enabled business-to-business candidate sourcing platform designed for recruiters to comprehensively and inclusively source candidates. The company's diverse recruitment platform and resources attract diverse talent from entry-level to executive and board-level worldwide through its software and executive recruitment services, enabling clients to achieve their goals and cultivate meaningful success.",
+  "one_liner": "Operator of artificial intelligence-enabled business-to-business candidate sourcing platform designed for recruiters to comprehensively and inclusively source candidates. The company's diverse recruitment platform and resources attract diverse talent from entry-level to executive and board-level worldwide through its software and executive recruitment services, enabling clients to achieve their goals and cultivate meaningful success.",
+  "location": "United States",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b9546781-e0b3-466f-8158-841ba22cc778.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/mogul",
+  "api": "/companies/mogul.json"
+}

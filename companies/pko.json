@@ -1,0 +1,21 @@
+{
+  "id": 5811,
+  "name": "PKO Inc.",
+  "slug": "pko",
+  "website": "www.pko.xyz",
+  "description": "collective of Founders, Creators, Execs, Artists, Angels & Investors at the intersection of Tech & Entertainment",
+  "one_liner": "collective of Founders, Creators, Execs, Artists, Angels & Investors at the intersection of Tech & Entertainment",
+  "location": "United States",
+  "industry": "Crypto",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Crypto"
+  ],
+  "url": "https://500.co/portfolio/pko",
+  "api": "/companies/pko.json"
+}

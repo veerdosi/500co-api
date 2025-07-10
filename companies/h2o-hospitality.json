@@ -1,0 +1,22 @@
+{
+  "id": 3382,
+  "name": "One Life One Technology Inc",
+  "slug": "h2o-hospitality",
+  "website": "h2ohospitality.io",
+  "description": "Developer of digital transformation solutions for the hospitality industry revolutionizing hospitality facilities’ operational flow and value chain. H2O enables smart mobile check-in & check-out, 100% automatic reservation, and optimizes the funnel and processing of valuable data to increase direct sales volume.",
+  "one_liner": "Developer of digital transformation solutions for the hospitality industry revolutionizing hospitality facilities’ operational flow and value chain. H2O enables smart mobile check-in & check-out, 100% automatic reservation, and optimizes the funnel and processing of valuable data to increase direct sales volume.",
+  "location": "South Korea",
+  "industry": "CRM, Hospitality",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/31f8061a-9574-4de7-b4e5-7ba384059155.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "CRM",
+    "Hospitality"
+  ],
+  "url": "https://500.co/portfolio/h2o-hospitality",
+  "api": "/companies/h2o-hospitality.json"
+}

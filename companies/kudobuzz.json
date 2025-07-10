@@ -1,0 +1,21 @@
+{
+  "id": 4919,
+  "name": "Kudobuzz Inc.",
+  "slug": "kudobuzz",
+  "website": "kudobuzz.com",
+  "description": "Operator of a digital marketing agency intended to help brands connect with large audiences. The company's services include increasing organic traffic by optimizing the site, helping to increase brand awareness, improving search engine optimization and building high-quality backlinks, enabling brand owners to deliver inbound traffic, increase search visibility, and reach out to customers.",
+  "one_liner": "Operator of a digital marketing agency intended to help brands connect with large audiences. The company's services include increasing organic traffic by optimizing the site, helping to increase brand awareness, improving search engine optimization and building high-quality backlinks, enabling brand owners to deliver inbound traffic, increase search visibility, and reach out to customers.",
+  "location": "United States",
+  "industry": "Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/daf9a738-0518-4c64-8e28-201f9e7143fe.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/kudobuzz",
+  "api": "/companies/kudobuzz.json"
+}

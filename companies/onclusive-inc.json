@@ -1,0 +1,21 @@
+{
+  "id": 3785,
+  "name": "Onclusive, Inc.",
+  "slug": "onclusive-inc",
+  "website": "onclusive.com",
+  "description": "Provider of analytics tools intended to offer analytics, insights and measurement services for the evolving Public Relations (PR) industry. The company's platform helps businesses showcase the impact of their PR efforts through a streamlined public relations measurement software, enabling companies to understand the impact of PR on business objectives and increase overall PR performance through applying big data.",
+  "one_liner": "Provider of analytics tools intended to offer analytics, insights and measurement services for the evolving Public Relations (PR) industry. The company's platform helps businesses showcase the impact of their PR efforts through a streamlined public relations measurement software, enabling companies to understand the impact of PR on business objectives and increase overall PR performance through applying big data.",
+  "location": "United States",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2370661b-436f-487c-a043-8ce7c486f9ad.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/onclusive-inc",
+  "api": "/companies/onclusive-inc.json"
+}

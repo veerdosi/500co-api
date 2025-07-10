@@ -1,0 +1,162 @@
+[
+  {
+    "id": 5426,
+    "name": "SPORTS TECH LATAM LLC",
+    "slug": "alquila-tu-cancha",
+    "website": "alquilatucancha.com",
+    "description": "Developer of sports platform intended for reserving the court online instantly. The company's platform specializes in providing a network to choose a court and book spaces for soccer, padel, tennis, and more sports, providing users with the option of celebrating birthdays as well by renting the court which is available in their city and in real-time.",
+    "one_liner": "Developer of sports platform intended for reserving the court online instantly. The company's platform specializes in providing a network to choose a court and book spaces for soccer, padel, tennis, and more sports, providing users with the option of celebrating birthdays as well by renting the court which is available in their city and in real-time.",
+    "location": "Argentina",
+    "industry": "Direct to Consumer, Remote, Sports",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5a452f11-f6c8-4843-ad6f-dc749e878b20.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Direct to Consumer",
+      "Remote",
+      "Sports"
+    ],
+    "url": "https://500.co/portfolio/alquila-tu-cancha",
+    "api": "/companies/alquila-tu-cancha.json"
+  },
+  {
+    "id": 4844,
+    "name": "BoxGreen Food For Good Inc.",
+    "slug": "boxgreen",
+    "website": "www.boxgreen.co",
+    "description": "Provider of an online snack delivery service intended to deliver nutritious snacks to the doorstep. The company's service includes healthy snacks with wholesome ingredients that are natural and free from artificial flavoring and coloring every month, enabling consumers to consume them without affecting their health and stay fit.",
+    "one_liner": "Provider of an online snack delivery service intended to deliver nutritious snacks to the doorstep. The company's service includes healthy snacks with wholesome ingredients that are natural and free from artificial flavoring and coloring every month, enabling consumers to consume them without affecting their health and stay fit.",
+    "location": "Singapore",
+    "industry": "Direct to Consumer, Food, Consumer",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e14ed61c-6d30-4924-ba97-3cfabf6325d9.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Direct to Consumer",
+      "Food",
+      "Consumer"
+    ],
+    "url": "https://500.co/portfolio/boxgreen",
+    "api": "/companies/boxgreen.json"
+  },
+  {
+    "id": 3802,
+    "name": "Cleanly Inc.",
+    "slug": "cleanly",
+    "website": "cleanly.com",
+    "description": "Provider of an online mobile application platform designed to offer on-demand laundry and dry cleaning services. The company's platform includes online booking and scheduling, enabling users to get doorstep delivery of their clean clothes easily.",
+    "one_liner": "Provider of an online mobile application platform designed to offer on-demand laundry and dry cleaning services. The company's platform includes online booking and scheduling, enabling users to get doorstep delivery of their clean clothes easily.",
+    "location": "United States",
+    "industry": "Direct to Consumer, Consumer",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/6fdb392a-c7bc-4b4a-9859-69b2f4b385b1.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Direct to Consumer",
+      "Consumer"
+    ],
+    "url": "https://500.co/portfolio/cleanly",
+    "api": "/companies/cleanly.json"
+  },
+  {
+    "id": 5470,
+    "name": "Hunger Co., Ltd.",
+    "slug": "hotcake",
+    "website": "hotcakeapp.com",
+    "description": "Developer of merchant SaaS systems used in nail, eyelash, hairdressing and beauty industries. The company's products can be built with a dedicated reservation, membership and POS system, and integrates with user social media accounts, enabling users build fast access to live operations.",
+    "one_liner": "Developer of merchant SaaS systems used in nail, eyelash, hairdressing and beauty industries. The company's products can be built with a dedicated reservation, membership and POS system, and integrates with user social media accounts, enabling users build fast access to live operations.",
+    "location": "Taiwan",
+    "industry": "Direct to Consumer, Ecommerce, SaaS",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/84b8a40a-6c5e-40a2-a902-a0083bb70897.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Direct to Consumer",
+      "Ecommerce",
+      "SaaS"
+    ],
+    "url": "https://500.co/portfolio/hotcake",
+    "api": "/companies/hotcake.json"
+  },
+  {
+    "id": 3549,
+    "name": "PLANTSHOP HOLDING LTD",
+    "slug": "plantshopme",
+    "website": "https://www.plantshop.me/ae-en/",
+    "description": "E-commerce store selling plants & gardening products",
+    "one_liner": "E-commerce store selling plants & gardening products",
+    "location": "United Arab Emirates",
+    "industry": "Direct to Consumer, Ecommerce, Consumer",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/733aad3c-109a-4f1f-800e-2b0509913d24.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Direct to Consumer",
+      "Ecommerce",
+      "Consumer"
+    ],
+    "url": "https://500.co/portfolio/plantshopme",
+    "api": "/companies/plantshopme.json"
+  },
+  {
+    "id": 5622,
+    "name": "Clickgaming Distribution Group Sdn. Bhd.",
+    "slug": "ttracing",
+    "website": "ttracing.my",
+    "description": "Manufacturer of gaming chairs and accessories intended to provide long hours of comfort for greater productivity and performance. The company offers ergonomic gaming chairs as well as smart desks, cable organizers, cushions, casters, and many more, enabling gamers to play and enjoy games comfortably.",
+    "one_liner": "Manufacturer of gaming chairs and accessories intended to provide long hours of comfort for greater productivity and performance. The company offers ergonomic gaming chairs as well as smart desks, cable organizers, cushions, casters, and many more, enabling gamers to play and enjoy games comfortably.",
+    "location": "Malaysia",
+    "industry": "Direct to Consumer, Gaming, Consumer",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Direct to Consumer",
+      "Gaming",
+      "Consumer"
+    ],
+    "url": "https://500.co/portfolio/ttracing",
+    "api": "/companies/ttracing.json"
+  },
+  {
+    "id": 3476,
+    "name": "Caffeinated Labs, Inc.",
+    "slug": "caffeinated-labs-inc",
+    "website": "craftcoffee.com",
+    "description": "Developer of an online coffee delivery platform designed to offer coffee of different blends to their customers. The company's platform offers a subscription based interface, as well as delivers the pack of coffee at a person's doorstep, enabling customers to taste dozens of coffees from different parts of the country.",
+    "one_liner": "Developer of an online coffee delivery platform designed to offer coffee of different blends to their customers. The company's platform offers a subscription based interface, as well as delivers the pack of coffee at a person's doorstep, enabling customers to taste dozens of coffees from different parts of the country.",
+    "location": "United States",
+    "industry": "Direct to Consumer, Subscription, Consumer",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/eb11720e-a767-4241-88c8-1f709713fcb1.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Direct to Consumer",
+      "Subscription",
+      "Consumer"
+    ],
+    "url": "https://500.co/portfolio/caffeinated-labs-inc",
+    "api": "/companies/caffeinated-labs-inc.json"
+  }
+]

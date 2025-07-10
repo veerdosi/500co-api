@@ -1,0 +1,21 @@
+{
+  "id": 5724,
+  "name": "Sabz Inc.",
+  "slug": "truelli",
+  "website": "www.truelli.com",
+  "description": "Provider of pre-diagnostics menstrual pad intended to offer women instant health insights. The company develops pads that are designed to be worn like a menstrual pad and contain a small sensor that collects blood samples that are then analyzed by its cloud-based platform, enabling customers to get alerts instantly via mobile application.",
+  "one_liner": "Provider of pre-diagnostics menstrual pad intended to offer women instant health insights. The company develops pads that are designed to be worn like a menstrual pad and contain a small sensor that collects blood samples that are then analyzed by its cloud-based platform, enabling customers to get alerts instantly via mobile application.",
+  "location": "United States",
+  "industry": "Wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7359c926-3b25-4a33-8041-dd9a16f6a423.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Wellness"
+  ],
+  "url": "https://500.co/portfolio/truelli",
+  "api": "/companies/truelli.json"
+}

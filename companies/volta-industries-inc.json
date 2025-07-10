@@ -1,0 +1,21 @@
+{
+  "id": 4854,
+  "name": "Volta Industries, Inc.",
+  "slug": "volta-industries-inc",
+  "website": "www.voltacharging.com",
+  "description": "Provider of electric vehicle charging stations intended to make communities more sustainable. The company's vehicle charging stations partners with brands to sponsor free charging for all electric vehicle drivers for free, enabling brands to meet consumers at the optimal moment of purchase decision.",
+  "one_liner": "Provider of electric vehicle charging stations intended to make communities more sustainable. The company's vehicle charging stations partners with brands to sponsor free charging for all electric vehicle drivers for free, enabling brands to meet consumers at the optimal moment of purchase decision.",
+  "location": "United States",
+  "industry": "Automotive",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e3057ada-dee6-42cf-a1f7-d580af31979a.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Automotive"
+  ],
+  "url": "https://500.co/portfolio/volta-industries-inc",
+  "api": "/companies/volta-industries-inc.json"
+}

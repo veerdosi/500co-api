@@ -1,0 +1,22 @@
+{
+  "id": 2975,
+  "name": "Deal Connect Inc.",
+  "slug": "deal-connect-inc",
+  "website": "deal-connect.co.jp",
+  "description": "Developing a logistics optimization service for scrap metal industry",
+  "one_liner": "Developing a logistics optimization service for scrap metal industry",
+  "location": "Japan",
+  "industry": "Productivity, Supply Chain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e8bc9ef3-000b-49fb-8c63-be574e579258.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Productivity",
+    "Supply Chain"
+  ],
+  "url": "https://500.co/portfolio/deal-connect-inc",
+  "api": "/companies/deal-connect-inc.json"
+}

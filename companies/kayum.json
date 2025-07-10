@@ -1,0 +1,21 @@
+{
+  "id": 3008,
+  "name": "KAYUM SAPI DE CV",
+  "slug": "kayum",
+  "website": "kayum.mx",
+  "description": "Developer of an insurance comparison platform designed to assist users in comparing between the different insurance policies available in the market. The company's platform compares different insurance schemes with emphasis on expenses ranging from deductible, co-insurance, hospital range, sum assured and medical tab, and automotive insurance, enabling consumers to get insurance coverage at a reasonable price while making the whole process of purchasing insurance easier and more transparent.",
+  "one_liner": "Developer of an insurance comparison platform designed to assist users in comparing between the different insurance policies available in the market. The company's platform compares different insurance schemes with emphasis on expenses ranging from deductible, co-insurance, hospital range, sum assured and medical tab, and automotive insurance, enabling consumers to get insurance coverage at a reasonable price while making the whole process of purchasing insurance easier and more transparent.",
+  "location": "Mexico",
+  "industry": "InsurTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/955fa091-4882-47e4-8e1d-9d195b804394.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "InsurTech"
+  ],
+  "url": "https://500.co/portfolio/kayum",
+  "api": "/companies/kayum.json"
+}

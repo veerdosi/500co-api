@@ -1,0 +1,23 @@
+{
+  "id": 5563,
+  "name": "Scouter LLC",
+  "slug": "scouter",
+  "website": "scouter.com.mx",
+  "description": "Operator of an online property rental platform intended to provide vacation properties. The company's platform offers properties for various events such as workshops, parties, shooting, etc, and also allows owners to rent out their property via its platform, enabling users to book properties according to their requirements.",
+  "one_liner": "Operator of an online property rental platform intended to provide vacation properties. The company's platform offers properties for various events such as workshops, parties, shooting, etc, and also allows owners to rent out their property via its platform, enabling users to book properties according to their requirements.",
+  "location": "Mexico",
+  "industry": "Entertainment / Media, Creator Economy, B2B Marketplaces",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/7c3b125b-da03-4cb4-ae26-35a54dff2a0e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Entertainment / Media",
+    "Creator Economy",
+    "B2B Marketplaces"
+  ],
+  "url": "https://500.co/portfolio/scouter",
+  "api": "/companies/scouter.json"
+}

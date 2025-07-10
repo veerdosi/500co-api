@@ -1,0 +1,23 @@
+{
+  "id": 5537,
+  "name": "Epoint Inc.",
+  "slug": "epoint",
+  "website": "epoint.az",
+  "description": "Developer of an online payment platform designed to offer businesses a secure way to accept payments. The company offers downloadable financial reports, logs of all transactions, a multilingual interface, a free business website, API connection, payouts to any business cards, multi-access, split payments, QR and invoice payment, and recurring payments, enabling businesses to connect online payments for their website.",
+  "one_liner": "Developer of an online payment platform designed to offer businesses a secure way to accept payments. The company offers downloadable financial reports, logs of all transactions, a multilingual interface, a free business website, API connection, payouts to any business cards, multi-access, split payments, QR and invoice payment, and recurring payments, enabling businesses to connect online payments for their website.",
+  "location": "Azerbaijan",
+  "industry": "FinTech, Payments, SaaS",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/3ffeb9d0-2b71-4120-8080-a9694b877ae6.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech",
+    "Payments",
+    "SaaS"
+  ],
+  "url": "https://500.co/portfolio/epoint",
+  "api": "/companies/epoint.json"
+}

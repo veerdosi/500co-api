@@ -1,0 +1,19 @@
+{
+  "id": 3691,
+  "name": "Crema Company",
+  "slug": "crema-company",
+  "website": "crema.co",
+  "description": "Developer of an online platform to provide coffee subscription services. The company operates a marketplace enabling coffee drinkers to subscribe to top coffees from craft roasters.",
+  "one_liner": "Developer of an online platform to provide coffee subscription services. The company operates a marketplace enabling coffee drinkers to subscribe to top coffees from craft roasters.",
+  "location": "United States",
+  "industry": "",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a359f116-dd6d-42c7-a4fa-af9d6d98777b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://500.co/portfolio/crema-company",
+  "api": "/companies/crema-company.json"
+}

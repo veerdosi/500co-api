@@ -1,0 +1,23 @@
+{
+  "id": 5645,
+  "name": "Playroom Inc",
+  "slug": "playroom",
+  "website": "joinplayroom.com",
+  "description": "Developer of a multiplayer toolkit platform designed to build multiplayer games in minutes. The company's platform offers a low-code SDK and AI tools, which is a great option for indie developers, game studios, and students who want to create multiplayer games without having to spend a lot of time and money, enabling developers to create games easily.",
+  "one_liner": "Developer of a multiplayer toolkit platform designed to build multiplayer games in minutes. The company's platform offers a low-code SDK and AI tools, which is a great option for indie developers, game studios, and students who want to create multiplayer games without having to spend a lot of time and money, enabling developers to create games easily.",
+  "location": "United States",
+  "industry": "AI/Machine Learning, Developer Tools, Gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/ea6c30c3-27b5-4225-8cd4-9371c40eb684.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "Developer Tools",
+    "Gaming"
+  ],
+  "url": "https://500.co/portfolio/playroom",
+  "api": "/companies/playroom.json"
+}

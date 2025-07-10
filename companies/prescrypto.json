@@ -1,0 +1,21 @@
+{
+  "id": 3002,
+  "name": "PRESCRYPTO S.A.P.I. DE C.V.",
+  "slug": "prescrypto",
+  "website": "www.prescrypto.com",
+  "description": "Developer of an electronic medical prescription platform designed to create and send medical prescriptions online. The company's platform offers built-in catalogs of medicines with photos, streamlines the process of prescription, manages the medical recipe and uses blockchain technologies to prevent drug trafficking, enabling medical practitioners to analyze medications and track, generate and audit medical prescriptions in a consolidated and secure data repository.",
+  "one_liner": "Developer of an electronic medical prescription platform designed to create and send medical prescriptions online. The company's platform offers built-in catalogs of medicines with photos, streamlines the process of prescription, manages the medical recipe and uses blockchain technologies to prevent drug trafficking, enabling medical practitioners to analyze medications and track, generate and audit medical prescriptions in a consolidated and secure data repository.",
+  "location": "Mexico",
+  "industry": "Health Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/e5150943-e095-473e-9a6c-170d1ecb92a1.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Health Tech"
+  ],
+  "url": "https://500.co/portfolio/prescrypto",
+  "api": "/companies/prescrypto.json"
+}

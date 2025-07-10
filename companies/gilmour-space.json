@@ -1,0 +1,21 @@
+{
+  "id": 5167,
+  "name": "Gilmour Space Holdings Pty Ltd",
+  "slug": "gilmour-space",
+  "website": "www.gspacetech.com",
+  "description": "Developer of low-cost hybrid rockets designed to launch small satellites into space. The company's hybrid rockets use 3D printed fuel developed by the company helping them to create specific patterns and control how the fuel burns upon ignition, enabling research organizations and clients to launch their satellites in an affordable, reliable, and dedicated way into low earth orbits.",
+  "one_liner": "Developer of low-cost hybrid rockets designed to launch small satellites into space. The company's hybrid rockets use 3D printed fuel developed by the company helping them to create specific patterns and control how the fuel burns upon ignition, enabling research organizations and clients to launch their satellites in an affordable, reliable, and dedicated way into low earth orbits.",
+  "location": "Australia",
+  "industry": "Aviation",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a1262024-2489-4f6c-b3a5-1c1071ed9c30.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Aviation"
+  ],
+  "url": "https://500.co/portfolio/gilmour-space",
+  "api": "/companies/gilmour-space.json"
+}

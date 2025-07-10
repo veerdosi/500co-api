@@ -1,0 +1,21 @@
+{
+  "id": 4595,
+  "name": "TaskUnite Inc.",
+  "slug": "ampaworks",
+  "website": "www.ampaworks.com",
+  "description": "Developer of AI algorithms tools intended to increase efficiency in healthcare systems and services. The company's tools provide workflow tasks, account for inventory used during patient-related tasks, and provide feedback to team members, enabling healthcare companies to promote safety and hospitals to improve quality and track inventory and supply chains.",
+  "one_liner": "Developer of AI algorithms tools intended to increase efficiency in healthcare systems and services. The company's tools provide workflow tasks, account for inventory used during patient-related tasks, and provide feedback to team members, enabling healthcare companies to promote safety and hospitals to improve quality and track inventory and supply chains.",
+  "location": "United States",
+  "industry": "Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/ampaworks",
+  "api": "/companies/ampaworks.json"
+}

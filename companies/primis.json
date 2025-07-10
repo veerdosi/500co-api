@@ -1,0 +1,21 @@
+{
+  "id": 5838,
+  "name": "Primis Communications Limited",
+  "slug": "primis",
+  "website": "https://primis.cx/",
+  "description": "Allows merchants to anage post purchase customer experience communications, connect with over 400 couriers & achieve sustainability goals - all with one platform",
+  "one_liner": "Allows merchants to anage post purchase customer experience communications, connect with over 400 couriers & achieve sustainability goals - all with one platform",
+  "location": "United Kingdom",
+  "industry": "Ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d0eabdcf-1bdc-49c5-94eb-c1a94ae2bed2.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Ecommerce"
+  ],
+  "url": "https://500.co/portfolio/primis",
+  "api": "/companies/primis.json"
+}

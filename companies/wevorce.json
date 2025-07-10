@@ -1,0 +1,21 @@
+{
+  "id": 3629,
+  "name": "Wevorce, Inc.",
+  "slug": "wevorce",
+  "website": "www.wevorce.com",
+  "description": "Provider of divorce handling services intended to help couples and families get through their divorce. The company's services include assisting couples through the six broad steps of divorce planning, co-parent planning, financial agreements and divorce settlement, enabling clients to have access to lawyers, counselors and financial professionals when they need it throughout the divorce process.",
+  "one_liner": "Provider of divorce handling services intended to help couples and families get through their divorce. The company's services include assisting couples through the six broad steps of divorce planning, co-parent planning, financial agreements and divorce settlement, enabling clients to have access to lawyers, counselors and financial professionals when they need it throughout the divorce process.",
+  "location": "United States",
+  "industry": "Legal",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/44482fc9-6eba-4dcb-bd81-534a7b2d47be.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Legal"
+  ],
+  "url": "https://500.co/portfolio/wevorce",
+  "api": "/companies/wevorce.json"
+}

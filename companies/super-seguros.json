@@ -1,0 +1,23 @@
+{
+  "id": 4719,
+  "name": "Super Seguros Inc.",
+  "slug": "super-seguros",
+  "website": "www.super.mx",
+  "description": "Operator of a multi-product insurance platform intended to emphasize the understanding, pricing, and use of insurance. The company's platform focuses on offering predefined cover amounts paid when the insurance conditions are met and simplifying such conditions in order to honor the promise to pay, enabling clients to avail of insurance with confidence and support.",
+  "one_liner": "Operator of a multi-product insurance platform intended to emphasize the understanding, pricing, and use of insurance. The company's platform focuses on offering predefined cover amounts paid when the insurance conditions are met and simplifying such conditions in order to honor the promise to pay, enabling clients to avail of insurance with confidence and support.",
+  "location": "Mexico",
+  "industry": "InsurTech, Marketplace, SaaS",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/38196ba4-5070-4040-8f9e-f5dc6cf5a3b9.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "InsurTech",
+    "Marketplace",
+    "SaaS"
+  ],
+  "url": "https://500.co/portfolio/super-seguros",
+  "api": "/companies/super-seguros.json"
+}

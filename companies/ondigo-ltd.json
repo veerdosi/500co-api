@@ -1,0 +1,22 @@
+{
+  "id": 3882,
+  "name": "ONDiGO Ltd.",
+  "slug": "ondigo-ltd",
+  "website": "ondigo.me",
+  "description": "Developer of customer relationship management platform designed to automatically sync a team's activity with Salesforce. The company's customer relationship management platform, ONDiGO, offers a mobile application that processes email, calendar, phone calls and text messages which reflect business interactions with preexisting customers in customer relationship management system and automatically builds a customer database from those interactions, enabling businesses to increase sales-productivity",
+  "one_liner": "Developer of customer relationship management platform designed to automatically sync a team's activity with Salesforce. The company's customer relationship management platform, ONDiGO, offers a mobile application that processes email, calendar, phone calls and text messages which reflect business interactions with preexisting customers in customer relationship management system and automatically builds a customer database from those interactions, enabling businesses to increase sales-productivity",
+  "location": "United States",
+  "industry": "Content, Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content",
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/ondigo-ltd",
+  "api": "/companies/ondigo-ltd.json"
+}

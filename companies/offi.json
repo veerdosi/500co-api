@@ -1,0 +1,21 @@
+{
+  "id": 5104,
+  "name": "Worknmates Group Corp.",
+  "slug": "offi",
+  "website": "www.getoffi.com",
+  "description": "Operator of a B2B marketplace for remote workers intended to provide companies with a comprehensive solution for remote and hybrid work. The company allows companies and individuals to easily find or rent out available office spaces and have the option to give their employees access to book workspaces in any part of the world on their behalf, in a buy now pay later business model, enabling clients to manage their remote workforce efficiently.",
+  "one_liner": "Operator of a B2B marketplace for remote workers intended to provide companies with a comprehensive solution for remote and hybrid work. The company allows companies and individuals to easily find or rent out available office spaces and have the option to give their employees access to book workspaces in any part of the world on their behalf, in a buy now pay later business model, enabling clients to manage their remote workforce efficiently.",
+  "location": "Argentina",
+  "industry": "Marketplace",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/eb29be11-393e-420a-a5ba-03c8393243e1.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Marketplace"
+  ],
+  "url": "https://500.co/portfolio/offi",
+  "api": "/companies/offi.json"
+}

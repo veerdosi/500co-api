@@ -1,0 +1,23 @@
+{
+  "id": 5490,
+  "name": "Neqabty Inc.",
+  "slug": "neqabty",
+  "website": "neqabty.com",
+  "description": "Developer of a mobile-based financial application designed to provide automated syndicate services. The company's application offers payment of service costs, medical services, and booking events and trips, enabling clients to pay for their medical applications such as prescriptions, renewals, and medical fees.",
+  "one_liner": "Developer of a mobile-based financial application designed to provide automated syndicate services. The company's application offers payment of service costs, medical services, and booking events and trips, enabling clients to pay for their medical applications such as prescriptions, renewals, and medical fees.",
+  "location": "Egypt",
+  "industry": "FemTech (women's health), Health Tech, SaaS",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b592943c-816d-4d36-9e4b-5d6c31b8fd98.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FemTech (women's health)",
+    "Health Tech",
+    "SaaS"
+  ],
+  "url": "https://500.co/portfolio/neqabty",
+  "api": "/companies/neqabty.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4157,
+  "name": "Medico.com, Inc.",
+  "slug": "medicocom-inc",
+  "website": "www.medico.com",
+  "description": "Provider of an online global health portal. The portal allows users across the globe to gather and share locally-relevant health care information.",
+  "one_liner": "Provider of an online global health portal. The portal allows users across the globe to gather and share locally-relevant health care information.",
+  "location": "United States",
+  "industry": "Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/0b67e109-9184-4496-8ce3-2cfe37173a29.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/medicocom-inc",
+  "api": "/companies/medicocom-inc.json"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 5483,
+  "name": "Wellxai Technologies Ltd",
+  "slug": "wellxai",
+  "website": "www.wellxai.com",
+  "description": "Opeartor of an insurance technology intended to support wellness activities. The company aims to disrupt the insurance landscape in the region by offering individuals, families, corporates, and SMEs health insurance that incentivizes engagement in various wellness activities such as gym visits, healthy eating, focusing on mental wellness, utilizing wearable tech, and also provides a third-party embedded device along with an application that monitors health, enabling users to make efficient insurance decisions.",
+  "one_liner": "Opeartor of an insurance technology intended to support wellness activities. The company aims to disrupt the insurance landscape in the region by offering individuals, families, corporates, and SMEs health insurance that incentivizes engagement in various wellness activities such as gym visits, healthy eating, focusing on mental wellness, utilizing wearable tech, and also provides a third-party embedded device along with an application that monitors health, enabling users to make efficient insurance decisions.",
+  "location": "United Arab Emirates",
+  "industry": "CloudTech, InsurTech, Subscription",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a4d076f2-5785-47df-9fdb-57d1989c6a0f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "CloudTech",
+    "InsurTech",
+    "Subscription"
+  ],
+  "url": "https://500.co/portfolio/wellxai",
+  "api": "/companies/wellxai.json"
+}

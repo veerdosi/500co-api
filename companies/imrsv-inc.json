@@ -1,0 +1,21 @@
+{
+  "id": 4279,
+  "name": "IMRSV, Inc.",
+  "slug": "imrsv-inc",
+  "website": "imrsv.com",
+  "description": "Provider of advertising technology for digital signs to deliver tailored messages to customers in real-time. The company's technology is a combination of anonymous facial detection, machine learning based optimization as well as strategies specified by the marketer.",
+  "one_liner": "Provider of advertising technology for digital signs to deliver tailored messages to customers in real-time. The company's technology is a combination of anonymous facial detection, machine learning based optimization as well as strategies specified by the marketer.",
+  "location": "United States",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5db21861-fa66-4b6f-b2de-8b3dbe7d5989.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/imrsv-inc",
+  "api": "/companies/imrsv-inc.json"
+}

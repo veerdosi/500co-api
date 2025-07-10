@@ -1,0 +1,21 @@
+{
+  "id": 5249,
+  "name": "Studypool, Inc.",
+  "slug": "studypool",
+  "website": "www.studypool.com",
+  "description": "Developer of an online education platform designed to help students with their homework. The company's platform helps solve questions of the students by connecting them with tutors who can provide quick explanations to their queries, enabling students to keep the learning process going without getting frustrated and losing their passion for academic subjects.",
+  "one_liner": "Developer of an online education platform designed to help students with their homework. The company's platform helps solve questions of the students by connecting them with tutors who can provide quick explanations to their queries, enabling students to keep the learning process going without getting frustrated and losing their passion for academic subjects.",
+  "location": "United States",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/1e51f439-6ba5-494a-804d-8bb308369467.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/studypool",
+  "api": "/companies/studypool.json"
+}

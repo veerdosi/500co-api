@@ -1,0 +1,21 @@
+{
+  "id": 3478,
+  "name": "Earable, Inc.",
+  "slug": "frenz",
+  "website": "frenzband.com",
+  "description": "Developer of a tech company designed to improve sleep cycles. The company focuses on building consumer wearables and solutions that unlock human potential through improved sleep and cognitive function, enabling users to quantitatively measure and take steps to improve their sleep quality.",
+  "one_liner": "Developer of a tech company designed to improve sleep cycles. The company focuses on building consumer wearables and solutions that unlock human potential through improved sleep and cognitive function, enabling users to quantitatively measure and take steps to improve their sleep quality.",
+  "location": "United States",
+  "industry": "Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/681eb7b0-fe34-492d-b560-76cf59f1a7bc.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/frenz",
+  "api": "/companies/frenz.json"
+}

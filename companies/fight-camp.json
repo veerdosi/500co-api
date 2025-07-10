@@ -1,0 +1,22 @@
+{
+  "id": 3508,
+  "name": "Hykso Inc.",
+  "slug": "fight-camp",
+  "website": "joinfightcamp.com",
+  "description": "Developer of a wearable motion tracker designed to monitor and view a fighter's punch output in real-time. The company's tracker tracks a hand's movement several times per second to detect the number, type, and velocity of all the punches, and its application permits measuring daily, weekly, and monthly progression, enabling fighters to compare their speed, punch count, and intensity compared to other fighters to better know their strengths and weaknesses.",
+  "one_liner": "Developer of a wearable motion tracker designed to monitor and view a fighter's punch output in real-time. The company's tracker tracks a hand's movement several times per second to detect the number, type, and velocity of all the punches, and its application permits measuring daily, weekly, and monthly progression, enabling fighters to compare their speed, punch count, and intensity compared to other fighters to better know their strengths and weaknesses.",
+  "location": "Canada",
+  "industry": "Health Tech, Wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Health Tech",
+    "Wellness"
+  ],
+  "url": "https://500.co/portfolio/fight-camp",
+  "api": "/companies/fight-camp.json"
+}

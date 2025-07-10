@@ -1,0 +1,21 @@
+{
+  "id": 3127,
+  "name": "TradeGecko Pte Ltd",
+  "slug": "tradegecko-pte-ltd",
+  "website": "tradegecko.com",
+  "description": "Provider of a cloud-based inventory management software-as-a-service (SaaS) platform intended to automate and reduce workflow inefficiencies. The company's platform integrates front-end e-commerce and POS software with back-end accounting and shipping software, enabling SMBs to manage their inventory efficiently, process orders quickly and change the pricing of their products dynamically.",
+  "one_liner": "Provider of a cloud-based inventory management software-as-a-service (SaaS) platform intended to automate and reduce workflow inefficiencies. The company's platform integrates front-end e-commerce and POS software with back-end accounting and shipping software, enabling SMBs to manage their inventory efficiently, process orders quickly and change the pricing of their products dynamically.",
+  "location": "Singapore",
+  "industry": "Supply Chain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Supply Chain"
+  ],
+  "url": "https://500.co/portfolio/tradegecko-pte-ltd",
+  "api": "/companies/tradegecko-pte-ltd.json"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 5592,
+  "name": "Peddlr Inc",
+  "slug": "peddlr",
+  "website": "www.peddlr.io",
+  "description": "Developer of an inventory management platform designed to build a digital infrastructure for micro and small businesses in Southeast Asia. The company offers a digital infrastructure that manages sales, inventory, accounting and reports through mobile devices by working offline and without the Internet, enabling micro and small businesses to manage sales, inventory, accounting and reports through their mobile devices and manage their businesses better.",
+  "one_liner": "Developer of an inventory management platform designed to build a digital infrastructure for micro and small businesses in Southeast Asia. The company offers a digital infrastructure that manages sales, inventory, accounting and reports through mobile devices by working offline and without the Internet, enabling micro and small businesses to manage sales, inventory, accounting and reports through their mobile devices and manage their businesses better.",
+  "location": "Philippines",
+  "industry": "Enterprise, SaaS",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/0fd3c5bf-a5ea-44a7-91e8-33bcf97fb764.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Enterprise",
+    "SaaS"
+  ],
+  "url": "https://500.co/portfolio/peddlr",
+  "api": "/companies/peddlr.json"
+}

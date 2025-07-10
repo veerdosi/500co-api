@@ -1,0 +1,21 @@
+{
+  "id": 4151,
+  "name": "Superhuman Labs, Inc.",
+  "slug": "superhuman",
+  "website": "superhuman.com",
+  "description": "Developer of an email extension application intended to offer electronic mailing services. The company's application offers features such as undoing sent messages, getting insights from social networks, following up on reminders and sending scheduled messages, enabling users to get quick and effective email services.",
+  "one_liner": "Developer of an email extension application intended to offer electronic mailing services. The company's application offers features such as undoing sent messages, getting insights from social networks, following up on reminders and sending scheduled messages, enabling users to get quick and effective email services.",
+  "location": "United States",
+  "industry": "Productivity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/bb9dc62d-b07f-486d-8389-659e7c1fde55.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Productivity"
+  ],
+  "url": "https://500.co/portfolio/superhuman",
+  "api": "/companies/superhuman.json"
+}

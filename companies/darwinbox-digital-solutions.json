@@ -1,0 +1,21 @@
+{
+  "id": 5649,
+  "name": "DARWINBOX DIGITAL SOLUTIONS PRIVATE LIMITED",
+  "slug": "darwinbox-digital-solutions",
+  "website": "darwinbox.com",
+  "description": "Developer of software as a service-based human resource management platform designed to transform the interaction between the workforce and technology. The company's platform offers an easy-to-use interface, functional depth, faster implementation cycles and new-age features including e-onboarding, merit planning, continuous feedback, performance journals and insightful analytics, enabling mid to large-sized enterprises to manage core operations and drive employee engagement and performance.",
+  "one_liner": "Developer of software as a service-based human resource management platform designed to transform the interaction between the workforce and technology. The company's platform offers an easy-to-use interface, functional depth, faster implementation cycles and new-age features including e-onboarding, merit planning, continuous feedback, performance journals and insightful analytics, enabling mid to large-sized enterprises to manage core operations and drive employee engagement and performance.",
+  "location": "Singapore",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ec52b411-c9cc-4dbd-8314-16b750794755.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/darwinbox-digital-solutions",
+  "api": "/companies/darwinbox-digital-solutions.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5322,
+  "name": "Pacto Inc.",
+  "slug": "pacto",
+  "website": "www.pacto.co",
+  "description": "Developer of a point-of-sale platform designed to order and pay in restaurants. The company's platform offers an all-in-one payment integration, featuring a user-friendly interface, automatic reconciliation at the time of payment, a mobile point-of-sale system, and order and payment from the cell phone, enabling restaurants to optimize their daily operation and accelerate the growth of their business.",
+  "one_liner": "Developer of a point-of-sale platform designed to order and pay in restaurants. The company's platform offers an all-in-one payment integration, featuring a user-friendly interface, automatic reconciliation at the time of payment, a mobile point-of-sale system, and order and payment from the cell phone, enabling restaurants to optimize their daily operation and accelerate the growth of their business.",
+  "location": "Mexico",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/106c3809-a698-475a-be26-13965fa5cb64.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/pacto",
+  "api": "/companies/pacto.json"
+}

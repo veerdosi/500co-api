@@ -1,0 +1,21 @@
+{
+  "id": 3290,
+  "name": "TruKKer Holding Limited",
+  "slug": "trukker",
+  "website": "trukker.com",
+  "description": "Developer of a logistics and fleet management platform designed to simplify road freight and logistics operations. The company's platform aids in integrating available trucks to the users in real-time and integrates capacity with demand accordingly to ensure maximum asset utilization to reduce overall transportation costs, enabling shippers, carriers, and businesses to get cross-border transportation services with ease.",
+  "one_liner": "Developer of a logistics and fleet management platform designed to simplify road freight and logistics operations. The company's platform aids in integrating available trucks to the users in real-time and integrates capacity with demand accordingly to ensure maximum asset utilization to reduce overall transportation costs, enabling shippers, carriers, and businesses to get cross-border transportation services with ease.",
+  "location": "United Arab Emirates",
+  "industry": "Supply Chain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Supply Chain"
+  ],
+  "url": "https://500.co/portfolio/trukker",
+  "api": "/companies/trukker.json"
+}

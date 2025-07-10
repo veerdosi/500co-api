@@ -1,0 +1,21 @@
+{
+  "id": 2846,
+  "name": "AlgoDriven Limited",
+  "slug": "algodriven",
+  "website": "algodriven.xyz",
+  "description": "Developer of an automobile data-capturing platform designed for accurate car pricing. The company's platform helps to correctly price assets at the time of application or during risk and compliance by using big data and artificial intelligence to provide actionable vehicle identification and pricing data, enabling car dealers, finance teams, and insurance companies to receive specific vehicle identity and information to process claim tasks.",
+  "one_liner": "Developer of an automobile data-capturing platform designed for accurate car pricing. The company's platform helps to correctly price assets at the time of application or during risk and compliance by using big data and artificial intelligence to provide actionable vehicle identification and pricing data, enabling car dealers, finance teams, and insurance companies to receive specific vehicle identity and information to process claim tasks.",
+  "location": "United Arab Emirates",
+  "industry": "Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f1d457dd-36ad-482e-ba73-3bd2191d5650.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/algodriven",
+  "api": "/companies/algodriven.json"
+}

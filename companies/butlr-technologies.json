@@ -1,0 +1,21 @@
+{
+  "id": 5348,
+  "name": "Butlr Technologies Inc.",
+  "slug": "butlr-technologies",
+  "website": "www.butlr.com",
+  "description": "Developer of a sensor trajectory platform intended to provide a seamless automated smart building experience. The company's platform includes features such as remote monitoring of senior living, activity monitoring to capture user behavior, recording foot traffic, curating heat maps and zone counting in any space, enabling commercial real estate owners and businesses, enabling users to make data-driven decisions using artificial intelligence and real-time behavior analytics.",
+  "one_liner": "Developer of a sensor trajectory platform intended to provide a seamless automated smart building experience. The company's platform includes features such as remote monitoring of senior living, activity monitoring to capture user behavior, recording foot traffic, curating heat maps and zone counting in any space, enabling commercial real estate owners and businesses, enabling users to make data-driven decisions using artificial intelligence and real-time behavior analytics.",
+  "location": "United States",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/51c43515-312a-4f34-a9b9-d9b52240e8eb.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/butlr-technologies",
+  "api": "/companies/butlr-technologies.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5240,
+  "name": "Instamojo Technologies Pvt Ltd.",
+  "slug": "instamojo",
+  "website": "instamojo.com",
+  "description": "Operator of on-demand payments and an e-commerce platform designed to buy and sell items digitally. The company's platform caters to the end-to-end requirements of merchants, enabling them to showcase their products, collect orders, track sales, connect with customers, schedule shipping, and handle other business functions.",
+  "one_liner": "Operator of on-demand payments and an e-commerce platform designed to buy and sell items digitally. The company's platform caters to the end-to-end requirements of merchants, enabling them to showcase their products, collect orders, track sales, connect with customers, schedule shipping, and handle other business functions.",
+  "location": "India",
+  "industry": "Payments",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2764ea0a-0e5c-4ef9-89fe-7eba2f109969.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Payments"
+  ],
+  "url": "https://500.co/portfolio/instamojo",
+  "api": "/companies/instamojo.json"
+}

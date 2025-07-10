@@ -1,0 +1,21 @@
+{
+  "id": 4524,
+  "name": "Cheddar Up, Inc.",
+  "slug": "cheddar-up",
+  "website": "www.cheddarup.com",
+  "description": "Developer of an online payment platform designed to collect and track online group payments. The company's platform offers services including online payment tracking, automatic reminders, no fees for the collector, and custom form fields services, besides providing a user interface that makes collecting online payments accessible to anyone, enabling users to create custom online payment pages for almost anything and save time and focus on more important activities.",
+  "one_liner": "Developer of an online payment platform designed to collect and track online group payments. The company's platform offers services including online payment tracking, automatic reminders, no fees for the collector, and custom form fields services, besides providing a user interface that makes collecting online payments accessible to anyone, enabling users to create custom online payment pages for almost anything and save time and focus on more important activities.",
+  "location": "United States",
+  "industry": "Payments",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b5de7433-7869-4e4f-bf16-36e1b5265364.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Payments"
+  ],
+  "url": "https://500.co/portfolio/cheddar-up",
+  "api": "/companies/cheddar-up.json"
+}

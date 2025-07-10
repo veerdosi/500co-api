@@ -1,0 +1,21 @@
+{
+  "id": 5795,
+  "name": "Inflow Global Pte. Ltd.",
+  "slug": "inflow",
+  "website": "joininflow.io",
+  "description": "Operator of a supply chain and manufacturing platform for fashion brands. The company's platform offers a diversified manufacturing network that simplifies the supply chain process from sourcing to manufacturing and shipping, enabling clients to easily source, track, and manage their production by offering trendy designs including sustainable fabric options.",
+  "one_liner": "Operator of a supply chain and manufacturing platform for fashion brands. The company's platform offers a diversified manufacturing network that simplifies the supply chain process from sourcing to manufacturing and shipping, enabling clients to easily source, track, and manage their production by offering trendy designs including sustainable fabric options.",
+  "location": "Singapore",
+  "industry": "Fashion",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7011da75-00ca-4d46-b51c-f2e656d5eb0e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion"
+  ],
+  "url": "https://500.co/portfolio/inflow",
+  "api": "/companies/inflow.json"
+}

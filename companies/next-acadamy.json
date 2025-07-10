@@ -1,0 +1,21 @@
+{
+  "id": 3209,
+  "name": "Eleventh Division Pte Ltd",
+  "slug": "next-acadamy",
+  "website": "nextacademy.com",
+  "description": "Operator of a digital marketing and coding school intended to learn digital marketing. The company's school offers nine weeks of coding boot camps and digital marketing courses designed by industry experts and benchmarked against world standards, enabling aspiring entrepreneurs, freelancers, and software engineers to easily become code developers and digital marketers in life.",
+  "one_liner": "Operator of a digital marketing and coding school intended to learn digital marketing. The company's school offers nine weeks of coding boot camps and digital marketing courses designed by industry experts and benchmarked against world standards, enabling aspiring entrepreneurs, freelancers, and software engineers to easily become code developers and digital marketers in life.",
+  "location": "Malaysia",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d087def6-62a8-43a9-8adf-d7fba618715f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/next-acadamy",
+  "api": "/companies/next-acadamy.json"
+}

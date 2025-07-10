@@ -1,0 +1,22 @@
+{
+  "id": 4328,
+  "name": "GITAI USA Inc.",
+  "slug": "gitai",
+  "website": "gitai.tech",
+  "description": "Operator of a space robotics startup intended to conduct tasks in all realms of space development. The company's remote-controlled robots feature low-latency communication and NAT traversal system as well as provide an alternative to human astronauts for long-time work in low earth orbit space stations, enabling space development organizations to reduce the burden on astronauts, shorten the time it takes to perform work in space and reduce costs.",
+  "one_liner": "Operator of a space robotics startup intended to conduct tasks in all realms of space development. The company's remote-controlled robots feature low-latency communication and NAT traversal system as well as provide an alternative to human astronauts for long-time work in low earth orbit space stations, enabling space development organizations to reduce the burden on astronauts, shorten the time it takes to perform work in space and reduce costs.",
+  "location": "Japan",
+  "industry": "Aviation, Robotics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b18c545d-49d5-4e7f-ab1a-1b582ed44f33.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Aviation",
+    "Robotics"
+  ],
+  "url": "https://500.co/portfolio/gitai",
+  "api": "/companies/gitai.json"
+}

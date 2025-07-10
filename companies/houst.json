@@ -1,0 +1,21 @@
+{
+  "id": 3257,
+  "name": "Houst Limited",
+  "slug": "houst",
+  "website": "www.houst.com",
+  "description": "Developer of a homestay management platform designed to make listing a hassle-free process. The company's platform automates substantial parts of the property letting, price optimizations, marketing, and management aspects of guest bookings made on notable travel websites, enabling homeowners to achieve the optimal blend of rental yield and stress-free customer service by making more money.",
+  "one_liner": "Developer of a homestay management platform designed to make listing a hassle-free process. The company's platform automates substantial parts of the property letting, price optimizations, marketing, and management aspects of guest bookings made on notable travel websites, enabling homeowners to achieve the optimal blend of rental yield and stress-free customer service by making more money.",
+  "location": "United Kingdom",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/109a14d3-8821-43f5-aea4-449e80471b00.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/houst",
+  "api": "/companies/houst.json"
+}

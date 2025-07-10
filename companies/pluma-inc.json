@@ -1,0 +1,21 @@
+{
+  "id": 4647,
+  "name": "Pluma, Inc.",
+  "slug": "pluma-inc",
+  "website": "pluma.co",
+  "description": "Provider of mobile coaching platform intended to facilitate development and executive coaching for millennials. The company's platform offers personalized coaching services, where employees are matched with coaches who have relevant industry and professional experience, enabling individuals and enterprise to build better leaders, manager and colleagues.",
+  "one_liner": "Provider of mobile coaching platform intended to facilitate development and executive coaching for millennials. The company's platform offers personalized coaching services, where employees are matched with coaches who have relevant industry and professional experience, enabling individuals and enterprise to build better leaders, manager and colleagues.",
+  "location": "United States",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/254e13c2-f296-40f2-9442-9ff50b4c37c5.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/pluma-inc",
+  "api": "/companies/pluma-inc.json"
+}

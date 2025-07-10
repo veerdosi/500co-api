@@ -1,0 +1,21 @@
+{
+  "id": 5855,
+  "name": "Prefer Pte. Ltd.",
+  "slug": "prefer",
+  "website": "prefer.bio",
+  "description": "Producer of bean-free coffee intended to provide a product that mimics the coffee bean. The company produces coffee without coffee beans by fermenting surplus food, enabling customers to obtain environmentally sustainable and affordable products.",
+  "one_liner": "Producer of bean-free coffee intended to provide a product that mimics the coffee bean. The company produces coffee without coffee beans by fermenting surplus food, enabling customers to obtain environmentally sustainable and affordable products.",
+  "location": "Singapore",
+  "industry": "Food",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/ce8798e9-df4d-41cf-bc71-9ab28cd02d5e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Food"
+  ],
+  "url": "https://500.co/portfolio/prefer",
+  "api": "/companies/prefer.json"
+}

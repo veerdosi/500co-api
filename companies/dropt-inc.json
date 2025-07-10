@@ -1,0 +1,21 @@
+{
+  "id": 4287,
+  "name": "DROPT INC.",
+  "slug": "dropt-inc",
+  "website": "pict.com",
+  "description": "Provider of technology platform that converts photos into storefronts. The company provides a Web and mobile application to create shoppable, trackable photos, and operates a Web-content bank enabling brands to release monetizable images directly to publishers.",
+  "one_liner": "Provider of technology platform that converts photos into storefronts. The company provides a Web and mobile application to create shoppable, trackable photos, and operates a Web-content bank enabling brands to release monetizable images directly to publishers.",
+  "location": "United States",
+  "industry": "Social Media",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Media"
+  ],
+  "url": "https://500.co/portfolio/dropt-inc",
+  "api": "/companies/dropt-inc.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4332,
+  "name": "Coveti Inc.",
+  "slug": "coveti",
+  "website": "coveti.com",
+  "description": "Operator of an online fashion marketplace intended to cater to men and women. The company offers includes women's fashion, men's fashion, and accessories and specializes in offering designs from emerging designers, enabling independent fashion designers to produce on-demand garments and users to enjoy customized apparel.",
+  "one_liner": "Operator of an online fashion marketplace intended to cater to men and women. The company offers includes women's fashion, men's fashion, and accessories and specializes in offering designs from emerging designers, enabling independent fashion designers to produce on-demand garments and users to enjoy customized apparel.",
+  "location": "United Arab Emirates",
+  "industry": "Fashion",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2e54e36f-ebda-4364-ba93-5c9ff44ed22b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion"
+  ],
+  "url": "https://500.co/portfolio/coveti",
+  "api": "/companies/coveti.json"
+}

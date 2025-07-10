@@ -1,0 +1,22 @@
+{
+  "id": 2906,
+  "name": "Booth FinTech Pvt. Ltd.",
+  "slug": "booth-fintech-pvt-ltd",
+  "website": "instapaisa.com",
+  "description": "InstaPaisa leverages Big Data, and machine learning algorithms to make automated lending decisions and originate loans online in India.",
+  "one_liner": "InstaPaisa leverages Big Data, and machine learning algorithms to make automated lending decisions and originate loans online in India.",
+  "location": "India",
+  "industry": "Credit & Lending, FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Credit & Lending",
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/booth-fintech-pvt-ltd",
+  "api": "/companies/booth-fintech-pvt-ltd.json"
+}

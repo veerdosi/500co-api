@@ -1,0 +1,21 @@
+{
+  "id": 3412,
+  "name": "Backoffice.co, Inc",
+  "slug": "finally",
+  "website": "finally.com",
+  "description": "Developer of bookkeeping software designed to automate accounting and finance transactions in small and medium-sized businesses. The company's software uses artificial intelligence and features a robotic accounting engine that performs automated expense categorization, bank reconciliation, and document retrieval, enabling small and medium business enterprises to keep track of their financials, reduce accounting expenses, and save hours of work.",
+  "one_liner": "Developer of bookkeeping software designed to automate accounting and finance transactions in small and medium-sized businesses. The company's software uses artificial intelligence and features a robotic accounting engine that performs automated expense categorization, bank reconciliation, and document retrieval, enabling small and medium business enterprises to keep track of their financials, reduce accounting expenses, and save hours of work.",
+  "location": "United States",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/abd8e033-335c-402c-a9a9-a79a5ab7dc37.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/finally",
+  "api": "/companies/finally.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3836,
+  "name": "GiftCardZen, Inc.",
+  "slug": "giftcardzen-inc",
+  "website": "giftcardzen.com",
+  "description": "Buyer and seller of gift cards from retailers online. The company buys gift cards from consumers and businesses and sells them to consumers and businesses at a discount of face value.",
+  "one_liner": "Buyer and seller of gift cards from retailers online. The company buys gift cards from consumers and businesses and sells them to consumers and businesses at a discount of face value.",
+  "location": "United States",
+  "industry": "Payments",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/bf5bbb56-9e57-4915-831f-87e95ff07221.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Payments"
+  ],
+  "url": "https://500.co/portfolio/giftcardzen-inc",
+  "api": "/companies/giftcardzen-inc.json"
+}

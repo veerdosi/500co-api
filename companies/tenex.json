@@ -1,0 +1,21 @@
+{
+  "id": 5072,
+  "name": "Tenex Technologies",
+  "slug": "tenex",
+  "website": "tenex.io",
+  "description": "Developer of a tenant engagement platform designed to optimize the commercial real estate experience for tenants. The company's platform specializes in providing tech-enabled services to handle and manage properties, enabling property managers and landlords to offer quality services to their clients.",
+  "one_liner": "Developer of a tenant engagement platform designed to optimize the commercial real estate experience for tenants. The company's platform specializes in providing tech-enabled services to handle and manage properties, enabling property managers and landlords to offer quality services to their clients.",
+  "location": "United Arab Emirates",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/1982d7ee-7355-4917-82be-e33bb1bbd543.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/tenex",
+  "api": "/companies/tenex.json"
+}

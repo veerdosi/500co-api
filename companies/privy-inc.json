@@ -1,0 +1,21 @@
+{
+  "id": 4075,
+  "name": "Privy, Inc.",
+  "slug": "privy-inc",
+  "website": "privy.com",
+  "description": "Provider of a web marketing platform intended to help businesses to build more customer relationships in a faster way. The company's platform generates data about audiences, analyzes how the promotions are being utilized and organizes the customer lists for additional follow-through, enabling clients to grow in terms of revenue.",
+  "one_liner": "Provider of a web marketing platform intended to help businesses to build more customer relationships in a faster way. The company's platform generates data about audiences, analyzes how the promotions are being utilized and organizes the customer lists for additional follow-through, enabling clients to grow in terms of revenue.",
+  "location": "United States",
+  "industry": "Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d5d2aec0-57fe-4280-a3b9-2939b1073f70.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/privy-inc",
+  "api": "/companies/privy-inc.json"
+}

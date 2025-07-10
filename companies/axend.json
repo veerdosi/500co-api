@@ -1,0 +1,21 @@
+{
+  "id": 4421,
+  "name": "Grupo Axendco SAPI de CV",
+  "slug": "axend",
+  "website": "axend.io",
+  "description": "Developer of a digital financial lending platform designed to raise crowdsourced loans for businesses. The company's platform lets anyone invest in businesses using alternative investment products such as person-to-person and SME loans, besides carrying out investments in real estate, factoring, cryptocurrencies, and concerts among others, enabling organizations to raise debt financing via crowdfunding to fund their businesses in a secure manner.",
+  "one_liner": "Developer of a digital financial lending platform designed to raise crowdsourced loans for businesses. The company's platform lets anyone invest in businesses using alternative investment products such as person-to-person and SME loans, besides carrying out investments in real estate, factoring, cryptocurrencies, and concerts among others, enabling organizations to raise debt financing via crowdfunding to fund their businesses in a secure manner.",
+  "location": "Mexico",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/92629067-f2db-428f-908e-1302a932ba3f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/axend",
+  "api": "/companies/axend.json"
+}

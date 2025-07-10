@@ -1,0 +1,22 @@
+{
+  "id": 3972,
+  "name": "HELP Inc.",
+  "slug": "help",
+  "website": "https://helptap.com",
+  "description": "Venturz is an all-in-one startup platform for entrepreneurs to launch, grow and manage their ventures in one place — from creating landing pages and running marketing campaigns to managing customers and raising funds, Venturz allows founders to build their businesses seamlessly under one roof.",
+  "one_liner": "Venturz is an all-in-one startup platform for entrepreneurs to launch, grow and manage their ventures in one place — from creating landing pages and running marketing campaigns to managing customers and raising funds, Venturz allows founders to build their businesses seamlessly under one roof.",
+  "location": "United States",
+  "industry": "App, Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4bfb4fe5-838a-4ae5-86a3-18874ec2ce38.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "App",
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/help",
+  "api": "/companies/help.json"
+}

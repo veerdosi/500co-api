@@ -1,0 +1,22 @@
+{
+  "id": 3491,
+  "name": "Albert Corp.",
+  "slug": "albert",
+  "website": "albert.com",
+  "description": "Developer of a financial advisory platform designed to assist users in tracking their finances by aggregating financial data. The company's platform includes bank accounts, credit cards, property, loans, and investments, enabling clients to get personalized recommendations, such as setting up a savings account or applying for a loan with a lower interest rate easily.",
+  "one_liner": "Developer of a financial advisory platform designed to assist users in tracking their finances by aggregating financial data. The company's platform includes bank accounts, credit cards, property, loans, and investments, enabling clients to get personalized recommendations, such as setting up a savings account or applying for a loan with a lower interest rate easily.",
+  "location": "United States",
+  "industry": "Credit & Lending, Consumer",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/9816956d-4eb5-41ec-8278-15570bce211d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Credit & Lending",
+    "Consumer"
+  ],
+  "url": "https://500.co/portfolio/albert",
+  "api": "/companies/albert.json"
+}

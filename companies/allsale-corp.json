@@ -1,0 +1,22 @@
+{
+  "id": 8404,
+  "name": "ALLSALE Corp.",
+  "slug": "allsale-corp",
+  "website": "https://www.allsale.ai/",
+  "description": "AI-driven influencer marketing platform purpose-built for beauty brands leveraging the explosive growth of TikTok Shop in the U.S. The company addresses the increasing demand for automated, data-driven influencer campaigns that prioritize measurable ROI. ",
+  "one_liner": "AI-driven influencer marketing platform purpose-built for beauty brands leveraging the explosive growth of TikTok Shop in the U.S. The company addresses the increasing demand for automated, data-driven influencer campaigns that prioritize measurable ROI. ",
+  "location": "KOREA, REPUBLIC OF",
+  "industry": "Ecommerce, B2B Marketplaces",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/28b13135-1fe4-4f69-94e4-2f0f2b9cc3c3.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Ecommerce",
+    "B2B Marketplaces"
+  ],
+  "url": "https://500.co/portfolio/allsale-corp",
+  "api": "/companies/allsale-corp.json"
+}

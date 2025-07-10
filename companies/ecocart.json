@@ -1,0 +1,21 @@
+{
+  "id": 5330,
+  "name": "EcoCart Sciences Inc.",
+  "slug": "ecocart",
+  "website": "ecocart.io",
+  "description": "Developer of sustainable shopping applications designed to make fighting climate change simple, cost-effective and accessible. The company's application calculates and eliminates the carbon footprint of online orders, pops a notification about participating stores and provides points that can be redeemed for gift cards or to make an important impact on the planet, enabling e-commerce brands and consumers to offset the environmental repercussions of their orders while shopping at their favorite stores.",
+  "one_liner": "Developer of sustainable shopping applications designed to make fighting climate change simple, cost-effective and accessible. The company's application calculates and eliminates the carbon footprint of online orders, pops a notification about participating stores and provides points that can be redeemed for gift cards or to make an important impact on the planet, enabling e-commerce brands and consumers to offset the environmental repercussions of their orders while shopping at their favorite stores.",
+  "location": "United States",
+  "industry": "Climate Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/81c1e534-3e3f-4b14-b678-f2ad7934c6aa.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Climate Tech"
+  ],
+  "url": "https://500.co/portfolio/ecocart",
+  "api": "/companies/ecocart.json"
+}

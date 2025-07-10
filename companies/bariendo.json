@@ -1,0 +1,21 @@
+{
+  "id": 5777,
+  "name": "Bariendo Inc.",
+  "slug": "bariendo",
+  "website": "www.bariendo.com",
+  "description": "Developer of an obesity management platform intended to provide a comprehensive suite of treatments, combining both medication and next-generation endoscopic interventions. The company's physician-supervised approach combined with remote monitoring technology sets a new benchmark in obesity care to accelerate the adoption of advanced obesity interventions, enabling patients to achieve their weight loss goals.",
+  "one_liner": "Developer of an obesity management platform intended to provide a comprehensive suite of treatments, combining both medication and next-generation endoscopic interventions. The company's physician-supervised approach combined with remote monitoring technology sets a new benchmark in obesity care to accelerate the adoption of advanced obesity interventions, enabling patients to achieve their weight loss goals.",
+  "location": "United States",
+  "industry": "Health Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b73b0c12-46e3-4818-bead-6a517d3dc2ee.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Health Tech"
+  ],
+  "url": "https://500.co/portfolio/bariendo",
+  "api": "/companies/bariendo.json"
+}

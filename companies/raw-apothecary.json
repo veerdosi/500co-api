@@ -1,0 +1,21 @@
+{
+  "id": 4476,
+  "name": "Meeting of Minds Inc.",
+  "slug": "raw-apothecary",
+  "website": "rawapothecary.mx",
+  "description": "Manufacturer of natural skincare products intended to rediscover beauty without stereotypes. The company's products are formulated using materials that are developed from extracted plants, seeds, and flowers without preservatives, fragrances, or harmful chemicals, enabling women and men to look good and feel confident with beauty products made out of authentic natural touch.",
+  "one_liner": "Manufacturer of natural skincare products intended to rediscover beauty without stereotypes. The company's products are formulated using materials that are developed from extracted plants, seeds, and flowers without preservatives, fragrances, or harmful chemicals, enabling women and men to look good and feel confident with beauty products made out of authentic natural touch.",
+  "location": "Mexico",
+  "industry": "CPG (Consumer packaged goods)",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5bae7054-46c8-4d75-a337-fd8ac431e975.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "CPG (Consumer packaged goods)"
+  ],
+  "url": "https://500.co/portfolio/raw-apothecary",
+  "api": "/companies/raw-apothecary.json"
+}

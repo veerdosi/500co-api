@@ -1,0 +1,22 @@
+{
+  "id": 4167,
+  "name": "Lettuce, Inc.",
+  "slug": "lettuce-inc",
+  "website": "lettuceapps.com",
+  "description": "Developer of order management system for small and medium sized businesses. The company develops management system with a mobile sales application enabling user's business to capture, track and process orders anywhere in real time.",
+  "one_liner": "Developer of order management system for small and medium sized businesses. The company develops management system with a mobile sales application enabling user's business to capture, track and process orders anywhere in real time.",
+  "location": "United States",
+  "industry": "Content, Infrastructure",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content",
+    "Infrastructure"
+  ],
+  "url": "https://500.co/portfolio/lettuce-inc",
+  "api": "/companies/lettuce-inc.json"
+}

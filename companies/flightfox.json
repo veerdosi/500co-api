@@ -1,0 +1,21 @@
+{
+  "id": 3680,
+  "name": "FlightFox, Inc.",
+  "slug": "flightfox",
+  "website": "flightfox.com",
+  "description": "Operator of cloud-based travel management platform intended to offer online travel planning services. The company's cloud-based travel management platform allows to search, book, analyze and report on flights, hotels, cars and handles all changes and cancellations, enabling users to minimize travel complexities.",
+  "one_liner": "Operator of cloud-based travel management platform intended to offer online travel planning services. The company's cloud-based travel management platform allows to search, book, analyze and report on flights, hotels, cars and handles all changes and cancellations, enabling users to minimize travel complexities.",
+  "location": "Canada",
+  "industry": "Travel & Tourism",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4a5d3f35-6642-4417-8837-098c82c10fab.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Travel & Tourism"
+  ],
+  "url": "https://500.co/portfolio/flightfox",
+  "api": "/companies/flightfox.json"
+}

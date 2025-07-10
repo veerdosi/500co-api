@@ -1,0 +1,21 @@
+{
+  "id": 5183,
+  "name": "Pandorum Technologies Pvt. Ltd.",
+  "slug": "pandorum-technologies",
+  "website": "pandorum.com",
+  "description": "Developer of functional human tissues designed for tissue engineering and regenerative medicine. The company's experimental-stage human liver tissue is created using three-dimensional printing technology and acts as an artificial liver during liver failures or liver transplantation and takes less time to regenerate, enabling surgeons to assure painless liver surgeries.",
+  "one_liner": "Developer of functional human tissues designed for tissue engineering and regenerative medicine. The company's experimental-stage human liver tissue is created using three-dimensional printing technology and acts as an artificial liver during liver failures or liver transplantation and takes less time to regenerate, enabling surgeons to assure painless liver surgeries.",
+  "location": "India",
+  "industry": "BioTech & Life Sciences",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/93a65187-843b-4bc6-a7b8-8345951f7ff0.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "BioTech & Life Sciences"
+  ],
+  "url": "https://500.co/portfolio/pandorum-technologies",
+  "api": "/companies/pandorum-technologies.json"
+}

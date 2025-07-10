@@ -1,0 +1,21 @@
+{
+  "id": 4092,
+  "name": "Brilliant Worldwide, Inc.",
+  "slug": "brilliant",
+  "website": "brilliant.org",
+  "description": "Operator of an educational platform intended to aid students in mastering mathematics and physics. The company's platform connects students, educators, professionals, olympiad champions, and enthusiasts from around the world, enabling students to master the concepts of math, science, and engineering by solving challenging problems.",
+  "one_liner": "Operator of an educational platform intended to aid students in mastering mathematics and physics. The company's platform connects students, educators, professionals, olympiad champions, and enthusiasts from around the world, enabling students to master the concepts of math, science, and engineering by solving challenging problems.",
+  "location": "United States",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b7c83d54-4a6e-4fa8-bef2-343eb86afc5a.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/brilliant",
+  "api": "/companies/brilliant.json"
+}

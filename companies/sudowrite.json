@@ -1,0 +1,21 @@
+{
+  "id": 5109,
+  "name": "Human Plus Plus, Inc.",
+  "slug": "sudowrite",
+  "website": "www.sudowrite.com",
+  "description": "Developer of an AI tool designed for writers to generate endless possibilities based on their plots. The company's platform is an Open AI Foundation's GPT-3 and other natural language processing models that generate more vivid descriptions, bust through writer's block, and invent clever narrative twists, enabling fiction writers to unleash their creative potential using the writing AI collaborator tool.",
+  "one_liner": "Developer of an AI tool designed for writers to generate endless possibilities based on their plots. The company's platform is an Open AI Foundation's GPT-3 and other natural language processing models that generate more vivid descriptions, bust through writer's block, and invent clever narrative twists, enabling fiction writers to unleash their creative potential using the writing AI collaborator tool.",
+  "location": "United States",
+  "industry": "Productivity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a75294d4-4fc7-41c3-9241-e18dd1af6b42.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Productivity"
+  ],
+  "url": "https://500.co/portfolio/sudowrite",
+  "api": "/companies/sudowrite.json"
+}

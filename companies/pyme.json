@@ -1,0 +1,21 @@
+{
+  "id": 5553,
+  "name": "Pyme Inc",
+  "slug": "pyme",
+  "website": "pyme.id",
+  "description": "Developer of a web-based marketing platform designed for users to earn tokens, non-fungible tokens (NFTs), and other on-chain and off-chain rewards by completing quests. The company platform offers various features such as empowering to control the data, who sees data, and even, how users can make money from it, thereby enabling people to discover new web3 projects, unlock digital rewards, earn exclusive offers, access, and collectibles.",
+  "one_liner": "Developer of a web-based marketing platform designed for users to earn tokens, non-fungible tokens (NFTs), and other on-chain and off-chain rewards by completing quests. The company platform offers various features such as empowering to control the data, who sees data, and even, how users can make money from it, thereby enabling people to discover new web3 projects, unlock digital rewards, earn exclusive offers, access, and collectibles.",
+  "location": "Georgia",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/pyme",
+  "api": "/companies/pyme.json"
+}

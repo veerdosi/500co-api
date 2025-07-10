@@ -1,0 +1,21 @@
+{
+  "id": 5357,
+  "name": "AsiaOneClick Co., Ltd.",
+  "slug": "penguin",
+  "website": "www.penguin.travel",
+  "description": "Operator of an online booking application designed to bring the promotion of air tickets from local travel agencies into the online travel market. The company's application connects the users with local travel agencies in this Southeast Asia and brings appropriate fares from offline to sell it online, enabling the customers to ask any questions and feel more confident to buy the ticket online.",
+  "one_liner": "Operator of an online booking application designed to bring the promotion of air tickets from local travel agencies into the online travel market. The company's application connects the users with local travel agencies in this Southeast Asia and brings appropriate fares from offline to sell it online, enabling the customers to ask any questions and feel more confident to buy the ticket online.",
+  "location": "Thailand",
+  "industry": "Travel & Tourism",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5fef3c1f-3ee1-4a0e-a36b-8db98076dc5b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Travel & Tourism"
+  ],
+  "url": "https://500.co/portfolio/penguin",
+  "api": "/companies/penguin.json"
+}

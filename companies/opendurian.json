@@ -1,0 +1,21 @@
+{
+  "id": 3291,
+  "name": "OpenDurian Co.",
+  "slug": "opendurian",
+  "website": "www.opendurian.com",
+  "description": "Operator of an online learning platform designed to cover a wide spectrum of educational tests. The company's platform provides free and premium online test-preparation materials written by expert instructors and covers courses that are relevant from school-college admissions and language proficiency to professional certification exams, providing students a high-quality production of online courses with a medium to encounter problems through reading books and failing exams.",
+  "one_liner": "Operator of an online learning platform designed to cover a wide spectrum of educational tests. The company's platform provides free and premium online test-preparation materials written by expert instructors and covers courses that are relevant from school-college admissions and language proficiency to professional certification exams, providing students a high-quality production of online courses with a medium to encounter problems through reading books and failing exams.",
+  "location": "Thailand",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/590e5b2c-1094-489e-9e35-b49c64b0a46d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/opendurian",
+  "api": "/companies/opendurian.json"
+}

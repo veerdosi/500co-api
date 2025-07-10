@@ -1,0 +1,21 @@
+{
+  "id": 5364,
+  "name": "Dollar Beard Club, Inc",
+  "slug": "dollar-beard-club-inc",
+  "website": "thebeardclub.com",
+  "description": "Provider of grooming and beard products for men. The company provides subscription based high quality beard and grooming products, beard gear, oil, male gel and accessories for men that are made from organic materials.",
+  "one_liner": "Provider of grooming and beard products for men. The company provides subscription based high quality beard and grooming products, beard gear, oil, male gel and accessories for men that are made from organic materials.",
+  "location": "United States",
+  "industry": "Fashion",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/c5bcce99-54ab-42cf-acfa-eb97a1cfe9d0.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion"
+  ],
+  "url": "https://500.co/portfolio/dollar-beard-club-inc",
+  "api": "/companies/dollar-beard-club-inc.json"
+}

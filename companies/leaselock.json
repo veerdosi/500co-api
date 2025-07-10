@@ -1,0 +1,21 @@
+{
+  "id": 4594,
+  "name": "LeaseLock, Inc",
+  "slug": "leaselock",
+  "website": "leaselock.com",
+  "description": "Developer of financial technology software designed to deposit replacement for real estate. The company's platform leverages artificial intelligence to optimize coverage based on property history, seamless integration within the native online leasing checkout results in industry-leading adoption rates, significant conversion lift, and drastically reduced deposit administration and risk, enabling apartment operators to reduce bad debt in a faster, simpler, more affordable rental transaction, and an improved resident experience while generating coverage for the property on every lease.",
+  "one_liner": "Developer of financial technology software designed to deposit replacement for real estate. The company's platform leverages artificial intelligence to optimize coverage based on property history, seamless integration within the native online leasing checkout results in industry-leading adoption rates, significant conversion lift, and drastically reduced deposit administration and risk, enabling apartment operators to reduce bad debt in a faster, simpler, more affordable rental transaction, and an improved resident experience while generating coverage for the property on every lease.",
+  "location": "United States",
+  "industry": "InsurTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ef47011f-957c-4f64-b1e4-b9d3addfff59.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "InsurTech"
+  ],
+  "url": "https://500.co/portfolio/leaselock",
+  "api": "/companies/leaselock.json"
+}

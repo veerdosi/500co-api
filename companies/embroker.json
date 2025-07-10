@@ -1,0 +1,21 @@
+{
+  "id": 3606,
+  "name": "Embroker, Inc.",
+  "slug": "embroker",
+  "website": "www.embroker.com",
+  "description": "Developer of a digital insurance policy management platform designed to make insurance work better for businesses of all types and sizes. The company's platform offers custom-built insurance policies that are underwritten instantly with real-time claims tracking, enabling businesses to find the right insurance policies as per their requirements.",
+  "one_liner": "Developer of a digital insurance policy management platform designed to make insurance work better for businesses of all types and sizes. The company's platform offers custom-built insurance policies that are underwritten instantly with real-time claims tracking, enabling businesses to find the right insurance policies as per their requirements.",
+  "location": "United States",
+  "industry": "InsurTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/6cde1a35-8ada-4ab2-99f7-3883a31108cd.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "InsurTech"
+  ],
+  "url": "https://500.co/portfolio/embroker",
+  "api": "/companies/embroker.json"
+}

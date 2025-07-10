@@ -1,0 +1,21 @@
+{
+  "id": 5230,
+  "name": "Speedrent Technology Sdn Bhd",
+  "slug": "speedhome",
+  "website": "speedhome.com",
+  "description": "Developer of a real estate platform designed to assist owners in managing tenants and properties at an affordable rate. The company's platform has a searchable database that lets users find homes and deal with landlords directly, enabling landlords to rent properties in a cheaper, faster, and easier way.",
+  "one_liner": "Developer of a real estate platform designed to assist owners in managing tenants and properties at an affordable rate. The company's platform has a searchable database that lets users find homes and deal with landlords directly, enabling landlords to rent properties in a cheaper, faster, and easier way.",
+  "location": "Malaysia",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f8354701-e199-46b8-a051-2f0fd839d2ee.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/speedhome",
+  "api": "/companies/speedhome.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2708,
+  "name": "Fluent.ai Inc.",
+  "slug": "fluentai",
+  "website": "fluent.ai",
+  "description": "Developer of a personalized voice user interface technology designed to improve reliability and accuracy in speech recognition. The company's voice interface technology sidesteps the need to convert speech to text and instead learns to understand the meaning of audible speech in any language or accent as well as performs robustly even in offline and noisy environments, enabling consumer electronic device manufacturers and OEMs to develop convenient and secure voice user interface solutions for their devices.",
+  "one_liner": "Developer of a personalized voice user interface technology designed to improve reliability and accuracy in speech recognition. The company's voice interface technology sidesteps the need to convert speech to text and instead learns to understand the meaning of audible speech in any language or accent as well as performs robustly even in offline and noisy environments, enabling consumer electronic device manufacturers and OEMs to develop convenient and secure voice user interface solutions for their devices.",
+  "location": "Canada",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/fluentai",
+  "api": "/companies/fluentai.json"
+}

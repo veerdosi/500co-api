@@ -1,0 +1,21 @@
+{
+  "id": 4049,
+  "name": "42 Technologies, Inc.",
+  "slug": "42",
+  "website": "www.42technologies.com",
+  "description": "Developer of a predictive analytics platform designed to provide businesses with clear insights on how to expand their operations. The company's platform considers multiple retail-specific metrics to leverage all business retail data from a top-level overview of the business to visual item reporting, drill-down analysis, and ad-hoc reporting, enabling retail businesses to reduce the time spent in making key performance indicators.",
+  "one_liner": "Developer of a predictive analytics platform designed to provide businesses with clear insights on how to expand their operations. The company's platform considers multiple retail-specific metrics to leverage all business retail data from a top-level overview of the business to visual item reporting, drill-down analysis, and ad-hoc reporting, enabling retail businesses to reduce the time spent in making key performance indicators.",
+  "location": "United States",
+  "industry": "Retail",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/fff041ad-c534-4086-a927-5dc3a29e05e8.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Retail"
+  ],
+  "url": "https://500.co/portfolio/42",
+  "api": "/companies/42.json"
+}

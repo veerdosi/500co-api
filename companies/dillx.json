@@ -1,0 +1,23 @@
+{
+  "id": 5734,
+  "name": "DillX Inc.",
+  "slug": "dillx",
+  "website": "www.dillx.com",
+  "description": "Developer of legal tech platform designed to deliver a wide range of features for companies and investors. The company's platform offers investment readiness with prudent due diligence, accelerates and simplifies the due diligence process and mitigates risk, and serves investors and companies in the Middle East and Africa.",
+  "one_liner": "Developer of legal tech platform designed to deliver a wide range of features for companies and investors. The company's platform offers investment readiness with prudent due diligence, accelerates and simplifies the due diligence process and mitigates risk, and serves investors and companies in the Middle East and Africa.",
+  "location": "Egypt",
+  "industry": "AI/Machine Learning, Legal, SaaS",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/2602b646-0cc3-4900-9ddf-c84af54e14a6.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "Legal",
+    "SaaS"
+  ],
+  "url": "https://500.co/portfolio/dillx",
+  "api": "/companies/dillx.json"
+}

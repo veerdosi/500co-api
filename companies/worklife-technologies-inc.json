@@ -1,0 +1,21 @@
+{
+  "id": 3742,
+  "name": "Worklife Technologies, Inc.",
+  "slug": "worklife-technologies-inc",
+  "website": "worklife.com",
+  "description": "Provider of a Web application to conduct meetings. The company provides a virtual meeting platform that lets co-workers collaborate in real time on things like documents, notes, agendas, and tasks.",
+  "one_liner": "Provider of a Web application to conduct meetings. The company provides a virtual meeting platform that lets co-workers collaborate in real time on things like documents, notes, agendas, and tasks.",
+  "location": "United States",
+  "industry": "Productivity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Productivity"
+  ],
+  "url": "https://500.co/portfolio/worklife-technologies-inc",
+  "api": "/companies/worklife-technologies-inc.json"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 5583,
+  "name": "Refractor, Inc",
+  "slug": "lore",
+  "website": "lore.xyz",
+  "description": "Developer of a co-ownership protocol and social trading platform designed to create, share, discover, and execute diverse trade ideas. The company's platform provides a social trading application that makes financial influencers manage portfolios with friends, offers trading strategies, and lets users get paid directly by their fans, enabling groups to create and manage a shared vault where they can pool funds, co-purchase digital assets, and use web3 together in a safe, transparent unified experience.",
+  "one_liner": "Developer of a co-ownership protocol and social trading platform designed to create, share, discover, and execute diverse trade ideas. The company's platform provides a social trading application that makes financial influencers manage portfolios with friends, offers trading strategies, and lets users get paid directly by their fans, enabling groups to create and manage a shared vault where they can pool funds, co-purchase digital assets, and use web3 together in a safe, transparent unified experience.",
+  "location": "United States",
+  "industry": "FinTech, Creator Economy",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech",
+    "Creator Economy"
+  ],
+  "url": "https://500.co/portfolio/lore",
+  "api": "/companies/lore.json"
+}

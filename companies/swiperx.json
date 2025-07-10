@@ -1,0 +1,21 @@
+{
+  "id": 5400,
+  "name": "mClinica Pte. Ltd.",
+  "slug": "swiperx",
+  "website": "www.swiperxapp.com",
+  "description": "Developer of a medical technology system designed to connect pharmaceutical manufacturers, pharmacies, and patients. The company's system generates insights to collaborate more effectively with pharmacies, heightens pharmacist education, strengthens market access, optimizes commercial strategies, improves day-to-day operational efficiencies, and gives real-time access to patient and sell-out data, enabling clients to advance patient affordability, access, and adherence.",
+  "one_liner": "Developer of a medical technology system designed to connect pharmaceutical manufacturers, pharmacies, and patients. The company's system generates insights to collaborate more effectively with pharmacies, heightens pharmacist education, strengthens market access, optimizes commercial strategies, improves day-to-day operational efficiencies, and gives real-time access to patient and sell-out data, enabling clients to advance patient affordability, access, and adherence.",
+  "location": "Singapore",
+  "industry": "Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/swiperx",
+  "api": "/companies/swiperx.json"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 4622,
+  "name": "Abillionveg, Inc",
+  "slug": "abillion",
+  "website": "www.abillion.com",
+  "description": "Developer of a global review and discovery platform designed to voice an opinion about anything plant-based or cruelty-free. The company's platform leverages technology to help find where to eat, plant-based recipes, perspectives and tips on living well, and also share feedback with business owners to help them shift to more plant-based options, enabling customers to voice their opinions on plant-based alternatives.",
+  "one_liner": "Developer of a global review and discovery platform designed to voice an opinion about anything plant-based or cruelty-free. The company's platform leverages technology to help find where to eat, plant-based recipes, perspectives and tips on living well, and also share feedback with business owners to help them shift to more plant-based options, enabling customers to voice their opinions on plant-based alternatives.",
+  "location": "Singapore",
+  "industry": "App, Sustainability, Social Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/fccde8a0-3e3b-427d-974c-f01845a946e8.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "App",
+    "Sustainability",
+    "Social Impact"
+  ],
+  "url": "https://500.co/portfolio/abillion",
+  "api": "/companies/abillion.json"
+}

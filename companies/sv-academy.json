@@ -1,0 +1,21 @@
+{
+  "id": 4989,
+  "name": "Be School, Inc.",
+  "slug": "sv-academy",
+  "website": "sv.academy",
+  "description": "Developer of an online educational platform intended to democratize access to the industry for professionals from different backgrounds. The company's platform offers weekly coaching and mentoring sessions with business development executives and entrepreneurs, enabling students to graduate with a set of services and be prepared with the quality, confidence, and skills employers are looking for.",
+  "one_liner": "Developer of an online educational platform intended to democratize access to the industry for professionals from different backgrounds. The company's platform offers weekly coaching and mentoring sessions with business development executives and entrepreneurs, enabling students to graduate with a set of services and be prepared with the quality, confidence, and skills employers are looking for.",
+  "location": "United States",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a881c71a-8781-4bd7-a464-da1068e437e1.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/sv-academy",
+  "api": "/companies/sv-academy.json"
+}

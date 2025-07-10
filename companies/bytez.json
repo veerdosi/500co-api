@@ -1,0 +1,21 @@
+{
+  "id": 3396,
+  "name": "Bytez Inc.",
+  "slug": "bytez",
+  "website": "bytez.com",
+  "description": "Developer of an artificial intelligence research and development pipeline intended to help AI builders discover, demo, and deploy the AI solution. The company offers organized research papers rank-wise which are available as Python notebooks, it makes open-source AI accessible and actionable, enabling developers and big data experts to stay on the cutting edge of algorithms and models by reaching out to recent discoveries and information in various areas.",
+  "one_liner": "Developer of an artificial intelligence research and development pipeline intended to help AI builders discover, demo, and deploy the AI solution. The company offers organized research papers rank-wise which are available as Python notebooks, it makes open-source AI accessible and actionable, enabling developers and big data experts to stay on the cutting edge of algorithms and models by reaching out to recent discoveries and information in various areas.",
+  "location": "United States",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/97df1bea-85dc-49e9-bce7-b176f279a578.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/bytez",
+  "api": "/companies/bytez.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5366,
+  "name": "Improvado Inc.",
+  "slug": "improvado",
+  "website": "improvado.io",
+  "description": "Developer of an online middleware software designed to integrate and aggregate data from social platforms all in one place. The company's software gathers all the data from a range of social and business platforms together within a single access point and makes it simple to view and access marketing data in real time, enabling marketers and businesses to make informed decisions in an efficient manner.",
+  "one_liner": "Developer of an online middleware software designed to integrate and aggregate data from social platforms all in one place. The company's software gathers all the data from a range of social and business platforms together within a single access point and makes it simple to view and access marketing data in real time, enabling marketers and businesses to make informed decisions in an efficient manner.",
+  "location": "United States",
+  "industry": "Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/132a4013-b857-4db8-80bb-4f863542607f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/improvado",
+  "api": "/companies/improvado.json"
+}

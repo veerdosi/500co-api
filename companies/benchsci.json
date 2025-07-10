@@ -1,0 +1,21 @@
+{
+  "id": 2716,
+  "name": "Scinapsis Analytics Inc",
+  "slug": "benchsci",
+  "website": "www.benchsci.com",
+  "description": "Developer of a research intelligence platform designed to accelerate biomedical discoveries. The company's platform uses machine learning and artificial intelligence to translate both closed and open-access data into recommendations for specific experiments regarding antibody extraction, enabling researchers and scientists to run successful experiments in less time without wasting resources.",
+  "one_liner": "Developer of a research intelligence platform designed to accelerate biomedical discoveries. The company's platform uses machine learning and artificial intelligence to translate both closed and open-access data into recommendations for specific experiments regarding antibody extraction, enabling researchers and scientists to run successful experiments in less time without wasting resources.",
+  "location": "United States",
+  "industry": "BioTech & Life Sciences",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/330b3bae-0a32-4e90-a64a-a354fcca0305.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "BioTech & Life Sciences"
+  ],
+  "url": "https://500.co/portfolio/benchsci",
+  "api": "/companies/benchsci.json"
+}

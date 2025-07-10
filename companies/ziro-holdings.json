@@ -1,0 +1,21 @@
+{
+  "id": 5754,
+  "name": "Ziro Holdings LLC",
+  "slug": "ziro-holdings",
+  "website": "somosziro.com",
+  "description": "Operator of credit business payments marketplace intended to offer financial services to B2B, BNPL service, manufacturers, wholesalers, and B2B suppliers. The company's platform offers features like options to pay in installments, improve repurchase rates, check purchase history, and pre-approved credit limit, helping clients by offering flexible payment options so that they can improve their cash flow and grow their businesses.",
+  "one_liner": "Operator of credit business payments marketplace intended to offer financial services to B2B, BNPL service, manufacturers, wholesalers, and B2B suppliers. The company's platform offers features like options to pay in installments, improve repurchase rates, check purchase history, and pre-approved credit limit, helping clients by offering flexible payment options so that they can improve their cash flow and grow their businesses.",
+  "location": "Colombia",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/e4d47e00-01ae-4ad0-a7cf-a98f19c44476.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/ziro-holdings",
+  "api": "/companies/ziro-holdings.json"
+}

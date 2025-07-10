@@ -1,0 +1,22 @@
+{
+  "id": 2938,
+  "name": "K.K. Spacee",
+  "slug": "spacee",
+  "website": "www.spacee.co.jp",
+  "description": "Provider of renting services intended to allow idle spaces to be rented out to general users as a meeting room. The company's platform offers a wide variety of rooms, from cheap to high-grade, such as private rental conference rooms, training, study sessions, seminar venues, rental kitchens, photography studios, and party rental rooms, enabling clients to book open meeting rooms in nearby offices.",
+  "one_liner": "Provider of renting services intended to allow idle spaces to be rented out to general users as a meeting room. The company's platform offers a wide variety of rooms, from cheap to high-grade, such as private rental conference rooms, training, study sessions, seminar venues, rental kitchens, photography studios, and party rental rooms, enabling clients to book open meeting rooms in nearby offices.",
+  "location": "Japan",
+  "industry": "Real Estate, Work",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/af4c6d83-f3ad-484f-9f1a-2ac07fe914bc.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate",
+    "Work"
+  ],
+  "url": "https://500.co/portfolio/spacee",
+  "api": "/companies/spacee.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5570,
+  "name": "Byterum Holdings Ltd",
+  "slug": "nftgo",
+  "website": "nftgo.io",
+  "description": "Developer of non-fungible token data aggregation platform designed to track, analyze, and discover valuable NFTs. The company's platform uses a self-developed stable blockchain data collection engine to obtain the latest on-chain transaction data from the blockchain and parses it into readable NFT transaction and market data, enabling NFT project parties to accurately acquire customers, and helping users better obtain the new NFT market trends.",
+  "one_liner": "Developer of non-fungible token data aggregation platform designed to track, analyze, and discover valuable NFTs. The company's platform uses a self-developed stable blockchain data collection engine to obtain the latest on-chain transaction data from the blockchain and parses it into readable NFT transaction and market data, enabling NFT project parties to accurately acquire customers, and helping users better obtain the new NFT market trends.",
+  "location": "Singapore",
+  "industry": "Crypto",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b572f52a-16bb-466c-83c2-f9484951e6c2.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Crypto"
+  ],
+  "url": "https://500.co/portfolio/nftgo",
+  "api": "/companies/nftgo.json"
+}

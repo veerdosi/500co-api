@@ -1,0 +1,22 @@
+{
+  "id": 4913,
+  "name": "Bunch Live, Inc.",
+  "slug": "bunch",
+  "website": "bunch.live",
+  "description": "Developer of a mobile game application designed to play favorite games over video chat. The company's application delivers a social gaming experience on smartphones and tablets even when the players are physically apart, enabling video gamers to play with friends with the liberty to laugh together and engage in friendly banter.",
+  "one_liner": "Developer of a mobile game application designed to play favorite games over video chat. The company's application delivers a social gaming experience on smartphones and tablets even when the players are physically apart, enabling video gamers to play with friends with the liberty to laugh together and engage in friendly banter.",
+  "location": "Canada",
+  "industry": "Gaming, Social Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/8591bf8a-2fba-42bc-976b-05041318680c.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Gaming",
+    "Social Impact"
+  ],
+  "url": "https://500.co/portfolio/bunch",
+  "api": "/companies/bunch.json"
+}

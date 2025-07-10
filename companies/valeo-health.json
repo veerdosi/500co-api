@@ -1,0 +1,21 @@
+{
+  "id": 5616,
+  "name": "Valeo Health Holding Limited",
+  "slug": "valeo-health",
+  "website": "feelvaleo.com",
+  "description": "Developer of personalized mobile health tracker designed to optimize health. The company's health tracker provides users with access and insight into their wellness data, consumers can purchase packages through the application, combining wellness tests and personalized advice from certified coaches, enabling users to track their health.",
+  "one_liner": "Developer of personalized mobile health tracker designed to optimize health. The company's health tracker provides users with access and insight into their wellness data, consumers can purchase packages through the application, combining wellness tests and personalized advice from certified coaches, enabling users to track their health.",
+  "location": "United Arab Emirates",
+  "industry": "Health Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Health Tech"
+  ],
+  "url": "https://500.co/portfolio/valeo-health",
+  "api": "/companies/valeo-health.json"
+}

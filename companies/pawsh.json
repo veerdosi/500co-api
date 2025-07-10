@@ -1,0 +1,21 @@
+{
+  "id": 3516,
+  "name": "Pawsh Inc.",
+  "slug": "pawsh",
+  "website": "www.pawsh.app",
+  "description": "Developer of a pet grooming application designed to make the pet care delivery system transparent and friendly. The company's application connects users with top-rated and vetted pet grooming experts who come directly to their homes for a delightful grooming session, enabling pet owners to groom their pets easily and witness the grooming process from start to finish, and be satisfied with the way grooming services are performed.",
+  "one_liner": "Developer of a pet grooming application designed to make the pet care delivery system transparent and friendly. The company's application connects users with top-rated and vetted pet grooming experts who come directly to their homes for a delightful grooming session, enabling pet owners to groom their pets easily and witness the grooming process from start to finish, and be satisfied with the way grooming services are performed.",
+  "location": "United States",
+  "industry": "Pet Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/6cbd9172-c0f0-4bdd-bed7-bcd70dcec38e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Pet Tech"
+  ],
+  "url": "https://500.co/portfolio/pawsh",
+  "api": "/companies/pawsh.json"
+}

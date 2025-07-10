@@ -1,0 +1,21 @@
+{
+  "id": 4774,
+  "name": "Saucey Inc.",
+  "slug": "saucey-inc",
+  "website": "sauceyapp.com",
+  "description": "Provider of an on-demand alcohol delivery platform designed to offer a reliable way to shop for alcohol. The company's alcohol delivery platform offers the convenience of 30-minutes delivery, enabling consumers to purchase alcohol with higher frequency.",
+  "one_liner": "Provider of an on-demand alcohol delivery platform designed to offer a reliable way to shop for alcohol. The company's alcohol delivery platform offers the convenience of 30-minutes delivery, enabling consumers to purchase alcohol with higher frequency.",
+  "location": "United States",
+  "industry": "Mobility",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Mobility"
+  ],
+  "url": "https://500.co/portfolio/saucey-inc",
+  "api": "/companies/saucey-inc.json"
+}

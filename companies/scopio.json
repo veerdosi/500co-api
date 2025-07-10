@@ -1,0 +1,21 @@
+{
+  "id": 4565,
+  "name": "Scopio Technologies Inc",
+  "slug": "scopio",
+  "website": "scop.io",
+  "description": "Developer of an artificial intelligence-based user-generated content platform designed to find and license images and videos from social media. The company's platform streamlines the copyright process for user-generated images and videos on social media, enabling users to seamlessly search, license, publish and pull insights from user-generated images and videos.",
+  "one_liner": "Developer of an artificial intelligence-based user-generated content platform designed to find and license images and videos from social media. The company's platform streamlines the copyright process for user-generated images and videos on social media, enabling users to seamlessly search, license, publish and pull insights from user-generated images and videos.",
+  "location": "United States",
+  "industry": "Social Media",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d6ecd12e-a9d2-4cb1-b827-5e841cabf30a.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Media"
+  ],
+  "url": "https://500.co/portfolio/scopio",
+  "api": "/companies/scopio.json"
+}

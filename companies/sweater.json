@@ -1,0 +1,23 @@
+{
+  "id": 5474,
+  "name": "Sweater Holding Ltd",
+  "slug": "sweater",
+  "website": "sweater.sa",
+  "description": "Developer of booking platform intended to provide car washing services. The company allows users to book appointments through its application and provides easy and convenient services, helping customers to get the car washing service at the right time and place at a competitive price.",
+  "one_liner": "Developer of booking platform intended to provide car washing services. The company allows users to book appointments through its application and provides easy and convenient services, helping customers to get the car washing service at the right time and place at a competitive price.",
+  "location": "Saudi Arabia",
+  "industry": "CleanTech, SaaS, Consumer",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/cc976877-3ec8-424b-a941-7f388d721c18.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "CleanTech",
+    "SaaS",
+    "Consumer"
+  ],
+  "url": "https://500.co/portfolio/sweater",
+  "api": "/companies/sweater.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4828,
+  "name": "JusticeText, Inc.",
+  "slug": "justicetext",
+  "website": "justicetext.com",
+  "description": "Developer of video evidence management software designed for criminal defense attorneys. The company's video evidence transcription tool offers features such as speaker recognition, timestamped notes, video clipping, accuracy heat map, exporting transcripts, and editing transcripts of body camera footage, interrogation videos, and jail calls, enabling public defenders to deliver fairer outcomes in the criminal justice system.",
+  "one_liner": "Developer of video evidence management software designed for criminal defense attorneys. The company's video evidence transcription tool offers features such as speaker recognition, timestamped notes, video clipping, accuracy heat map, exporting transcripts, and editing transcripts of body camera footage, interrogation videos, and jail calls, enabling public defenders to deliver fairer outcomes in the criminal justice system.",
+  "location": "United States",
+  "industry": "Legal",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/84481be9-bb5f-4358-b15f-e19a23fa92e8.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Legal"
+  ],
+  "url": "https://500.co/portfolio/justicetext",
+  "api": "/companies/justicetext.json"
+}

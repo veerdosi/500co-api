@@ -1,0 +1,23 @@
+[
+  {
+    "id": 3206,
+    "name": "Civica Digital Mexico S.A.P.I. DE C.V.",
+    "slug": "civica-digital-mexico",
+    "website": "www.civica.digital",
+    "description": "Developer of digital Software-as-a-service platform designed to digitize government-to-citizen services. The company's web-based portal provides software and data integration services and helps governments to citizen digital services, including forms, documents, workflows, e-signature, payments, and citizen IDs for full workflow automation, focused on public sector and governments, helping clients to have the appropriate feedback on the services they provide to the community.",
+    "one_liner": "Developer of digital Software-as-a-service platform designed to digitize government-to-citizen services. The company's web-based portal provides software and data integration services and helps governments to citizen digital services, including forms, documents, workflows, e-signature, payments, and citizen IDs for full workflow automation, focused on public sector and governments, helping clients to have the appropriate feedback on the services they provide to the community.",
+    "location": "Mexico",
+    "industry": "CivicTech",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/8c51d184-04ee-4c7d-a824-cf8256ff502a.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "CivicTech"
+    ],
+    "url": "https://500.co/portfolio/civica-digital-mexico",
+    "api": "/companies/civica-digital-mexico.json"
+  }
+]

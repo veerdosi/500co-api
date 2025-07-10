@@ -1,0 +1,21 @@
+{
+  "id": 4564,
+  "name": "Complete Fintech Platform Inc.",
+  "slug": "subgen",
+  "website": "subgen.com",
+  "description": "Developer of an online subscription engine designed to offer subscription services for all business types. The company's engine focuses on recurring billing assistance for businesses that were built around subscriptions to integrate with payment gateways as well as point-of-sale systems, enabling businesses to connect the application with their CRM, marketing, accounting, and general management tools.",
+  "one_liner": "Developer of an online subscription engine designed to offer subscription services for all business types. The company's engine focuses on recurring billing assistance for businesses that were built around subscriptions to integrate with payment gateways as well as point-of-sale systems, enabling businesses to connect the application with their CRM, marketing, accounting, and general management tools.",
+  "location": "Turkey",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/de1f555e-8530-4f9e-aad6-3fedb6ca0376.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/subgen",
+  "api": "/companies/subgen.json"
+}

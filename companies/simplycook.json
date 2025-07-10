@@ -1,0 +1,21 @@
+{
+  "id": 3267,
+  "name": "SimplyCook Limited",
+  "slug": "simplycook",
+  "website": "simplycook.com",
+  "description": "Provider of a subscription-based service designed to make cooking new meals accessible for all. The company's subscription-based service offers new concept recipe kits containing recipe cards and natural ingredient blends with culinary taste ingredients, enabling its members to expand their meal repertoire with ease.",
+  "one_liner": "Provider of a subscription-based service designed to make cooking new meals accessible for all. The company's subscription-based service offers new concept recipe kits containing recipe cards and natural ingredient blends with culinary taste ingredients, enabling its members to expand their meal repertoire with ease.",
+  "location": "United Kingdom",
+  "industry": "Food",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/42eca8ff-2f7f-4afc-ab6f-0eb9b135b93c.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Food"
+  ],
+  "url": "https://500.co/portfolio/simplycook",
+  "api": "/companies/simplycook.json"
+}

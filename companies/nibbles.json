@@ -1,0 +1,22 @@
+{
+  "id": 5297,
+  "name": "Nibbles PBC",
+  "slug": "nibbles",
+  "website": "nibbl.es",
+  "description": "Provider of pet insurance services intended to get stress-free pet healthcare. The company's services offer dog and cat insurance coverage that includes vet visits and tests, emergency care, routine treatment and chronic problems, enabling pets to get a long and healthy life.",
+  "one_liner": "Provider of pet insurance services intended to get stress-free pet healthcare. The company's services offer dog and cat insurance coverage that includes vet visits and tests, emergency care, routine treatment and chronic problems, enabling pets to get a long and healthy life.",
+  "location": "United States",
+  "industry": "FinTech, InsurTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ebea2efa-e411-4fa5-bdc6-781d5fac6c9d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech",
+    "InsurTech"
+  ],
+  "url": "https://500.co/portfolio/nibbles",
+  "api": "/companies/nibbles.json"
+}

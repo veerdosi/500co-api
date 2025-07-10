@@ -1,0 +1,21 @@
+{
+  "id": 4567,
+  "name": "Kinedu, Inc.",
+  "slug": "kinedu",
+  "website": "app.kinedu.com",
+  "description": "Developer of an educational platform designed to develop nourishing and meaningful relationships with children through creative activities. The company's platform offers engaging personalized video-based developmental activities for children, enabling parents to boost the cognitive, social, linguistic, emotional, and physical progress of their toddlers in the stage of their early development.",
+  "one_liner": "Developer of an educational platform designed to develop nourishing and meaningful relationships with children through creative activities. The company's platform offers engaging personalized video-based developmental activities for children, enabling parents to boost the cognitive, social, linguistic, emotional, and physical progress of their toddlers in the stage of their early development.",
+  "location": "Mexico",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/e36ebe4a-e898-4b55-8b28-3854d4afad7a.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/kinedu",
+  "api": "/companies/kinedu.json"
+}

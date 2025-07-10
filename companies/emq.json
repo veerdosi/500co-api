@@ -1,0 +1,21 @@
+{
+  "id": 3245,
+  "name": "EMQ Inc.",
+  "slug": "emq",
+  "website": "emq.com",
+  "description": "Operator of a financial settlement network intended to optimize cross-border remittances. The company operates a cross-border settlement network that provides affordable, efficient and transparent financial settlement for global businesses, enabling users to have a settlement network that makes cross-border remittances streamlined, neutral, low-cost, secure, and real-time.",
+  "one_liner": "Operator of a financial settlement network intended to optimize cross-border remittances. The company operates a cross-border settlement network that provides affordable, efficient and transparent financial settlement for global businesses, enabling users to have a settlement network that makes cross-border remittances streamlined, neutral, low-cost, secure, and real-time.",
+  "location": "Hong Kong",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ee1cb968-f72c-48e9-b740-d3bbcf944620.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/emq",
+  "api": "/companies/emq.json"
+}

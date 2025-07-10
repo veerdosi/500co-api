@@ -1,0 +1,22 @@
+{
+  "id": 4386,
+  "name": "Goodpeople Co.",
+  "slug": "goodpeople",
+  "website": "goodpeople.com",
+  "description": "Operator of a social e-commerce site for action sports based in San Francisco, California. The company provides its community with a curated selection of established and upcoming outdoor lifestyle brands.",
+  "one_liner": "Operator of a social e-commerce site for action sports based in San Francisco, California. The company provides its community with a curated selection of established and upcoming outdoor lifestyle brands.",
+  "location": "Malaysia",
+  "industry": "Fashion, Social Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion",
+    "Social Impact"
+  ],
+  "url": "https://500.co/portfolio/goodpeople",
+  "api": "/companies/goodpeople.json"
+}

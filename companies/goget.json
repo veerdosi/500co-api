@@ -1,0 +1,22 @@
+{
+  "id": 2972,
+  "name": "Eternal Meteor Sdn Bhd",
+  "slug": "goget",
+  "website": "goget.my",
+  "description": "Developer of a demand workforce platform designed to offer reliable and skilled manpower. The company's platform transforms the traditional labor market, no longer do people have to choose only between a full-time job or an eight-hour working shift, enabling businesses to grow their operations with a dynamic on-demand workforce to increase productivity and save costs.",
+  "one_liner": "Developer of a demand workforce platform designed to offer reliable and skilled manpower. The company's platform transforms the traditional labor market, no longer do people have to choose only between a full-time job or an eight-hour working shift, enabling businesses to grow their operations with a dynamic on-demand workforce to increase productivity and save costs.",
+  "location": "Malaysia",
+  "industry": "Supply Chain, HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/67004465-12cd-46fb-8f5d-c2a5a7b1a253.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Supply Chain",
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/goget",
+  "api": "/companies/goget.json"
+}

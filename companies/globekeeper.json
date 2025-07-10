@@ -1,0 +1,21 @@
+{
+  "id": 4505,
+  "name": "GlobeKeeper LLC",
+  "slug": "globekeeper",
+  "website": "globekeeper.com",
+  "description": "Developer of secure communication and tracking software designed to communicate securely and easily within an organization. The company's software includes features such as real-time tracking, mission planning, and case management, enabling government and private security organizations to improve their operations and keep people safe.",
+  "one_liner": "Developer of secure communication and tracking software designed to communicate securely and easily within an organization. The company's software includes features such as real-time tracking, mission planning, and case management, enabling government and private security organizations to improve their operations and keep people safe.",
+  "location": "United States",
+  "industry": "Government",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b5f8e943-95ad-4f8a-b3d7-38e09759db60.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Government"
+  ],
+  "url": "https://500.co/portfolio/globekeeper",
+  "api": "/companies/globekeeper.json"
+}

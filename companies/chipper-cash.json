@@ -1,0 +1,21 @@
+{
+  "id": 5232,
+  "name": "Critical Ideas, Inc.",
+  "slug": "chipper-cash",
+  "website": "chippercash.com",
+  "description": "Operator of a money transfer platform intended to provide free and instant peer-to-peer cross-border money payments. The company's platform provides a fee-free transfer frictionless way to send and receive money for personal payments through financial inclusivity across the continent, enabling users to make payments efficiently via mobile application.",
+  "one_liner": "Operator of a money transfer platform intended to provide free and instant peer-to-peer cross-border money payments. The company's platform provides a fee-free transfer frictionless way to send and receive money for personal payments through financial inclusivity across the continent, enabling users to make payments efficiently via mobile application.",
+  "location": "United States",
+  "industry": "Payments",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Payments"
+  ],
+  "url": "https://500.co/portfolio/chipper-cash",
+  "api": "/companies/chipper-cash.json"
+}

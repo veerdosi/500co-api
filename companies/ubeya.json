@@ -1,0 +1,21 @@
+{
+  "id": 5007,
+  "name": "Ubeya Technologies Ltd.",
+  "slug": "ubeya",
+  "website": "www.ubeya.com",
+  "description": "Developer of a workforce management platform designed for businesses employing temporary workers as part of the gig economy. The company offers an employee application that manages employee networks and helps businesses to shorten communication cycles within their organization through a shared contacts list application, enabling business and agency leaders to optimize processes, scheduling, communication, payroll, and compliance.",
+  "one_liner": "Developer of a workforce management platform designed for businesses employing temporary workers as part of the gig economy. The company offers an employee application that manages employee networks and helps businesses to shorten communication cycles within their organization through a shared contacts list application, enabling business and agency leaders to optimize processes, scheduling, communication, payroll, and compliance.",
+  "location": "Israel",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/90e68284-be62-4ba1-835f-0569a90f9af1.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/ubeya",
+  "api": "/companies/ubeya.json"
+}

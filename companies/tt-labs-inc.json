@@ -1,0 +1,21 @@
+{
+  "id": 4191,
+  "name": "TT Labs, Inc.",
+  "slug": "tt-labs-inc",
+  "website": "videopixie.com",
+  "description": "Developer of video platform for online retailers. The company's video platform utilizes the SaaS platform for adding videos online to communicate and sell via online product videos, enabling retailers, gaming companies and individuals to hire the video professionals at a range of price points, to fit any budget and make trailers, using in-game footage or product videos and air the same on national TV.",
+  "one_liner": "Developer of video platform for online retailers. The company's video platform utilizes the SaaS platform for adding videos online to communicate and sell via online product videos, enabling retailers, gaming companies and individuals to hire the video professionals at a range of price points, to fit any budget and make trailers, using in-game footage or product videos and air the same on national TV.",
+  "location": "United States",
+  "industry": "Social Media",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/3271ddaf-9c2a-49c1-8cf8-a7c6789881e0.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Media"
+  ],
+  "url": "https://500.co/portfolio/tt-labs-inc",
+  "api": "/companies/tt-labs-inc.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5064,
+  "name": "BSOS Holdings INC.",
+  "slug": "bsos",
+  "website": "www.bsos.co",
+  "description": "Operator of a B2B supply chain fintech company intended to solve the asset liquidity problem by blockchain and DeFi. The company's SaaS sustainable working capital management platform offers to democratize the global liquidity market and optimizes payment terms within the supply chain and uses blockchain to form trusted real-world assets, thereby helping businesses get liquidity, realize high-efficiency asset transactions that make supply chain financing easier and far more efficient.",
+  "one_liner": "Operator of a B2B supply chain fintech company intended to solve the asset liquidity problem by blockchain and DeFi. The company's SaaS sustainable working capital management platform offers to democratize the global liquidity market and optimizes payment terms within the supply chain and uses blockchain to form trusted real-world assets, thereby helping businesses get liquidity, realize high-efficiency asset transactions that make supply chain financing easier and far more efficient.",
+  "location": "Taiwan",
+  "industry": "Credit & Lending",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Credit & Lending"
+  ],
+  "url": "https://500.co/portfolio/bsos",
+  "api": "/companies/bsos.json"
+}

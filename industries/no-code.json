@@ -1,0 +1,123 @@
+[
+  {
+    "id": 5549,
+    "name": "Kovzy Co.",
+    "slug": "kovzy",
+    "website": "kovzy.com",
+    "description": "Developer of restaurant tech platform designed to offer direct digital ordering, payment and delivery upports to restaurants. The company offers different delivery methods, manage the delivery radius around the branch and design templates of all online restaurants, enabling restaurant owners to set up their online restaurant and QR menu in less time and receive direct orders from your loyal customers.",
+    "one_liner": "Developer of restaurant tech platform designed to offer direct digital ordering, payment and delivery upports to restaurants. The company offers different delivery methods, manage the delivery radius around the branch and design templates of all online restaurants, enabling restaurant owners to set up their online restaurant and QR menu in less time and receive direct orders from your loyal customers.",
+    "location": "Georgia",
+    "industry": "Food, No Code, SaaS",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/cc089611-aa97-4532-ba0d-38d95204c8e1.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Food",
+      "No Code",
+      "SaaS"
+    ],
+    "url": "https://500.co/portfolio/kovzy",
+    "api": "/companies/kovzy.json"
+  },
+  {
+    "id": 5306,
+    "name": "Phase Software GmbH",
+    "slug": "phase",
+    "website": "phase.com",
+    "description": "Developer of a web design platform intended for websites and applications intuitively. The company's platform offers prototype apps and websites built with live data where everything, every button, page, and interaction becomes easy, enabling software developers to design their digital software and platform with ease.",
+    "one_liner": "Developer of a web design platform intended for websites and applications intuitively. The company's platform offers prototype apps and websites built with live data where everything, every button, page, and interaction becomes easy, enabling software developers to design their digital software and platform with ease.",
+    "location": "Taiwan",
+    "industry": "No Code, Productivity",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/08fc6ce6-348e-403e-8cca-146b2fd0b852.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "No Code",
+      "Productivity"
+    ],
+    "url": "https://500.co/portfolio/phase",
+    "api": "/companies/phase.json"
+  },
+  {
+    "id": 5070,
+    "name": "El-Dokan, Inc.",
+    "slug": "supercommerce",
+    "website": "el-dokan.com",
+    "description": "Operator of an information technology consulting company intended to develop enterprise e-commerce software designed for large and growing retail stores. The company's expertise involves end-to-end software development and web application development for e-commerce businesses, enabling clients to focus more on their core businesses.",
+    "one_liner": "Operator of an information technology consulting company intended to develop enterprise e-commerce software designed for large and growing retail stores. The company's expertise involves end-to-end software development and web application development for e-commerce businesses, enabling clients to focus more on their core businesses.",
+    "location": "Saudi Arabia",
+    "industry": "Developer Tools, Ecommerce, No Code",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/0eb82de6-7986-4881-bb69-16ce1d2ef6c7.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Developer Tools",
+      "Ecommerce",
+      "No Code"
+    ],
+    "url": "https://500.co/portfolio/supercommerce",
+    "api": "/companies/supercommerce.json"
+  },
+  {
+    "id": 2850,
+    "name": "Synervoz Communications Inc.",
+    "slug": "synervoz",
+    "website": "synervoz.com",
+    "description": "Developer of an innovation & software studio intended to focus on audio, entertainment, and online collaboration. The company has designed, developed, and co-created apps, SDKs, and embedded products with complex audio pipelines focused on custom engineering solutions for other companies and source code that can be licensed or purchased outright, enabling clients to have access to applications that are balanced in real-time and offers non-live content that can be synchronized between parties.",
+    "one_liner": "Developer of an innovation & software studio intended to focus on audio, entertainment, and online collaboration. The company has designed, developed, and co-created apps, SDKs, and embedded products with complex audio pipelines focused on custom engineering solutions for other companies and source code that can be licensed or purchased outright, enabling clients to have access to applications that are balanced in real-time and offers non-live content that can be synchronized between parties.",
+    "location": "Canada",
+    "industry": "AI/Machine Learning, AudioTech, Developer Tools, Gaming, No Code, Telecommunications, Deep Tech, Augmented Reality / Virtual Reality, Entertainment / Media, Consumer, Network Effects",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f775e511-f1a9-4d8e-be25-3740816f470a.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "AI/Machine Learning",
+      "AudioTech",
+      "Developer Tools",
+      "Gaming",
+      "No Code",
+      "Telecommunications",
+      "Deep Tech",
+      "Augmented Reality / Virtual Reality",
+      "Entertainment / Media",
+      "Consumer",
+      "Network Effects"
+    ],
+    "url": "https://500.co/portfolio/synervoz",
+    "api": "/companies/synervoz.json"
+  },
+  {
+    "id": 4152,
+    "name": "HAT GSC, Inc.",
+    "slug": "hat-gsc-inc",
+    "website": "gospotcheck.com",
+    "description": "Create beautiful data visualizations, easily. Connect your data (currently Airtable and Google Sheets), configure visualizations with drag and drop, and embed them anywhere.",
+    "one_liner": "Create beautiful data visualizations, easily. Connect your data (currently Airtable and Google Sheets), configure visualizations with drag and drop, and embed them anywhere.",
+    "location": "United States",
+    "industry": "No Code, SaaS",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/52f112ef-418d-4bb8-883e-a459b6269b70.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "No Code",
+      "SaaS"
+    ],
+    "url": "https://500.co/portfolio/hat-gsc-inc",
+    "api": "/companies/hat-gsc-inc.json"
+  }
+]

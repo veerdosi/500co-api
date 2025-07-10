@@ -1,0 +1,21 @@
+{
+  "id": 3092,
+  "name": "Hipflat Pte Ltd",
+  "slug": "hipflat-pte-ltd",
+  "website": "hipflat.co.th",
+  "description": "Provider of a real estate search platform designed to help people find the right home. The company's online real estate portal uses a smart automated system for collection, extraction and processing of real estate pricing data from hundreds of unstructured sources, which includes asking prices for over 2,500 projects going back as far as eight years, achievable rental yields and pricing trends, all at no cost to buyers, enabling property buyers and renters to do their research and make an informed decision about property purchases or sales.",
+  "one_liner": "Provider of a real estate search platform designed to help people find the right home. The company's online real estate portal uses a smart automated system for collection, extraction and processing of real estate pricing data from hundreds of unstructured sources, which includes asking prices for over 2,500 projects going back as far as eight years, achievable rental yields and pricing trends, all at no cost to buyers, enabling property buyers and renters to do their research and make an informed decision about property purchases or sales.",
+  "location": "Singapore",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/3584dc21-eddf-48de-b7bb-67e5cea308a7.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/hipflat-pte-ltd",
+  "api": "/companies/hipflat-pte-ltd.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3596,
+  "name": "Hamsa Pay, Inc.",
+  "slug": "hamsa",
+  "website": "hamsapay.com",
+  "description": "Developer of a cross-border payment platform designed to combine the existing financial system with blockchain technology. The company's platform features a global checkout portal that is built specifically for B2B e-commerce, a dedicated control center for all transactions and can be integrated with various accounting software, enabling businesses to process multi-currency transfers more efficiently.",
+  "one_liner": "Developer of a cross-border payment platform designed to combine the existing financial system with blockchain technology. The company's platform features a global checkout portal that is built specifically for B2B e-commerce, a dedicated control center for all transactions and can be integrated with various accounting software, enabling businesses to process multi-currency transfers more efficiently.",
+  "location": "United States",
+  "industry": "Payments",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7f985cf7-7f51-4f4e-8d11-565a98e5d327.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Payments"
+  ],
+  "url": "https://500.co/portfolio/hamsa",
+  "api": "/companies/hamsa.json"
+}

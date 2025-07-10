@@ -1,0 +1,21 @@
+{
+  "id": 8441,
+  "name": "lunchlab Corp.",
+  "slug": "lunchlab-corp",
+  "website": "www.lunchlab.me",
+  "description": "A B2B foodtech startup offering affordable, high-quality, and highly scalable corporate lunchbox subscription services tailored for small to mid-sized enterprises (SMEs). The company operates a hybrid model of direct manufacturing and delivery, with an ambition to evolve into a full-stack B2B food logistics and technology platform.",
+  "one_liner": "A B2B foodtech startup offering affordable, high-quality, and highly scalable corporate lunchbox subscription services tailored for small to mid-sized enterprises (SMEs). The company operates a hybrid model of direct manufacturing and delivery, with an ambition to evolve into a full-stack B2B food logistics and technology platform.",
+  "location": "KOREA, REPUBLIC OF",
+  "industry": "Consumer",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/8fcd3474-4614-4ac3-8f69-16dedbd30236.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Consumer"
+  ],
+  "url": "https://500.co/portfolio/lunchlab-corp",
+  "api": "/companies/lunchlab-corp.json"
+}

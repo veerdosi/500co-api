@@ -1,0 +1,21 @@
+{
+  "id": 3811,
+  "name": "Reesio, Inc.",
+  "slug": "reesio-inc",
+  "website": "reesio.com",
+  "description": "Provider of a platform that focuses on real estate transaction process. The company has developed a platform which enables its users to share real estate documents and manage property showings, offers, messages and document storage.",
+  "one_liner": "Provider of a platform that focuses on real estate transaction process. The company has developed a platform which enables its users to share real estate documents and manage property showings, offers, messages and document storage.",
+  "location": "United States",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/73ab1be9-fe5e-47bf-bdab-a48a4da203fc.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/reesio-inc",
+  "api": "/companies/reesio-inc.json"
+}

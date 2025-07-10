@@ -1,0 +1,21 @@
+{
+  "id": 3833,
+  "name": "Silvernest, Inc.",
+  "slug": "silvernest-inc",
+  "website": "silvernest.com",
+  "description": "Provider of an online roommate-matching platform designed for homeowners to rent out a room or portion of their home. The company's proprietary matching tool pairs boomers, retirees, empty nesters and other aging adults with compatible long-term housemates, enabling them to earn extra income, establish new social connections and the ability to stay in the home as the years go on.",
+  "one_liner": "Provider of an online roommate-matching platform designed for homeowners to rent out a room or portion of their home. The company's proprietary matching tool pairs boomers, retirees, empty nesters and other aging adults with compatible long-term housemates, enabling them to earn extra income, establish new social connections and the ability to stay in the home as the years go on.",
+  "location": "United States",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/afa1db65-7cda-4ad1-a412-f7737c392904.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/silvernest-inc",
+  "api": "/companies/silvernest-inc.json"
+}

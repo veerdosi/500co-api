@@ -1,0 +1,23 @@
+{
+  "id": 5545,
+  "name": "Tass Vision, Inc.",
+  "slug": "tass-vision",
+  "website": "tassvision.ai",
+  "description": "Developer of a video surveillance system designed to detect, track, and analyze camera data. The company's system includes visitor analytics which gives detailed information about visitors, helps in detecting the most visited zones with its pre-installed heat card, and records staff's arrival and departure times, enabling marketing analysts to understand the target audience and track business changes.",
+  "one_liner": "Developer of a video surveillance system designed to detect, track, and analyze camera data. The company's system includes visitor analytics which gives detailed information about visitors, helps in detecting the most visited zones with its pre-installed heat card, and records staff's arrival and departure times, enabling marketing analysts to understand the target audience and track business changes.",
+  "location": "Uzbekistan",
+  "industry": "AI/Machine Learning, Retail, SaaS",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/1a1824cf-92ae-42e2-b48f-c86afbb39046.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "Retail",
+    "SaaS"
+  ],
+  "url": "https://500.co/portfolio/tass-vision",
+  "api": "/companies/tass-vision.json"
+}

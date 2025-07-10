@@ -1,0 +1,21 @@
+{
+  "id": 4443,
+  "name": "Slik Pro Corp.",
+  "slug": "slik",
+  "website": "www.slikpro.com",
+  "description": "We provide organizations with cloud-based surveys and analytics to measure and improve employee engagement. ",
+  "one_liner": "We provide organizations with cloud-based surveys and analytics to measure and improve employee engagement. ",
+  "location": "Argentina",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/02db0baa-c905-4bdd-bdcf-100f9eeffc3c.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/slik",
+  "api": "/companies/slik.json"
+}

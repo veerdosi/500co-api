@@ -1,0 +1,21 @@
+{
+  "id": 3058,
+  "name": "Reality Reflection Inc.",
+  "slug": "reality-reflection",
+  "website": "realityreflection.com",
+  "description": "Developer of a virtual reality software designed to build lifelike 3D models in a detailed resolution. The company's software provides immersion and reality with a level of full high-definition to create virtual reality games, photo-realistic characters, high-fidelity facial animations, and interactive content for its clients, enabling gaming companies to use it in various computer games and multimedia products.",
+  "one_liner": "Developer of a virtual reality software designed to build lifelike 3D models in a detailed resolution. The company's software provides immersion and reality with a level of full high-definition to create virtual reality games, photo-realistic characters, high-fidelity facial animations, and interactive content for its clients, enabling gaming companies to use it in various computer games and multimedia products.",
+  "location": "South Korea",
+  "industry": "Consumer",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/e3a4fd96-0cb0-419a-9773-c27024e42cf0.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Consumer"
+  ],
+  "url": "https://500.co/portfolio/reality-reflection",
+  "api": "/companies/reality-reflection.json"
+}

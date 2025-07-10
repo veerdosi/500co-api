@@ -1,0 +1,21 @@
+{
+  "id": 5351,
+  "name": "Lish Inc.",
+  "slug": "lish-inc",
+  "website": "lishfood.com",
+  "description": "Provider of an on-demand food delivery platform. The company's on-demand food delivery platform connects busy people with local chefs enabling customers to discover and order healthy home cooked dinners and meals hand-made by local chefs delivered at their homes and place of work.",
+  "one_liner": "Provider of an on-demand food delivery platform. The company's on-demand food delivery platform connects busy people with local chefs enabling customers to discover and order healthy home cooked dinners and meals hand-made by local chefs delivered at their homes and place of work.",
+  "location": "United States",
+  "industry": "Mobility",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/38f6f480-5699-45db-aa8b-904d264fba12.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Mobility"
+  ],
+  "url": "https://500.co/portfolio/lish-inc",
+  "api": "/companies/lish-inc.json"
+}

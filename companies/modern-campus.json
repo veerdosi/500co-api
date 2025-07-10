@@ -1,0 +1,21 @@
+{
+  "id": 3612,
+  "name": "Check I'm here, Inc.",
+  "slug": "modern-campus",
+  "website": "moderncampus.com",
+  "description": "Developer of student engagement and learning software designed to assist in the management and assessment process. The company's software helps universities to improve retention rates by tracking and learning about their students' involvement patterns and behaviors and makes it easy to visualize and assess efforts through data, streamlines workflows for departments and student organizations, enabling universities to map and create learning outcomes to opportunities for student success.",
+  "one_liner": "Developer of student engagement and learning software designed to assist in the management and assessment process. The company's software helps universities to improve retention rates by tracking and learning about their students' involvement patterns and behaviors and makes it easy to visualize and assess efforts through data, streamlines workflows for departments and student organizations, enabling universities to map and create learning outcomes to opportunities for student success.",
+  "location": "United States",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/82d37f3c-0cd5-4564-a1e4-1e4821d3b297.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/modern-campus",
+  "api": "/companies/modern-campus.json"
+}

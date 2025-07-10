@@ -1,0 +1,21 @@
+{
+  "id": 3523,
+  "name": "Drover Inc.",
+  "slug": "drover-ai",
+  "website": "drover.ai",
+  "description": "Developer of micro-mobility technologies designed to elevate the micro-mobility industry and tie into the smart city eco-systems. The company develops an advanced IoT module for micro-mobility vehicles that is capable of granular infrastructure distinction in real-time without the need for ground truth information or precise GPS and can accurately and reliably identify sidewalks, streets, and bike lanes, enabling cities to manage regulatory compliance across multiple operators simultaneously and users to navigate without hassle.",
+  "one_liner": "Developer of micro-mobility technologies designed to elevate the micro-mobility industry and tie into the smart city eco-systems. The company develops an advanced IoT module for micro-mobility vehicles that is capable of granular infrastructure distinction in real-time without the need for ground truth information or precise GPS and can accurately and reliably identify sidewalks, streets, and bike lanes, enabling cities to manage regulatory compliance across multiple operators simultaneously and users to navigate without hassle.",
+  "location": "United States",
+  "industry": "Automotive",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/856267ef-fc49-42dc-8d2c-28987ff99505.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Automotive"
+  ],
+  "url": "https://500.co/portfolio/drover-ai",
+  "api": "/companies/drover-ai.json"
+}

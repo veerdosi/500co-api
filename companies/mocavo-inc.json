@@ -1,0 +1,21 @@
+{
+  "id": 4787,
+  "name": "Mocavo, Inc.",
+  "slug": "mocavo-inc",
+  "website": "mocavo.com",
+  "description": "Provider of genealogy search engine. The company provides search engine to genealogists and people interested in learning more about their family history.",
+  "one_liner": "Provider of genealogy search engine. The company provides search engine to genealogists and people interested in learning more about their family history.",
+  "location": "United States",
+  "industry": "Social Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b2cd7f33-0340-4e89-aa14-a2b604bbff2e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Impact"
+  ],
+  "url": "https://500.co/portfolio/mocavo-inc",
+  "api": "/companies/mocavo-inc.json"
+}

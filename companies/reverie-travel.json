@@ -1,0 +1,21 @@
+{
+  "id": 5801,
+  "name": "Reverie Travel, Inc",
+  "slug": "reverie-travel",
+  "website": "travelreverie.com",
+  "description": "Developer of travel booking platform designed for trip planning. The company's platform offers services such as people can discover trip for themselves, can plan their trip quickly and can get insider knowledge without any research, enabling people to book their trip conveniently.",
+  "one_liner": "Developer of travel booking platform designed for trip planning. The company's platform offers services such as people can discover trip for themselves, can plan their trip quickly and can get insider knowledge without any research, enabling people to book their trip conveniently.",
+  "location": "United States",
+  "industry": "Travel & Tourism",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/1b0a2380-7e07-4de5-8a71-78d487afc001.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Travel & Tourism"
+  ],
+  "url": "https://500.co/portfolio/reverie-travel",
+  "api": "/companies/reverie-travel.json"
+}

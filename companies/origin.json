@@ -1,0 +1,21 @@
+{
+  "id": 3441,
+  "name": "Blend Financial Inc.",
+  "slug": "origin",
+  "website": "www.useorigin.com",
+  "description": "Developer of a money management platform designed to educate employees in managing their finances. The company's platform combines human financial planners with financial technology that educates and helps to create, execute, and track personalized financial plans, enabling workers to manage their entire financial lives in one place and receive personalized guidance along the way.",
+  "one_liner": "Developer of a money management platform designed to educate employees in managing their finances. The company's platform combines human financial planners with financial technology that educates and helps to create, execute, and track personalized financial plans, enabling workers to manage their entire financial lives in one place and receive personalized guidance along the way.",
+  "location": "United States",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/edff5630-26cc-45b8-bfa9-569b5a2e2a59.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/origin",
+  "api": "/companies/origin.json"
+}

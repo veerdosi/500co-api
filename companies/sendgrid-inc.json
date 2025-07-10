@@ -1,0 +1,22 @@
+{
+  "id": 3740,
+  "name": "SendGrid, Inc.",
+  "slug": "sendgrid-inc",
+  "website": "sendgrid.com",
+  "description": "Provider of mobile and cloud-based email service platform designed to deliver customer communication that drives engagement and business growth. The company's email service platform integrates via API, SMTP or builds and sends email campaigns using online email marketing tools, enabling enterprises to increase email deliverability, to access actionable insight and scale itself to meet any volume of email.",
+  "one_liner": "Provider of mobile and cloud-based email service platform designed to deliver customer communication that drives engagement and business growth. The company's email service platform integrates via API, SMTP or builds and sends email campaigns using online email marketing tools, enabling enterprises to increase email deliverability, to access actionable insight and scale itself to meet any volume of email.",
+  "location": "United States",
+  "industry": "Content, Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a857ce58-2ca9-49f4-ab2d-4a354d25e9d2.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content",
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/sendgrid-inc",
+  "api": "/companies/sendgrid-inc.json"
+}

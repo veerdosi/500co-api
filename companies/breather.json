@@ -1,0 +1,21 @@
+{
+  "id": 2752,
+  "name": "Breather Products, Inc.",
+  "slug": "breather",
+  "website": "breather.com",
+  "description": "Developer of an online real estate platform intended to provide office and workspaces on rent. The company's platform provides office spaces by the hour, day or week which are fully equipped for meetings that help users to host video conferences and stay connected, enabling businesses and corporate clients to get spaces as per their requirements that help them improve their operations.",
+  "one_liner": "Developer of an online real estate platform intended to provide office and workspaces on rent. The company's platform provides office spaces by the hour, day or week which are fully equipped for meetings that help users to host video conferences and stay connected, enabling businesses and corporate clients to get spaces as per their requirements that help them improve their operations.",
+  "location": "Canada",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/355e63cf-8b6e-452a-ae3e-042c00fc5955.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/breather",
+  "api": "/companies/breather.json"
+}

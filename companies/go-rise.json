@@ -1,0 +1,23 @@
+{
+  "id": 2970,
+  "name": "Go Rise Ltd.",
+  "slug": "go-rise",
+  "website": "www.gorise.co",
+  "description": "Developer of a wealth management platform intended to solve the financial problems of migrants. The company offers banking and financial services to low-income, unbanked, and underbanked migrant workers in the United Arab Emirates, enabling users to manage their finances, learn new skills, and build a better future.",
+  "one_liner": "Developer of a wealth management platform intended to solve the financial problems of migrants. The company offers banking and financial services to low-income, unbanked, and underbanked migrant workers in the United Arab Emirates, enabling users to manage their finances, learn new skills, and build a better future.",
+  "location": "United Arab Emirates",
+  "industry": "FinTech, Real Estate, Consumer",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d94a79fa-6808-4076-9cfa-7c4f02232bec.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech",
+    "Real Estate",
+    "Consumer"
+  ],
+  "url": "https://500.co/portfolio/go-rise",
+  "api": "/companies/go-rise.json"
+}

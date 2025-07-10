@@ -1,0 +1,22 @@
+{
+  "id": 5779,
+  "name": "Planby Technologies, Inc.",
+  "slug": "planby-technologies",
+  "website": "www.planby.us",
+  "description": "Developer of an AI-powered interior design automation platform designed to streamline the design process. The company's platform leverages artificial intelligence to create custom interior designs in less than a minute with various settings, enabling users to create designs that match their preferences while reducing unnecessary time and delivering designs quickly.",
+  "one_liner": "Developer of an AI-powered interior design automation platform designed to streamline the design process. The company's platform leverages artificial intelligence to create custom interior designs in less than a minute with various settings, enabling users to create designs that match their preferences while reducing unnecessary time and delivering designs quickly.",
+  "location": "South Korea",
+  "industry": "AI/Machine Learning, Enterprise",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/4911c41c-4c73-44aa-875d-ef050986a65e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "Enterprise"
+  ],
+  "url": "https://500.co/portfolio/planby-technologies",
+  "api": "/companies/planby-technologies.json"
+}

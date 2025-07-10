@@ -1,0 +1,21 @@
+{
+  "id": 2893,
+  "name": "Iconfinder ApS",
+  "slug": "iconfinder-aps",
+  "website": "iconfinder.com",
+  "description": "Provider of an icon search engine designed to offer customized icon design. The company's icon search engine gives access to a library of icons through subscription, enabling web designers and developers to use graphical computer icons.",
+  "one_liner": "Provider of an icon search engine designed to offer customized icon design. The company's icon search engine gives access to a library of icons through subscription, enabling web designers and developers to use graphical computer icons.",
+  "location": "Denmark",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7360c3fe-241d-4741-b0ca-76ec08695018.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/iconfinder-aps",
+  "api": "/companies/iconfinder-aps.json"
+}

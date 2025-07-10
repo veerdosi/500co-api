@@ -1,0 +1,25 @@
+{
+  "id": 8106,
+  "name": "MLNETWORKSIO,INC.",
+  "slug": "mlnetworks",
+  "website": "mlnetworks.io",
+  "description": "MLNetworks helps Telcos to design, operate and optimize their networks more intelligently through an end-to-end data platform. ",
+  "one_liner": "MLNetworks helps Telcos to design, operate and optimize their networks more intelligently through an end-to-end data platform. ",
+  "location": "Morocco",
+  "industry": "AI/Machine Learning, Accounting, Data & Analytics, SaaS, Telecommunications",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/f333c6cd-f5b3-4a0b-b981-e7df80e7f827.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "Accounting",
+    "Data & Analytics",
+    "SaaS",
+    "Telecommunications"
+  ],
+  "url": "https://500.co/portfolio/mlnetworks",
+  "api": "/companies/mlnetworks.json"
+}

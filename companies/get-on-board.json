@@ -1,0 +1,21 @@
+{
+  "id": 4414,
+  "name": "Get On Board Holding Corp.",
+  "slug": "get-on-board",
+  "website": "getonbrd.com",
+  "description": "Operator of an online job portal intended to connect the startups and tech companies of the world with fresh talents around the globe. The company's platform filters and curates jobs in the fields of sales, designing, human resources, cybersecurity, and many more in several locations, enabling job seekers to find jobs as per their requirements efficiently.",
+  "one_liner": "Operator of an online job portal intended to connect the startups and tech companies of the world with fresh talents around the globe. The company's platform filters and curates jobs in the fields of sales, designing, human resources, cybersecurity, and many more in several locations, enabling job seekers to find jobs as per their requirements efficiently.",
+  "location": "Chile",
+  "industry": "SME Solution",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/333f9359-b452-4ffd-bcc4-a95827faa0af.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "SME Solution"
+  ],
+  "url": "https://500.co/portfolio/get-on-board",
+  "api": "/companies/get-on-board.json"
+}

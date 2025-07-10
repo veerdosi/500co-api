@@ -1,0 +1,21 @@
+{
+  "id": 3761,
+  "name": "HubLogix, Inc.",
+  "slug": "hublogix-inc",
+  "website": "hublogix.com",
+  "description": "Provider of a cloud-based e-commerce platform intended to integrate, manage and optimize merchandise sales. The company's cloud-based e-commerce platform connects inventory management services, third-party logistics providers and wholesale distributors to provide a seamless link from an e-commerce platform to one or many fulfillment points to automate inventory, orders and shipment updates enable retailers and branded manufacturers to work in a flexible way.",
+  "one_liner": "Provider of a cloud-based e-commerce platform intended to integrate, manage and optimize merchandise sales. The company's cloud-based e-commerce platform connects inventory management services, third-party logistics providers and wholesale distributors to provide a seamless link from an e-commerce platform to one or many fulfillment points to automate inventory, orders and shipment updates enable retailers and branded manufacturers to work in a flexible way.",
+  "location": "United States",
+  "industry": "Supply Chain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Supply Chain"
+  ],
+  "url": "https://500.co/portfolio/hublogix-inc",
+  "api": "/companies/hublogix-inc.json"
+}

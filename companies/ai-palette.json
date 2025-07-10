@@ -1,0 +1,23 @@
+{
+  "id": 8107,
+  "name": "AI PALETTE PTE. LTD.",
+  "slug": "ai-palette",
+  "website": "www.aipalette.com",
+  "description": "Stay ahead of consumer trends with real-time predictive analytics",
+  "one_liner": "Stay ahead of consumer trends with real-time predictive analytics",
+  "location": "Singapore",
+  "industry": "Content, Data & Analytics, Supply Chain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/709049b5-0a75-48e7-9d16-dd18a6b08fdc.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content",
+    "Data & Analytics",
+    "Supply Chain"
+  ],
+  "url": "https://500.co/portfolio/ai-palette",
+  "api": "/companies/ai-palette.json"
+}

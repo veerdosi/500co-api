@@ -1,0 +1,21 @@
+{
+  "id": 4089,
+  "name": "Punchd Labs, Inc.",
+  "slug": "punchd-labs-inc",
+  "website": "getpunchd.com",
+  "description": "Provider of digital loyalty card services. The company provides a replacement for the buy-10-get-1-free cards with a mobile loyalty system.",
+  "one_liner": "Provider of digital loyalty card services. The company provides a replacement for the buy-10-get-1-free cards with a mobile loyalty system.",
+  "location": "United States",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/68283c27-d47b-4bd6-8bf5-294c672d6975.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/punchd-labs-inc",
+  "api": "/companies/punchd-labs-inc.json"
+}

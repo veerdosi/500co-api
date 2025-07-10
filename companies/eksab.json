@@ -1,0 +1,21 @@
+{
+  "id": 4381,
+  "name": "Eksab Corporation",
+  "slug": "eksab",
+  "website": "eksab.com",
+  "description": "Operator of a sports entertainment platform intended to offer online fantasy, prediction and trivia games. The company's platform includes making predictions about live football games from around the world, collecting points based on the accuracy of predictions and getting rewarded with prizes, enabling users to challenge their friends with fun, exciting and engaging mobile games.",
+  "one_liner": "Operator of a sports entertainment platform intended to offer online fantasy, prediction and trivia games. The company's platform includes making predictions about live football games from around the world, collecting points based on the accuracy of predictions and getting rewarded with prizes, enabling users to challenge their friends with fun, exciting and engaging mobile games.",
+  "location": "Egypt",
+  "industry": "Gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/aff4b218-4f1d-44a1-9325-68451fbe24df.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Gaming"
+  ],
+  "url": "https://500.co/portfolio/eksab",
+  "api": "/companies/eksab.json"
+}

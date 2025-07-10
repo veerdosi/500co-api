@@ -1,0 +1,21 @@
+{
+  "id": 3014,
+  "name": "GEIA S.A.P.I. DE C.V.",
+  "slug": "baubap",
+  "website": "www.baubap.com",
+  "description": "Developer of a microlending financial platform intended to offer personal loans. The company's platform offers instant loans to customers through its application without the need for documents or convoluted processes, enabling users to apply for a loan anytime and anywhere without any hassle.",
+  "one_liner": "Developer of a microlending financial platform intended to offer personal loans. The company's platform offers instant loans to customers through its application without the need for documents or convoluted processes, enabling users to apply for a loan anytime and anywhere without any hassle.",
+  "location": "Mexico",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/33bbdb99-ad1d-41cf-9007-2fba36e1e657.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/baubap",
+  "api": "/companies/baubap.json"
+}

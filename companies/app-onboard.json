@@ -1,0 +1,21 @@
+{
+  "id": 4581,
+  "name": "APP ONBOARD, INC.",
+  "slug": "app-onboard",
+  "website": "www.apponboard.com",
+  "description": "Developer of a no-code development software designed to bring ideas to life without having to write a single code. The company's software creates applications, playable advertisements, application prototypes, and game developments without the need of writing codes, enabling users to design, build and share their interactive experiences on application stores and social networks.",
+  "one_liner": "Developer of a no-code development software designed to bring ideas to life without having to write a single code. The company's software creates applications, playable advertisements, application prototypes, and game developments without the need of writing codes, enabling users to design, build and share their interactive experiences on application stores and social networks.",
+  "location": "Vietnam",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b240cae3-dfea-4cc9-a3ae-2ae004e649bb.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/app-onboard",
+  "api": "/companies/app-onboard.json"
+}

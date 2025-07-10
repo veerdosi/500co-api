@@ -1,0 +1,21 @@
+{
+  "id": 5437,
+  "name": "OSYVA LLC",
+  "slug": "osyva",
+  "website": "www.osyva.com",
+  "description": "Developer of an eCommerce platform intended to find supplies and medicine for their pets. The company's platform helps customers buy medicines, supplements, and cereals at any time and from anywhere through its user-friendly application, providing customers with a hassle-free platform to order essential medicine and food supplies for their pets at their own convenience.",
+  "one_liner": "Developer of an eCommerce platform intended to find supplies and medicine for their pets. The company's platform helps customers buy medicines, supplements, and cereals at any time and from anywhere through its user-friendly application, providing customers with a hassle-free platform to order essential medicine and food supplies for their pets at their own convenience.",
+  "location": "Colombia",
+  "industry": "Pet Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/2babaa5f-58e4-411f-a801-65ac38a16f22.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Pet Tech"
+  ],
+  "url": "https://500.co/portfolio/osyva",
+  "api": "/companies/osyva.json"
+}

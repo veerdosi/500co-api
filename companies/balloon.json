@@ -1,0 +1,21 @@
+{
+  "id": 4758,
+  "name": "Balloonr, Inc.",
+  "slug": "balloon",
+  "website": "getballoon.com",
+  "description": "Developer of an insight mobility platform intended to solve the systemic issues that hold back teams and drive them to true growth. The company's platform levels the playing field and removes costly cognitive biases like groupthink, gender bias, and anchoring from collaboration, decision-making, and innovation, enabling companies to identify priorities, reach decisions and define decisions that streamline workflows, allowing clients to lead to fewer meetings and productive results.",
+  "one_liner": "Developer of an insight mobility platform intended to solve the systemic issues that hold back teams and drive them to true growth. The company's platform levels the playing field and removes costly cognitive biases like groupthink, gender bias, and anchoring from collaboration, decision-making, and innovation, enabling companies to identify priorities, reach decisions and define decisions that streamline workflows, allowing clients to lead to fewer meetings and productive results.",
+  "location": "United States",
+  "industry": "Productivity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/25e57751-5a65-4265-aeb0-929c7cbec616.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Productivity"
+  ],
+  "url": "https://500.co/portfolio/balloon",
+  "api": "/companies/balloon.json"
+}

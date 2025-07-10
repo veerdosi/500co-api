@@ -1,0 +1,21 @@
+{
+  "id": 5178,
+  "name": "Design Barn Inc.",
+  "slug": "lottiefiles",
+  "website": "lottiefiles.com",
+  "description": "Developer of an animation workflow platform designed to create a new realm of possibilities with interactive design. The company focuses on building an open-source animation file format that is tiny, interactive, and can be manipulated at runtime as well as helps to create interactive motion graphics that make products stand out, enabling motion designers, developers, and marketers to increase engagement by grabbing and holding user attention.",
+  "one_liner": "Developer of an animation workflow platform designed to create a new realm of possibilities with interactive design. The company focuses on building an open-source animation file format that is tiny, interactive, and can be manipulated at runtime as well as helps to create interactive motion graphics that make products stand out, enabling motion designers, developers, and marketers to increase engagement by grabbing and holding user attention.",
+  "location": "Malaysia",
+  "industry": "Creative Industry",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/c6f7d549-94f8-47f6-a010-7ba380d5e3ce.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Creative Industry"
+  ],
+  "url": "https://500.co/portfolio/lottiefiles",
+  "api": "/companies/lottiefiles.json"
+}

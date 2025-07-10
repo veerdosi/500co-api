@@ -1,0 +1,21 @@
+{
+  "id": 3166,
+  "name": "Pixyalbum S.A.P.I. DE C.V.",
+  "slug": "pixyalbum",
+  "website": "www.pixyalbum.com",
+  "description": "Developer of a photo album creator application intended to simplify photo book creation. The company's application features photo uploading, editing, auto sync with social network accounts, and album delivery with free shipping, enabling users to capture special occasions and make photo books easily at low prices.",
+  "one_liner": "Developer of a photo album creator application intended to simplify photo book creation. The company's application features photo uploading, editing, auto sync with social network accounts, and album delivery with free shipping, enabling users to capture special occasions and make photo books easily at low prices.",
+  "location": "Mexico",
+  "industry": "Ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/3fa994e9-556c-4eec-a4a9-909cde0fa17b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Ecommerce"
+  ],
+  "url": "https://500.co/portfolio/pixyalbum",
+  "api": "/companies/pixyalbum.json"
+}

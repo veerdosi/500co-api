@@ -1,0 +1,22 @@
+{
+  "id": 4194,
+  "name": "Worldly Developments, Inc.",
+  "slug": "worldly-developments-inc",
+  "website": "plancast.com",
+  "description": "Developer of software for social web applications. The company is known for creating the social event discovery service Plancast.",
+  "one_liner": "Developer of software for social web applications. The company is known for creating the social event discovery service Plancast.",
+  "location": "United States",
+  "industry": "Entertainment / Media, Social Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Entertainment / Media",
+    "Social Impact"
+  ],
+  "url": "https://500.co/portfolio/worldly-developments-inc",
+  "api": "/companies/worldly-developments-inc.json"
+}

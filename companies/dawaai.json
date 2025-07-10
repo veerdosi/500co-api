@@ -1,0 +1,21 @@
+{
+  "id": 4907,
+  "name": "Dawaai Technologies Pte Ltd",
+  "slug": "dawaai",
+  "website": "dawaai.pk",
+  "description": "Developer of an online pharmacy platform intended to offer and deliver medical and health essentials. The company's product catalog includes supplements, homeopathic products, herbal products, personal care items, wellness products, and medical equipment coupled with counseling and advisory services, enabling customers to access requisite healthcare services in a convenient and economical manner by getting discounts on medicines.",
+  "one_liner": "Developer of an online pharmacy platform intended to offer and deliver medical and health essentials. The company's product catalog includes supplements, homeopathic products, herbal products, personal care items, wellness products, and medical equipment coupled with counseling and advisory services, enabling customers to access requisite healthcare services in a convenient and economical manner by getting discounts on medicines.",
+  "location": "Singapore",
+  "industry": "Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b403ea50-c988-425a-acad-9ebb0f5b0844.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/dawaai",
+  "api": "/companies/dawaai.json"
+}

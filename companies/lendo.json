@@ -1,0 +1,22 @@
+{
+  "id": 2942,
+  "name": "Lendo Inc.",
+  "slug": "lendo",
+  "website": "lendo.sa",
+  "description": "Provider of peer-to-peer lending services intended to help small and medium enterprises pre-finance their invoices. The company offers an alternative to regular short-term finance by borrowing money against outstanding invoices and individual lending through individuals as well as provides investment tracking services through application, enabling businesses and individuals to meet their short-term and working capital needs.",
+  "one_liner": "Provider of peer-to-peer lending services intended to help small and medium enterprises pre-finance their invoices. The company offers an alternative to regular short-term finance by borrowing money against outstanding invoices and individual lending through individuals as well as provides investment tracking services through application, enabling businesses and individuals to meet their short-term and working capital needs.",
+  "location": "Saudi Arabia",
+  "industry": "Credit & Lending, Consumer",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Credit & Lending",
+    "Consumer"
+  ],
+  "url": "https://500.co/portfolio/lendo",
+  "api": "/companies/lendo.json"
+}

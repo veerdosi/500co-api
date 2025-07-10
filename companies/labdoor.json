@@ -1,0 +1,21 @@
+{
+  "id": 4122,
+  "name": "Labdoor, Inc.",
+  "slug": "labdoor",
+  "website": "labdoor.com",
+  "description": "Provider of health supplement information services intended to offer reliable scientific reviews and shopping options for quality-tested supplements. The company publishes reports and information based on analysis of the purity and potency of dietary supplements and energy drinks by sending a sample of each product to a registered laboratory for detailed chemical analysis, enabling consumers to purchase tested supplements that improve and benefit their health.",
+  "one_liner": "Provider of health supplement information services intended to offer reliable scientific reviews and shopping options for quality-tested supplements. The company publishes reports and information based on analysis of the purity and potency of dietary supplements and energy drinks by sending a sample of each product to a registered laboratory for detailed chemical analysis, enabling consumers to purchase tested supplements that improve and benefit their health.",
+  "location": "United States",
+  "industry": "Wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/30ac7e66-189c-423d-9c82-b14a327321bc.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Wellness"
+  ],
+  "url": "https://500.co/portfolio/labdoor",
+  "api": "/companies/labdoor.json"
+}

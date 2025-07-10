@@ -1,0 +1,23 @@
+{
+  "id": 5858,
+  "name": "Preciser, Inc.",
+  "slug": "preciser",
+  "website": "www.preciser.io",
+  "description": "Developer of an artificial intelligence-powered prediction platform designed to provide forecasts for sports betting. The company's integrated analytical tools allow for the interpretation of trends, the identification of outliers, and the observation of statistical insights through AI/ML predictions to provide an effective way to discover meaningful and accurate data, enabling sports bettors and fantasy sports players to shorten the time required for research and make well-informed projections with graphical analysis.",
+  "one_liner": "Developer of an artificial intelligence-powered prediction platform designed to provide forecasts for sports betting. The company's integrated analytical tools allow for the interpretation of trends, the identification of outliers, and the observation of statistical insights through AI/ML predictions to provide an effective way to discover meaningful and accurate data, enabling sports bettors and fantasy sports players to shorten the time required for research and make well-informed projections with graphical analysis.",
+  "location": "United States",
+  "industry": "AI/Machine Learning, SaaS, Sports",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/579722a0-593a-4c6c-b9c8-4b15e3b6e82d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "SaaS",
+    "Sports"
+  ],
+  "url": "https://500.co/portfolio/preciser",
+  "api": "/companies/preciser.json"
+}

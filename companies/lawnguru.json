@@ -1,0 +1,21 @@
+{
+  "id": 4924,
+  "name": "Guru Ventures, Inc.",
+  "slug": "lawnguru",
+  "website": "lawnguru.co",
+  "description": "Provider of an outside-the-home services marketplace intended to connect consumers with professionals. The company's services include recurring mowing, yard clean-ups, seeding, mulching, weeding, and snow clearing among others, enabling customers to book services instantly, using an artificial intelligence-powered satellite mapping tool, or request competitive quotes from top-rated crews nearby",
+  "one_liner": "Provider of an outside-the-home services marketplace intended to connect consumers with professionals. The company's services include recurring mowing, yard clean-ups, seeding, mulching, weeding, and snow clearing among others, enabling customers to book services instantly, using an artificial intelligence-powered satellite mapping tool, or request competitive quotes from top-rated crews nearby",
+  "location": "India",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/3140dfb7-0b90-4c35-b1db-d620dd00aa1c.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/lawnguru",
+  "api": "/companies/lawnguru.json"
+}

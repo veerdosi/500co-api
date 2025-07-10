@@ -1,0 +1,21 @@
+{
+  "id": 3187,
+  "name": "Tableapp Sdn Bhd",
+  "slug": "tableapp-sdn-bhd",
+  "website": "tableapp.com",
+  "description": "Provider of an online table booking application designed to make restaurant reservations quicker and easier. The company's online table booking application assists, reviews and manages reservations all-in-one, enablings users to locate, assess and reserve a table instantly with instant confirmation.",
+  "one_liner": "Provider of an online table booking application designed to make restaurant reservations quicker and easier. The company's online table booking application assists, reviews and manages reservations all-in-one, enablings users to locate, assess and reserve a table instantly with instant confirmation.",
+  "location": "Malaysia",
+  "industry": "Infrastructure",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f01a1497-2382-476b-838a-7d48f6128d6d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Infrastructure"
+  ],
+  "url": "https://500.co/portfolio/tableapp-sdn-bhd",
+  "api": "/companies/tableapp-sdn-bhd.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5298,
+  "name": "STAREK Scientific Co., Ltd.",
+  "slug": "sciket",
+  "website": "www.sciket.com",
+  "description": "Developer of an online shopping platform intended for the purchase and sale of scientific research commodities by researchers. The company's platform offers multiple payment options, cross-device compatibility, price transparency, commodity consulting service and artificial intelligence-backed recommendations for each user's needs, enabling research practitioners to find their desired products with accuracy, speed and convenience and have an innovative research shopping experience.",
+  "one_liner": "Developer of an online shopping platform intended for the purchase and sale of scientific research commodities by researchers. The company's platform offers multiple payment options, cross-device compatibility, price transparency, commodity consulting service and artificial intelligence-backed recommendations for each user's needs, enabling research practitioners to find their desired products with accuracy, speed and convenience and have an innovative research shopping experience.",
+  "location": "Taiwan",
+  "industry": "Productivity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ce4621cd-fa6b-43be-943f-be3c9d609d67.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Productivity"
+  ],
+  "url": "https://500.co/portfolio/sciket",
+  "api": "/companies/sciket.json"
+}

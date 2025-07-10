@@ -1,0 +1,22 @@
+{
+  "id": 5226,
+  "name": "Boomtrain, Inc.",
+  "slug": "boomtrain-inc",
+  "website": "boomtrain.com",
+  "description": "Provider of an artificial intelligence marketing platform designed to make marketing valuable for businesses and consumers. The company's artificial intelligence marketing platform drives relevant interactions with users through analysis of billions of data points that offer single uniﬁed view of each customer, enabling clients to understand and communicate with their customers on an individual level, at any scale.",
+  "one_liner": "Provider of an artificial intelligence marketing platform designed to make marketing valuable for businesses and consumers. The company's artificial intelligence marketing platform drives relevant interactions with users through analysis of billions of data points that offer single uniﬁed view of each customer, enabling clients to understand and communicate with their customers on an individual level, at any scale.",
+  "location": "United States",
+  "industry": "Content, Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4e220355-2881-421b-a897-6579df756042.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content",
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/boomtrain-inc",
+  "api": "/companies/boomtrain-inc.json"
+}

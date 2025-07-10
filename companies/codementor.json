@@ -1,0 +1,21 @@
+{
+  "id": 4028,
+  "name": "Peeridea, Inc.",
+  "slug": "codementor",
+  "website": "www.codementor.io",
+  "description": "Operator of an online marketplace intended to serve software developers to grow through live mentorship and virtual events. The company's platform connects developers with experts for on-demand one-is-to-one help by utilizing screen sharing, video, and text chat, in order to replicate for users the experience of having a mentor for code reviewing, debugging, and online programming, enabling users to receive an improved remote hiring service and enhance their skills.",
+  "one_liner": "Operator of an online marketplace intended to serve software developers to grow through live mentorship and virtual events. The company's platform connects developers with experts for on-demand one-is-to-one help by utilizing screen sharing, video, and text chat, in order to replicate for users the experience of having a mentor for code reviewing, debugging, and online programming, enabling users to receive an improved remote hiring service and enhance their skills.",
+  "location": "United States",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/54e70a95-bf97-4dfb-9e98-d0bd4f5e82ca.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/codementor",
+  "api": "/companies/codementor.json"
+}

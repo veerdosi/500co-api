@@ -1,0 +1,21 @@
+{
+  "id": 3385,
+  "name": "Nas Education Pte. Ltd.",
+  "slug": "nasio",
+  "website": "nasdaily.com",
+  "description": "Operator of a production studio intended to create impactful stories for social media. The company's site shares a list of trending blogs, one-minute videos, journals, and articles on life, culture, travel, and food and also offers a content creation platform, providing viewers with various stories from the world and empowering creators to become educators.",
+  "one_liner": "Operator of a production studio intended to create impactful stories for social media. The company's site shares a list of trending blogs, one-minute videos, journals, and articles on life, culture, travel, and food and also offers a content creation platform, providing viewers with various stories from the world and empowering creators to become educators.",
+  "location": "Singapore",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/c306161a-4d5b-4e8f-97bc-9bef196d404f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/nasio",
+  "api": "/companies/nasio.json"
+}

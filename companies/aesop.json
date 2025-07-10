@@ -1,0 +1,23 @@
+{
+  "id": 5465,
+  "name": "AESOP Technology, Inc.",
+  "slug": "aesop",
+  "website": "www.aesoptek.com",
+  "description": "Developer of AI Enhanced SOlutions for Physicians (AESOP) designed to create decision support for physicians that improves healthcare quality and safety, and that makes billing related documentation easier using machine learning run on many patient visits. The company's technology offers decision support and reporting that flags inappropriate prescriptions, where the medications prescribed do not match the diagnosis, age, and gender of the patient, enabling users to enhance patient safety and medical billing accuracy.",
+  "one_liner": "Developer of AI Enhanced SOlutions for Physicians (AESOP) designed to create decision support for physicians that improves healthcare quality and safety, and that makes billing related documentation easier using machine learning run on many patient visits. The company's technology offers decision support and reporting that flags inappropriate prescriptions, where the medications prescribed do not match the diagnosis, age, and gender of the patient, enabling users to enhance patient safety and medical billing accuracy.",
+  "location": "United States",
+  "industry": "Health Tech, Marketplace, SaaS",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/bfafaeb7-ad22-445f-a6e0-9838524f2b61.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Health Tech",
+    "Marketplace",
+    "SaaS"
+  ],
+  "url": "https://500.co/portfolio/aesop",
+  "api": "/companies/aesop.json"
+}

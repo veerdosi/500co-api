@@ -1,0 +1,21 @@
+{
+  "id": 8204,
+  "name": "CardMonster Inc.",
+  "slug": "cardmonster",
+  "website": "cardmon.com",
+  "description": "Developer of both offline and online casual games, including board games, trading card games, and tabletop games. The company’s core strategy focuses on first creating and refining games in their offline form, such as board games and tabletop games. Once these concepts are well-tested and polished, they are then transitioned to online formats using the company’s proprietary game development platform.",
+  "one_liner": "Developer of both offline and online casual games, including board games, trading card games, and tabletop games. The company’s core strategy focuses on first creating and refining games in their offline form, such as board games and tabletop games. Once these concepts are well-tested and polished, they are then transitioned to online formats using the company’s proprietary game development platform.",
+  "location": "South Korea",
+  "industry": "Gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/e5b54a07-1753-47db-9e6d-30d247397306.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Gaming"
+  ],
+  "url": "https://500.co/portfolio/cardmonster",
+  "api": "/companies/cardmonster.json"
+}

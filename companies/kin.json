@@ -1,0 +1,21 @@
+{
+  "id": 5374,
+  "name": "Kin Insurance, Inc.",
+  "slug": "kin",
+  "website": "www.kin.com",
+  "description": "Operator of an online insurance platform designed to provide simple, personalized, and affordable home insurance. The company's platform leverages thousands of property data points to customize coverage and prices through a super simple user experience while making the application process as simple as possible and recommends the right coverage for each home, enabling homeowners to get a customizable policy that is suited for them and is easy to understand and afford.",
+  "one_liner": "Operator of an online insurance platform designed to provide simple, personalized, and affordable home insurance. The company's platform leverages thousands of property data points to customize coverage and prices through a super simple user experience while making the application process as simple as possible and recommends the right coverage for each home, enabling homeowners to get a customizable policy that is suited for them and is easy to understand and afford.",
+  "location": "United States",
+  "industry": "InsurTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/253096a1-f37f-450f-9a63-49c5b651940e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "InsurTech"
+  ],
+  "url": "https://500.co/portfolio/kin",
+  "api": "/companies/kin.json"
+}

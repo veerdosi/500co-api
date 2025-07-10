@@ -1,0 +1,22 @@
+{
+  "id": 3415,
+  "name": "Kyndoo, Inc.",
+  "slug": "kyndoo",
+  "website": "kyndoo.com",
+  "description": "Developer of an online platform intended for social Influencers to professionalize their business. The company's platform provides data, tools, payment protections, profile builder tools and business consulting services, enabling social Influencers to have an authentic identity towards the public, build a profitable business, provide brands with data and filter out the fake Influencers on social media.",
+  "one_liner": "Developer of an online platform intended for social Influencers to professionalize their business. The company's platform provides data, tools, payment protections, profile builder tools and business consulting services, enabling social Influencers to have an authentic identity towards the public, build a profitable business, provide brands with data and filter out the fake Influencers on social media.",
+  "location": "United States",
+  "industry": "Social Media, Social Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Media",
+    "Social Impact"
+  ],
+  "url": "https://500.co/portfolio/kyndoo",
+  "api": "/companies/kyndoo.json"
+}

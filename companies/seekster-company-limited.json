@@ -1,0 +1,22 @@
+{
+  "id": 3564,
+  "name": "Seekster Company Limited",
+  "slug": "seekster-company-limited",
+  "website": "seekster.co",
+  "description": "Seekster is Bangkok's trusted marketplace for services ranging from Cleaning services, air-conditioning technician services, Big Cleaning, etc.",
+  "one_liner": "Seekster is Bangkok's trusted marketplace for services ranging from Cleaning services, air-conditioning technician services, Big Cleaning, etc.",
+  "location": "Thailand",
+  "industry": "Marketplace, B2B Marketplaces",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7a5e4c40-a5ce-4e59-97d9-d0e04127a9f7.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Marketplace",
+    "B2B Marketplaces"
+  ],
+  "url": "https://500.co/portfolio/seekster-company-limited",
+  "api": "/companies/seekster-company-limited.json"
+}

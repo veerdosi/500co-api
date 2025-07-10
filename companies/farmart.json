@@ -1,0 +1,22 @@
+{
+  "id": 5158,
+  "name": "FarMart Service Private Limited",
+  "slug": "farmart",
+  "website": "www.farmart.co",
+  "description": "Developer of food supply platform designed to connect farmers and share farm-related information easily. The company's platform connects farmers with retailers and food businesses and helps in sourcing farm produce at competitive prices, enabling farmers to sell their products easily.",
+  "one_liner": "Developer of food supply platform designed to connect farmers and share farm-related information easily. The company's platform connects farmers with retailers and food businesses and helps in sourcing farm produce at competitive prices, enabling farmers to sell their products easily.",
+  "location": "India",
+  "industry": "AgTech, Food",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/14cea736-4421-417e-bfe8-78d003fe74fb.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AgTech",
+    "Food"
+  ],
+  "url": "https://500.co/portfolio/farmart",
+  "api": "/companies/farmart.json"
+}

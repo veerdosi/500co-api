@@ -1,0 +1,22 @@
+{
+  "id": 5682,
+  "name": "LNKO USA, Inc.",
+  "slug": "lnko",
+  "website": "lnkobrand.com",
+  "description": "Operator of an e-commerce platform intended to offer trendy eyewear. The company's platform provides a collection of optic wearables for both men and women, enabling users to choose from a variety of frame styles and colors of eyeglasses.",
+  "one_liner": "Operator of an e-commerce platform intended to offer trendy eyewear. The company's platform provides a collection of optic wearables for both men and women, enabling users to choose from a variety of frame styles and colors of eyeglasses.",
+  "location": "Morocco",
+  "industry": "Ecommerce, Fashion",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7dc3ab94-262f-400a-82b3-e78073e8c127.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Ecommerce",
+    "Fashion"
+  ],
+  "url": "https://500.co/portfolio/lnko",
+  "api": "/companies/lnko.json"
+}

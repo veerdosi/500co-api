@@ -1,0 +1,21 @@
+{
+  "id": 5370,
+  "name": "Almabase, Inc.",
+  "slug": "almabase-inc",
+  "website": "almabase.com",
+  "description": "Developer of an alumni networking platform. The company's SaaS platform enables colleges, schools and universities to build their own alumni network through an alumni website to build, nurture and strengthen the mutual relationship.",
+  "one_liner": "Developer of an alumni networking platform. The company's SaaS platform enables colleges, schools and universities to build their own alumni network through an alumni website to build, nurture and strengthen the mutual relationship.",
+  "location": "United States",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/54aa19ff-1244-4964-b013-4b8a08c6023e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/almabase-inc",
+  "api": "/companies/almabase-inc.json"
+}

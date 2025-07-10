@@ -1,0 +1,21 @@
+{
+  "id": 4746,
+  "name": "Innovaccer, Inc.",
+  "slug": "innovaccer",
+  "website": "innovaccer.com",
+  "description": "Developer of a data activation platform designed to assist healthcare organizations to activate their data silos. The company's platform aggregates analyzes and activates patient data, enabling healthcare organizations to have patient insights right in the moment of care and offer each patient private, customized care with suitable plans, a dedicated team, and outcome-focused goals.",
+  "one_liner": "Developer of a data activation platform designed to assist healthcare organizations to activate their data silos. The company's platform aggregates analyzes and activates patient data, enabling healthcare organizations to have patient insights right in the moment of care and offer each patient private, customized care with suitable plans, a dedicated team, and outcome-focused goals.",
+  "location": "United States",
+  "industry": "Health Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/4b933e09-82fd-4141-b1ac-b30f5eeac8d3.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Health Tech"
+  ],
+  "url": "https://500.co/portfolio/innovaccer",
+  "api": "/companies/innovaccer.json"
+}

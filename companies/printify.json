@@ -1,0 +1,21 @@
+{
+  "id": 4584,
+  "name": "Printify, Inc.",
+  "slug": "printify",
+  "website": "printify.com",
+  "description": "Provider of on-demand custom printing services intended to create and sell custom products. The company's services include apparel, wall art, home decor, and accessories printing design which is directly shipped to the customers with a fully automated process, enabling e-commerce store owners to save time in printing and grow their business.",
+  "one_liner": "Provider of on-demand custom printing services intended to create and sell custom products. The company's services include apparel, wall art, home decor, and accessories printing design which is directly shipped to the customers with a fully automated process, enabling e-commerce store owners to save time in printing and grow their business.",
+  "location": "United States",
+  "industry": "Supply Chain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7185e873-235e-49c2-9684-67c3ef532c50.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Supply Chain"
+  ],
+  "url": "https://500.co/portfolio/printify",
+  "api": "/companies/printify.json"
+}

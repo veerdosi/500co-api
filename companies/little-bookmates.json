@@ -1,0 +1,21 @@
+{
+  "id": 3009,
+  "name": "Little Bookmates SAPI de CV",
+  "slug": "little-bookmates",
+  "website": "www.littlebookmates.com",
+  "description": "Developer of a book exchange platform designed to help develop children's reading habits. The company's platform offers a subscription service through which users receive a set of books every month, delivered to their doorstep, enabling parents to save money on purchasing of books.",
+  "one_liner": "Developer of a book exchange platform designed to help develop children's reading habits. The company's platform offers a subscription service through which users receive a set of books every month, delivered to their doorstep, enabling parents to save money on purchasing of books.",
+  "location": "Mexico",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/493c1d4e-91ed-476b-9e19-1598e23db79b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/little-bookmates",
+  "api": "/companies/little-bookmates.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2772,
+  "name": "Shopline Ltd.",
+  "slug": "shopline-ltd",
+  "website": "shoplineapp.com",
+  "description": "Developer of a DIY e-commerce platform designed to create online shops for merchants in Asia. The company's e-commerce platform allows merchants to apply for one free custom domain for their shop and provides professional and well-designed to customize their storefront, enabling them to launch an online shop in minutes, no coding required.",
+  "one_liner": "Developer of a DIY e-commerce platform designed to create online shops for merchants in Asia. The company's e-commerce platform allows merchants to apply for one free custom domain for their shop and provides professional and well-designed to customize their storefront, enabling them to launch an online shop in minutes, no coding required.",
+  "location": "Cayman Islands",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/72075c38-4c1a-4b81-b550-173afb641c20.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/shopline-ltd",
+  "api": "/companies/shopline-ltd.json"
+}

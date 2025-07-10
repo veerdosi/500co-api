@@ -1,0 +1,21 @@
+{
+  "id": 4480,
+  "name": "The Atlas Marketplace, Co.",
+  "slug": "the-atlas-marketplace-co",
+  "website": "the-atlas.com",
+  "description": "Developer of an online community platform focused on modernizing the local government officials and staff. The company's platform allows users to share success stories, learn what's working in other cities, build relationships with partners and source new solutions and new partners, enabling local governments and implementing partners to solve specific civic problems.",
+  "one_liner": "Developer of an online community platform focused on modernizing the local government officials and staff. The company's platform allows users to share success stories, learn what's working in other cities, build relationships with partners and source new solutions and new partners, enabling local governments and implementing partners to solve specific civic problems.",
+  "location": "United States",
+  "industry": "Government",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b580b57b-f53f-455f-8900-3eed42868a98.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Government"
+  ],
+  "url": "https://500.co/portfolio/the-atlas-marketplace-co",
+  "api": "/companies/the-atlas-marketplace-co.json"
+}

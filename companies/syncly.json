@@ -1,0 +1,21 @@
+{
+  "id": 5309,
+  "name": "DEEP BLUEDOT, INC.",
+  "slug": "syncly",
+  "website": "syncly.app",
+  "description": "Developer of a customer feedback analysis platform intended to boost productivity by automating and streamlining the issue-reporting process. The company's platform helps in reporting bugs and usability feedback directly from the screen and also issues reporting resulting in a fast QA process, enabling clients to minimize their issue reporting process and spend time creating revenue.",
+  "one_liner": "Developer of a customer feedback analysis platform intended to boost productivity by automating and streamlining the issue-reporting process. The company's platform helps in reporting bugs and usability feedback directly from the screen and also issues reporting resulting in a fast QA process, enabling clients to minimize their issue reporting process and spend time creating revenue.",
+  "location": "South Korea",
+  "industry": "AI/Machine Learning",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/62dc407e-a536-46f2-ba9f-ebbf13991936.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning"
+  ],
+  "url": "https://500.co/portfolio/syncly",
+  "api": "/companies/syncly.json"
+}

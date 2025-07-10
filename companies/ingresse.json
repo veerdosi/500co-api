@@ -1,0 +1,21 @@
+{
+  "id": 2862,
+  "name": "INGRESSE – INGRESSOS PARA EVENTOS SA.",
+  "slug": "ingresse",
+  "website": "www.ingresse.com",
+  "description": "Developer of a web and mobile-based ticket booking application designed for users to buy tickets for events in local areas. The company's application provides reviews, commentary, celebrity interviews, and trailers and offers users the ability to buy tickets in advance, enabling customers to decide and choose tickets for events and plays that suit their interests.",
+  "one_liner": "Developer of a web and mobile-based ticket booking application designed for users to buy tickets for events in local areas. The company's application provides reviews, commentary, celebrity interviews, and trailers and offers users the ability to buy tickets in advance, enabling customers to decide and choose tickets for events and plays that suit their interests.",
+  "location": "Brazil",
+  "industry": "Travel & Tourism",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d1d05ddc-6179-4cfa-9bf9-a87d89a22b81.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Travel & Tourism"
+  ],
+  "url": "https://500.co/portfolio/ingresse",
+  "api": "/companies/ingresse.json"
+}

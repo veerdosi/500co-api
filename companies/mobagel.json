@@ -1,0 +1,21 @@
+{
+  "id": 3941,
+  "name": "MoBagel Inc.",
+  "slug": "mobagel",
+  "website": "mobagel.com",
+  "description": "Developer of predictive intelligence analysis software designed to convert raw IoT data directly to actionable insights. The company's software is a fully automated machine learning engine that requires minimal skills and background to achieve machine learning models and can be easily integrated with existing systems via API, enabling tech companies to reduce the barriers of time and cost required to process and understand large amounts of complex IoT data.",
+  "one_liner": "Developer of predictive intelligence analysis software designed to convert raw IoT data directly to actionable insights. The company's software is a fully automated machine learning engine that requires minimal skills and background to achieve machine learning models and can be easily integrated with existing systems via API, enabling tech companies to reduce the barriers of time and cost required to process and understand large amounts of complex IoT data.",
+  "location": "United States",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/9ed55f69-0fff-4dc9-b6ae-4db7daa3d867.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/mobagel",
+  "api": "/companies/mobagel.json"
+}

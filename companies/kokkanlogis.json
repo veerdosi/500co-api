@@ -1,0 +1,21 @@
+{
+  "id": 8118,
+  "name": "KokkanLogis Co.,Ltd.",
+  "slug": "kokkanlogis",
+  "website": "www.kokkanlogis.co.kr",
+  "description": "Operator of Primo, an AI-powered freight transportation brokerage platform that seamlessly connects carriers and shippers while offering additional value-added services like electronic billing and freight control.",
+  "one_liner": "Operator of Primo, an AI-powered freight transportation brokerage platform that seamlessly connects carriers and shippers while offering additional value-added services like electronic billing and freight control.",
+  "location": "South Korea",
+  "industry": "Logistics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/a584d8c8-020c-4119-aa61-8d09db13792f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Logistics"
+  ],
+  "url": "https://500.co/portfolio/kokkanlogis",
+  "api": "/companies/kokkanlogis.json"
+}

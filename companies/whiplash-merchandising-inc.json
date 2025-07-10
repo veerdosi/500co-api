@@ -1,0 +1,21 @@
+{
+  "id": 4229,
+  "name": "Whiplash Merchandising Inc.",
+  "slug": "whiplash-merchandising-inc",
+  "website": "whiplashmerch.com",
+  "description": "Developer of an e-commerce software designed to offer order management and warehouse management services. The company's e-commerce software offers integration, order management system (OMS) as well as warehouse management system (WMS) capabilities to emerging brands along with real-time visibility and OMS capabilities, labor management and order fulfillment services, enabling companies to enhance their operations with expanded customer offerings and responsiveness.",
+  "one_liner": "Developer of an e-commerce software designed to offer order management and warehouse management services. The company's e-commerce software offers integration, order management system (OMS) as well as warehouse management system (WMS) capabilities to emerging brands along with real-time visibility and OMS capabilities, labor management and order fulfillment services, enabling companies to enhance their operations with expanded customer offerings and responsiveness.",
+  "location": "United States",
+  "industry": "Supply Chain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/bdd3580e-33eb-415a-ac50-8c7f0f9ad0d0.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Supply Chain"
+  ],
+  "url": "https://500.co/portfolio/whiplash-merchandising-inc",
+  "api": "/companies/whiplash-merchandising-inc.json"
+}

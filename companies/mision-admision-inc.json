@@ -1,0 +1,21 @@
+{
+  "id": 3168,
+  "name": "Mision Admision, Inc",
+  "slug": "mision-admision-inc",
+  "website": "www.misionadmision.com",
+  "description": "Developer of an online educational platform. The company offers university and college entrance examination preparation courses to students online.",
+  "one_liner": "Developer of an online educational platform. The company offers university and college entrance examination preparation courses to students online.",
+  "location": "Mexico",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/cbc0975a-1b78-43a5-b885-e1ceb8f63041.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/mision-admision-inc",
+  "api": "/companies/mision-admision-inc.json"
+}

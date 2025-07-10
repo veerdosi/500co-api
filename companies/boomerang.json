@@ -1,0 +1,21 @@
+{
+  "id": 4037,
+  "name": "Baydin, Inc.",
+  "slug": "boomerang",
+  "website": "boomerangapp.com",
+  "description": "Developer of an e-mail productivity software designed to encourage people to be productive. The company's software analyzes the selected e-mail messages and searches across the enterprise through shared network drives and Sharepoint sites and displays related documents, enabling companies to work efficiently and save time.",
+  "one_liner": "Developer of an e-mail productivity software designed to encourage people to be productive. The company's software analyzes the selected e-mail messages and searches across the enterprise through shared network drives and Sharepoint sites and displays related documents, enabling companies to work efficiently and save time.",
+  "location": "United States",
+  "industry": "Productivity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/bc10533d-f7d5-417c-b2f4-1bae8089480b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Productivity"
+  ],
+  "url": "https://500.co/portfolio/boomerang",
+  "api": "/companies/boomerang.json"
+}

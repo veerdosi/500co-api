@@ -1,0 +1,22 @@
+{
+  "id": 4980,
+  "name": "American Aerospace Technologies, Inc.",
+  "slug": "american-aerospace-advisors",
+  "website": "www.americanaerospace.com",
+  "description": "Provider of manned and unmanned aerial services focused on the oil and gas industry. The company operates aircraft at high altitudes and has a first-mover use case along with offering advanced payloads, flight systems and flight services for near-real-time (NRT) infrastructure patrol, emergency response and mapping thereby, assisting customers with large-scale airspace development and establishing government policies, procedures and practices.",
+  "one_liner": "Provider of manned and unmanned aerial services focused on the oil and gas industry. The company operates aircraft at high altitudes and has a first-mover use case along with offering advanced payloads, flight systems and flight services for near-real-time (NRT) infrastructure patrol, emergency response and mapping thereby, assisting customers with large-scale airspace development and establishing government policies, procedures and practices.",
+  "location": "United States",
+  "industry": "Aviation, Energy",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/718bd0ae-57b5-44c5-86cd-65e1ffe596dd.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Aviation",
+    "Energy"
+  ],
+  "url": "https://500.co/portfolio/american-aerospace-advisors",
+  "api": "/companies/american-aerospace-advisors.json"
+}

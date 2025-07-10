@@ -1,0 +1,21 @@
+{
+  "id": 5359,
+  "name": "Xfers, Inc",
+  "slug": "xfers",
+  "website": "www.xfers.com",
+  "description": "Operator of a payment processing platform intended to offer credit card processing and internet banking transfers. The company's platform leverages technology to offer secured payment technology to automate bank transfer payments, enabling users to pay, receive and manage online payments.",
+  "one_liner": "Operator of a payment processing platform intended to offer credit card processing and internet banking transfers. The company's platform leverages technology to offer secured payment technology to automate bank transfer payments, enabling users to pay, receive and manage online payments.",
+  "location": "Singapore",
+  "industry": "Payments",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/bec8fb2e-11e5-4c9e-8d14-fdb15c394c4b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Payments"
+  ],
+  "url": "https://500.co/portfolio/xfers",
+  "api": "/companies/xfers.json"
+}

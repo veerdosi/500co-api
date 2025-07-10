@@ -1,0 +1,22 @@
+{
+  "id": 3869,
+  "name": "200 Labs, Inc.",
+  "slug": "chatfuel",
+  "website": "chatfuel.com",
+  "description": "Developer of a no-code chatbot platform intended to automate communication with humans through messaging applications. The company's platform helps to build a bot without coding to automatically start conversations with prospects from post comments to increase lead generation and qualification, upsell, cross-sell, and boost revenue on WhatsApp, enabling e-commerce marketers and business owners to increase sales, reduce costs and automate support through chatbots.",
+  "one_liner": "Developer of a no-code chatbot platform intended to automate communication with humans through messaging applications. The company's platform helps to build a bot without coding to automatically start conversations with prospects from post comments to increase lead generation and qualification, upsell, cross-sell, and boost revenue on WhatsApp, enabling e-commerce marketers and business owners to increase sales, reduce costs and automate support through chatbots.",
+  "location": "United States",
+  "industry": "Entertainment / Media, Social Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2e272d47-4be7-4837-8571-d1ba2f5c3cd7.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Entertainment / Media",
+    "Social Impact"
+  ],
+  "url": "https://500.co/portfolio/chatfuel",
+  "api": "/companies/chatfuel.json"
+}

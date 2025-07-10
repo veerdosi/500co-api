@@ -1,0 +1,21 @@
+{
+  "id": 3427,
+  "name": "Avail Productivity Systems Inc",
+  "slug": "snapshyft",
+  "website": "www.snapshyft.com",
+  "description": "Operator of staffing-as-a-service software designed to connect companies with vetted and qualified professionals. The company's platform allows firms to get the right talent for their immediate needs while eliminating bias and discrimination in the process, enabling businesses to drop the need for temporary staffing agencies.",
+  "one_liner": "Operator of staffing-as-a-service software designed to connect companies with vetted and qualified professionals. The company's platform allows firms to get the right talent for their immediate needs while eliminating bias and discrimination in the process, enabling businesses to drop the need for temporary staffing agencies.",
+  "location": "United States",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/c43ef2e4-1fab-4217-8985-db046e73e246.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/snapshyft",
+  "api": "/companies/snapshyft.json"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 4143,
+  "name": "Gantto, Inc.",
+  "slug": "gantto-inc",
+  "website": "gantto.com",
+  "description": "Provider of project management tool which uses gantt chart for visual representation. The company's platform enables users to create their own charts and presentations to show project progress and management.",
+  "one_liner": "Provider of project management tool which uses gantt chart for visual representation. The company's platform enables users to create their own charts and presentations to show project progress and management.",
+  "location": "United States",
+  "industry": "Productivity, HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7c0775fd-753e-451a-8e43-298f6732a114.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Productivity",
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/gantto-inc",
+  "api": "/companies/gantto-inc.json"
+}

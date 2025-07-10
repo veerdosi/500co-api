@@ -1,0 +1,22 @@
+{
+  "id": 4814,
+  "name": "Helpr Asia Sdn Bhd.",
+  "slug": "helprnow",
+  "website": "giftr.my",
+  "description": "Operator of an online marketplace platform intended to assist customers in purchasing gifts. The company offers gifts for all kinds of occasions as well as provides customized gifts, along with recommendations of places to visit or dine for various events, enabling users to put a personal touch on gifts and purchase them at a low cost.",
+  "one_liner": "Operator of an online marketplace platform intended to assist customers in purchasing gifts. The company offers gifts for all kinds of occasions as well as provides customized gifts, along with recommendations of places to visit or dine for various events, enabling users to put a personal touch on gifts and purchase them at a low cost.",
+  "location": "Malaysia",
+  "industry": "Marketplace, Hospitality",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5aefbbed-d9c3-4d08-aad7-8eadb8cd043a.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Marketplace",
+    "Hospitality"
+  ],
+  "url": "https://500.co/portfolio/helprnow",
+  "api": "/companies/helprnow.json"
+}

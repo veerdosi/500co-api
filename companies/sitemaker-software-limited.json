@@ -1,0 +1,21 @@
+{
+  "id": 3253,
+  "name": "SiteMaker Software Limited",
+  "slug": "sitemaker-software-limited",
+  "website": "moonfruit.com",
+  "description": "Developer and designer of websites. The company is engaged in the designing, customization, styling and layout of websites that reflects a particular company's brand.",
+  "one_liner": "Developer and designer of websites. The company is engaged in the designing, customization, styling and layout of websites that reflects a particular company's brand.",
+  "location": "United Kingdom",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2c43e0fe-9a5c-4056-af1a-93d8fe1bcc3a.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/sitemaker-software-limited",
+  "api": "/companies/sitemaker-software-limited.json"
+}

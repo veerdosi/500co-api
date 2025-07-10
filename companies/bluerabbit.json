@@ -1,0 +1,23 @@
+{
+  "id": 5467,
+  "name": "Bluerabbit Global LLC",
+  "slug": "bluerabbit",
+  "website": "www.bluerabbit.co",
+  "description": "Developer of a digital application designed to create micro-social networks to foster communities in physical places. The company's application makes people interact within and between universities and provides a public feed where they can share stuff and ask questions to the community to increase community collaboration, enabling students to communicate better within their university.",
+  "one_liner": "Developer of a digital application designed to create micro-social networks to foster communities in physical places. The company's application makes people interact within and between universities and provides a public feed where they can share stuff and ask questions to the community to increase community collaboration, enabling students to communicate better within their university.",
+  "location": "Argentina",
+  "industry": "Education, SaaS, Commerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/8c4ea671-2d05-4b0d-ae6b-4d9689c7ee07.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education",
+    "SaaS",
+    "Commerce"
+  ],
+  "url": "https://500.co/portfolio/bluerabbit",
+  "api": "/companies/bluerabbit.json"
+}

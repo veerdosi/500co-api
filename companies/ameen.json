@@ -1,0 +1,21 @@
+{
+  "id": 5079,
+  "name": "Physiohome Holding LTD",
+  "slug": "ameen",
+  "website": "www.ameen.care",
+  "description": "Provider of home physiotherapy services intended to reduce pain and improve physical health. The company provides physiotherapy of bones and muscles, neurology, athletes and pediatric physiotherapy, enabling patients to have physical therapy at their home.",
+  "one_liner": "Provider of home physiotherapy services intended to reduce pain and improve physical health. The company provides physiotherapy of bones and muscles, neurology, athletes and pediatric physiotherapy, enabling patients to have physical therapy at their home.",
+  "location": "Saudi Arabia",
+  "industry": "Wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Wellness"
+  ],
+  "url": "https://500.co/portfolio/ameen",
+  "api": "/companies/ameen.json"
+}

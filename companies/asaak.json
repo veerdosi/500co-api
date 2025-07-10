@@ -1,0 +1,21 @@
+{
+  "id": 5019,
+  "name": "Asaak Financial Services Limited Equity",
+  "slug": "asaak",
+  "website": "www.asaak.com",
+  "description": "Developer of a mobile-based microfinance platform designed to democratize financial services and help businesses grow with confidence. The company's platform manages lending operations, underwriting, application processing, investor management, and loan servicing, enabling clients to access various digital finance tools to reach customers.",
+  "one_liner": "Developer of a mobile-based microfinance platform designed to democratize financial services and help businesses grow with confidence. The company's platform manages lending operations, underwriting, application processing, investor management, and loan servicing, enabling clients to access various digital finance tools to reach customers.",
+  "location": "Malaysia",
+  "industry": "Credit & Lending",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Credit & Lending"
+  ],
+  "url": "https://500.co/portfolio/asaak",
+  "api": "/companies/asaak.json"
+}

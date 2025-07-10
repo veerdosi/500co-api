@@ -1,0 +1,21 @@
+{
+  "id": 3052,
+  "name": "Huinno Inc",
+  "slug": "huinno",
+  "website": "www.huinno.com",
+  "description": "Developer of a clinical decision support system with AI-based cloud analysis software designed to provide biosignal data of ill patients. The company's system uses sensors and algorithms to monitor health data like blood pressure, and heart rate and also provides convenient diagnosis and treatment of patients with cardiac diseases such as arrhythmia, atrial fibrillation, and hypertension, enabling healthcare professionals to diagnose and make informed medical decisions while treating a patient.",
+  "one_liner": "Developer of a clinical decision support system with AI-based cloud analysis software designed to provide biosignal data of ill patients. The company's system uses sensors and algorithms to monitor health data like blood pressure, and heart rate and also provides convenient diagnosis and treatment of patients with cardiac diseases such as arrhythmia, atrial fibrillation, and hypertension, enabling healthcare professionals to diagnose and make informed medical decisions while treating a patient.",
+  "location": "South Korea",
+  "industry": "Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/06b88646-9d16-4d10-b906-b61921fa74eb.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/huinno",
+  "api": "/companies/huinno.json"
+}

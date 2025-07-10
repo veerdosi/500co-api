@@ -1,0 +1,23 @@
+{
+  "id": 2859,
+  "name": "Blackcart, Inc.",
+  "slug": "blackcart",
+  "website": "blackcart.com",
+  "description": "Developer of an e-commerce artificial intelligence (AI) platform designed to transform an online store into an at-home showroom. The company's platform offers customers to try on items from their favorite brands at home using AI tools without an upfront commitment, enabling businesses to increase sales by offering a try before you buy experience to their customers.",
+  "one_liner": "Developer of an e-commerce artificial intelligence (AI) platform designed to transform an online store into an at-home showroom. The company's platform offers customers to try on items from their favorite brands at home using AI tools without an upfront commitment, enabling businesses to increase sales by offering a try before you buy experience to their customers.",
+  "location": "Canada",
+  "industry": "Ecommerce, FinTech, Retail",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/361494b6-35f3-4378-ade8-b6a1de7bc2e7.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Ecommerce",
+    "FinTech",
+    "Retail"
+  ],
+  "url": "https://500.co/portfolio/blackcart",
+  "api": "/companies/blackcart.json"
+}

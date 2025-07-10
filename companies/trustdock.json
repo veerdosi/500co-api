@@ -1,0 +1,22 @@
+{
+  "id": 2935,
+  "name": "TRUSTDOCK Inc.",
+  "slug": "trustdock",
+  "website": "biz.trustdock.io",
+  "description": "Developer of e-KYC and identity confirmation API software designed to facilitate trusted business relationships and transactions. The company's services provide individual identity confirmation API, personal number acquisition API, risk check API, and mailing API, amongst other offerings, enabling individuals, businesses, and corporate clients to authenticate their digital identity in a convenient and hassle-free manner.",
+  "one_liner": "Developer of e-KYC and identity confirmation API software designed to facilitate trusted business relationships and transactions. The company's services provide individual identity confirmation API, personal number acquisition API, risk check API, and mailing API, amongst other offerings, enabling individuals, businesses, and corporate clients to authenticate their digital identity in a convenient and hassle-free manner.",
+  "location": "Japan",
+  "industry": "Cybersecurity, Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/3c6a872c-c296-48c8-9be3-9ef8a4b2aaf6.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Cybersecurity",
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/trustdock",
+  "api": "/companies/trustdock.json"
+}

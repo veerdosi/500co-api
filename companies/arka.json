@@ -1,0 +1,21 @@
+{
+  "id": 4928,
+  "name": "Arka, Inc.",
+  "slug": "arka",
+  "website": "www.arka.com",
+  "description": "Manufacturer of customized packaging products intended to provide an easy and quick way to design custom product packaging boxes. The company's products are completely automated online, automatically matched with the location of the client to the closest supplier from its network to expedite and localize the entire process as well as gives clients an easy-to-use interface to customize, a dashboard to view and track their packaging evolution, enabling clients to easily obtain high-quality custom packaging at affordable rates.",
+  "one_liner": "Manufacturer of customized packaging products intended to provide an easy and quick way to design custom product packaging boxes. The company's products are completely automated online, automatically matched with the location of the client to the closest supplier from its network to expedite and localize the entire process as well as gives clients an easy-to-use interface to customize, a dashboard to view and track their packaging evolution, enabling clients to easily obtain high-quality custom packaging at affordable rates.",
+  "location": "United States",
+  "industry": "Supply Chain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/326e1a11-94ab-4722-8e10-4dfe06bd8cf7.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Supply Chain"
+  ],
+  "url": "https://500.co/portfolio/arka",
+  "api": "/companies/arka.json"
+}

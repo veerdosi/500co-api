@@ -1,0 +1,21 @@
+{
+  "id": 4286,
+  "name": "Skry, Inc.",
+  "slug": "skry-inc",
+  "website": "www.skry.tech",
+  "description": "Developer of block-chain analytics and intelligence platform designed to manage, visualize and analyse blockchain data from disparate sources. The company's Skry platform uses latest Artificial Intelligence technologies allowing people to extract insights at a speed and scale that no human can on their own and provides easy access to actionable insights in real-time through its APIs and visual interfaces, enabling enterprises to derive real-time intelligence and risk assessment from block-chains and decentralized applications.",
+  "one_liner": "Developer of block-chain analytics and intelligence platform designed to manage, visualize and analyse blockchain data from disparate sources. The company's Skry platform uses latest Artificial Intelligence technologies allowing people to extract insights at a speed and scale that no human can on their own and provides easy access to actionable insights in real-time through its APIs and visual interfaces, enabling enterprises to derive real-time intelligence and risk assessment from block-chains and decentralized applications.",
+  "location": "United States",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/skry-inc",
+  "api": "/companies/skry-inc.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3721,
+  "name": "KiwiCo, Inc.",
+  "slug": "kiwico",
+  "website": "www.kiwico.com",
+  "description": "Producer of hands-on activity materials intended to help create problem-solving skills. The company delivers projects encompassing subjects like science, technology, engineering, art, and math, enabling parents to encourage their kid's natural creativity and curiosity and develop creative confidence.",
+  "one_liner": "Producer of hands-on activity materials intended to help create problem-solving skills. The company delivers projects encompassing subjects like science, technology, engineering, art, and math, enabling parents to encourage their kid's natural creativity and curiosity and develop creative confidence.",
+  "location": "United States",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/30b6161e-fb49-4e84-b89f-861c22e4da98.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/kiwico",
+  "api": "/companies/kiwico.json"
+}

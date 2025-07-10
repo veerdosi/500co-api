@@ -1,0 +1,23 @@
+{
+  "id": 3961,
+  "name": "Gluwa, Inc.",
+  "slug": "gluwa-inc",
+  "website": "gluwa.com",
+  "description": "Gluwa is a builder of Gluwa, Creditcoin, and a stealth protocol. Gluwa connects DeFi investors to TradFi investment opportunities. Creditcoin is an interoperable credit network that powers Gluwa. The stealth protocol provides trustless proof-of-location, which enhances the security and usability of Gluwa.",
+  "one_liner": "Gluwa is a builder of Gluwa, Creditcoin, and a stealth protocol. Gluwa connects DeFi investors to TradFi investment opportunities. Creditcoin is an interoperable credit network that powers Gluwa. The stealth protocol provides trustless proof-of-location, which enhances the security and usability of Gluwa.",
+  "location": "United States",
+  "industry": "Cybersecurity, FinTech, Web 3",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/75977019-e003-41b2-af12-99121b50922d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Cybersecurity",
+    "FinTech",
+    "Web 3"
+  ],
+  "url": "https://500.co/portfolio/gluwa-inc",
+  "api": "/companies/gluwa-inc.json"
+}

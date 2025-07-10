@@ -1,0 +1,21 @@
+{
+  "id": 3992,
+  "name": "UXCam, Inc.",
+  "slug": "uxcam",
+  "website": "uxcam.com",
+  "description": "Developer of a user interface experience optimization tool designed to set up and maintain pipelines to gather comprehensive usage data from applications. The company's tool works in the background without any performance penalty and helps to record and analyze user experiences while understanding the problems and bugs in their applications, enabling businesses to understand how users use the product and understand where they get frustrated.",
+  "one_liner": "Developer of a user interface experience optimization tool designed to set up and maintain pipelines to gather comprehensive usage data from applications. The company's tool works in the background without any performance penalty and helps to record and analyze user experiences while understanding the problems and bugs in their applications, enabling businesses to understand how users use the product and understand where they get frustrated.",
+  "location": "United Kingdom",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f75037b4-2126-491a-a801-dceb303af4e6.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/uxcam",
+  "api": "/companies/uxcam.json"
+}

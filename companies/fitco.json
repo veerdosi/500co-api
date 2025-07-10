@@ -1,0 +1,21 @@
+{
+  "id": 4483,
+  "name": "Fitco, Inc.",
+  "slug": "fitco",
+  "website": "fitcolatam.com",
+  "description": "Developer of a gym management and retention software designed to help fitness boutiques and sports centers grow their business. The company's gym management allows complete administration of fitness centers, including management of sales and monitoring of current customers, enabling customers to increase sales, grow their brand, and attract more clients.",
+  "one_liner": "Developer of a gym management and retention software designed to help fitness boutiques and sports centers grow their business. The company's gym management allows complete administration of fitness centers, including management of sales and monitoring of current customers, enabling customers to increase sales, grow their brand, and attract more clients.",
+  "location": "Peru",
+  "industry": "Wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/978a50e3-0adb-4310-990d-8c847e7ee542.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Wellness"
+  ],
+  "url": "https://500.co/portfolio/fitco",
+  "api": "/companies/fitco.json"
+}

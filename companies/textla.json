@@ -1,0 +1,22 @@
+{
+  "id": 5775,
+  "name": "Textla Inc.",
+  "slug": "textla",
+  "website": "www.textla.com",
+  "description": "Developer of Saas technology platform intended to help small businesses reach their customers on the go via SMS. The company's platform offers SMS communication tools by providing CpaaS APIs, smart insights, and significant cost savings, enabling businesses to optimize their outreach efforts, enhance efficiency, and save time.",
+  "one_liner": "Developer of Saas technology platform intended to help small businesses reach their customers on the go via SMS. The company's platform offers SMS communication tools by providing CpaaS APIs, smart insights, and significant cost savings, enabling businesses to optimize their outreach efforts, enhance efficiency, and save time.",
+  "location": "United States",
+  "industry": "SaaS, Telecommunications",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5db07a4c-e383-480e-a99c-b56158462af3.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "SaaS",
+    "Telecommunications"
+  ],
+  "url": "https://500.co/portfolio/textla",
+  "api": "/companies/textla.json"
+}

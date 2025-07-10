@@ -1,0 +1,213 @@
+[
+  {
+    "id": 4770,
+    "name": "BorrowMyDoggy Limited",
+    "slug": "borrowmydoggy",
+    "website": "www.borrowmydoggy.com",
+    "description": "Provider of pet sitter services designed to connect pet owners with local dog borrowers for walks, weekends, and holidays. The company helps to link pet owners with local sitters for walks, home boarding, and holiday care, enabling dog owners to give dogs more exercise and playtime and allowing people without a pet to spend quality time with one.",
+    "one_liner": "Provider of pet sitter services designed to connect pet owners with local dog borrowers for walks, weekends, and holidays. The company helps to link pet owners with local sitters for walks, home boarding, and holiday care, enabling dog owners to give dogs more exercise and playtime and allowing people without a pet to spend quality time with one.",
+    "location": "India",
+    "industry": "Pet Tech",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/123e0a81-cd2d-40b3-ac5f-235f9ae59ced.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Pet Tech"
+    ],
+    "url": "https://500.co/portfolio/borrowmydoggy",
+    "api": "/companies/borrowmydoggy.json"
+  },
+  {
+    "id": 4612,
+    "name": "Current Labs, Inc.",
+    "slug": "current",
+    "website": "getfishbit.com",
+    "description": "Developer of an EV charging platform intended to offer an open marketplace for electric vehicle charging. The company platform works as a facilitator in e-mobility and smart grid ecosystems and is a solution for operations, management, energy optimization, and payment for operators of EV chargers, enabling charge point operators to establish EV charging operations that scale fast and efficiently.",
+    "one_liner": "Developer of an EV charging platform intended to offer an open marketplace for electric vehicle charging. The company platform works as a facilitator in e-mobility and smart grid ecosystems and is a solution for operations, management, energy optimization, and payment for operators of EV chargers, enabling charge point operators to establish EV charging operations that scale fast and efficiently.",
+    "location": "United States",
+    "industry": "Pet Tech",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/c9af5f35-828d-4dca-9057-2e56c7af3c77.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Pet Tech"
+    ],
+    "url": "https://500.co/portfolio/current",
+    "api": "/companies/current.json"
+  },
+  {
+    "id": 3439,
+    "name": "Momo Project Inc",
+    "slug": "momo-project",
+    "website": "meetmydogchallenge.com",
+    "description": "Developer of an Artificial intelligence (AI) based Pet Nanny intended to provide personalized information and recommendations to save pet parents time and energy. The company offers comprehensive pet community service by leveraging user data to create a community-based database and offers a well-balanced diet recommendation that fits the nutrition needs of pets based on the details of the dog breed, enabling pet owners to spend more quality time with their pets.",
+    "one_liner": "Developer of an Artificial intelligence (AI) based Pet Nanny intended to provide personalized information and recommendations to save pet parents time and energy. The company offers comprehensive pet community service by leveraging user data to create a community-based database and offers a well-balanced diet recommendation that fits the nutrition needs of pets based on the details of the dog breed, enabling pet owners to spend more quality time with their pets.",
+    "location": "United States",
+    "industry": "Pet Tech",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/674aa899-93fb-4d0a-a928-db3148efbfa6.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Pet Tech"
+    ],
+    "url": "https://500.co/portfolio/momo-project",
+    "api": "/companies/momo-project.json"
+  },
+  {
+    "id": 5437,
+    "name": "OSYVA LLC",
+    "slug": "osyva",
+    "website": "www.osyva.com",
+    "description": "Developer of an eCommerce platform intended to find supplies and medicine for their pets. The company's platform helps customers buy medicines, supplements, and cereals at any time and from anywhere through its user-friendly application, providing customers with a hassle-free platform to order essential medicine and food supplies for their pets at their own convenience.",
+    "one_liner": "Developer of an eCommerce platform intended to find supplies and medicine for their pets. The company's platform helps customers buy medicines, supplements, and cereals at any time and from anywhere through its user-friendly application, providing customers with a hassle-free platform to order essential medicine and food supplies for their pets at their own convenience.",
+    "location": "Colombia",
+    "industry": "Pet Tech",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/2babaa5f-58e4-411f-a801-65ac38a16f22.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Pet Tech"
+    ],
+    "url": "https://500.co/portfolio/osyva",
+    "api": "/companies/osyva.json"
+  },
+  {
+    "id": 5574,
+    "name": "Pawdlers Inc",
+    "slug": "pawdlers",
+    "website": "www.pawdly.com",
+    "description": "Operator of a pet care platform intended to build trust relationships among pet owners, pet care providers and pet experts. The company connects pet owners with pet care providers, such as dog walkers, groomers and trainers, enabling pet owners to provide a variety of features that help pet owners to find reliable and trustworthy pet care providers.",
+    "one_liner": "Operator of a pet care platform intended to build trust relationships among pet owners, pet care providers and pet experts. The company connects pet owners with pet care providers, such as dog walkers, groomers and trainers, enabling pet owners to provide a variety of features that help pet owners to find reliable and trustworthy pet care providers.",
+    "location": "South Korea",
+    "industry": "Pet Tech, B2B Marketplaces",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/db4ab1c5-0b0d-4fa1-9651-d78a04f38a80.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Pet Tech",
+      "B2B Marketplaces"
+    ],
+    "url": "https://500.co/portfolio/pawdlers",
+    "api": "/companies/pawdlers.json"
+  },
+  {
+    "id": 3516,
+    "name": "Pawsh Inc.",
+    "slug": "pawsh",
+    "website": "www.pawsh.app",
+    "description": "Developer of a pet grooming application designed to make the pet care delivery system transparent and friendly. The company's application connects users with top-rated and vetted pet grooming experts who come directly to their homes for a delightful grooming session, enabling pet owners to groom their pets easily and witness the grooming process from start to finish, and be satisfied with the way grooming services are performed.",
+    "one_liner": "Developer of a pet grooming application designed to make the pet care delivery system transparent and friendly. The company's application connects users with top-rated and vetted pet grooming experts who come directly to their homes for a delightful grooming session, enabling pet owners to groom their pets easily and witness the grooming process from start to finish, and be satisfied with the way grooming services are performed.",
+    "location": "United States",
+    "industry": "Pet Tech",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/6cbd9172-c0f0-4bdd-bed7-bcd70dcec38e.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Pet Tech"
+    ],
+    "url": "https://500.co/portfolio/pawsh",
+    "api": "/companies/pawsh.json"
+  },
+  {
+    "id": 4335,
+    "name": "Vetwork Inc.",
+    "slug": "vetwork",
+    "website": "vetwork.app",
+    "description": "Operator of an on-demand veterinary services marketplace intended to make pet-care services more accessible, timely, and convenient. The company's application offers pet grooming, deworming, vaccination, medical, and many more pet care services, enabling pet owners to access reliable and affordable pet care services and book them online.",
+    "one_liner": "Operator of an on-demand veterinary services marketplace intended to make pet-care services more accessible, timely, and convenient. The company's application offers pet grooming, deworming, vaccination, medical, and many more pet care services, enabling pet owners to access reliable and affordable pet care services and book them online.",
+    "location": "Egypt",
+    "industry": "Pet Tech",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/ad12abb7-e87b-4006-829d-00cafd774c68.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Pet Tech"
+    ],
+    "url": "https://500.co/portfolio/vetwork",
+    "api": "/companies/vetwork.json"
+  },
+  {
+    "id": 3902,
+    "name": "Treat, Inc.",
+    "slug": "treat-inc",
+    "website": "treat.co",
+    "description": "Provider of an application for pet care. The company's application offers users to book for veterinary care, training and grooming of their pets.",
+    "one_liner": "Provider of an application for pet care. The company's application offers users to book for veterinary care, training and grooming of their pets.",
+    "location": "United States",
+    "industry": "Pet Tech",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b8e37838-8126-4380-829c-6ecc2125600b.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Pet Tech"
+    ],
+    "url": "https://500.co/portfolio/treat-inc",
+    "api": "/companies/treat-inc.json"
+  },
+  {
+    "id": 4098,
+    "name": "BarkBox, Inc.",
+    "slug": "barkbox-inc",
+    "website": "www.barkbox.com",
+    "description": "Provider of subscription based platform designed to supply treat boxes for dogs. The company's treat boxes are themed boxes which includes innovative toys, all-natural treats and chews, enabling dog owners to give best treats to their dogs.",
+    "one_liner": "Provider of subscription based platform designed to supply treat boxes for dogs. The company's treat boxes are themed boxes which includes innovative toys, all-natural treats and chews, enabling dog owners to give best treats to their dogs.",
+    "location": "United States",
+    "industry": "Pet Tech",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/8a75e903-e267-483d-b4c2-0ced399abd4d.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Pet Tech"
+    ],
+    "url": "https://500.co/portfolio/barkbox-inc",
+    "api": "/companies/barkbox-inc.json"
+  },
+  {
+    "id": 3710,
+    "name": "PupBox, Inc.",
+    "slug": "pupbox-inc",
+    "website": "pupbox.com",
+    "description": "Provider of a monthly subscription box created to deliver educational material, treats, toys and accessories for dogs. The company's subscription box offers puppy safe products personalized by puppy age and physical characteristics and educational material with each box to help through the many training steps and developmental changes, enabling new puppy owners to train and pamper their puppy throughout puppyhood.",
+    "one_liner": "Provider of a monthly subscription box created to deliver educational material, treats, toys and accessories for dogs. The company's subscription box offers puppy safe products personalized by puppy age and physical characteristics and educational material with each box to help through the many training steps and developmental changes, enabling new puppy owners to train and pamper their puppy throughout puppyhood.",
+    "location": "United States",
+    "industry": "Pet Tech",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/81f3082f-57f8-4497-b1f0-3d3f6f8a47ab.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Pet Tech"
+    ],
+    "url": "https://500.co/portfolio/pupbox-inc",
+    "api": "/companies/pupbox-inc.json"
+  }
+]

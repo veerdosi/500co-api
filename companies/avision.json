@@ -1,0 +1,23 @@
+{
+  "id": 4871,
+  "name": "Avision, Inc.",
+  "slug": "avision",
+  "website": "avision.io",
+  "description": "Developer of an unmanned aerial navigation platform designed to control the communication and navigation of robots and drones. The company's platform is comprised of air traffic control software, drone built-in hardware components, and an integration API that automatically regulates traffic for all UAVs connected to it, enabling aerial industries to manage any number of drones with business applications ranging from entertainment to enterprise logistics.",
+  "one_liner": "Developer of an unmanned aerial navigation platform designed to control the communication and navigation of robots and drones. The company's platform is comprised of air traffic control software, drone built-in hardware components, and an integration API that automatically regulates traffic for all UAVs connected to it, enabling aerial industries to manage any number of drones with business applications ranging from entertainment to enterprise logistics.",
+  "location": "United States",
+  "industry": "Aviation, Robotics, Mobility",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/cfee657d-5952-47c2-8752-7c4eeabcfb51.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Aviation",
+    "Robotics",
+    "Mobility"
+  ],
+  "url": "https://500.co/portfolio/avision",
+  "api": "/companies/avision.json"
+}

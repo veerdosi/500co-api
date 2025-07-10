@@ -1,0 +1,21 @@
+{
+  "id": 5124,
+  "name": "Mujer Financiera LLC",
+  "slug": "mujer-financiera",
+  "website": "www.mujer-financiera.com",
+  "description": "Developer of a financial social network platform designed to close the gender gap in financial inclusion for women through education and community. The company's platform helps women develop their financial skills so that they can make the best financial decisions for themselves and their families' well-being with the help of a data profiling model which identifies the right content for each woman to directly impact finances, enabling women to be better equipped to connect with banks and fintech to acquire financial services according to their needs.",
+  "one_liner": "Developer of a financial social network platform designed to close the gender gap in financial inclusion for women through education and community. The company's platform helps women develop their financial skills so that they can make the best financial decisions for themselves and their families' well-being with the help of a data profiling model which identifies the right content for each woman to directly impact finances, enabling women to be better equipped to connect with banks and fintech to acquire financial services according to their needs.",
+  "location": "Argentina",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/394eb0bf-54cd-4bd0-a999-3cc7f6f0d058.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/mujer-financiera",
+  "api": "/companies/mujer-financiera.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4680,
+  "name": "AgFunder Inc.",
+  "slug": "agfunder",
+  "website": "agfunder.com",
+  "description": "Operator of an investment company intended for founders who are transforming food and agriculture. The company invests in entrepreneurs who are aiming to build the next generation of great agriculture and food technology companies, enabling founders and startups to raise funds for the business.",
+  "one_liner": "Operator of an investment company intended for founders who are transforming food and agriculture. The company invests in entrepreneurs who are aiming to build the next generation of great agriculture and food technology companies, enabling founders and startups to raise funds for the business.",
+  "location": "United States",
+  "industry": "Credit & Lending",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b7e6240e-f043-41c3-a481-5ff44761808b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Credit & Lending"
+  ],
+  "url": "https://500.co/portfolio/agfunder",
+  "api": "/companies/agfunder.json"
+}

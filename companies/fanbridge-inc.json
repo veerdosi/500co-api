@@ -1,0 +1,21 @@
+{
+  "id": 4296,
+  "name": "FanBridge, Inc.",
+  "slug": "fanbridge-inc",
+  "website": "fanbridge.com",
+  "description": "Developer of a fan relationship management platform designed to manage fan acquisition, retention and engagement. The company's fan relationship management platform merges e-mails, social networking platforms and other digital media channels with direct-to-fan engagement tools, enabling artists, brands and other influencers to grow, engage and monetize their consumer fan bases.",
+  "one_liner": "Developer of a fan relationship management platform designed to manage fan acquisition, retention and engagement. The company's fan relationship management platform merges e-mails, social networking platforms and other digital media channels with direct-to-fan engagement tools, enabling artists, brands and other influencers to grow, engage and monetize their consumer fan bases.",
+  "location": "United States",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e628cee2-0199-4ca8-92de-13b9505f954c.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/fanbridge-inc",
+  "api": "/companies/fanbridge-inc.json"
+}

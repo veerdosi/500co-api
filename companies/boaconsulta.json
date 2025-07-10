@@ -1,0 +1,21 @@
+{
+  "id": 2800,
+  "name": "G2D Servicos Tecnologicos S.A.",
+  "slug": "boaconsulta",
+  "website": "www.boaconsulta.com",
+  "description": "Developer of an online medical appointment platform designed to assist patients to connect with the health experts. The company's platform offers to read reviews and schedule appointments anytime and from anywhere, enabling patients to find a health practitioner nearby and lead a healthy life.",
+  "one_liner": "Developer of an online medical appointment platform designed to assist patients to connect with the health experts. The company's platform offers to read reviews and schedule appointments anytime and from anywhere, enabling patients to find a health practitioner nearby and lead a healthy life.",
+  "location": "Brazil",
+  "industry": "Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f0d110e2-f0e2-404c-bdad-a0d49b5d7530.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/boaconsulta",
+  "api": "/companies/boaconsulta.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4767,
+  "name": "Lexoo Limited",
+  "slug": "draftpilotai",
+  "website": "info.lexoo.com",
+  "description": "Legal AI company that enables lawyers to create mark-ups of contracts in minutes instead of hours.",
+  "one_liner": "Legal AI company that enables lawyers to create mark-ups of contracts in minutes instead of hours.",
+  "location": "United Kingdom",
+  "industry": "AI/Machine Learning",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/75b8594a-6ad5-4bcc-a231-1419c5e25dd1.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning"
+  ],
+  "url": "https://500.co/portfolio/draftpilotai",
+  "api": "/companies/draftpilotai.json"
+}

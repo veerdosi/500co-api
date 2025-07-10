@@ -1,0 +1,21 @@
+{
+  "id": 4755,
+  "name": "Wedgies, Inc.",
+  "slug": "wedgies",
+  "website": "wedgies.com",
+  "description": "Provider of a real-time polling platform designed to aggregate data and initiate interaction through survey questions. The company's platform operates an online tool that works everywhere like tablet, mobile and desktop, enabling users to create, conduct and share surveys. It offers a survey tool for publishers and media outlets.",
+  "one_liner": "Provider of a real-time polling platform designed to aggregate data and initiate interaction through survey questions. The company's platform operates an online tool that works everywhere like tablet, mobile and desktop, enabling users to create, conduct and share surveys. It offers a survey tool for publishers and media outlets.",
+  "location": "United States",
+  "industry": "Productivity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Productivity"
+  ],
+  "url": "https://500.co/portfolio/wedgies",
+  "api": "/companies/wedgies.json"
+}

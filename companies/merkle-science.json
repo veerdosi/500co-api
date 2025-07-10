@@ -1,0 +1,23 @@
+{
+  "id": 5473,
+  "name": "Stackseer Technologies Pte. Ltd.",
+  "slug": "merkle-science",
+  "website": "www.merklescience.com",
+  "description": "Operator of a risk monitoring platform intended to detect and prevent the illegal use of cryptocurrency. The company's platform is an easy-to-use rule management interface that helps users visualize account activity across time and generate forensic reports, enabling blockchain companies, crypto-exchanges, investment funds, banks and regulators to perform due diligence and compliance on the blockchain to detect, investigate and prevent the use of cryptocurrency fraud.",
+  "one_liner": "Operator of a risk monitoring platform intended to detect and prevent the illegal use of cryptocurrency. The company's platform is an easy-to-use rule management interface that helps users visualize account activity across time and generate forensic reports, enabling blockchain companies, crypto-exchanges, investment funds, banks and regulators to perform due diligence and compliance on the blockchain to detect, investigate and prevent the use of cryptocurrency fraud.",
+  "location": "Singapore",
+  "industry": "AI/Machine Learning, SaaS, Web 3",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/25468eb6-e50f-4b92-9aa9-79a130a1a969.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "SaaS",
+    "Web 3"
+  ],
+  "url": "https://500.co/portfolio/merkle-science",
+  "api": "/companies/merkle-science.json"
+}

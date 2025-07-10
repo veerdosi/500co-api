@@ -1,0 +1,21 @@
+{
+  "id": 5578,
+  "name": "Alder Apparel",
+  "slug": "alder-apparel",
+  "website": "www.alderapparel.com",
+  "description": "Operator of an online shopping platform intended to offer clothes for all sizes. The company's platform provides inclusive sizing, female-focused design, sustainable and ethical production, and a playful brand, enabling customers to be comfortable in their clothes.",
+  "one_liner": "Operator of an online shopping platform intended to offer clothes for all sizes. The company's platform provides inclusive sizing, female-focused design, sustainable and ethical production, and a playful brand, enabling customers to be comfortable in their clothes.",
+  "location": "Canada",
+  "industry": "Fashion",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ef34fd40-1bc3-4c69-8eba-b70d2d4a78c3.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion"
+  ],
+  "url": "https://500.co/portfolio/alder-apparel",
+  "api": "/companies/alder-apparel.json"
+}

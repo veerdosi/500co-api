@@ -1,0 +1,21 @@
+{
+  "id": 8173,
+  "name": "Endless Studios LLC",
+  "slug": "endless-studios",
+  "website": "www.endlessstudios.com",
+  "description": "A game creation studio providing apprenticeships for learners to collaborate with professionals in art, design, engineering, and storytelling to develop two-dimensional and three-dimensional video games.",
+  "one_liner": "A game creation studio providing apprenticeships for learners to collaborate with professionals in art, design, engineering, and storytelling to develop two-dimensional and three-dimensional video games.",
+  "location": "United Arab Emirates",
+  "industry": "Gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Gaming"
+  ],
+  "url": "https://500.co/portfolio/endless-studios",
+  "api": "/companies/endless-studios.json"
+}

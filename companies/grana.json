@@ -1,0 +1,21 @@
+{
+  "id": 2740,
+  "name": "Grana Group Limited",
+  "slug": "grana",
+  "website": "www.grana.com",
+  "description": "Operator of an online garment shopping platform intended to sell clothes with good quality clothing at a reasonable price level. The company's clothes are directly sourced products from garment factories to reduce the unnecessary markup pricing in modern boutiques/ garment stores and the company also operates an offline showroom called \"The Fitting Room\" in Hong Kong which allows customers to try on their products before ordering them online, enabling clients to buy finest fabric, fashionable design and fitted clothes at affordable prices.",
+  "one_liner": "Operator of an online garment shopping platform intended to sell clothes with good quality clothing at a reasonable price level. The company's clothes are directly sourced products from garment factories to reduce the unnecessary markup pricing in modern boutiques/ garment stores and the company also operates an offline showroom called \"The Fitting Room\" in Hong Kong which allows customers to try on their products before ordering them online, enabling clients to buy finest fabric, fashionable design and fitted clothes at affordable prices.",
+  "location": "United Kingdom",
+  "industry": "Fashion",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b9dde336-1c3b-48e7-b4cc-f172a4aa4629.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion"
+  ],
+  "url": "https://500.co/portfolio/grana",
+  "api": "/companies/grana.json"
+}

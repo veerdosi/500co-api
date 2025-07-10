@@ -1,0 +1,22 @@
+{
+  "id": 8079,
+  "name": "Seedflex Technologies Pte Ltd",
+  "slug": "seedflex",
+  "website": "www.seedflex.com",
+  "description": "Developer of cashless commerce platform designed to prepare the business for a large unforeseen expense, an emergency repair, or an urgent replacement. The company's platform offers a pay-as-one-sell advance tool for online merchants to stay in control of their business, capital, and growth, enabling small businesses to stock up for peak seasons or big campaigns, avoid delays, negotiate bulk discounts, or explore new products.",
+  "one_liner": "Developer of cashless commerce platform designed to prepare the business for a large unforeseen expense, an emergency repair, or an urgent replacement. The company's platform offers a pay-as-one-sell advance tool for online merchants to stay in control of their business, capital, and growth, enabling small businesses to stock up for peak seasons or big campaigns, avoid delays, negotiate bulk discounts, or explore new products.",
+  "location": "Singapore",
+  "industry": "Credit & Lending, FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/8a509571-dd2b-4309-9402-ddfed0b4e4fd.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Credit & Lending",
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/seedflex",
+  "api": "/companies/seedflex.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3135,
+  "name": "Kudo Digital Solutions Pte. Ltd.",
+  "slug": "kudo-digital-solutions-pte-ltd",
+  "website": "kudo.co.id",
+  "description": "Provider of an online platform designed to help businesses to create opportunities to grow their current business through technology. The company's online platform offers to make cash payments through a network of electronic machines to purchase e-commerce products without a credit card, as well as transportation tickets, enabling users to shop online with a safe payment gateway.",
+  "one_liner": "Provider of an online platform designed to help businesses to create opportunities to grow their current business through technology. The company's online platform offers to make cash payments through a network of electronic machines to purchase e-commerce products without a credit card, as well as transportation tickets, enabling users to shop online with a safe payment gateway.",
+  "location": "Singapore",
+  "industry": "Payments",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/3a67de5f-b2ab-4211-a96d-88c0ba6f879e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Payments"
+  ],
+  "url": "https://500.co/portfolio/kudo-digital-solutions-pte-ltd",
+  "api": "/companies/kudo-digital-solutions-pte-ltd.json"
+}

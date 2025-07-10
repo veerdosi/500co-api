@@ -1,0 +1,21 @@
+{
+  "id": 3884,
+  "name": "Candy Club Holding, Inc.",
+  "slug": "candyclub",
+  "website": "www.candyclub.com",
+  "description": "Candy Club Holdings Ltd is engaged in two components namely the B2C business and B2B business. Under the B2C business, the company sells subscriptions plans for the Candy Boxes in the USA, and the B2B business involves the selling of Candy Club Branded Confectionery to specialty market resellers in the USA. It has one segment, which is administration services in Australia.",
+  "one_liner": "Candy Club Holdings Ltd is engaged in two components namely the B2C business and B2B business. Under the B2C business, the company sells subscriptions plans for the Candy Boxes in the USA, and the B2B business involves the selling of Candy Club Branded Confectionery to specialty market resellers in the USA. It has one segment, which is administration services in Australia.",
+  "location": "Australia",
+  "industry": "Ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/77841a18-722c-4cf9-882c-aa96daaacbd8.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Ecommerce"
+  ],
+  "url": "https://500.co/portfolio/candyclub",
+  "api": "/companies/candyclub.json"
+}

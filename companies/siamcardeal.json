@@ -1,0 +1,21 @@
+{
+  "id": 3340,
+  "name": "Webdee Group Co., Ltd.",
+  "slug": "siamcardeal",
+  "website": "www.siamcardeal.com",
+  "description": "Operator of a car listing platform intended to provide information about cars available for buying or selling. The company's platform works with official dealers, who have cars available for sale and are willing to give a discount to customers, enabling clients to smoothen out the process of buying and selling their cars.",
+  "one_liner": "Operator of a car listing platform intended to provide information about cars available for buying or selling. The company's platform works with official dealers, who have cars available for sale and are willing to give a discount to customers, enabling clients to smoothen out the process of buying and selling their cars.",
+  "location": "Thailand",
+  "industry": "Automotive",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/c1d384a5-96cd-430d-b8ac-08f640799d1d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Automotive"
+  ],
+  "url": "https://500.co/portfolio/siamcardeal",
+  "api": "/companies/siamcardeal.json"
+}

@@ -1,0 +1,109 @@
+[
+  {
+    "id": 5315,
+    "name": "Efreshli LTD",
+    "slug": "efreshli",
+    "website": "efreshli.com",
+    "description": "Developer of virtual decoration tool designed to assist users in selecting furniture. The company's platform works in collaboration with a number of furniture providers to make room designs available and assist in the procurement process, enabling customers to visualize room setups before making a purchase decision.",
+    "one_liner": "Developer of virtual decoration tool designed to assist users in selecting furniture. The company's platform works in collaboration with a number of furniture providers to make room designs available and assist in the procurement process, enabling customers to visualize room setups before making a purchase decision.",
+    "location": "Egypt",
+    "industry": "Housing",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/96d47547-21e8-4e4c-9323-89a084061ea9.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Housing"
+    ],
+    "url": "https://500.co/portfolio/efreshli",
+    "api": "/companies/efreshli.json"
+  },
+  {
+    "id": 3561,
+    "name": "Homzmart LLC",
+    "slug": "homzmart",
+    "website": "homzmart.com",
+    "description": "Operator of an internet retail platform intended to sell home furnishings. The company's platform sells home furniture, décor, lighting, and supplies through a visualized community with a wide range of variety and quality products, enabling homeowners to connect with home professionals to take advice and get home supplies at a low cost.",
+    "one_liner": "Operator of an internet retail platform intended to sell home furnishings. The company's platform sells home furniture, décor, lighting, and supplies through a visualized community with a wide range of variety and quality products, enabling homeowners to connect with home professionals to take advice and get home supplies at a low cost.",
+    "location": "Egypt",
+    "industry": "Ecommerce, Housing",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5c60943f-182c-42a8-a778-46850ac51fc5.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Ecommerce",
+      "Housing"
+    ],
+    "url": "https://500.co/portfolio/homzmart",
+    "api": "/companies/homzmart.json"
+  },
+  {
+    "id": 2816,
+    "name": "Quatro Ventures, Inc.",
+    "slug": "justlife",
+    "website": "www.justlife.com",
+    "description": "Operator of a cleaning service platform designed to offer on-demand mopping facilities. The company's platform provides home services such as home cleaning, maintenance, and laundry and allows users to book, pay, and rate house cleaning service providers, enabling customers to schedule appointments in a hassle-free manner through their mobile phones.",
+    "one_liner": "Operator of a cleaning service platform designed to offer on-demand mopping facilities. The company's platform provides home services such as home cleaning, maintenance, and laundry and allows users to book, pay, and rate house cleaning service providers, enabling customers to schedule appointments in a hassle-free manner through their mobile phones.",
+    "location": "United Arab Emirates",
+    "industry": "Housing",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/83225178-448b-4984-bf14-207e69f17ab5.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Housing"
+    ],
+    "url": "https://500.co/portfolio/justlife",
+    "api": "/companies/justlife.json"
+  },
+  {
+    "id": 5656,
+    "name": "Konn Technologies Ltd",
+    "slug": "konn-technologies",
+    "website": "https://www.konnhomes.com/",
+    "description": "Konn reshapes modern living by combining elegant modular home design with cutting-edge digital platforms for seamless, customizable homebuilding.",
+    "one_liner": "Konn reshapes modern living by combining elegant modular home design with cutting-edge digital platforms for seamless, customizable homebuilding.",
+    "location": "Jordan",
+    "industry": "Housing",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/2944530d-c058-46bf-af62-d51761cb7c8f.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Housing"
+    ],
+    "url": "https://500.co/portfolio/konn-technologies",
+    "api": "/companies/konn-technologies.json"
+  },
+  {
+    "id": 4305,
+    "name": "Taskty, Inc.",
+    "slug": "taskty",
+    "website": "taskty.com",
+    "description": "Operator of an online marketplace intended to book service providers for home services. The company's marketplace allows users to connect with housekeeping personels who offer household services, such as home hygiene, furniture washing, pest control, plumbing, carpentry, electricity, air conditioning, and more, enabling customers to choose from a wide range of services as per their budget.",
+    "one_liner": "Operator of an online marketplace intended to book service providers for home services. The company's marketplace allows users to connect with housekeeping personels who offer household services, such as home hygiene, furniture washing, pest control, plumbing, carpentry, electricity, air conditioning, and more, enabling customers to choose from a wide range of services as per their budget.",
+    "location": "Egypt",
+    "industry": "Marketplace, Housing",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/18d647ee-98e7-4cc0-800e-ff5043902196.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Marketplace",
+      "Housing"
+    ],
+    "url": "https://500.co/portfolio/taskty",
+    "api": "/companies/taskty.json"
+  }
+]

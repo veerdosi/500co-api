@@ -1,0 +1,21 @@
+{
+  "id": 8140,
+  "name": "Jago International Pte. Ltd.",
+  "slug": "jago-coffee",
+  "website": "www.jagocoffee.com",
+  "description": "Jago International Pte. Ltd. is the Singapore-incorporated holding company. The group operates its Jago Coffee business in Indonesia through its wholly-owned subsidiary, PT SATUAN TEKNOLOGI BERJALAN.",
+  "one_liner": "Jago International Pte. Ltd. is the Singapore-incorporated holding company. The group operates its Jago Coffee business in Indonesia through its wholly-owned subsidiary, PT SATUAN TEKNOLOGI BERJALAN.",
+  "location": "Singapore",
+  "industry": "Food",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4e33e700-89a5-423f-8fda-ec4d55571ea8.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Food"
+  ],
+  "url": "https://500.co/portfolio/jago-coffee",
+  "api": "/companies/jago-coffee.json"
+}

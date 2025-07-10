@@ -1,0 +1,21 @@
+{
+  "id": 5761,
+  "name": "APPARTA LLC",
+  "slug": "apparta",
+  "website": "www.apparta.co",
+  "description": "Developer of a booking application designed to optimize restaurant productivity, drive dine-in traffic, and fill empty tables. The company platform based on the yield management strategy, offers higher discounts in off-peak hours and lower discounts in high-demand hours, enabling people to save money every time they go out to eat.",
+  "one_liner": "Developer of a booking application designed to optimize restaurant productivity, drive dine-in traffic, and fill empty tables. The company platform based on the yield management strategy, offers higher discounts in off-peak hours and lower discounts in high-demand hours, enabling people to save money every time they go out to eat.",
+  "location": "Colombia",
+  "industry": "Food",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/132b06b1-1fea-4280-8a0b-ee632eda1495.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Food"
+  ],
+  "url": "https://500.co/portfolio/apparta",
+  "api": "/companies/apparta.json"
+}

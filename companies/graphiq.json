@@ -1,0 +1,21 @@
+{
+  "id": 3073,
+  "name": "Palmers & Sandsmark AS",
+  "slug": "graphiq",
+  "website": "www.graphiq.design",
+  "description": "Developer of a graphic designing platform intended to help clients to get their creative projects done. The company's portal connects quality graphic designers who can create websites, presentations, logos, marketing materials, or animations with businesses, enabling clients to hire freelance graphic designers for their projects.",
+  "one_liner": "Developer of a graphic designing platform intended to help clients to get their creative projects done. The company's portal connects quality graphic designers who can create websites, presentations, logos, marketing materials, or animations with businesses, enabling clients to hire freelance graphic designers for their projects.",
+  "location": "Norway",
+  "industry": "Social Media",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ef43fa33-6473-4dfe-a49f-4f88bfcc8f00.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Media"
+  ],
+  "url": "https://500.co/portfolio/graphiq",
+  "api": "/companies/graphiq.json"
+}

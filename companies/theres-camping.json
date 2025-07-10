@@ -1,0 +1,21 @@
+{
+  "id": 5367,
+  "name": "Theres Inc",
+  "slug": "theres-camping",
+  "website": "www.theres.co",
+  "description": "Operator of an outdoor community and commerce platform intended to provide outdoor information. The company provides information tailored to the level of customers at each stage and compares outdoor products that can be purchased through the sales channel, thus providing outdoor enthusiasts with relevant information.",
+  "one_liner": "Operator of an outdoor community and commerce platform intended to provide outdoor information. The company provides information tailored to the level of customers at each stage and compares outdoor products that can be purchased through the sales channel, thus providing outdoor enthusiasts with relevant information.",
+  "location": "South Korea",
+  "industry": "Consumer",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/312e61e2-a66d-41f1-9f02-7bb506decb80.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Consumer"
+  ],
+  "url": "https://500.co/portfolio/theres-camping",
+  "api": "/companies/theres-camping.json"
+}

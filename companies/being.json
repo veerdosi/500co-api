@@ -1,0 +1,19 @@
+{
+  "id": 8211,
+  "name": "Being Global Sdn Bhd",
+  "slug": "being",
+  "website": "www.beingjuice.com",
+  "description": "",
+  "one_liner": "",
+  "location": "Malaysia",
+  "industry": "",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://500.co/portfolio/being",
+  "api": "/companies/being.json"
+}

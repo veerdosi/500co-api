@@ -1,0 +1,21 @@
+{
+  "id": 5667,
+  "name": "Ali Group LLC.",
+  "slug": "ali-group",
+  "website": "xaim.io",
+  "description": "Affordable processing power",
+  "one_liner": "Affordable processing power",
+  "location": "United States",
+  "industry": "AI/Machine Learning",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/38f68d6b-c389-41d1-aeb8-b05d4792c94d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning"
+  ],
+  "url": "https://500.co/portfolio/ali-group",
+  "api": "/companies/ali-group.json"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 4592,
+  "name": "Snapette Inc.",
+  "slug": "snapette-inc",
+  "website": "snapette.com",
+  "description": "Developer of software applications for mobile phone. The company provides software for mobile phone that helps to discover and share photos of shoes and bags.",
+  "one_liner": "Developer of software applications for mobile phone. The company provides software for mobile phone that helps to discover and share photos of shoes and bags.",
+  "location": "United States",
+  "industry": "Fashion, Social Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion",
+    "Social Impact"
+  ],
+  "url": "https://500.co/portfolio/snapette-inc",
+  "api": "/companies/snapette-inc.json"
+}

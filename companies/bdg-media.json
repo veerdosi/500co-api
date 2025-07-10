@@ -1,0 +1,22 @@
+{
+  "id": 3889,
+  "name": "BDG Media, Inc.",
+  "slug": "bdg-media",
+  "website": "www.bdg.com",
+  "description": "Developer of a digital media platform designed for young readers. The company's platform delivers everything readers want to read, including news, celebrity, culture, lifestyle, politics, fashion and beauty, enabling readers and social fans to get everything they need to know in one place and stay updated on all the things they love.",
+  "one_liner": "Developer of a digital media platform designed for young readers. The company's platform delivers everything readers want to read, including news, celebrity, culture, lifestyle, politics, fashion and beauty, enabling readers and social fans to get everything they need to know in one place and stay updated on all the things they love.",
+  "location": "United States",
+  "industry": "Fashion, Entertainment / Media",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/798fe0c3-e3db-4bab-ab64-9270b9f21be8.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion",
+    "Entertainment / Media"
+  ],
+  "url": "https://500.co/portfolio/bdg-media",
+  "api": "/companies/bdg-media.json"
+}

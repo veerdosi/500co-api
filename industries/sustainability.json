@@ -1,0 +1,93 @@
+[
+  {
+    "id": 4622,
+    "name": "Abillionveg, Inc",
+    "slug": "abillion",
+    "website": "www.abillion.com",
+    "description": "Developer of a global review and discovery platform designed to voice an opinion about anything plant-based or cruelty-free. The company's platform leverages technology to help find where to eat, plant-based recipes, perspectives and tips on living well, and also share feedback with business owners to help them shift to more plant-based options, enabling customers to voice their opinions on plant-based alternatives.",
+    "one_liner": "Developer of a global review and discovery platform designed to voice an opinion about anything plant-based or cruelty-free. The company's platform leverages technology to help find where to eat, plant-based recipes, perspectives and tips on living well, and also share feedback with business owners to help them shift to more plant-based options, enabling customers to voice their opinions on plant-based alternatives.",
+    "location": "Singapore",
+    "industry": "App, Sustainability, Social Impact",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/fccde8a0-3e3b-427d-974c-f01845a946e8.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "App",
+      "Sustainability",
+      "Social Impact"
+    ],
+    "url": "https://500.co/portfolio/abillion",
+    "api": "/companies/abillion.json"
+  },
+  {
+    "id": 5497,
+    "name": "Effa Corporation",
+    "slug": "effa",
+    "website": "www.effa.one",
+    "description": "Developer of eco-clean disposable products designed to replace plastic analogs with the use of paper to reduce pollution. The company's toothbrush uses innovative nylon that can quickly decompose with little impact on the environment, has a minimalist look, and areas made of recycled paper covered with environmentally friendly lamination made from corn starch, enabling users to get access to easy-to-use, cheap, and stylish toothbrush at a reasonable cost.",
+    "one_liner": "Developer of eco-clean disposable products designed to replace plastic analogs with the use of paper to reduce pollution. The company's toothbrush uses innovative nylon that can quickly decompose with little impact on the environment, has a minimalist look, and areas made of recycled paper covered with environmentally friendly lamination made from corn starch, enabling users to get access to easy-to-use, cheap, and stylish toothbrush at a reasonable cost.",
+    "location": "United States",
+    "industry": "BioTech & Life Sciences, Sustainability, Utilities (energy, water, waste)",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/a1919529-b56f-452a-ada9-6e90e53da0e1.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "BioTech & Life Sciences",
+      "Sustainability",
+      "Utilities (energy, water, waste)"
+    ],
+    "url": "https://500.co/portfolio/effa",
+    "api": "/companies/effa.json"
+  },
+  {
+    "id": 5176,
+    "name": "Krosslinker Pte. Ltd.",
+    "slug": "krosslinker",
+    "website": "www.krosslinker.com",
+    "description": "Developer of a thermal insulation material designed to tackle the demanding challenges of cold-chain bio-pharmaceutical packaging. The company's material offers enhanced insulation performance, durability, and moisture resistance, and is eco-friendly, enabling clients to have a safe handling of bio-pharma products.",
+    "one_liner": "Developer of a thermal insulation material designed to tackle the demanding challenges of cold-chain bio-pharmaceutical packaging. The company's material offers enhanced insulation performance, durability, and moisture resistance, and is eco-friendly, enabling clients to have a safe handling of bio-pharma products.",
+    "location": "Singapore",
+    "industry": "CleanTech, Energy, Sustainability",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/790bd09e-e6cf-4f0d-8760-beb726d5e561.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "CleanTech",
+      "Energy",
+      "Sustainability"
+    ],
+    "url": "https://500.co/portfolio/krosslinker",
+    "api": "/companies/krosslinker.json"
+  },
+  {
+    "id": 8607,
+    "name": "Solarstic",
+    "slug": "solarstic",
+    "website": "",
+    "description": "Developer of ultra-lightweight, design-flexible solar modules for vehicles and industrial rooftops, spun out from Hyundai Motor's internal solar system team. The company operates a proprietary plastic encapsulation and injection molding process that replaces conventional glass solar panels, enabling scalability and carbon-credit alignment across mobility and RE100 manufacturing use cases.",
+    "one_liner": "Developer of ultra-lightweight, design-flexible solar modules for vehicles and industrial rooftops, spun out from Hyundai Motor's internal solar system team. The company operates a proprietary plastic encapsulation and injection molding process that replaces conventional glass solar panels, enabling scalability and carbon-credit alignment across mobility and RE100 manufacturing use cases.",
+    "location": "KOREA, REPUBLIC OF",
+    "industry": "Climate Tech, Sustainability",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/d3b82618-bd27-45f2-a594-62e8a5e01b6c.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Climate Tech",
+      "Sustainability"
+    ],
+    "url": "https://500.co/portfolio/solarstic",
+    "api": "/companies/solarstic.json"
+  }
+]

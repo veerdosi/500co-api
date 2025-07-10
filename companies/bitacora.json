@@ -1,0 +1,22 @@
+{
+  "id": 5123,
+  "name": "Bitacora LLC",
+  "slug": "bitacora",
+  "website": "www.bitacora.io",
+  "description": "Developer of an online platform intended to create automatic reports for desk-less workers. The company's platform helps desk-less workers in construction and maintenance teams to speed up reporting by creating automated reports and allows managers to analyze and discover opportunities to improve internal processes, enabling workers to manage on-site information in a hassle-free manner.",
+  "one_liner": "Developer of an online platform intended to create automatic reports for desk-less workers. The company's platform helps desk-less workers in construction and maintenance teams to speed up reporting by creating automated reports and allows managers to analyze and discover opportunities to improve internal processes, enabling workers to manage on-site information in a hassle-free manner.",
+  "location": "Mexico",
+  "industry": "Productivity, SaaS",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/f86da568-6aff-42eb-a558-62ac60f0ccff.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Productivity",
+    "SaaS"
+  ],
+  "url": "https://500.co/portfolio/bitacora",
+  "api": "/companies/bitacora.json"
+}

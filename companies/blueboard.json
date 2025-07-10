@@ -1,0 +1,19 @@
+{
+  "id": 3817,
+  "name": "Blueboard, Inc.",
+  "slug": "blueboard",
+  "website": "www.blueboard.com",
+  "description": "Developer of an employee recognition platform designed to assist in rewarding and acknowledging employees. The company's platform offers hand-curated experiences such as experiential rewards allowing people to connect with family and friends, and manages cost governance and control over company-wide budgets with client's enterprise-level approvals, enabling users to enhance their employee recognition capabilities in lieu of traditional offerings like cash and gift cards.",
+  "one_liner": "Developer of an employee recognition platform designed to assist in rewarding and acknowledging employees. The company's platform offers hand-curated experiences such as experiential rewards allowing people to connect with family and friends, and manages cost governance and control over company-wide budgets with client's enterprise-level approvals, enabling users to enhance their employee recognition capabilities in lieu of traditional offerings like cash and gift cards.",
+  "location": "United States",
+  "industry": "",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/0d98f8ae-7447-4e54-b732-eeef65b639cb.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://500.co/portfolio/blueboard",
+  "api": "/companies/blueboard.json"
+}

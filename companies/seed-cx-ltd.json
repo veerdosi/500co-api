@@ -1,0 +1,22 @@
+{
+  "id": 3737,
+  "name": "Seed CX Ltd.",
+  "slug": "seed-cx-ltd",
+  "website": "seedcx.com",
+  "description": "Provider of an online institutional trading platform intended for the emerging agricultural markets. The company's platform uses derivative tools to cultivate financial security in emerging agricultural markets with idiosyncratic production risks, enabling users to cure operational stability for hedgers and new trading opportunities for speculators.",
+  "one_liner": "Provider of an online institutional trading platform intended for the emerging agricultural markets. The company's platform uses derivative tools to cultivate financial security in emerging agricultural markets with idiosyncratic production risks, enabling users to cure operational stability for hedgers and new trading opportunities for speculators.",
+  "location": "United States",
+  "industry": "Crypto, Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/908e9bbb-a583-4152-b73a-761438e89192.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Crypto",
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/seed-cx-ltd",
+  "api": "/companies/seed-cx-ltd.json"
+}

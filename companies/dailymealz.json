@@ -1,0 +1,21 @@
+{
+  "id": 4349,
+  "name": "DailyMealz Inc.",
+  "slug": "dailymealz",
+  "website": "dailymealz.com",
+  "description": "Developer of a food delivery platform designed to promote healthy eating with authentic taste. The company's platform helps users in making subscriptions for a week or a month and offers healthy meals with a variety of local products every day, enabling users to get their nutritious and healthy meals delivered to their doorsteps.",
+  "one_liner": "Developer of a food delivery platform designed to promote healthy eating with authentic taste. The company's platform helps users in making subscriptions for a week or a month and offers healthy meals with a variety of local products every day, enabling users to get their nutritious and healthy meals delivered to their doorsteps.",
+  "location": "Saudi Arabia",
+  "industry": "Food",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/afc7bde9-c2a5-4703-a23e-78c05a965b2f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Food"
+  ],
+  "url": "https://500.co/portfolio/dailymealz",
+  "api": "/companies/dailymealz.json"
+}

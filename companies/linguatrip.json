@@ -1,0 +1,21 @@
+{
+  "id": 4555,
+  "name": "LinguaTrip, Inc.",
+  "slug": "linguatrip",
+  "website": "linguatrip.com",
+  "description": "Developer of an online platform designed to offer foreign language learning from anywhere in the world. The company's platform connects learners to language immersions abroad and offers students booking and accommodation facilities, enabling students to find suitable courses from a wide selection of accredited schools at discounted rates.",
+  "one_liner": "Developer of an online platform designed to offer foreign language learning from anywhere in the world. The company's platform connects learners to language immersions abroad and offers students booking and accommodation facilities, enabling students to find suitable courses from a wide selection of accredited schools at discounted rates.",
+  "location": "Russia",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/801d7594-28ee-444e-8784-b01bdd5e18cd.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/linguatrip",
+  "api": "/companies/linguatrip.json"
+}

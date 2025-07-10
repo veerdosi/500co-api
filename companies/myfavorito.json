@@ -1,0 +1,21 @@
+{
+  "id": 4740,
+  "name": "MyFavorito GmbH",
+  "slug": "myfavorito",
+  "website": "www.myfavorito.com",
+  "description": "Developer of a fan-empowered sponsorship platform intended to transform fan love into real money, so everyone wins. The company creates the playing field for sports with a radically different approach to sponsorship, enabling brands and companies that never previously engaged with sports will support thousands of sports clubs simultaneously.",
+  "one_liner": "Developer of a fan-empowered sponsorship platform intended to transform fan love into real money, so everyone wins. The company creates the playing field for sports with a radically different approach to sponsorship, enabling brands and companies that never previously engaged with sports will support thousands of sports clubs simultaneously.",
+  "location": "Germany",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2a094ff3-c7e9-47b9-912f-9a03f4cf4094.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/myfavorito",
+  "api": "/companies/myfavorito.json"
+}

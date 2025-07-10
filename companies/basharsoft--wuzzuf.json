@@ -1,0 +1,21 @@
+{
+  "id": 2811,
+  "name": "BasharSoft LLC",
+  "slug": "basharsoft--wuzzuf",
+  "website": "basharsoft.com",
+  "description": "BasharSoft operates Wuzzuf and Forasna, two of the largest job platforms in Egypt and across MENA",
+  "one_liner": "BasharSoft operates Wuzzuf and Forasna, two of the largest job platforms in Egypt and across MENA",
+  "location": "Egypt",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/basharsoft--wuzzuf",
+  "api": "/companies/basharsoft--wuzzuf.json"
+}

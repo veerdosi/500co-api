@@ -1,0 +1,21 @@
+{
+  "id": 4739,
+  "name": "Intap Labs Pvt. Ltd.",
+  "slug": "intap-labs-pvt-ltd",
+  "website": "helloenglish.com",
+  "description": "Provider of a cloud-based platform intended to offer language and culture learning services. The company's platform offers an application software which hosts intuitive audio-visual language, lessons and practice widgets in different languages, enabling learners to build their English vocabulary and in other languages.",
+  "one_liner": "Provider of a cloud-based platform intended to offer language and culture learning services. The company's platform offers an application software which hosts intuitive audio-visual language, lessons and practice widgets in different languages, enabling learners to build their English vocabulary and in other languages.",
+  "location": "India",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ba2383d8-0f82-4baf-9fe1-19f62cfa1693.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/intap-labs-pvt-ltd",
+  "api": "/companies/intap-labs-pvt-ltd.json"
+}

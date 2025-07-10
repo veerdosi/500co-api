@@ -1,0 +1,21 @@
+{
+  "id": 4213,
+  "name": "DropShip Commerce",
+  "slug": "dropship-commerce",
+  "website": "www.dsco.io",
+  "description": "Provider of a cloud-based drop-shipping platform designed to provide product push and predictive supply chain, models. The company's online platform integrates and manages drop ship partners, inventory, data, and orders by handling the exchange of data through a single connection and integration point, helping trading partners streamline operations, generate more sales, and fulfill more orders using the virtual supply chain.",
+  "one_liner": "Provider of a cloud-based drop-shipping platform designed to provide product push and predictive supply chain, models. The company's online platform integrates and manages drop ship partners, inventory, data, and orders by handling the exchange of data through a single connection and integration point, helping trading partners streamline operations, generate more sales, and fulfill more orders using the virtual supply chain.",
+  "location": "United States",
+  "industry": "Supply Chain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/fb8ecd28-9afa-4f9a-b4de-48ad53bd2cac.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Supply Chain"
+  ],
+  "url": "https://500.co/portfolio/dropship-commerce",
+  "api": "/companies/dropship-commerce.json"
+}

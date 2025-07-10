@@ -1,0 +1,21 @@
+{
+  "id": 5231,
+  "name": "Aerodyne Ventures Sdn Bhd",
+  "slug": "aerodyne",
+  "website": "aerodyne.group",
+  "description": "Developer of a DT3 (drone technology, data technology & digital transformation) enterprise solutions provider designed for large-scale data operations, analytics, and process optimization. The company's DT3 solutions resolve complex pain points of major industries worldwide by offering valuable capabilities for applications such as transmission tower inspection, wind turbines (WTG), solar farms, and other critical infrastructures, enabling organizations to rapidly scale, digitally transform, operate optimally, and increase productivity.",
+  "one_liner": "Developer of a DT3 (drone technology, data technology & digital transformation) enterprise solutions provider designed for large-scale data operations, analytics, and process optimization. The company's DT3 solutions resolve complex pain points of major industries worldwide by offering valuable capabilities for applications such as transmission tower inspection, wind turbines (WTG), solar farms, and other critical infrastructures, enabling organizations to rapidly scale, digitally transform, operate optimally, and increase productivity.",
+  "location": "Malaysia",
+  "industry": "Aviation",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/539af3ba-3ea3-4918-82e1-11db08284133.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Aviation"
+  ],
+  "url": "https://500.co/portfolio/aerodyne",
+  "api": "/companies/aerodyne.json"
+}

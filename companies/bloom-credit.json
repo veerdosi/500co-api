@@ -1,0 +1,21 @@
+{
+  "id": 3446,
+  "name": "Bloom Credit, Inc.",
+  "slug": "bloom-credit",
+  "website": "bloomcredit.io",
+  "description": "Developer of a financial analysis technology designed to improve the eligibility of people who declined lending products. The company's technology uses a data-driven approach to offer actionable advice, insights, and guidance, working directly with lenders, to graduate their applicants through consumer credit analysis, ongoing credit monitoring, and alerting lenders as per eligibility requirements, enabling consumers to improve their financial health and loan eligibility.",
+  "one_liner": "Developer of a financial analysis technology designed to improve the eligibility of people who declined lending products. The company's technology uses a data-driven approach to offer actionable advice, insights, and guidance, working directly with lenders, to graduate their applicants through consumer credit analysis, ongoing credit monitoring, and alerting lenders as per eligibility requirements, enabling consumers to improve their financial health and loan eligibility.",
+  "location": "United States",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/53e2135b-6179-4a9b-a567-b13abad242a7.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/bloom-credit",
+  "api": "/companies/bloom-credit.json"
+}

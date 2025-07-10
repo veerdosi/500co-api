@@ -1,0 +1,22 @@
+{
+  "id": 8070,
+  "name": "Porte Tech Inc.",
+  "slug": "porte-tech",
+  "website": "porte.tech",
+  "description": "",
+  "one_liner": "",
+  "location": "Kazakhstan",
+  "industry": "Travel & Tourism, Hospitality",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b4bbff11-dc9d-4f70-a3c2-e253f0fdbac1.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Travel & Tourism",
+    "Hospitality"
+  ],
+  "url": "https://500.co/portfolio/porte-tech",
+  "api": "/companies/porte-tech.json"
+}

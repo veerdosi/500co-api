@@ -1,0 +1,21 @@
+{
+  "id": 3618,
+  "name": "Stop, Breathe & Think, PBC",
+  "slug": "stop-breathe--think-pbc",
+  "website": "www.stopbreathethink.com",
+  "description": "Provider of an emotional wellness platform designed to help the users find peace of mind everyday. The companies emotional wellness platform provides personalized approach prompts for users to check in with, and provides recommendations for short activities like meditations tuned to those particular emotions.",
+  "one_liner": "Provider of an emotional wellness platform designed to help the users find peace of mind everyday. The companies emotional wellness platform provides personalized approach prompts for users to check in with, and provides recommendations for short activities like meditations tuned to those particular emotions.",
+  "location": "United States",
+  "industry": "Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/stop-breathe--think-pbc",
+  "api": "/companies/stop-breathe--think-pbc.json"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 5267,
+  "name": "Kondukto Teknoloji A.Ş.",
+  "slug": "kondukto",
+  "website": "kondukto.io",
+  "description": "Developer of an application security testing platform intended to offer an automated and centralized vulnerability management process. The company's platform integrates with various tools used by organizations and automates the work of application security engineers in software development processes and also manages the whole process of finding vulnerabilities, enabling clients to automate and centralize the tasks associated with application security testing processes.",
+  "one_liner": "Developer of an application security testing platform intended to offer an automated and centralized vulnerability management process. The company's platform integrates with various tools used by organizations and automates the work of application security engineers in software development processes and also manages the whole process of finding vulnerabilities, enabling clients to automate and centralize the tasks associated with application security testing processes.",
+  "location": "Turkey",
+  "industry": "Cybersecurity, Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ad7d3856-51f0-4c52-bf4c-fdc0ab18c5fb.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Cybersecurity",
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/kondukto",
+  "api": "/companies/kondukto.json"
+}

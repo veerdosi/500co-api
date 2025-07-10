@@ -1,0 +1,21 @@
+{
+  "id": 3530,
+  "name": "Apparel IQ Holding Limited",
+  "slug": "mr-draper",
+  "website": "www.mrdraper.com",
+  "description": "Provider of an online fashion advisory platform intended to offer curated shopping service for men. The company's platform offers a personalized shopping service where one can seek new fashion suggestions from stylists and ask the kind of apparel to be worn for a particular occasion as per individual size, complexion, and height, enabling men shoppers to find and order personalized outfits that are delivered at desired venues.",
+  "one_liner": "Provider of an online fashion advisory platform intended to offer curated shopping service for men. The company's platform offers a personalized shopping service where one can seek new fashion suggestions from stylists and ask the kind of apparel to be worn for a particular occasion as per individual size, complexion, and height, enabling men shoppers to find and order personalized outfits that are delivered at desired venues.",
+  "location": "United Arab Emirates",
+  "industry": "Fashion",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/c70d5ce0-299d-4017-a458-c1d12163f8c8.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion"
+  ],
+  "url": "https://500.co/portfolio/mr-draper",
+  "api": "/companies/mr-draper.json"
+}

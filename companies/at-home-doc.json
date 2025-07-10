@@ -1,0 +1,22 @@
+{
+  "id": 4396,
+  "name": "MediHealth Global Innovation, Inc.",
+  "slug": "at-home-doc",
+  "website": "at-home-doc.com",
+  "description": "Developer of a mobile-based medical platform designed to offer medical services at home. The company's platform is a home doctor service application that offers doctors, medications and laboratories anytime anywhere in less than 90-minutes, enabling patients and their family members to pick medical services as per requirement and get 24/7 healthcare consultation services at home.",
+  "one_liner": "Developer of a mobile-based medical platform designed to offer medical services at home. The company's platform is a home doctor service application that offers doctors, medications and laboratories anytime anywhere in less than 90-minutes, enabling patients and their family members to pick medical services as per requirement and get 24/7 healthcare consultation services at home.",
+  "location": "Qatar",
+  "industry": "Health Tech, Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/84e40dae-5741-4869-967a-a1b8a7f8fc41.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Health Tech",
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/at-home-doc",
+  "api": "/companies/at-home-doc.json"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 3502,
+  "name": "Apptopia, Inc.",
+  "slug": "apptopia",
+  "website": "apptopia.com",
+  "description": "Developer of a mobile activity intelligence platform intended to guide marketing, product, sales and investment strategies through mobile data. The company's platform manages the sales process of software applications, ranging from recommending application valuation to connecting sellers with buyers and providing escrow services and code review, enabling clients to understand and monitor competitors, inform business strategies and identify emerging consumer interests and trends.",
+  "one_liner": "Developer of a mobile activity intelligence platform intended to guide marketing, product, sales and investment strategies through mobile data. The company's platform manages the sales process of software applications, ranging from recommending application valuation to connecting sellers with buyers and providing escrow services and code review, enabling clients to understand and monitor competitors, inform business strategies and identify emerging consumer interests and trends.",
+  "location": "United States",
+  "industry": "Data & Analytics, Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/fbb1fd2d-b252-42f0-8c15-98b9e4e493ab.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics",
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/apptopia",
+  "api": "/companies/apptopia.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4274,
+  "name": "Crocodoc, Inc.",
+  "slug": "crocodoc-inc",
+  "website": "crocodoc.com",
+  "description": "Provider of tool to view and comment on PDF, Word document, and PowerPoint presentation. The company provides a tool to upload and convert them into (Hyper Text Mark-up Language) HTML5 so that you can easily embed them on web site. It also provide mark-up, share and review documents and presentations.",
+  "one_liner": "Provider of tool to view and comment on PDF, Word document, and PowerPoint presentation. The company provides a tool to upload and convert them into (Hyper Text Mark-up Language) HTML5 so that you can easily embed them on web site. It also provide mark-up, share and review documents and presentations.",
+  "location": "United States",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/crocodoc-inc",
+  "api": "/companies/crocodoc-inc.json"
+}

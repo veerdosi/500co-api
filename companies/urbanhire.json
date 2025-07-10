@@ -1,0 +1,21 @@
+{
+  "id": 3045,
+  "name": "PT Urban Teknologi Digital",
+  "slug": "urbanhire",
+  "website": "www.urbanhire.com",
+  "description": "Developer of an online recruitment platform designed to assist the employee searching and hiring process. The company's platform offers to search for jobs through its portal and permits uploading resumes and the type of work domain they are looking for, enabling staffing agencies and HR departments to streamline their hiring process and recruit suitable employees.",
+  "one_liner": "Developer of an online recruitment platform designed to assist the employee searching and hiring process. The company's platform offers to search for jobs through its portal and permits uploading resumes and the type of work domain they are looking for, enabling staffing agencies and HR departments to streamline their hiring process and recruit suitable employees.",
+  "location": "Indonesia",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/urbanhire",
+  "api": "/companies/urbanhire.json"
+}

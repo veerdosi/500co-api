@@ -1,0 +1,21 @@
+{
+  "id": 5785,
+  "name": "BayaPay Sdn Bhd",
+  "slug": "bayapay-sdn",
+  "website": "www.bayapay.com",
+  "description": "Provider of a smart fuel fleet payment & fleet management platform intended to help commercial vehicle owners deter fraud, save cost, and digitize fleet management. The company offers a fully functional open-loop payment card to save money and stay ahead of the competition, enabling businesses to make secure payments within set limits and controls across all fleet-related expenses with ease.",
+  "one_liner": "Provider of a smart fuel fleet payment & fleet management platform intended to help commercial vehicle owners deter fraud, save cost, and digitize fleet management. The company offers a fully functional open-loop payment card to save money and stay ahead of the competition, enabling businesses to make secure payments within set limits and controls across all fleet-related expenses with ease.",
+  "location": "Malaysia",
+  "industry": "Payments",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Payments"
+  ],
+  "url": "https://500.co/portfolio/bayapay-sdn",
+  "api": "/companies/bayapay-sdn.json"
+}

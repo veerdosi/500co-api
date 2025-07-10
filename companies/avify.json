@@ -1,0 +1,21 @@
+{
+  "id": 5136,
+  "name": "Avify LLC",
+  "slug": "avify",
+  "website": "avify.com",
+  "description": "Developer of an inventory management platform designed to manage inventories and orders from all the sales channels. The company's platform helps to manage all the products in one place and replicates inventory across all sales channels, connects the delivery services, collects orders through social networks, and allows to connect card payment processors or receive payments by bank transfer by attaching receipts, enabling clients to automate the business supply chain.",
+  "one_liner": "Developer of an inventory management platform designed to manage inventories and orders from all the sales channels. The company's platform helps to manage all the products in one place and replicates inventory across all sales channels, connects the delivery services, collects orders through social networks, and allows to connect card payment processors or receive payments by bank transfer by attaching receipts, enabling clients to automate the business supply chain.",
+  "location": "Costa Rica",
+  "industry": "SME Solution",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/d6262638-1148-4ca6-bd9b-13c46834df5e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "SME Solution"
+  ],
+  "url": "https://500.co/portfolio/avify",
+  "api": "/companies/avify.json"
+}

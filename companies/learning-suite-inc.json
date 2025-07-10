@@ -1,0 +1,21 @@
+{
+  "id": 4970,
+  "name": "Learning Suite, Inc.",
+  "slug": "learning-suite-inc",
+  "website": "prolaera.com",
+  "description": "Provider of an educational platform created for Continuing Professionals courses, compliance tracking, and professional development. The company's platform combines a compliance requirement tracking engine, an open course marketplace, and an online learning platform to deliver on-demand training, enabling candidates to significantly reduce administrative overhead costs and develop new skill sets faster.",
+  "one_liner": "Provider of an educational platform created for Continuing Professionals courses, compliance tracking, and professional development. The company's platform combines a compliance requirement tracking engine, an open course marketplace, and an online learning platform to deliver on-demand training, enabling candidates to significantly reduce administrative overhead costs and develop new skill sets faster.",
+  "location": "United States",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ebe89c53-18e2-448b-837e-97db07f50eee.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/learning-suite-inc",
+  "api": "/companies/learning-suite-inc.json"
+}

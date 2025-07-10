@@ -1,0 +1,21 @@
+{
+  "id": 4866,
+  "name": "Zencoder Inc",
+  "slug": "zencoder-inc",
+  "website": "zencoder.com",
+  "description": "Provider of cloud-based video encoding software. The company provides web-based video encoding software as a service, designed to convert any video into web and mobile compatible formats. It is for web sites and applications that accept uploaded videos and need to encode them to standard formats.",
+  "one_liner": "Provider of cloud-based video encoding software. The company provides web-based video encoding software as a service, designed to convert any video into web and mobile compatible formats. It is for web sites and applications that accept uploaded videos and need to encode them to standard formats.",
+  "location": "United States",
+  "industry": "Social Media",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/c1d08a5d-7712-40d0-a733-bc3662f7ed80.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Media"
+  ],
+  "url": "https://500.co/portfolio/zencoder-inc",
+  "api": "/companies/zencoder-inc.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5034,
+  "name": "Trampoline Tech Private Limited",
+  "slug": "ripplehire",
+  "website": "www.ripplehire.com",
+  "description": "Developer of recruitment SaaS platform intended to identify correct candidates from employees' social networks and gamify the employee referral program. The company platform offers game-based employee referral software for recruiters and referral programs with contests and bonuses to engage employees in the recruitment process, enabling the human resources team with a performance hiring engine using the talent acquisition cloud.",
+  "one_liner": "Developer of recruitment SaaS platform intended to identify correct candidates from employees' social networks and gamify the employee referral program. The company platform offers game-based employee referral software for recruiters and referral programs with contests and bonuses to engage employees in the recruitment process, enabling the human resources team with a performance hiring engine using the talent acquisition cloud.",
+  "location": "India",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/6e997497-1ed0-42c4-9e04-5708fd38e05f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/ripplehire",
+  "api": "/companies/ripplehire.json"
+}

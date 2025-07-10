@@ -1,0 +1,21 @@
+{
+  "id": 3148,
+  "name": "MotionElements Pte. Ltd.",
+  "slug": "motion-elements",
+  "website": "www.motionelements.com",
+  "description": "Developer of a microstock marketplace designed to connect digital artists and filmmakers for the promotion of digital media. The company's marketplace offers a web-based platform to purchase worldwide stock animation, video footage, after effects templates, apple motion templates, and online music tracks, enabling users to view various forms of digital media and purchase according to their requirements.",
+  "one_liner": "Developer of a microstock marketplace designed to connect digital artists and filmmakers for the promotion of digital media. The company's marketplace offers a web-based platform to purchase worldwide stock animation, video footage, after effects templates, apple motion templates, and online music tracks, enabling users to view various forms of digital media and purchase according to their requirements.",
+  "location": "Singapore",
+  "industry": "Entertainment / Media",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/adcce9d7-16c7-488d-b769-22af4f6065af.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Entertainment / Media"
+  ],
+  "url": "https://500.co/portfolio/motion-elements",
+  "api": "/companies/motion-elements.json"
+}

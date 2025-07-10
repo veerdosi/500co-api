@@ -1,0 +1,22 @@
+{
+  "id": 4789,
+  "name": "Finomial Corporation",
+  "slug": "finomial",
+  "website": "finomial.com",
+  "description": "Developer of a cloud-based client life cycle management platform designed to connect the critical interactions between institutional and individual investors, fund managers, fund administrators, and custodians. The company's platform automates the hedge-fund subscription process, as well as offers investor analytics services, enabling clients to maximize returns on their investments, promote profitability and automate investor servicing from end to end.",
+  "one_liner": "Developer of a cloud-based client life cycle management platform designed to connect the critical interactions between institutional and individual investors, fund managers, fund administrators, and custodians. The company's platform automates the hedge-fund subscription process, as well as offers investor analytics services, enabling clients to maximize returns on their investments, promote profitability and automate investor servicing from end to end.",
+  "location": "United States",
+  "industry": "Content, FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content",
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/finomial",
+  "api": "/companies/finomial.json"
+}

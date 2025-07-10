@@ -1,0 +1,21 @@
+{
+  "id": 3890,
+  "name": "GlamST LLC",
+  "slug": "glamst-llc",
+  "website": "glamst.com",
+  "description": "Provider of an omni-channel services intended to provide an Augmented Reality platform for Beauty thru Virtual Try-on. The company's omni-channel services provides limitless sample experience and turn beauty advisors into experts, enabling women to try on makeup of any brand, from anywhere.",
+  "one_liner": "Provider of an omni-channel services intended to provide an Augmented Reality platform for Beauty thru Virtual Try-on. The company's omni-channel services provides limitless sample experience and turn beauty advisors into experts, enabling women to try on makeup of any brand, from anywhere.",
+  "location": "United States",
+  "industry": "Augmented Reality / Virtual Reality",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/311e5058-4d8a-404c-b6fa-8694b5fdda44.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Augmented Reality / Virtual Reality"
+  ],
+  "url": "https://500.co/portfolio/glamst-llc",
+  "api": "/companies/glamst-llc.json"
+}

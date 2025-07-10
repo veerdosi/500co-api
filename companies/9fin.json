@@ -1,0 +1,21 @@
+{
+  "id": 3270,
+  "name": "9FIN Limited",
+  "slug": "9fin",
+  "website": "9fin.com",
+  "description": "Developer of a data analytics platform designed to provide AI-powered financial data. The company's platform uses computer vision and machine learning to find key data on high-yield bonds and the companies who issue them along with up-to-date tracking and monitoring of deals, real-time market news and events, and price data on bonds displayed as charts for the fixed-income market, enabling income professionals to save time and make proper investment decisions.",
+  "one_liner": "Developer of a data analytics platform designed to provide AI-powered financial data. The company's platform uses computer vision and machine learning to find key data on high-yield bonds and the companies who issue them along with up-to-date tracking and monitoring of deals, real-time market news and events, and price data on bonds displayed as charts for the fixed-income market, enabling income professionals to save time and make proper investment decisions.",
+  "location": "United Kingdom",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4fd79abc-9a6c-4397-bbd4-f5c46d7f4d0a.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/9fin",
+  "api": "/companies/9fin.json"
+}

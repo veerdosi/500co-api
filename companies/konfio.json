@@ -1,0 +1,21 @@
+{
+  "id": 3007,
+  "name": "Konfio Limited",
+  "slug": "konfio",
+  "website": "konfio.mx",
+  "description": "Developer of an online lending platform designed to offer micro-business loans. The company's platform complements traditional financial analysis and helps clients achieve economic growth through access to credit options with a proprietary algorithm that combines data and technology to measure creditworthiness, providing convenience and affordability to customers who are creditworthy but historically under-served by traditional banking, enabling small businesses to grow their operations and businesses with competitive rates.",
+  "one_liner": "Developer of an online lending platform designed to offer micro-business loans. The company's platform complements traditional financial analysis and helps clients achieve economic growth through access to credit options with a proprietary algorithm that combines data and technology to measure creditworthiness, providing convenience and affordability to customers who are creditworthy but historically under-served by traditional banking, enabling small businesses to grow their operations and businesses with competitive rates.",
+  "location": "Mexico",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/6acb8c7f-27fa-410a-9056-c8882a389e25.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/konfio",
+  "api": "/companies/konfio.json"
+}

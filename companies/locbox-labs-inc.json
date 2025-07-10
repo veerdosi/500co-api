@@ -1,0 +1,21 @@
+{
+  "id": 5162,
+  "name": "LocBox Labs Inc.",
+  "slug": "locbox-labs-inc",
+  "website": "fetchrev.com",
+  "description": "Provider of online marketing services designed to help local businesses generate revenue. The company's online marketing services help to increase income from their past customers through automated social and email marketing, enabling businesses to grow.",
+  "one_liner": "Provider of online marketing services designed to help local businesses generate revenue. The company's online marketing services help to increase income from their past customers through automated social and email marketing, enabling businesses to grow.",
+  "location": "United States",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d5c3e482-d7cf-427f-a931-de1164b7a79e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/locbox-labs-inc",
+  "api": "/companies/locbox-labs-inc.json"
+}

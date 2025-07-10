@@ -1,0 +1,21 @@
+{
+  "id": 5365,
+  "name": "So Sure Limited",
+  "slug": "so-sure",
+  "website": "wearesosure.com",
+  "description": "We an insurance platform delivering win-win insurance for consumers: amazing if you need us and up to 80% money back if you don't",
+  "one_liner": "We an insurance platform delivering win-win insurance for consumers: amazing if you need us and up to 80% money back if you don't",
+  "location": "United Kingdom",
+  "industry": "InsurTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e8817c3e-af2e-4717-af50-abb6c411ba0d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "InsurTech"
+  ],
+  "url": "https://500.co/portfolio/so-sure",
+  "api": "/companies/so-sure.json"
+}

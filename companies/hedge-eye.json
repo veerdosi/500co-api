@@ -1,0 +1,21 @@
+{
+  "id": 4161,
+  "name": "Research Edge Holdings",
+  "slug": "hedge-eye",
+  "website": "app.hedgeye.com",
+  "description": "Operator of an investment research and financial media company intended to offer hedge fund quality research for everyday investors. The company's services include fundamental and industry-specific research, customized research, macro morning calls, company and industry-specific real-time updates, conference calls, corporate access, field trips and virtual portfolio management, enabling clients to get investment ideas through quantitative, bottom-up, and macro analysis with an emphasis on timing.",
+  "one_liner": "Operator of an investment research and financial media company intended to offer hedge fund quality research for everyday investors. The company's services include fundamental and industry-specific research, customized research, macro morning calls, company and industry-specific real-time updates, conference calls, corporate access, field trips and virtual portfolio management, enabling clients to get investment ideas through quantitative, bottom-up, and macro analysis with an emphasis on timing.",
+  "location": "United States",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f82870b3-3c0e-4547-a52b-b2912d6beb82.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/hedge-eye",
+  "api": "/companies/hedge-eye.json"
+}

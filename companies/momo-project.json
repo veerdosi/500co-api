@@ -1,0 +1,21 @@
+{
+  "id": 3439,
+  "name": "Momo Project Inc",
+  "slug": "momo-project",
+  "website": "meetmydogchallenge.com",
+  "description": "Developer of an Artificial intelligence (AI) based Pet Nanny intended to provide personalized information and recommendations to save pet parents time and energy. The company offers comprehensive pet community service by leveraging user data to create a community-based database and offers a well-balanced diet recommendation that fits the nutrition needs of pets based on the details of the dog breed, enabling pet owners to spend more quality time with their pets.",
+  "one_liner": "Developer of an Artificial intelligence (AI) based Pet Nanny intended to provide personalized information and recommendations to save pet parents time and energy. The company offers comprehensive pet community service by leveraging user data to create a community-based database and offers a well-balanced diet recommendation that fits the nutrition needs of pets based on the details of the dog breed, enabling pet owners to spend more quality time with their pets.",
+  "location": "United States",
+  "industry": "Pet Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/674aa899-93fb-4d0a-a928-db3148efbfa6.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Pet Tech"
+  ],
+  "url": "https://500.co/portfolio/momo-project",
+  "api": "/companies/momo-project.json"
+}

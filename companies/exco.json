@@ -1,0 +1,21 @@
+{
+  "id": 2782,
+  "name": "Paidy Inc.",
+  "slug": "exco",
+  "website": "paidy.com",
+  "description": "Provider of an online payment platform and loan service designed to give consumers peace of mind and increase conversion and sales. The company's platform offers to make cardless e-commerce payments and helps in peer-to-peer lending, enabling consumers to boost conversion and live profitably.",
+  "one_liner": "Provider of an online payment platform and loan service designed to give consumers peace of mind and increase conversion and sales. The company's platform offers to make cardless e-commerce payments and helps in peer-to-peer lending, enabling consumers to boost conversion and live profitably.",
+  "location": "Cayman Islands",
+  "industry": "Payments",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/0a094a8b-3186-49a5-a5f6-095173f4f8d6.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Payments"
+  ],
+  "url": "https://500.co/portfolio/exco",
+  "api": "/companies/exco.json"
+}

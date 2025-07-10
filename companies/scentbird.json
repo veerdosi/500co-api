@@ -1,0 +1,21 @@
+{
+  "id": 4193,
+  "name": "Scentbird, Inc.",
+  "slug": "scentbird",
+  "website": "www.scentbird.com",
+  "description": "Operator of a subscription-based perfume retail platform intended to revolutionize the way people shop for fragrances. The company's platform provides different types of fragrances through an online platform that is tailor-made for both men and women, enabling consumers to access a wide range of scents at affordable rates.",
+  "one_liner": "Operator of a subscription-based perfume retail platform intended to revolutionize the way people shop for fragrances. The company's platform provides different types of fragrances through an online platform that is tailor-made for both men and women, enabling consumers to access a wide range of scents at affordable rates.",
+  "location": "United States",
+  "industry": "Fashion",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/3a17f0b1-271a-4e41-b2e5-aa0935e752a9.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion"
+  ],
+  "url": "https://500.co/portfolio/scentbird",
+  "api": "/companies/scentbird.json"
+}

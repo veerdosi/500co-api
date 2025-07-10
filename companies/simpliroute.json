@@ -1,0 +1,21 @@
+{
+  "id": 5003,
+  "name": "SimpliRoute Inc.",
+  "slug": "simpliroute",
+  "website": "simpliroute.com",
+  "description": "Developer of a navigation platform designed for route optimization services. The company's platform provides ways to help any last-mile company make their deliveries efficiently by automating their process with an easy-to-use platform and automates their process with an easy-to-use platform, enabling businesses to organize their deliveries and visits with minimum effort.",
+  "one_liner": "Developer of a navigation platform designed for route optimization services. The company's platform provides ways to help any last-mile company make their deliveries efficiently by automating their process with an easy-to-use platform and automates their process with an easy-to-use platform, enabling businesses to organize their deliveries and visits with minimum effort.",
+  "location": "Chile",
+  "industry": "Supply Chain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/610c9fbc-69b2-42cb-aeac-82afaf5fbdd7.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Supply Chain"
+  ],
+  "url": "https://500.co/portfolio/simpliroute",
+  "api": "/companies/simpliroute.json"
+}

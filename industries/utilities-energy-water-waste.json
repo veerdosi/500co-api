@@ -1,0 +1,93 @@
+[
+  {
+    "id": 5497,
+    "name": "Effa Corporation",
+    "slug": "effa",
+    "website": "www.effa.one",
+    "description": "Developer of eco-clean disposable products designed to replace plastic analogs with the use of paper to reduce pollution. The company's toothbrush uses innovative nylon that can quickly decompose with little impact on the environment, has a minimalist look, and areas made of recycled paper covered with environmentally friendly lamination made from corn starch, enabling users to get access to easy-to-use, cheap, and stylish toothbrush at a reasonable cost.",
+    "one_liner": "Developer of eco-clean disposable products designed to replace plastic analogs with the use of paper to reduce pollution. The company's toothbrush uses innovative nylon that can quickly decompose with little impact on the environment, has a minimalist look, and areas made of recycled paper covered with environmentally friendly lamination made from corn starch, enabling users to get access to easy-to-use, cheap, and stylish toothbrush at a reasonable cost.",
+    "location": "United States",
+    "industry": "BioTech & Life Sciences, Sustainability, Utilities (energy, water, waste)",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/a1919529-b56f-452a-ada9-6e90e53da0e1.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "BioTech & Life Sciences",
+      "Sustainability",
+      "Utilities (energy, water, waste)"
+    ],
+    "url": "https://500.co/portfolio/effa",
+    "api": "/companies/effa.json"
+  },
+  {
+    "id": 2759,
+    "name": "Ingu Solutions, Inc.",
+    "slug": "ingu-solutions",
+    "website": "ingu.com",
+    "description": "Manufacturer of pipers technology system intended for efficient and economical pipeline inspection solutions. The company combines inline leak detection, deposit surveys, and wall condition monitoring technology to provide full insight into all pipeline assets under all conditions, helping clients to make well-informed decisions to keep their pipelines safe and efficient.",
+    "one_liner": "Manufacturer of pipers technology system intended for efficient and economical pipeline inspection solutions. The company combines inline leak detection, deposit surveys, and wall condition monitoring technology to provide full insight into all pipeline assets under all conditions, helping clients to make well-informed decisions to keep their pipelines safe and efficient.",
+    "location": "Canada",
+    "industry": "Energy, Utilities (energy, water, waste)",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/e6a70940-be14-4baf-988d-fb708674dfdc.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Energy",
+      "Utilities (energy, water, waste)"
+    ],
+    "url": "https://500.co/portfolio/ingu-solutions",
+    "api": "/companies/ingu-solutions.json"
+  },
+  {
+    "id": 5347,
+    "name": "Seeloz, INC.",
+    "slug": "seeloz",
+    "website": "www.seeloz.com",
+    "description": "Developer of an autonomous requirements planning platform designed to revolutionize supply chain planning and management. The company's platform generates replenishment orders and continuously monitors the supply chain to detect anomalies, provide root cause analysis, derive actionable insights, and recommend corrective actions, enabling clients to deliver transformative business results in verticals that are reliant on global supply chains.",
+    "one_liner": "Developer of an autonomous requirements planning platform designed to revolutionize supply chain planning and management. The company's platform generates replenishment orders and continuously monitors the supply chain to detect anomalies, provide root cause analysis, derive actionable insights, and recommend corrective actions, enabling clients to deliver transformative business results in verticals that are reliant on global supply chains.",
+    "location": "United States",
+    "industry": "AI/Machine Learning, Manufacturing, Utilities (energy, water, waste)",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/78842572-8462-498d-9841-62d7bf57fdc8.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "AI/Machine Learning",
+      "Manufacturing",
+      "Utilities (energy, water, waste)"
+    ],
+    "url": "https://500.co/portfolio/seeloz",
+    "api": "/companies/seeloz.json"
+  },
+  {
+    "id": 5191,
+    "name": "Volt14 Solutions Pte. Ltd.",
+    "slug": "volt14",
+    "website": "volt14.com",
+    "description": "Operator of an anode manufacturing company intended to develop ultra-high performance materials for Li-ion batteries. The company's products are built using a wet chemistry approach and mainly include lithium anodes which can be used in any Li-ion battery for 3C applications, automobiles and systems, or defense and space, enabling energy industry manufacturers to use their existing product line of applications with these alternative battery anodes, without any manufacturing bottlenecks.",
+    "one_liner": "Operator of an anode manufacturing company intended to develop ultra-high performance materials for Li-ion batteries. The company's products are built using a wet chemistry approach and mainly include lithium anodes which can be used in any Li-ion battery for 3C applications, automobiles and systems, or defense and space, enabling energy industry manufacturers to use their existing product line of applications with these alternative battery anodes, without any manufacturing bottlenecks.",
+    "location": "Singapore",
+    "industry": "Energy, SaaS, Utilities (energy, water, waste)",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/51281f08-777c-4db8-a5e0-e5fb735c1415.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Energy",
+      "SaaS",
+      "Utilities (energy, water, waste)"
+    ],
+    "url": "https://500.co/portfolio/volt14",
+    "api": "/companies/volt14.json"
+  }
+]

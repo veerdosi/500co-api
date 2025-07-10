@@ -1,0 +1,21 @@
+{
+  "id": 8185,
+  "name": "Dissonance AI, Inc.",
+  "slug": "sonans-ai",
+  "website": "sonans.ai",
+  "description": "Autonomous AI to onboard just about anything",
+  "one_liner": "Autonomous AI to onboard just about anything",
+  "location": "United States",
+  "industry": "AI/Machine Learning",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/4d798317-95fa-48d4-9a5a-bbd89d611c06.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning"
+  ],
+  "url": "https://500.co/portfolio/sonans-ai",
+  "api": "/companies/sonans-ai.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5745,
+  "name": "Intella, LTD",
+  "slug": "intella",
+  "website": "www.intellaworld.com",
+  "description": "Developer of a cloud-based on-demand insights platform designed to deliver real-time consumer insights and create surveys. The company's platform uses a proprietary algorithm to come up with key findings and insights from market research methods like surveys and focus groups and offers analytical tools for real-time response analytics and data visualization to reach and engage with hard-to-find consumer profiles, enabling clients to track their brand equity and optimize their brand performance.",
+  "one_liner": "Developer of a cloud-based on-demand insights platform designed to deliver real-time consumer insights and create surveys. The company's platform uses a proprietary algorithm to come up with key findings and insights from market research methods like surveys and focus groups and offers analytical tools for real-time response analytics and data visualization to reach and engage with hard-to-find consumer profiles, enabling clients to track their brand equity and optimize their brand performance.",
+  "location": "Saudi Arabia",
+  "industry": "AI/Machine Learning",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5d56873b-511d-4b6e-9653-e4c8e909c6f2.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning"
+  ],
+  "url": "https://500.co/portfolio/intella",
+  "api": "/companies/intella.json"
+}

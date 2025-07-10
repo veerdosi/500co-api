@@ -1,0 +1,21 @@
+{
+  "id": 4558,
+  "name": "ClaimCompass, Inc.",
+  "slug": "claimcompass",
+  "website": "www.claimcompass.eu",
+  "description": "Operator of an online platform intended to offer flight compensation for delayed, canceled, or overbooked tickets. The company's platform processes claim for flights departing out of an airport in the European Union, enabling passengers to get compensation of up to six hundred euros.",
+  "one_liner": "Operator of an online platform intended to offer flight compensation for delayed, canceled, or overbooked tickets. The company's platform processes claim for flights departing out of an airport in the European Union, enabling passengers to get compensation of up to six hundred euros.",
+  "location": "United States",
+  "industry": "Travel & Tourism",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/c24e0cfc-65b0-44e5-a2a1-2a6cfe823dff.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Travel & Tourism"
+  ],
+  "url": "https://500.co/portfolio/claimcompass",
+  "api": "/companies/claimcompass.json"
+}

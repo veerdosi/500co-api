@@ -1,0 +1,21 @@
+{
+  "id": 3534,
+  "name": "jobpal Ltd",
+  "slug": "jobpal-ltd",
+  "website": "jobpal.ai",
+  "description": "Developer of a job search application. The company develops an application which allows users to apply for jobs using their smartphones.",
+  "one_liner": "Developer of a job search application. The company develops an application which allows users to apply for jobs using their smartphones.",
+  "location": "United Kingdom",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a9ae6671-5ef9-480b-9072-a3b268f907a5.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/jobpal-ltd",
+  "api": "/companies/jobpal-ltd.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3010,
+  "name": "Flat Holdings Limited",
+  "slug": "flat",
+  "website": "www.clau.com",
+  "description": "Operator of an online property listing platform intended to help people buy and sell residential properties. The company's platform offers a searchable database that helps to find, browse, and purchase domestic estates based on feedback and reviews from registered customers, enabling users to locate and list properties at a certain range of prices.",
+  "one_liner": "Operator of an online property listing platform intended to help people buy and sell residential properties. The company's platform offers a searchable database that helps to find, browse, and purchase domestic estates based on feedback and reviews from registered customers, enabling users to locate and list properties at a certain range of prices.",
+  "location": "Mexico",
+  "industry": "PropTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/93224e12-e52f-41d7-89b3-207796ca56df.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "PropTech"
+  ],
+  "url": "https://500.co/portfolio/flat",
+  "api": "/companies/flat.json"
+}

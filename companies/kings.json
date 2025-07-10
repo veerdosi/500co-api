@@ -1,0 +1,21 @@
+{
+  "id": 5742,
+  "name": "Edtech International LLC",
+  "slug": "kings",
+  "website": "kings.lt",
+  "description": "Operator of an online learning platform intended to improve students' academic skills. The company provides an online diagnostic test to analyze student performance and provide information about their academic abilities as well as collaboration tools to allow students to work together on projects and assignments, enabling students to learn at their own pace with the opportunity to interact with other students and instructors to get feedback on their work.",
+  "one_liner": "Operator of an online learning platform intended to improve students' academic skills. The company provides an online diagnostic test to analyze student performance and provide information about their academic abilities as well as collaboration tools to allow students to work together on projects and assignments, enabling students to learn at their own pace with the opportunity to interact with other students and instructors to get feedback on their work.",
+  "location": "Lithuania",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/df8b04dc-a405-4fde-914f-9e6c5141bc2e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/kings",
+  "api": "/companies/kings.json"
+}

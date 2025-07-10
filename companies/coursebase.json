@@ -1,0 +1,21 @@
+{
+  "id": 4083,
+  "name": "Coursebase, Inc.",
+  "slug": "coursebase",
+  "website": "coursebase.co",
+  "description": "Developer of a learning management system intended to help provide training through an enterprise web application. The company's platform delivers and manages all types of training that help to automate course registration, grading of assignments, email reminders, surveys, and reports for online and in-person training courses, enabling clients to create courses and assign tests for their employees.",
+  "one_liner": "Developer of a learning management system intended to help provide training through an enterprise web application. The company's platform delivers and manages all types of training that help to automate course registration, grading of assignments, email reminders, surveys, and reports for online and in-person training courses, enabling clients to create courses and assign tests for their employees.",
+  "location": "United States",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7756603e-3eae-433f-95b2-d61ca8e769be.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/coursebase",
+  "api": "/companies/coursebase.json"
+}

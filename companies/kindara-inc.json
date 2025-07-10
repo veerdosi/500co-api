@@ -1,0 +1,21 @@
+{
+  "id": 4257,
+  "name": "Kindara, Inc.",
+  "slug": "kindara-inc",
+  "website": "kindara.com",
+  "description": "Developer of a fertility tracking application designed to revolutionize the women's health care industry. The company's application helps women to understand their cycle by tracking ovulation calendar and menstrual cycle tracker, empowering women to learn more about their bodies, enabling users to have earlier and better conversations about their fertility journey with their healthcare providers.",
+  "one_liner": "Developer of a fertility tracking application designed to revolutionize the women's health care industry. The company's application helps women to understand their cycle by tracking ovulation calendar and menstrual cycle tracker, empowering women to learn more about their bodies, enabling users to have earlier and better conversations about their fertility journey with their healthcare providers.",
+  "location": "United States",
+  "industry": "Health Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b53fcb4e-4003-4270-9572-987e4db21cda.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Health Tech"
+  ],
+  "url": "https://500.co/portfolio/kindara-inc",
+  "api": "/companies/kindara-inc.json"
+}

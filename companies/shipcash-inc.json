@@ -1,0 +1,21 @@
+{
+  "id": 4895,
+  "name": "ShipCash, Inc.",
+  "slug": "shipcash-inc",
+  "website": "shipcash.net",
+  "description": "Developer of a digital platform designed to help e-commerce sellers receive payments instantly for cash on delivery orders. The company's platform specializes in integrating directly with shipping companies' systems to provide seamless, efficient and cost-effective cash payment and collection options for small and medium vendors shipping across the region, enabling clients with the simplified, easy and quick process to receive payments.",
+  "one_liner": "Developer of a digital platform designed to help e-commerce sellers receive payments instantly for cash on delivery orders. The company's platform specializes in integrating directly with shipping companies' systems to provide seamless, efficient and cost-effective cash payment and collection options for small and medium vendors shipping across the region, enabling clients with the simplified, easy and quick process to receive payments.",
+  "location": "Jordan",
+  "industry": "Payments",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4e686c8d-659e-4bec-992a-668fa94a0646.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Payments"
+  ],
+  "url": "https://500.co/portfolio/shipcash-inc",
+  "api": "/companies/shipcash-inc.json"
+}

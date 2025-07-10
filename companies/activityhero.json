@@ -1,0 +1,21 @@
+{
+  "id": 3913,
+  "name": "ActivityHero, Inc.",
+  "slug": "activityhero",
+  "website": "www.activityhero.com",
+  "description": "Operator of an online marketplace designed to find online workshops, summer camps, and after-school classes for kids. The company's marketplace helps to compare schedules from different providers, read reviews from other families, and register online to streamline operations and get additional bookings to shop for camps and kids' nights out, enabling parents to book with one registration form, and read parent reviews and coordinate with friends.",
+  "one_liner": "Operator of an online marketplace designed to find online workshops, summer camps, and after-school classes for kids. The company's marketplace helps to compare schedules from different providers, read reviews from other families, and register online to streamline operations and get additional bookings to shop for camps and kids' nights out, enabling parents to book with one registration form, and read parent reviews and coordinate with friends.",
+  "location": "United States",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/06b6cd59-c9e2-41d6-8b37-c1a56668bb31.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/activityhero",
+  "api": "/companies/activityhero.json"
+}

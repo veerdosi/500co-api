@@ -1,0 +1,22 @@
+{
+  "id": 2912,
+  "name": "Wishup Technology Private Limited",
+  "slug": "wishup",
+  "website": "www.wishup.co",
+  "description": "Operator of an online concierge service platform intended to connect business owners to virtual assistants. The company's platform hires trains and manages experienced assistants to handle recurring and specialized tasks, providing clients to streamline operations and spend more time on core business functions.",
+  "one_liner": "Operator of an online concierge service platform intended to connect business owners to virtual assistants. The company's platform hires trains and manages experienced assistants to handle recurring and specialized tasks, providing clients to streamline operations and spend more time on core business functions.",
+  "location": "India",
+  "industry": "Gig Economy, Remote",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/402f4e7e-0b5d-4165-82a7-1287b8dcaf59.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Gig Economy",
+    "Remote"
+  ],
+  "url": "https://500.co/portfolio/wishup",
+  "api": "/companies/wishup.json"
+}

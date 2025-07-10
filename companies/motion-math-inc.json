@@ -1,0 +1,21 @@
+{
+  "id": 4698,
+  "name": "Motion Math, Inc.",
+  "slug": "motion-math-inc",
+  "website": "motionmathgames.com",
+  "description": "Developer of engaging educational games designed to help children find delight in intellectual challenge. The company's games use an innovative learning model that playfully teaches the conceptual foundations of math with interactive visuals and provides access to over 900 levels of adaptive content on the web or via iPad applications, enabling students to master the most challenging K-6 standards.",
+  "one_liner": "Developer of engaging educational games designed to help children find delight in intellectual challenge. The company's games use an innovative learning model that playfully teaches the conceptual foundations of math with interactive visuals and provides access to over 900 levels of adaptive content on the web or via iPad applications, enabling students to master the most challenging K-6 standards.",
+  "location": "United States",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/motion-math-inc",
+  "api": "/companies/motion-math-inc.json"
+}

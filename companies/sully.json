@@ -1,0 +1,23 @@
+{
+  "id": 5066,
+  "name": "Odiggo LTD",
+  "slug": "sully",
+  "website": "www.sully.ai",
+  "description": "Operator of an AI Copilot healthcare platform intended to streamline workflow and eliminate time-consuming administrative tasks. The company's platform provides customized AI-generated questions based on each patent history with EHR integration and AI scribe, enabling doctors to automate admin work, check in patients, take notes during appointments, and send patient instructions afterward.",
+  "one_liner": "Operator of an AI Copilot healthcare platform intended to streamline workflow and eliminate time-consuming administrative tasks. The company's platform provides customized AI-generated questions based on each patent history with EHR integration and AI scribe, enabling doctors to automate admin work, check in patients, take notes during appointments, and send patient instructions afterward.",
+  "location": "United Arab Emirates",
+  "industry": "AI/Machine Learning, SaaS, Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/2eaed14e-405f-4bba-b9db-c8a6666d5666.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "SaaS",
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/sully",
+  "api": "/companies/sully.json"
+}

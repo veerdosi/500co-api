@@ -1,0 +1,21 @@
+{
+  "id": 5560,
+  "name": "NoBueno Technologies",
+  "slug": "nobueno",
+  "website": "nobueno.com",
+  "description": "Developer of a job-hunting platform designed to pair the right companies with the right candidates. The company's platform helps to enter the education details, and career preferences to provide relevant related role jobs along with one-on-one chat support to connect with prospective employers, enabling users to increase the job selection possibility.",
+  "one_liner": "Developer of a job-hunting platform designed to pair the right companies with the right candidates. The company's platform helps to enter the education details, and career preferences to provide relevant related role jobs along with one-on-one chat support to connect with prospective employers, enabling users to increase the job selection possibility.",
+  "location": "United Arab Emirates",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/aafc2915-38ed-4582-96b1-057f9b04aa3e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/nobueno",
+  "api": "/companies/nobueno.json"
+}

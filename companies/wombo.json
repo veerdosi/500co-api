@@ -1,0 +1,21 @@
+{
+  "id": 5606,
+  "name": "Wombo Gaming Inc.",
+  "slug": "wombo",
+  "website": "wombo.gg",
+  "description": "Operator of a training and coaching platform intended to encourage community gaming. The company's platform creates an environment that brings together online players in the same learning environment and fans wanting to increase their in-game performance and compete with their peers, and pro players wanting to monetize their experience and knowledge through coaching, enabling gamers access courses, personalized coaching and other experiences with esports experts and watch and enjoy various sports and games.",
+  "one_liner": "Operator of a training and coaching platform intended to encourage community gaming. The company's platform creates an environment that brings together online players in the same learning environment and fans wanting to increase their in-game performance and compete with their peers, and pro players wanting to monetize their experience and knowledge through coaching, enabling gamers access courses, personalized coaching and other experiences with esports experts and watch and enjoy various sports and games.",
+  "location": "Argentina",
+  "industry": "Gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/19e2d944-4b8f-477d-a849-ae743dfb3dcc.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Gaming"
+  ],
+  "url": "https://500.co/portfolio/wombo",
+  "api": "/companies/wombo.json"
+}

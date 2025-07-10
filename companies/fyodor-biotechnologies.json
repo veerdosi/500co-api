@@ -1,0 +1,21 @@
+{
+  "id": 4226,
+  "name": "Fyodor Biotechnologies, Inc.",
+  "slug": "fyodor-biotechnologies",
+  "website": "fyodorbio.com",
+  "description": "Developer of a non-invasive malaria testing technology designed to deliver a simple system to major global health problems. The company's technology helps people with a fever to diagnose malaria using a few drops of urine instead of blood, enabling healthcare professionals to help patients diagnose malaria conveniently and minimize pain and blood loss.",
+  "one_liner": "Developer of a non-invasive malaria testing technology designed to deliver a simple system to major global health problems. The company's technology helps people with a fever to diagnose malaria using a few drops of urine instead of blood, enabling healthcare professionals to help patients diagnose malaria conveniently and minimize pain and blood loss.",
+  "location": "United States",
+  "industry": "Health Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Health Tech"
+  ],
+  "url": "https://500.co/portfolio/fyodor-biotechnologies",
+  "api": "/companies/fyodor-biotechnologies.json"
+}

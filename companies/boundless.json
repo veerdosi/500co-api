@@ -1,0 +1,21 @@
+{
+  "id": 4986,
+  "name": "Bridge U.S. Inc.",
+  "slug": "boundless",
+  "website": "www.bridge.legal",
+  "description": "Developer of a corporate immigration platform designed to manage and simplify immigration policies and needs. The company's platform offers consultation and guidance to fill out the American immigration application form and offers to execute efficient and organized processes that provide a good experience to international employees and also run a proactive and informed function, enabling companies to achieve their global talent goals.",
+  "one_liner": "Developer of a corporate immigration platform designed to manage and simplify immigration policies and needs. The company's platform offers consultation and guidance to fill out the American immigration application form and offers to execute efficient and organized processes that provide a good experience to international employees and also run a proactive and informed function, enabling companies to achieve their global talent goals.",
+  "location": "United States",
+  "industry": "Travel & Tourism",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/42f9eaf5-fb7e-4fd3-8214-c3798e36d6f8.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Travel & Tourism"
+  ],
+  "url": "https://500.co/portfolio/boundless",
+  "api": "/companies/boundless.json"
+}

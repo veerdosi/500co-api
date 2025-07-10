@@ -1,0 +1,21 @@
+{
+  "id": 5263,
+  "name": "Zenysis Technologies, Inc.",
+  "slug": "zenysis",
+  "website": "www.zenysis.com",
+  "description": "Developer of data-analysis software intended to help governments and international organizations to confront the challenges faced by humanity. The company's software helps to rapidly strengthen the delivery of essential public services, responds to large-scale humanitarian emergencies, as well as tackles complex challenges with precision and speed, enabling clients to deeply understand their challenges and jointly explore how they might be rapidly prototyped.",
+  "one_liner": "Developer of data-analysis software intended to help governments and international organizations to confront the challenges faced by humanity. The company's software helps to rapidly strengthen the delivery of essential public services, responds to large-scale humanitarian emergencies, as well as tackles complex challenges with precision and speed, enabling clients to deeply understand their challenges and jointly explore how they might be rapidly prototyped.",
+  "location": "United States",
+  "industry": "Government",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/12049250-6caa-4ccc-9e05-2ff15793f686.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Government"
+  ],
+  "url": "https://500.co/portfolio/zenysis",
+  "api": "/companies/zenysis.json"
+}

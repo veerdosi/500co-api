@@ -1,0 +1,22 @@
+{
+  "id": 3230,
+  "name": "Plum Fintech Limited",
+  "slug": "plum",
+  "website": "withplum.com",
+  "description": "Developer of a smart money application designed to help people save money. The company's platform uses artificial intelligence and behavioral economics and monitors users' accounts regularly to automate savings or investments as well as provide actionable insights on expense management, enabling users to easily reduce expenses and manage their finances.",
+  "one_liner": "Developer of a smart money application designed to help people save money. The company's platform uses artificial intelligence and behavioral economics and monitors users' accounts regularly to automate savings or investments as well as provide actionable insights on expense management, enabling users to easily reduce expenses and manage their finances.",
+  "location": "United Kingdom",
+  "industry": "Real Estate, Consumer",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/56d5e9fc-518a-44c0-b32e-ced7d8eb3470.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate",
+    "Consumer"
+  ],
+  "url": "https://500.co/portfolio/plum",
+  "api": "/companies/plum.json"
+}

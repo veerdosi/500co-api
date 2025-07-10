@@ -1,0 +1,21 @@
+{
+  "id": 4346,
+  "name": "East Meet East, Inc.",
+  "slug": "east-meet-east",
+  "website": "emehive.co",
+  "description": "Operator of an online dating platform intended to help users find like-minded friends and partners. The company's platform assists users to form real-time connections with members of their own communities, enabling users to find people with mutual backgrounds and interests.",
+  "one_liner": "Operator of an online dating platform intended to help users find like-minded friends and partners. The company's platform assists users to form real-time connections with members of their own communities, enabling users to find people with mutual backgrounds and interests.",
+  "location": "United States",
+  "industry": "Social Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a5ced130-57e7-4506-b186-9a6582d5fcbc.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Impact"
+  ],
+  "url": "https://500.co/portfolio/east-meet-east",
+  "api": "/companies/east-meet-east.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3221,
+  "name": "Fakespot, Inc.",
+  "slug": "fakespot-inc",
+  "website": "www.fakespot.com",
+  "description": "Developer of an online data authentication platform designed to prevent fake and misleading content from deceiving consumers. The company's application software analyzes product reviews and provides potential buyers with a grade based on the authenticity of the review, enabling consumers to detect fake reviews on Amazon, TripAdvisor, Yelp and the Apple App Store.",
+  "one_liner": "Developer of an online data authentication platform designed to prevent fake and misleading content from deceiving consumers. The company's application software analyzes product reviews and provides potential buyers with a grade based on the authenticity of the review, enabling consumers to detect fake reviews on Amazon, TripAdvisor, Yelp and the Apple App Store.",
+  "location": "United States",
+  "industry": "Cybersecurity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/77c1c3ba-629b-4125-88cc-d36ec0974536.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Cybersecurity"
+  ],
+  "url": "https://500.co/portfolio/fakespot-inc",
+  "api": "/companies/fakespot-inc.json"
+}

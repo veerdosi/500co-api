@@ -1,0 +1,21 @@
+{
+  "id": 3598,
+  "name": "Creator's Collective Inc.",
+  "slug": "dive-studios",
+  "website": "www.divestudios.io",
+  "description": "Developer of an online podcasting application intended to entertain listeners with diverse creators and communities. The company's application offers several kinds of podcasts for all age groups with diverse creators that empower communities and positively impact culture and society through unique audio experiences, enabling customers to gain knowledge while being entertained.",
+  "one_liner": "Developer of an online podcasting application intended to entertain listeners with diverse creators and communities. The company's application offers several kinds of podcasts for all age groups with diverse creators that empower communities and positively impact culture and society through unique audio experiences, enabling customers to gain knowledge while being entertained.",
+  "location": "United States",
+  "industry": "Social Media",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ca7f911e-3172-4d54-983d-e981ea242286.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Media"
+  ],
+  "url": "https://500.co/portfolio/dive-studios",
+  "api": "/companies/dive-studios.json"
+}

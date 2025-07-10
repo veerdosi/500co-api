@@ -1,0 +1,22 @@
+{
+  "id": 5128,
+  "name": "Vega Corp.",
+  "slug": "roi",
+  "website": "getroi.app",
+  "description": "Developer of a mobile application designed for trading crypto, stocks, NFTs, and more with existing brokerages and wallets. The company offers secured, private and non-custodial software to manage everything from stocks to tokens to non-fungible tokens, keep track of investors, and monetize the existing portfolio, enabling users to align with the vision for the future of fintech.",
+  "one_liner": "Developer of a mobile application designed for trading crypto, stocks, NFTs, and more with existing brokerages and wallets. The company offers secured, private and non-custodial software to manage everything from stocks to tokens to non-fungible tokens, keep track of investors, and monetize the existing portfolio, enabling users to align with the vision for the future of fintech.",
+  "location": "United States",
+  "industry": "Crypto, FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4a495600-bfde-4c5f-95bb-a9d1097c6b4b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Crypto",
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/roi",
+  "api": "/companies/roi.json"
+}

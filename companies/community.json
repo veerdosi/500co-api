@@ -1,0 +1,21 @@
+{
+  "id": 5378,
+  "name": "Community.com, Inc.",
+  "slug": "community",
+  "website": "www.community.com",
+  "description": "Developer of a messaging and engagement platform designed to connect global brands, sports teams, public figures, artists, entertainment partners, and small businesses directly to the audiences. The company's platform facilitates communication between leaders and members without conflicting commercial interests, toxicity, and data privacy issues of social media, enabling influencers to interact with their audience as individuals freely.",
+  "one_liner": "Developer of a messaging and engagement platform designed to connect global brands, sports teams, public figures, artists, entertainment partners, and small businesses directly to the audiences. The company's platform facilitates communication between leaders and members without conflicting commercial interests, toxicity, and data privacy issues of social media, enabling influencers to interact with their audience as individuals freely.",
+  "location": "United States",
+  "industry": "Social Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Impact"
+  ],
+  "url": "https://500.co/portfolio/community",
+  "api": "/companies/community.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5220,
+  "name": "ToutApp, Inc.",
+  "slug": "toutapp-inc",
+  "website": "toutapp.com",
+  "description": "Provider of productivity application intended to empower salespeople. The company's software application offers the ability to track email and websites, utilize templates and analytics to enable salespeople to close more deals and increase productivity.",
+  "one_liner": "Provider of productivity application intended to empower salespeople. The company's software application offers the ability to track email and websites, utilize templates and analytics to enable salespeople to close more deals and increase productivity.",
+  "location": "United States",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7fc6a3cb-c9f7-4f09-ad43-548be3339d08.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/toutapp-inc",
+  "api": "/companies/toutapp-inc.json"
+}

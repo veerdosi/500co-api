@@ -1,0 +1,21 @@
+{
+  "id": 8069,
+  "name": "Employee Benefits Management, Inc.",
+  "slug": "perkskit",
+  "website": "www.perkskit.com",
+  "description": "Developer of an employee benefits management platform intended for perks providers to reach audiences and increase sales. The company's SaaS-enabled platform helps businesses create a streamlined employee experience to maximize HR investments and drive core business results, empowering businesses to better employee experiences.",
+  "one_liner": "Developer of an employee benefits management platform intended for perks providers to reach audiences and increase sales. The company's SaaS-enabled platform helps businesses create a streamlined employee experience to maximize HR investments and drive core business results, empowering businesses to better employee experiences.",
+  "location": "Azerbaijan",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/0f96c325-65c0-4504-8b62-2b46d8ea5732.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/perkskit",
+  "api": "/companies/perkskit.json"
+}

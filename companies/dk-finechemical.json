@@ -1,0 +1,22 @@
+{
+  "id": 8334,
+  "name": "DK Finechemical Co., Ltd.",
+  "slug": "dk-finechemical",
+  "website": "www.dkfinechem.com",
+  "description": "Manufacturer of eco-friendly functional additives made from natural wood and cotton-derived cellulose, serving industries including construction, food, animal feed, and medicine.",
+  "one_liner": "Manufacturer of eco-friendly functional additives made from natural wood and cotton-derived cellulose, serving industries including construction, food, animal feed, and medicine.",
+  "location": "KOREA, REPUBLIC OF",
+  "industry": "Manufacturing, Big Data",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/95a0a5f7-b4b9-4395-b5e0-d3246af8ad4e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Manufacturing",
+    "Big Data"
+  ],
+  "url": "https://500.co/portfolio/dk-finechemical",
+  "api": "/companies/dk-finechemical.json"
+}

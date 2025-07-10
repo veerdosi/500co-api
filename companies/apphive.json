@@ -1,0 +1,21 @@
+{
+  "id": 4432,
+  "name": "Apphive Inc.",
+  "slug": "apphive",
+  "website": "apphive.io",
+  "description": "Developer of a mobile application builder platform intended to help users to create easy-friendly applications without any coding knowledge. The company's platform offers components like a database, GPS, camera, and geolocation that can be dragged, dropped, customized, and published at one's convenience, enabling clients to easily create applications needed for their business.",
+  "one_liner": "Developer of a mobile application builder platform intended to help users to create easy-friendly applications without any coding knowledge. The company's platform offers components like a database, GPS, camera, and geolocation that can be dragged, dropped, customized, and published at one's convenience, enabling clients to easily create applications needed for their business.",
+  "location": "Mexico",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b855a1a6-4226-4795-a0b6-6b59661c81e7.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/apphive",
+  "api": "/companies/apphive.json"
+}

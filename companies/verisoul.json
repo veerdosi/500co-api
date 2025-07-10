@@ -1,0 +1,22 @@
+{
+  "id": 5421,
+  "name": "Verisoul, Inc.",
+  "slug": "verisoul",
+  "website": "www.verisoul.xyz",
+  "description": "Developer of a decentralized platform intended to help companies identify and prevent fake users like bots, duplicate accounts, and fraudsters. The company's platform pairs anonymity with accountability and partners with web3 builders to allow them to discern trusted users from fraudsters, scammers, and bots, without sacrificing user privacy, enabling builders and communities to have faith in the person on the other end of every interaction.",
+  "one_liner": "Developer of a decentralized platform intended to help companies identify and prevent fake users like bots, duplicate accounts, and fraudsters. The company's platform pairs anonymity with accountability and partners with web3 builders to allow them to discern trusted users from fraudsters, scammers, and bots, without sacrificing user privacy, enabling builders and communities to have faith in the person on the other end of every interaction.",
+  "location": "United States",
+  "industry": "AI/Machine Learning, Cybersecurity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "Cybersecurity"
+  ],
+  "url": "https://500.co/portfolio/verisoul",
+  "api": "/companies/verisoul.json"
+}

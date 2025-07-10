@@ -1,0 +1,19 @@
+{
+  "id": 5704,
+  "name": "First Job",
+  "slug": "first-job",
+  "website": "https://firstjob.me/",
+  "description": "Empieza tu carrera profesional en las mejores empresas de Latinoamérica\nPOSTULA A PRÁCTICAS Y TRABAJOS DE 0 A 2 AÑOS DE EXPERIENCIA.",
+  "one_liner": "Empieza tu carrera profesional en las mejores empresas de Latinoamérica\nPOSTULA A PRÁCTICAS Y TRABAJOS DE 0 A 2 AÑOS DE EXPERIENCIA.",
+  "location": "United States",
+  "industry": "",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/6d10f6f6-9136-4c18-b7d0-228c43a3d8b2.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://500.co/portfolio/first-job",
+  "api": "/companies/first-job.json"
+}

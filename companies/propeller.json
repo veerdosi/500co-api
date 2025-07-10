@@ -1,0 +1,21 @@
+{
+  "id": 2849,
+  "name": "Aerobotics Pty Ltd",
+  "slug": "propeller",
+  "website": "www.propelleraero.com",
+  "description": "Developer of a drone data analytics platform designed to measure and manage the worksites. The company's platform offers worksites the power to measure and manage themselves, with visual tools that everyone can use from any device with flexibility, enabling construction companies, mines, quarries and landfills to improve worksite management efficiency and collaboration while reducing costs and risks.",
+  "one_liner": "Developer of a drone data analytics platform designed to measure and manage the worksites. The company's platform offers worksites the power to measure and manage themselves, with visual tools that everyone can use from any device with flexibility, enabling construction companies, mines, quarries and landfills to improve worksite management efficiency and collaboration while reducing costs and risks.",
+  "location": "United States",
+  "industry": "Aviation",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/46cd4497-a0fd-48b3-90ea-8b0598f8a383.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Aviation"
+  ],
+  "url": "https://500.co/portfolio/propeller",
+  "api": "/companies/propeller.json"
+}

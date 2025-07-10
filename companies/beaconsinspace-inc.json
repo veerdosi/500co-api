@@ -1,0 +1,21 @@
+{
+  "id": 3916,
+  "name": "BeaconsInSpace, Inc.",
+  "slug": "beaconsinspace-inc",
+  "website": "fysical.com",
+  "description": "Provider of a decentralized marketplace designed to offer compliant exchange of location data. The company's marketplace helps to monetize user's application and generate location analytics without showing advertisement, enabling application developers to access beacon networks.",
+  "one_liner": "Provider of a decentralized marketplace designed to offer compliant exchange of location data. The company's marketplace helps to monetize user's application and generate location analytics without showing advertisement, enabling application developers to access beacon networks.",
+  "location": "United States",
+  "industry": "Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/beaconsinspace-inc",
+  "api": "/companies/beaconsinspace-inc.json"
+}

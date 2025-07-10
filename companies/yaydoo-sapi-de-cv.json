@@ -1,0 +1,22 @@
+{
+  "id": 3001,
+  "name": "YAYDOO S.A.P.I. de C.V.",
+  "slug": "yaydoo-sapi-de-cv",
+  "website": "yaydoo.com",
+  "description": "Provider of an office management platform designed to connect online retailers with customers. The company's digital concierge marketplace application uses chat bots and personalized interaction tools to manage expenses and accounting, simplify purchase decision and more, enabling customers to find and buy products from online retailers based their individual demand.",
+  "one_liner": "Provider of an office management platform designed to connect online retailers with customers. The company's digital concierge marketplace application uses chat bots and personalized interaction tools to manage expenses and accounting, simplify purchase decision and more, enabling customers to find and buy products from online retailers based their individual demand.",
+  "location": "Mexico",
+  "industry": "FinTech, Infrastructure",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/9ac40d0a-657b-4c41-820e-18ec93aa6afd.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech",
+    "Infrastructure"
+  ],
+  "url": "https://500.co/portfolio/yaydoo-sapi-de-cv",
+  "api": "/companies/yaydoo-sapi-de-cv.json"
+}

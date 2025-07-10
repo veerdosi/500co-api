@@ -1,0 +1,22 @@
+{
+  "id": 3070,
+  "name": "Prodsmart, Informática, Lda.",
+  "slug": "prodsmart-informtica-lda",
+  "website": "prodsmart.com",
+  "description": "Provider of a real-time tracking application designed to keep a track of the factory operations. The company's application offers a tracking system that eliminates paperwork, collect real-time data by using smartphones on the shop floor and keeps a track of the production flow, enabling factories to have a visibility over production and make decisions based on real-time data.",
+  "one_liner": "Provider of a real-time tracking application designed to keep a track of the factory operations. The company's application offers a tracking system that eliminates paperwork, collect real-time data by using smartphones on the shop floor and keeps a track of the production flow, enabling factories to have a visibility over production and make decisions based on real-time data.",
+  "location": "Portugal",
+  "industry": "Data & Analytics, Productivity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a233b2a3-8652-48c7-a076-6603f9487e8c.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics",
+    "Productivity"
+  ],
+  "url": "https://500.co/portfolio/prodsmart-informtica-lda",
+  "api": "/companies/prodsmart-informtica-lda.json"
+}

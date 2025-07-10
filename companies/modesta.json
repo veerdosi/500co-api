@@ -1,0 +1,21 @@
+{
+  "id": 5234,
+  "name": "Modesta Corporation",
+  "slug": "modesta",
+  "website": "www.ps.mymodesta.com",
+  "description": "Operator of an e-commerce platform intended for modest fashion clothing. The company's platform offers modern clothing for ladies through the season's latest collection and diverse modest choices, enabling women to satisfy the needs of modernity to adopt dressing in their lifestyle.",
+  "one_liner": "Operator of an e-commerce platform intended for modest fashion clothing. The company's platform offers modern clothing for ladies through the season's latest collection and diverse modest choices, enabling women to satisfy the needs of modernity to adopt dressing in their lifestyle.",
+  "location": "Palestine",
+  "industry": "Fashion",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/06ce3aaf-9842-4d6d-bddb-9c7c133033b9.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion"
+  ],
+  "url": "https://500.co/portfolio/modesta",
+  "api": "/companies/modesta.json"
+}

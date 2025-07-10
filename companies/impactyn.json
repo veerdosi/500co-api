@@ -1,0 +1,23 @@
+{
+  "id": 5438,
+  "name": "Impactyn B.V",
+  "slug": "impactyn",
+  "website": "impactyn.com",
+  "description": "Developer of an AI-powered social media platform intended to bring a positive impact in the world of social media marketing. The company's platform connects everyone from big corporations to SMEs with real consumers through trusted, organic engagement and reach, enabling social media users to turn their organic social media content into online marketing through digital word of mouth that can be rewarded in cash or other benefits.",
+  "one_liner": "Developer of an AI-powered social media platform intended to bring a positive impact in the world of social media marketing. The company's platform connects everyone from big corporations to SMEs with real consumers through trusted, organic engagement and reach, enabling social media users to turn their organic social media content into online marketing through digital word of mouth that can be rewarded in cash or other benefits.",
+  "location": "Egypt",
+  "industry": "Content, Creative Industry, Leisure & Entretainment",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d36b62b2-5e13-4881-b196-2ee2de58b956.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content",
+    "Creative Industry",
+    "Leisure & Entretainment"
+  ],
+  "url": "https://500.co/portfolio/impactyn",
+  "api": "/companies/impactyn.json"
+}

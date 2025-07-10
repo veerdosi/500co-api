@@ -1,0 +1,23 @@
+{
+  "id": 5522,
+  "name": "Edukita Pte Ltd",
+  "slug": "edukita",
+  "website": "www.edukita.com",
+  "description": "Operator of an educational platform intended to deliver an effective and affordable English teaching experience. The company's platform aims to deliver a program that is effective in building fluency in an affordable way and offers live classes delivered by native speakers in an internationally benchmarked curriculum, enabling students to learn English in a way that is both effective and enjoyable.",
+  "one_liner": "Operator of an educational platform intended to deliver an effective and affordable English teaching experience. The company's platform aims to deliver a program that is effective in building fluency in an affordable way and offers live classes delivered by native speakers in an internationally benchmarked curriculum, enabling students to learn English in a way that is both effective and enjoyable.",
+  "location": "Indonesia",
+  "industry": "Education, Subscription, Consumer",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education",
+    "Subscription",
+    "Consumer"
+  ],
+  "url": "https://500.co/portfolio/edukita",
+  "api": "/companies/edukita.json"
+}

@@ -1,0 +1,176 @@
+[
+  {
+    "id": 3553,
+    "name": "Digitasport Holdings Limited",
+    "slug": "bithai",
+    "website": "bith.ai",
+    "description": "Developer of a video editor platform designed to promote gaming content. The company's platform provides a game arena, and a medium for content creators to showcase their talent through clip-sharing by offering them easy-to-use video editing and social media distribution tools, enabling content creators to create and edit their content to formats suitable for various social media platforms.",
+    "one_liner": "Developer of a video editor platform designed to promote gaming content. The company's platform provides a game arena, and a medium for content creators to showcase their talent through clip-sharing by offering them easy-to-use video editing and social media distribution tools, enabling content creators to create and edit their content to formats suitable for various social media platforms.",
+    "location": "Jordan",
+    "industry": "Content, Creative Industry, Creator Economy",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Content",
+      "Creative Industry",
+      "Creator Economy"
+    ],
+    "url": "https://500.co/portfolio/bithai",
+    "api": "/companies/bithai.json"
+  },
+  {
+    "id": 5524,
+    "name": "Brandripe Sdn. Bhd.",
+    "slug": "brandripe",
+    "website": "brandripe.com",
+    "description": "Operator of a creative service agency intended to provide graphic design services. The company's agency provides advertising materials, web design, social media graphics and illustrations with unlimited design requests and revisions and vetted professional designers, enabling businesses to receive designs at a flat monthly fee.",
+    "one_liner": "Operator of a creative service agency intended to provide graphic design services. The company's agency provides advertising materials, web design, social media graphics and illustrations with unlimited design requests and revisions and vetted professional designers, enabling businesses to receive designs at a flat monthly fee.",
+    "location": "Malaysia",
+    "industry": "Creative Industry, Subscription",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a6dafff1-c701-4dd9-8e17-1831b25ddc6e.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Creative Industry",
+      "Subscription"
+    ],
+    "url": "https://500.co/portfolio/brandripe",
+    "api": "/companies/brandripe.json"
+  },
+  {
+    "id": 4500,
+    "name": "TopHatch, Inc.",
+    "slug": "concepts",
+    "website": "concepts.app",
+    "description": "Developer of a concept-building application platform intended to be used for sketching and designing real-life things via mobile application. The company specializes in vector-based math, intuitive interfaces and new tech, enabling users to design anything they feel like through mobile phones.",
+    "one_liner": "Developer of a concept-building application platform intended to be used for sketching and designing real-life things via mobile application. The company specializes in vector-based math, intuitive interfaces and new tech, enabling users to design anything they feel like through mobile phones.",
+    "location": "United States",
+    "industry": "Creative Industry",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5e82ab42-eff1-47b0-922b-1d32e87e8f2d.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Creative Industry"
+    ],
+    "url": "https://500.co/portfolio/concepts",
+    "api": "/companies/concepts.json"
+  },
+  {
+    "id": 5349,
+    "name": "EST Media Holdings, Inc.",
+    "slug": "est-media",
+    "website": "https://www.estmedia.com/",
+    "description": "Operator of a global media entertainment platform intended to share stories and build an entertainment bridge between Eastern and Western youth cultures. The company develops, finances, and produces premium, web-optimized, video content that challenges narratives about Asian people and culture both at home and throughout the diaspora, providing customers with untold stories from Asia to the world.",
+    "one_liner": "Operator of a global media entertainment platform intended to share stories and build an entertainment bridge between Eastern and Western youth cultures. The company develops, finances, and produces premium, web-optimized, video content that challenges narratives about Asian people and culture both at home and throughout the diaspora, providing customers with untold stories from Asia to the world.",
+    "location": "United States",
+    "industry": "Creative Industry",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Creative Industry"
+    ],
+    "url": "https://500.co/portfolio/est-media",
+    "api": "/companies/est-media.json"
+  },
+  {
+    "id": 5438,
+    "name": "Impactyn B.V",
+    "slug": "impactyn",
+    "website": "impactyn.com",
+    "description": "Developer of an AI-powered social media platform intended to bring a positive impact in the world of social media marketing. The company's platform connects everyone from big corporations to SMEs with real consumers through trusted, organic engagement and reach, enabling social media users to turn their organic social media content into online marketing through digital word of mouth that can be rewarded in cash or other benefits.",
+    "one_liner": "Developer of an AI-powered social media platform intended to bring a positive impact in the world of social media marketing. The company's platform connects everyone from big corporations to SMEs with real consumers through trusted, organic engagement and reach, enabling social media users to turn their organic social media content into online marketing through digital word of mouth that can be rewarded in cash or other benefits.",
+    "location": "Egypt",
+    "industry": "Content, Creative Industry, Leisure & Entretainment",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d36b62b2-5e13-4881-b196-2ee2de58b956.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Content",
+      "Creative Industry",
+      "Leisure & Entretainment"
+    ],
+    "url": "https://500.co/portfolio/impactyn",
+    "api": "/companies/impactyn.json"
+  },
+  {
+    "id": 5178,
+    "name": "Design Barn Inc.",
+    "slug": "lottiefiles",
+    "website": "lottiefiles.com",
+    "description": "Developer of an animation workflow platform designed to create a new realm of possibilities with interactive design. The company focuses on building an open-source animation file format that is tiny, interactive, and can be manipulated at runtime as well as helps to create interactive motion graphics that make products stand out, enabling motion designers, developers, and marketers to increase engagement by grabbing and holding user attention.",
+    "one_liner": "Developer of an animation workflow platform designed to create a new realm of possibilities with interactive design. The company focuses on building an open-source animation file format that is tiny, interactive, and can be manipulated at runtime as well as helps to create interactive motion graphics that make products stand out, enabling motion designers, developers, and marketers to increase engagement by grabbing and holding user attention.",
+    "location": "Malaysia",
+    "industry": "Creative Industry",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/c6f7d549-94f8-47f6-a010-7ba380d5e3ce.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Creative Industry"
+    ],
+    "url": "https://500.co/portfolio/lottiefiles",
+    "api": "/companies/lottiefiles.json"
+  },
+  {
+    "id": 4314,
+    "name": "Tactivos Inc.",
+    "slug": "mural",
+    "website": "mural.co",
+    "description": "Operator of a collaborative intelligence platform intended to connect teams to unlock their potential, increasing the innovation capacity of the enterprise. The company creates a culture of effective collaboration where everyone is connected, contributing, and empowered to deliver business-driving outcomes, helping teams of organizations, universities, schools, and non-profit organizations that depend upon a digital workspace to share ideas and understand problems together.",
+    "one_liner": "Operator of a collaborative intelligence platform intended to connect teams to unlock their potential, increasing the innovation capacity of the enterprise. The company creates a culture of effective collaboration where everyone is connected, contributing, and empowered to deliver business-driving outcomes, helping teams of organizations, universities, schools, and non-profit organizations that depend upon a digital workspace to share ideas and understand problems together.",
+    "location": "Argentina",
+    "industry": "Creative Industry",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/786615b9-63cc-459d-818b-9ed610520b3f.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Creative Industry"
+    ],
+    "url": "https://500.co/portfolio/mural",
+    "api": "/companies/mural.json"
+  },
+  {
+    "id": 2876,
+    "name": "Breaker Co. Ltd",
+    "slug": "breaker-co-ltd",
+    "website": "brkr.jp",
+    "description": "Tokyo-based social media branding agency connecting the world to Japan. ",
+    "one_liner": "Tokyo-based social media branding agency connecting the world to Japan. ",
+    "location": "Japan",
+    "industry": "Creative Industry, Social Media",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/537f715d-15c6-4dcc-904a-269c0e8b2338.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Creative Industry",
+      "Social Media"
+    ],
+    "url": "https://500.co/portfolio/breaker-co-ltd",
+    "api": "/companies/breaker-co-ltd.json"
+  }
+]

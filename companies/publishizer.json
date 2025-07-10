@@ -1,0 +1,21 @@
+{
+  "id": 4661,
+  "name": "Publishizer, Inc.",
+  "slug": "publishizer",
+  "website": "publishizer.com",
+  "description": "Operator of a crowdfunding literary agency intended for authors and publishers. The company's platform connects authors with publishers and acquisitions editors through data and pre-order campaigns, enabling authors to pre-sell copies of their unpublished books and get pitching for the book to publishers and deal negotiation.",
+  "one_liner": "Operator of a crowdfunding literary agency intended for authors and publishers. The company's platform connects authors with publishers and acquisitions editors through data and pre-order campaigns, enabling authors to pre-sell copies of their unpublished books and get pitching for the book to publishers and deal negotiation.",
+  "location": "Netherlands",
+  "industry": "Social Media",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ea6f2819-4acb-4aee-b204-332d5029f2e4.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Media"
+  ],
+  "url": "https://500.co/portfolio/publishizer",
+  "api": "/companies/publishizer.json"
+}

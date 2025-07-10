@@ -1,0 +1,21 @@
+{
+  "id": 5275,
+  "name": "POLAR BEAR MISSION CO., LTD.",
+  "slug": "freshket",
+  "website": "www.freshket.co",
+  "description": "Operator of a web-based platform intended for restaurant supply management. The company's marketplace offers tools to find vendors and buy or sell fresh ingredients effortlessly through its connective marketplace and order management system, enabling clients to increase their business transaction efficiency, and information transparency and improve profitability.",
+  "one_liner": "Operator of a web-based platform intended for restaurant supply management. The company's marketplace offers tools to find vendors and buy or sell fresh ingredients effortlessly through its connective marketplace and order management system, enabling clients to increase their business transaction efficiency, and information transparency and improve profitability.",
+  "location": "Thailand",
+  "industry": "Supply Chain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4ea12745-d382-4685-909d-a527fa1018f2.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Supply Chain"
+  ],
+  "url": "https://500.co/portfolio/freshket",
+  "api": "/companies/freshket.json"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 8115,
+  "name": "Instanture Holdings Sdn Bhd",
+  "slug": "instanture",
+  "website": "www.boostorder.com",
+  "description": "Our suite of AI SAAS help brand & distributor to manage their order & pay operation across multiple sales channels",
+  "one_liner": "Our suite of AI SAAS help brand & distributor to manage their order & pay operation across multiple sales channels",
+  "location": "Malaysia",
+  "industry": "AI/Machine Learning, Supply Chain, Big Data",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "Supply Chain",
+    "Big Data"
+  ],
+  "url": "https://500.co/portfolio/instanture",
+  "api": "/companies/instanture.json"
+}

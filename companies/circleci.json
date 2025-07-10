@@ -1,0 +1,21 @@
+{
+  "id": 4107,
+  "name": "Circle Internet Services, Inc.",
+  "slug": "circleci",
+  "website": "circleci.com",
+  "description": "Developer of a continuous delivery automation platform designed to offer automated testing and continuous integration tools to clients. The company's platform helps to rapidly code for web and mobile applications by automating the build, test and deploy process at scale, enabling clients to detect and fix bugs before they even reach customers.",
+  "one_liner": "Developer of a continuous delivery automation platform designed to offer automated testing and continuous integration tools to clients. The company's platform helps to rapidly code for web and mobile applications by automating the build, test and deploy process at scale, enabling clients to detect and fix bugs before they even reach customers.",
+  "location": "United States",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/3c93c977-301d-4e5c-a487-9fa2c2199976.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/circleci",
+  "api": "/companies/circleci.json"
+}

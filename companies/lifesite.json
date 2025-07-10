@@ -1,0 +1,23 @@
+{
+  "id": 3514,
+  "name": "LifeSite, Inc.",
+  "slug": "lifesite",
+  "website": "www.lifesite.co",
+  "description": "Developer of an online life and family management platform designed to manage family records and documents. The company's platform combines file access and controlled, permission-based sharing with high-level document encryption and security, enabling users to get a safe and smart digital storage solution to store, organize and access the most important information in their life anytime and anywhere.",
+  "one_liner": "Developer of an online life and family management platform designed to manage family records and documents. The company's platform combines file access and controlled, permission-based sharing with high-level document encryption and security, enabling users to get a safe and smart digital storage solution to store, organize and access the most important information in their life anytime and anywhere.",
+  "location": "United States",
+  "industry": "Blockchain, Data & Analytics, Web 3",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f23f3cb5-597e-4fe7-8dde-31876b444022.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Blockchain",
+    "Data & Analytics",
+    "Web 3"
+  ],
+  "url": "https://500.co/portfolio/lifesite",
+  "api": "/companies/lifesite.json"
+}

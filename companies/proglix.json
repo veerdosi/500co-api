@@ -1,0 +1,23 @@
+{
+  "id": 5576,
+  "name": "PT Sinari Generasi Indonesia",
+  "slug": "proglix",
+  "website": "proglix.com",
+  "description": "Developer of procurement platform designed for purchasing industrial products at the lowest prices for the business. The company's platform specializes in business and industrial needs, specifically electrical and engineering equipment and building and construction supplies with the support of technology, enabling businesses with reasonable price offers and bringing together trusted raw material supplier partners by increasing the selling of raw materials.",
+  "one_liner": "Developer of procurement platform designed for purchasing industrial products at the lowest prices for the business. The company's platform specializes in business and industrial needs, specifically electrical and engineering equipment and building and construction supplies with the support of technology, enabling businesses with reasonable price offers and bringing together trusted raw material supplier partners by increasing the selling of raw materials.",
+  "location": "Indonesia",
+  "industry": "Industrials, Manufacturing, B2B Marketplaces",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/60d908cd-011f-45d0-ad15-27b87c514914.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Industrials",
+    "Manufacturing",
+    "B2B Marketplaces"
+  ],
+  "url": "https://500.co/portfolio/proglix",
+  "api": "/companies/proglix.json"
+}

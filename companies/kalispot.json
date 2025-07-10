@@ -1,0 +1,21 @@
+{
+  "id": 5293,
+  "name": "Outsource Monetic Group",
+  "slug": "kalispot",
+  "website": "kalispot.com",
+  "description": "FinTech on a mission to bridge the gap between Physical & Digital Cash in West, Central & North Africa.\n",
+  "one_liner": "FinTech on a mission to bridge the gap between Physical & Digital Cash in West, Central & North Africa.\n",
+  "location": "Senegal",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/7f6f4a3f-ddd8-4ed6-adc5-1168e324b658.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/kalispot",
+  "api": "/companies/kalispot.json"
+}

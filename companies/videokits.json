@@ -1,0 +1,21 @@
+{
+  "id": 4238,
+  "name": "Tapshot, Inc.",
+  "slug": "videokits",
+  "website": "videokits.com",
+  "description": "Developer of a video production application designed to capture and share videos. The company's application offers video shooting and editing with a diverse range of filters and effects using iPhone, iPad, iPod touch, and Android devices, enabling customers to record every special moment of life in a special way.",
+  "one_liner": "Developer of a video production application designed to capture and share videos. The company's application offers video shooting and editing with a diverse range of filters and effects using iPhone, iPad, iPod touch, and Android devices, enabling customers to record every special moment of life in a special way.",
+  "location": "United States",
+  "industry": "Social Media",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5bd9649c-4223-42e6-9d1c-e721d35680c8.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Media"
+  ],
+  "url": "https://500.co/portfolio/videokits",
+  "api": "/companies/videokits.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4380,
+  "name": "HOMMA Group Corp.",
+  "slug": "homma",
+  "website": "www.hom.ma",
+  "description": "Developer of an artificial intelligence integration platform designed to control connected homes. The company's platform offers users an unparalleled experience in security, convenience and comfort in their homes, enabling smart home users to connect devices and applications and configure them to users' preferences.",
+  "one_liner": "Developer of an artificial intelligence integration platform designed to control connected homes. The company's platform offers users an unparalleled experience in security, convenience and comfort in their homes, enabling smart home users to connect devices and applications and configure them to users' preferences.",
+  "location": "United States",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7c3f53cb-ed73-4a9c-843a-1729ae791ee2.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/homma",
+  "api": "/companies/homma.json"
+}

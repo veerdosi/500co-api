@@ -1,0 +1,21 @@
+{
+  "id": 4397,
+  "name": "Wrappup Inc.",
+  "slug": "wrappup-inc",
+  "website": "www.wrappup.ai",
+  "description": "Provider of a meeting productivity application designed to transform sales training.The company application is available on android as well as iOS and uses artificial intelligence to record voice notes, highlight important things and summarize meeting, enabling users to track conversations and and focus on conversation rather than taking notes.",
+  "one_liner": "Provider of a meeting productivity application designed to transform sales training.The company application is available on android as well as iOS and uses artificial intelligence to record voice notes, highlight important things and summarize meeting, enabling users to track conversations and and focus on conversation rather than taking notes.",
+  "location": "United States",
+  "industry": "Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/3062edb6-3371-48e4-8a26-dfe987169220.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/wrappup-inc",
+  "api": "/companies/wrappup-inc.json"
+}

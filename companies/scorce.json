@@ -1,0 +1,21 @@
+{
+  "id": 5302,
+  "name": "Scorce LLC",
+  "slug": "scorce",
+  "website": "scorce.io",
+  "description": "Developer of API tools designed to analyze compliance, obtain finance data, validate personal data, digital onboarding, fraud prevention, credit scoring, and alternative data. The company's tools perform rapid risk assessments of potential clients or users and analyze multiple factors by creating a score based on the risk associated with that particular e-mail, enabling customers to borrow loans by preventing fraud and chargebacks.",
+  "one_liner": "Developer of API tools designed to analyze compliance, obtain finance data, validate personal data, digital onboarding, fraud prevention, credit scoring, and alternative data. The company's tools perform rapid risk assessments of potential clients or users and analyze multiple factors by creating a score based on the risk associated with that particular e-mail, enabling customers to borrow loans by preventing fraud and chargebacks.",
+  "location": "Mexico",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/631f2561-c19a-4cd0-91cc-151aff9f06bb.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/scorce",
+  "api": "/companies/scorce.json"
+}

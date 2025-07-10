@@ -1,0 +1,22 @@
+{
+  "id": 5363,
+  "name": "Vela Labs Inc.",
+  "slug": "vela",
+  "website": "welcome.getvela.com",
+  "description": "Developer of an online marketplace aggregation and management tool designed for e-commerce sellers to optimize, and grow their business. The company's tool harnesses organization design techniques into the dashboard by centrally integrating e-commerce channels and leveraging the network's collective data to inform and automate all key decisions, enabling merchants to manage their business across multiple sales channels through one platform and increase revenue while reducing the time and effort involved.",
+  "one_liner": "Developer of an online marketplace aggregation and management tool designed for e-commerce sellers to optimize, and grow their business. The company's tool harnesses organization design techniques into the dashboard by centrally integrating e-commerce channels and leveraging the network's collective data to inform and automate all key decisions, enabling merchants to manage their business across multiple sales channels through one platform and increase revenue while reducing the time and effort involved.",
+  "location": "United States",
+  "industry": "Developer Tools, Productivity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7086a0c2-689f-4ba0-bcf3-8d79b60f3c89.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools",
+    "Productivity"
+  ],
+  "url": "https://500.co/portfolio/vela",
+  "api": "/companies/vela.json"
+}

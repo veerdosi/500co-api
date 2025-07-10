@@ -1,0 +1,21 @@
+{
+  "id": 4266,
+  "name": "DCHQ, Inc.",
+  "slug": "dchq-inc",
+  "website": "dchq.co",
+  "description": "Developer of a deployment automation and governance platform for container-based applications. The company provides a platform that enables users to model, deploy, backup, update and monitor container-based applications.",
+  "one_liner": "Developer of a deployment automation and governance platform for container-based applications. The company provides a platform that enables users to model, deploy, backup, update and monitor container-based applications.",
+  "location": "United States",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b6979106-5ac0-4e85-a775-3077ef7d9aac.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/dchq-inc",
+  "api": "/companies/dchq-inc.json"
+}

@@ -1,0 +1,93 @@
+[
+  {
+    "id": 5660,
+    "name": "Data Unistream, Inc.",
+    "slug": "datamind",
+    "website": "datamind.ge",
+    "description": "Developer of data analysis platform intended to automate processes across the entire organization and between departments. The company's platform specializes in automatic reporting, BI analysis, and data unit stream by speeding up internal processes & decision-making with real-time data access, enabling businesses to save time and increase employee productivity by automating the regular report generation by preparing interactive dashboard visualization.",
+    "one_liner": "Developer of data analysis platform intended to automate processes across the entire organization and between departments. The company's platform specializes in automatic reporting, BI analysis, and data unit stream by speeding up internal processes & decision-making with real-time data access, enabling businesses to save time and increase employee productivity by automating the regular report generation by preparing interactive dashboard visualization.",
+    "location": "Georgia",
+    "industry": "Data & Analytics, FinTech, Analytics",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Data & Analytics",
+      "FinTech",
+      "Analytics"
+    ],
+    "url": "https://500.co/portfolio/datamind",
+    "api": "/companies/datamind.json"
+  },
+  {
+    "id": 5659,
+    "name": "Merklebase, Inc.",
+    "slug": "merklebase",
+    "website": "www.merklebase.io",
+    "description": "",
+    "one_liner": "",
+    "location": "United States",
+    "industry": "Blockchain, FinTech, Analytics",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/325f6627-69da-44d1-9135-8d3293a5641c.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Blockchain",
+      "FinTech",
+      "Analytics"
+    ],
+    "url": "https://500.co/portfolio/merklebase",
+    "api": "/companies/merklebase.json"
+  },
+  {
+    "id": 4950,
+    "name": "AskSenti Ltd.",
+    "slug": "sentisum",
+    "website": "www.sentisum.com",
+    "description": "Developer of a text and sentiment analytics engine designed to automate, support and survey feedback tagging. The company's engine tags support queries, understand trends and share them widely, enabling businesses to prioritize projects accordingly and retain more customers.",
+    "one_liner": "Developer of a text and sentiment analytics engine designed to automate, support and survey feedback tagging. The company's engine tags support queries, understand trends and share them widely, enabling businesses to prioritize projects accordingly and retain more customers.",
+    "location": "United Kingdom",
+    "industry": "AI/Machine Learning, Analytics",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b3dc71dd-c3d3-4d8f-ada7-035f9c7e2117.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "AI/Machine Learning",
+      "Analytics"
+    ],
+    "url": "https://500.co/portfolio/sentisum",
+    "api": "/companies/sentisum.json"
+  },
+  {
+    "id": 8202,
+    "name": "Vertical Bar Inc.",
+    "slug": "vertical-bar",
+    "website": "https://www.vertical.bar/",
+    "description": "Vertical Bar builds process analytics solutions for businesses",
+    "one_liner": "Vertical Bar builds process analytics solutions for businesses",
+    "location": "United States",
+    "industry": "AI/Machine Learning, Big Data, Analytics",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/32b80623-e045-4b03-a9b4-e3ed3e62c2b3.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "AI/Machine Learning",
+      "Big Data",
+      "Analytics"
+    ],
+    "url": "https://500.co/portfolio/vertical-bar",
+    "api": "/companies/vertical-bar.json"
+  }
+]

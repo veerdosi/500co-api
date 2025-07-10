@@ -1,0 +1,21 @@
+{
+  "id": 3146,
+  "name": "FireVisor Systems Pte. Ltd.",
+  "slug": "firevisor",
+  "website": "www.firevisor.com",
+  "description": "Developer of a factory analysis platform designed to automate manufacturing processes. The company's platform leverages artificial intelligence and machine learning to detect, analyze and monitor manufacturing defects thereby reducing the cost of poor quality, enabling clients to reduce manual labor hours and increase profits.",
+  "one_liner": "Developer of a factory analysis platform designed to automate manufacturing processes. The company's platform leverages artificial intelligence and machine learning to detect, analyze and monitor manufacturing defects thereby reducing the cost of poor quality, enabling clients to reduce manual labor hours and increase profits.",
+  "location": "Singapore",
+  "industry": "Manufacturing",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Manufacturing"
+  ],
+  "url": "https://500.co/portfolio/firevisor",
+  "api": "/companies/firevisor.json"
+}

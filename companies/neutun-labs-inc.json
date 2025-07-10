@@ -1,0 +1,21 @@
+{
+  "id": 2764,
+  "name": "Neutun Labs, Inc.",
+  "slug": "neutun-labs-inc",
+  "website": "neutun.com",
+  "description": "Developer of a novel tracking software designed to track epileptic events. The company's novel tracking software offers a pre existing wearable offers continuous passive tracking, medication reminders, notification and recording progress services, enabling epilepsy patients with a seizure tracking tool to track chronic and acute health conditions.",
+  "one_liner": "Developer of a novel tracking software designed to track epileptic events. The company's novel tracking software offers a pre existing wearable offers continuous passive tracking, medication reminders, notification and recording progress services, enabling epilepsy patients with a seizure tracking tool to track chronic and acute health conditions.",
+  "location": "Canada",
+  "industry": "Health Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Health Tech"
+  ],
+  "url": "https://500.co/portfolio/neutun-labs-inc",
+  "api": "/companies/neutun-labs-inc.json"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 3344,
+  "name": "JuiceInnov8 Pte. Ltd.",
+  "slug": "incredible-fka-juiceinnov8",
+  "website": "incredible.inc",
+  "description": "Developer of a food biotechnology company intended to reinvent the juice industry with a sugar-free and healthier juice. The company's mission is to build the next generation of food & beverage that is healthier for everyone and greater for this planet with the power of biology, uses non-genetically modified microbes to reduce the amount of sugar and calories contained in juices without water dilution, enabling juice producers to customize the amount of natural sugar in their beverages.",
+  "one_liner": "Developer of a food biotechnology company intended to reinvent the juice industry with a sugar-free and healthier juice. The company's mission is to build the next generation of food & beverage that is healthier for everyone and greater for this planet with the power of biology, uses non-genetically modified microbes to reduce the amount of sugar and calories contained in juices without water dilution, enabling juice producers to customize the amount of natural sugar in their beverages.",
+  "location": "Thailand",
+  "industry": "BioTech & Life Sciences, Food, Consumer",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/9b7902e3-482c-4de0-b236-cc20df189959.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "BioTech & Life Sciences",
+    "Food",
+    "Consumer"
+  ],
+  "url": "https://500.co/portfolio/incredible-fka-juiceinnov8",
+  "api": "/companies/incredible-fka-juiceinnov8.json"
+}

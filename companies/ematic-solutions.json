@@ -1,0 +1,21 @@
+{
+  "id": 3095,
+  "name": "Ematic Solutions Pte. Ltd",
+  "slug": "ematic-solutions",
+  "website": "www.ematicsolutions.com",
+  "description": "Developer of an email marketing platform designed to assist brands with generating revenue using an email channel. The company's platform uses artificial intelligence with automated email segmentation, enabling brands and digital marketers to grow their customer database and revenue from every campaign.",
+  "one_liner": "Developer of an email marketing platform designed to assist brands with generating revenue using an email channel. The company's platform uses artificial intelligence with automated email segmentation, enabling brands and digital marketers to grow their customer database and revenue from every campaign.",
+  "location": "Singapore",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/632c5854-b1c2-4058-a6f3-62a9ad1c2b75.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/ematic-solutions",
+  "api": "/companies/ematic-solutions.json"
+}

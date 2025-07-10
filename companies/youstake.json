@@ -1,0 +1,21 @@
+{
+  "id": 4977,
+  "name": "YouStake, Inc.",
+  "slug": "youstake",
+  "website": "www.youstake.com",
+  "description": "Developer of an investment platform intended to facilitate sponsoring esports and poker players. The company offers a marketplace where fans can directly sponsor their favorite players in games such as poker and eSports competitions, while sharing the winnings, enabling users to invest in players easily, without administrative hassles.",
+  "one_liner": "Developer of an investment platform intended to facilitate sponsoring esports and poker players. The company offers a marketplace where fans can directly sponsor their favorite players in games such as poker and eSports competitions, while sharing the winnings, enabling users to invest in players easily, without administrative hassles.",
+  "location": "United States",
+  "industry": "Gambling",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Gambling"
+  ],
+  "url": "https://500.co/portfolio/youstake",
+  "api": "/companies/youstake.json"
+}

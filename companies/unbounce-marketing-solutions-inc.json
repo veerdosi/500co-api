@@ -1,0 +1,22 @@
+{
+  "id": 2777,
+  "name": "Unbounce Marketing Solutions, Inc.",
+  "slug": "unbounce-marketing-solutions-inc",
+  "website": "unbounce.com",
+  "description": "Provider of an online platform designed to increase website and campaign conversions. The company's platform provides tools to build custom landing pages, which increase website and campaign conversions and helps marketers to quickly create, launch and test high-converting landing pages, popups, and sticky bars without developers, enabling them to create better marketing experiences.",
+  "one_liner": "Provider of an online platform designed to increase website and campaign conversions. The company's platform provides tools to build custom landing pages, which increase website and campaign conversions and helps marketers to quickly create, launch and test high-converting landing pages, popups, and sticky bars without developers, enabling them to create better marketing experiences.",
+  "location": "Canada",
+  "industry": "Data & Analytics, Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ee27fbe6-3800-4fb3-8d90-fb388160f63e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics",
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/unbounce-marketing-solutions-inc",
+  "api": "/companies/unbounce-marketing-solutions-inc.json"
+}

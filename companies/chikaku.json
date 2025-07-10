@@ -1,0 +1,21 @@
+{
+  "id": 3200,
+  "name": "Chikaku Inc.",
+  "slug": "chikaku",
+  "website": "www.chikaku.co.jp",
+  "description": "Developer of an electronic device designed to connect remote family members. The company's device sends content, photos and videos taken with smartphones directly to the TV, enabling grandparents and family members living far away to interact with their grandchildren and relatives.",
+  "one_liner": "Developer of an electronic device designed to connect remote family members. The company's device sends content, photos and videos taken with smartphones directly to the TV, enabling grandparents and family members living far away to interact with their grandchildren and relatives.",
+  "location": "Japan",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/956f3d66-84d7-4195-9597-3b32b833b8ee.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/chikaku",
+  "api": "/companies/chikaku.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 8567,
+  "name": "RVDS Inc.",
+  "slug": "rvds",
+  "website": "www.rvds.kr",
+  "description": "Operator of a K-Food franchise platform focused on scaling Korean cuisine across Southeast Asia through brand localization and operational excellence. The company operates DoDoKorea, a fast-growing Korean lunchbox quick-service restaurant that has gained viral popularity in Kuala Lumpur.",
+  "one_liner": "Operator of a K-Food franchise platform focused on scaling Korean cuisine across Southeast Asia through brand localization and operational excellence. The company operates DoDoKorea, a fast-growing Korean lunchbox quick-service restaurant that has gained viral popularity in Kuala Lumpur.",
+  "location": "KOREA, REPUBLIC OF",
+  "industry": "Food",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/fb943df9-9fa6-4a48-ba7d-b5562bdd7342.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Food"
+  ],
+  "url": "https://500.co/portfolio/rvds",
+  "api": "/companies/rvds.json"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 8105,
+  "name": "BEYOND BORDERS LTD",
+  "slug": "octa",
+  "website": "weareocta.com",
+  "description": "OCTA helps businesses collect invoice payments faster with AI-powered automation, financing, and debt recovery.",
+  "one_liner": "OCTA helps businesses collect invoice payments faster with AI-powered automation, financing, and debt recovery.",
+  "location": "United Arab Emirates",
+  "industry": "Accounting, FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/0a733915-722d-4da8-9818-c625b0b48e3a.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Accounting",
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/octa",
+  "api": "/companies/octa.json"
+}

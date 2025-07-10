@@ -1,0 +1,23 @@
+{
+  "id": 5794,
+  "name": "LedgiFi LLC.",
+  "slug": "ledgifi",
+  "website": "ledgifi.com",
+  "description": "Developer of a portfolio tracking platform intended to simplify cryptocurrency taxes. The company's platform specializes in syncing transactions, analyzing portfolios, and computing capital gains so users can be tax-compliant and makes the process of managing investments easy and appealing by tracking all assets, comparing investment alternatives, optimizing taxes, and allowing to share portfolios with friends, enabling people to grow their wealth and save the process of calculating payments.",
+  "one_liner": "Developer of a portfolio tracking platform intended to simplify cryptocurrency taxes. The company's platform specializes in syncing transactions, analyzing portfolios, and computing capital gains so users can be tax-compliant and makes the process of managing investments easy and appealing by tracking all assets, comparing investment alternatives, optimizing taxes, and allowing to share portfolios with friends, enabling people to grow their wealth and save the process of calculating payments.",
+  "location": "Chile",
+  "industry": "Accounting, Crypto, FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/3519c374-22f6-42ba-8a03-e7607059ab04.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Accounting",
+    "Crypto",
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/ledgifi",
+  "api": "/companies/ledgifi.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4600,
+  "name": "Siftery, Inc.",
+  "slug": "siftery-inc",
+  "website": "siftery.com",
+  "description": "Provider of database intended to help businesses discover, buy and use software. The company's database provides a platform for people to share information on productivity products and find what others are using, enabling companies to better discover software they should buy, with recommendations based on their current stack and what similar companies are using.",
+  "one_liner": "Provider of database intended to help businesses discover, buy and use software. The company's database provides a platform for people to share information on productivity products and find what others are using, enabling companies to better discover software they should buy, with recommendations based on their current stack and what similar companies are using.",
+  "location": "United States",
+  "industry": "Productivity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Productivity"
+  ],
+  "url": "https://500.co/portfolio/siftery-inc",
+  "api": "/companies/siftery-inc.json"
+}

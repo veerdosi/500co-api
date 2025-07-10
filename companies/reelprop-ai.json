@@ -1,0 +1,21 @@
+{
+  "id": 8170,
+  "name": "Leadstate Incorporated",
+  "slug": "reelprop-ai",
+  "website": "www.reelprop.ai",
+  "description": "Revolutionize Interior Design with AI-Powered 3D Modelling",
+  "one_liner": "Revolutionize Interior Design with AI-Powered 3D Modelling",
+  "location": "United States",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/2cbce498-87b1-4a08-b1dc-151bf72d9bd5.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/reelprop-ai",
+  "api": "/companies/reelprop-ai.json"
+}

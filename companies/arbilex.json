@@ -1,0 +1,23 @@
+{
+  "id": 5408,
+  "name": "Arbi, Inc.",
+  "slug": "arbilex",
+  "website": "www.arbilex.co",
+  "description": "Developer of predictive analytics and artificial intelligence-based platform designed to enhance decision-making by law firms. The company's software analyses international arbitration cases and uses game theory models to predict case outcomes, enabling businesses and firms to achieve desired judicial outcomes in a cost-effective manner.",
+  "one_liner": "Developer of predictive analytics and artificial intelligence-based platform designed to enhance decision-making by law firms. The company's software analyses international arbitration cases and uses game theory models to predict case outcomes, enabling businesses and firms to achieve desired judicial outcomes in a cost-effective manner.",
+  "location": "United States",
+  "industry": "Credit & Lending, FinTech, Marketplace",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/d0730bbb-ed32-4114-90f2-80fc01827445.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Credit & Lending",
+    "FinTech",
+    "Marketplace"
+  ],
+  "url": "https://500.co/portfolio/arbilex",
+  "api": "/companies/arbilex.json"
+}

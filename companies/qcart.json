@@ -1,0 +1,23 @@
+{
+  "id": 4469,
+  "name": "Como Quiero Inc.",
+  "slug": "qcart",
+  "website": "clients.qcart.app",
+  "description": "Transforming inspiration into transactions",
+  "one_liner": "Transforming inspiration into transactions",
+  "location": "Chile",
+  "industry": "Beauty, Food, Retail",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/9e9b0e73-5422-44e9-bdff-df8748fb701b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Beauty",
+    "Food",
+    "Retail"
+  ],
+  "url": "https://500.co/portfolio/qcart",
+  "api": "/companies/qcart.json"
+}

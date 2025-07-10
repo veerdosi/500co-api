@@ -1,0 +1,21 @@
+{
+  "id": 5281,
+  "name": "Doyobi Pte. Ltd.",
+  "slug": "saturday-kids",
+  "website": "www.saturdaykids.com",
+  "description": "Operator of digital literacy classes intended to transform kids into self-motivated learners who are curious, inventive, and resourceful. The company provides a wide range of coding classes for kids and different curricula for different ages, enabling students to learn coding.",
+  "one_liner": "Operator of digital literacy classes intended to transform kids into self-motivated learners who are curious, inventive, and resourceful. The company provides a wide range of coding classes for kids and different curricula for different ages, enabling students to learn coding.",
+  "location": "Singapore",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/3f339d24-c4ea-4ee7-aff7-e91964153a14.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/saturday-kids",
+  "api": "/companies/saturday-kids.json"
+}

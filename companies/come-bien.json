@@ -1,0 +1,21 @@
+{
+  "id": 3201,
+  "name": "Grupo Devan SAPI de CV",
+  "slug": "come-bien",
+  "website": "comebien.mx",
+  "description": "Operator of a food delivery platform intended to offer healthy food. The company's platform lists vegetarian, low-carb, gluten-free, chicken dishes, beef dishes, homemade dishes, salads, sandwiches and wraps, enabling working professionals and corporates to consume different varieties of healthy food meals every day, with fresh and local ingredients.",
+  "one_liner": "Operator of a food delivery platform intended to offer healthy food. The company's platform lists vegetarian, low-carb, gluten-free, chicken dishes, beef dishes, homemade dishes, salads, sandwiches and wraps, enabling working professionals and corporates to consume different varieties of healthy food meals every day, with fresh and local ingredients.",
+  "location": "Mexico",
+  "industry": "Food",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/a18a7ce2-f367-4676-8aba-f3106d4899c1.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Food"
+  ],
+  "url": "https://500.co/portfolio/come-bien",
+  "api": "/companies/come-bien.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3330,
+  "name": "Kinkhao Co., Ltd.",
+  "slug": "kinkhao",
+  "website": "kinkao.co",
+  "description": "Provider of catering services intended to serve food in events, gatherings and offices. The company's services include delivering diverse cuisines and meals that satisfy all dietary preferences and allow employees to make individual choices on the application daily instead of spending hours finding vendors who can bring in buffet-style meals, enabling users to book for office lunches, events and private chef for get togethers and parties.",
+  "one_liner": "Provider of catering services intended to serve food in events, gatherings and offices. The company's services include delivering diverse cuisines and meals that satisfy all dietary preferences and allow employees to make individual choices on the application daily instead of spending hours finding vendors who can bring in buffet-style meals, enabling users to book for office lunches, events and private chef for get togethers and parties.",
+  "location": "Thailand",
+  "industry": "Food",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/1f9ff5e3-33a4-49e0-ad87-aadf50d299c9.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Food"
+  ],
+  "url": "https://500.co/portfolio/kinkhao",
+  "api": "/companies/kinkhao.json"
+}

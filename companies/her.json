@@ -1,0 +1,21 @@
+{
+  "id": 4198,
+  "name": "Bloomer Inc.",
+  "slug": "her",
+  "website": "weareher.com",
+  "description": "Developer of an online dating application designed to connect lesbian, bisexual and bi-curious women. The company's application operates a social hub where lesbians can find, meet and date like-minded people by directly sending messages, emojis and pictures, enabling users to make new friends and meet the right person as per their preference.",
+  "one_liner": "Developer of an online dating application designed to connect lesbian, bisexual and bi-curious women. The company's application operates a social hub where lesbians can find, meet and date like-minded people by directly sending messages, emojis and pictures, enabling users to make new friends and meet the right person as per their preference.",
+  "location": "United Kingdom",
+  "industry": "Social Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5b3ac9cb-85db-4d6c-9906-f73da92c96e7.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Impact"
+  ],
+  "url": "https://500.co/portfolio/her",
+  "api": "/companies/her.json"
+}

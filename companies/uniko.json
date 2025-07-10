@@ -1,0 +1,21 @@
+{
+  "id": 4456,
+  "name": "Uniko, Inc",
+  "slug": "uniko",
+  "website": "uniko.co",
+  "description": "Operator of an online gift registry platform intended to assist couples to receive wedding gifts. The company's platform provides engaged couples tools to manage their registries and gives them the ability to ask for and receive cash in the lieu of household gifts, enabling couples to exchange gifts for cash or even receive customized gifts on the day of their wedding.",
+  "one_liner": "Operator of an online gift registry platform intended to assist couples to receive wedding gifts. The company's platform provides engaged couples tools to manage their registries and gives them the ability to ask for and receive cash in the lieu of household gifts, enabling couples to exchange gifts for cash or even receive customized gifts on the day of their wedding.",
+  "location": "Mexico",
+  "industry": "Ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/8fde663e-ffad-4fc2-a3ca-450d10a81708.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Ecommerce"
+  ],
+  "url": "https://500.co/portfolio/uniko",
+  "api": "/companies/uniko.json"
+}

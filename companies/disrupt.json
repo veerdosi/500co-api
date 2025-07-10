@@ -1,0 +1,21 @@
+{
+  "id": 3315,
+  "name": "Disrupt Technology Venture Co.,Ltd.",
+  "slug": "disrupt",
+  "website": "www.disruptignite.com",
+  "description": "Operator of an innovation accelerator company intended to create leaders that change the future of Thailand and South-East Asia. The company bridges the gap between startups, SMEs, and corporates, creating a community of transformative business leaders that work together to drive positive changes to the communities and its training program offers tools, frameworks, and methodologies for innovation, enabling entrepreneurs to get educated and build their creative products and startups.",
+  "one_liner": "Operator of an innovation accelerator company intended to create leaders that change the future of Thailand and South-East Asia. The company bridges the gap between startups, SMEs, and corporates, creating a community of transformative business leaders that work together to drive positive changes to the communities and its training program offers tools, frameworks, and methodologies for innovation, enabling entrepreneurs to get educated and build their creative products and startups.",
+  "location": "Thailand",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/bacf1363-bd26-49e6-8d13-9204edf6f10f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/disrupt",
+  "api": "/companies/disrupt.json"
+}

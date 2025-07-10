@@ -1,0 +1,23 @@
+{
+  "id": 2729,
+  "name": "Clout Technologies Inc.",
+  "slug": "cloutdesk",
+  "website": "www.cloutdesk.com",
+  "description": "Global infrastructure for the next generation of content-driven, creator-led marketing.",
+  "one_liner": "Global infrastructure for the next generation of content-driven, creator-led marketing.",
+  "location": "United States",
+  "industry": "AdTech, Entertainment / Media, Infrastructure",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/8fb45451-d8d5-44b4-bf4b-21cda7896346.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AdTech",
+    "Entertainment / Media",
+    "Infrastructure"
+  ],
+  "url": "https://500.co/portfolio/cloutdesk",
+  "api": "/companies/cloutdesk.json"
+}

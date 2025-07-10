@@ -1,0 +1,21 @@
+{
+  "id": 3173,
+  "name": "SeeMexic S.A.P.I de C.V.",
+  "slug": "seemexico",
+  "website": "www.seemexico.com",
+  "description": "Operator of an online travel agency intended to help customers in planning and exploring places during their tours. The company's agency helps find travel deals, and hotels and offers a subscription model and installment payment option for the trips, enabling travelers to pay in smaller amounts and also discover different regions in the country.",
+  "one_liner": "Operator of an online travel agency intended to help customers in planning and exploring places during their tours. The company's agency helps find travel deals, and hotels and offers a subscription model and installment payment option for the trips, enabling travelers to pay in smaller amounts and also discover different regions in the country.",
+  "location": "Mexico",
+  "industry": "Travel & Tourism",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/dd9876b2-e6c5-4cea-ad54-6109df0b4b93.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Travel & Tourism"
+  ],
+  "url": "https://500.co/portfolio/seemexico",
+  "api": "/companies/seemexico.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5668,
+  "name": "Qardy Holdings Limited",
+  "slug": "qardy",
+  "website": "eqardy.com",
+  "description": "Qardy is the 1st lending aggregator marketplace in Egypt & MENA region that connects MSMEs with financial institutions.\n\n",
+  "one_liner": "Qardy is the 1st lending aggregator marketplace in Egypt & MENA region that connects MSMEs with financial institutions.\n\n",
+  "location": "Egypt",
+  "industry": "Credit & Lending",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/bd2e83fd-ad62-4e12-b7ce-6a1a5a8d504e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Credit & Lending"
+  ],
+  "url": "https://500.co/portfolio/qardy",
+  "api": "/companies/qardy.json"
+}

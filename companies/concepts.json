@@ -1,0 +1,21 @@
+{
+  "id": 4500,
+  "name": "TopHatch, Inc.",
+  "slug": "concepts",
+  "website": "concepts.app",
+  "description": "Developer of a concept-building application platform intended to be used for sketching and designing real-life things via mobile application. The company specializes in vector-based math, intuitive interfaces and new tech, enabling users to design anything they feel like through mobile phones.",
+  "one_liner": "Developer of a concept-building application platform intended to be used for sketching and designing real-life things via mobile application. The company specializes in vector-based math, intuitive interfaces and new tech, enabling users to design anything they feel like through mobile phones.",
+  "location": "United States",
+  "industry": "Creative Industry",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5e82ab42-eff1-47b0-922b-1d32e87e8f2d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Creative Industry"
+  ],
+  "url": "https://500.co/portfolio/concepts",
+  "api": "/companies/concepts.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3957,
+  "name": "Cognuse, Inc.",
+  "slug": "cognuse",
+  "website": "www.cognuse.com",
+  "description": "Operator of a rehabilitation platform intended to help professionals to provide care for patients. The company's platform offers acritical disease management, guideline management, rehabilitation, comprehensive educational content, automated discharge documentation, remotely accessible interface, virtual exercises, progress visualization and analytics, enabling medical professionals to access digital tools to help guide clients through the recovery process from start to finish.",
+  "one_liner": "Operator of a rehabilitation platform intended to help professionals to provide care for patients. The company's platform offers acritical disease management, guideline management, rehabilitation, comprehensive educational content, automated discharge documentation, remotely accessible interface, virtual exercises, progress visualization and analytics, enabling medical professionals to access digital tools to help guide clients through the recovery process from start to finish.",
+  "location": "United States",
+  "industry": "Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/cb51579d-757a-4855-bab6-cd1a9afc92b7.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/cognuse",
+  "api": "/companies/cognuse.json"
+}

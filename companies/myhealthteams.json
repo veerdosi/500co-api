@@ -1,0 +1,21 @@
+{
+  "id": 4515,
+  "name": "MyHealthTeams, Inc.",
+  "slug": "myhealthteams",
+  "website": "myhealthteam.com",
+  "description": "Developer of the patient social network platform in chronic health intended to help communities of people better manage conditions. The company's platform creates disease-specific social networks and helps to get referrals and share tips with other people who are personally facing chronic conditions, enabling patients to see around corners with access to medically-approved content, safe support, and connections to thousands of other patients going through the same thing.",
+  "one_liner": "Developer of the patient social network platform in chronic health intended to help communities of people better manage conditions. The company's platform creates disease-specific social networks and helps to get referrals and share tips with other people who are personally facing chronic conditions, enabling patients to see around corners with access to medically-approved content, safe support, and connections to thousands of other patients going through the same thing.",
+  "location": "Philippines",
+  "industry": "Health Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/ac4f9880-dc4a-4a0b-9140-47ab463a7489.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Health Tech"
+  ],
+  "url": "https://500.co/portfolio/myhealthteams",
+  "api": "/companies/myhealthteams.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5329,
+  "name": "ShopLook, Inc.",
+  "slug": "shoplook",
+  "website": "shoplook.io",
+  "description": "Developer of an online fashion clothing platform designed to resolve fashion-related questions with the use of artificial intelligence. The company's platform lets users create designs using a selection of buyable products and images and follow their favorite designers and shop items, enabling women to discover and shop expertly designed outfit ideas for any occasion, body type, and budget.",
+  "one_liner": "Developer of an online fashion clothing platform designed to resolve fashion-related questions with the use of artificial intelligence. The company's platform lets users create designs using a selection of buyable products and images and follow their favorite designers and shop items, enabling women to discover and shop expertly designed outfit ideas for any occasion, body type, and budget.",
+  "location": "United States",
+  "industry": "Fashion",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2fd841ef-9ba4-4338-a9d0-a33d713e4635.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion"
+  ],
+  "url": "https://500.co/portfolio/shoplook",
+  "api": "/companies/shoplook.json"
+}

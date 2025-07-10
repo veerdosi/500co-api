@@ -1,0 +1,22 @@
+{
+  "id": 5804,
+  "name": "Nookly, Inc.",
+  "slug": "nookly",
+  "website": "www.nookly.com",
+  "description": "Quickly create personalized learning stories with AI",
+  "one_liner": "Quickly create personalized learning stories with AI",
+  "location": "United States",
+  "industry": "AI/Machine Learning, Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/82069d63-dc4b-4fc4-afe4-11a595c0d34c.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/nookly",
+  "api": "/companies/nookly.json"
+}

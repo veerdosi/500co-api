@@ -1,0 +1,21 @@
+{
+  "id": 4218,
+  "name": "Zesty, Inc",
+  "slug": "zesty-inc",
+  "website": "zesty.com",
+  "description": "Provider of an on-demand food ordering application designed to offer food booking and delivery services. The company's application provides its restaurant partners with predictable, incremental revenue by leveraging their excess capacity and brand affinity as well as helps restaurants to reach a bigger audience, enabling consumers to order fresh meals from local restaurants.",
+  "one_liner": "Provider of an on-demand food ordering application designed to offer food booking and delivery services. The company's application provides its restaurant partners with predictable, incremental revenue by leveraging their excess capacity and brand affinity as well as helps restaurants to reach a bigger audience, enabling consumers to order fresh meals from local restaurants.",
+  "location": "United States",
+  "industry": "Mobility",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Mobility"
+  ],
+  "url": "https://500.co/portfolio/zesty-inc",
+  "api": "/companies/zesty-inc.json"
+}

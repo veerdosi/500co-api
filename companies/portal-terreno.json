@@ -1,0 +1,21 @@
+{
+  "id": 4467,
+  "name": "Portal Terreno, Inc.",
+  "slug": "portal-terreno",
+  "website": "www.portalterreno.com",
+  "description": "Developer of real estate marketplace designed to generate information regarding real estate. The company's platform accelerates the sale of land for different projects, enabling customers to tap into an unexplored market and find good opportunities to buy real estate and land.",
+  "one_liner": "Developer of real estate marketplace designed to generate information regarding real estate. The company's platform accelerates the sale of land for different projects, enabling customers to tap into an unexplored market and find good opportunities to buy real estate and land.",
+  "location": "Chile",
+  "industry": "PropTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/a8960b5e-5c4a-457d-bb85-d1c209826dd3.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "PropTech"
+  ],
+  "url": "https://500.co/portfolio/portal-terreno",
+  "api": "/companies/portal-terreno.json"
+}

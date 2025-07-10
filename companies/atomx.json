@@ -1,0 +1,21 @@
+{
+  "id": 2996,
+  "name": "Spot Media Solutions Sdn. Bhd.",
+  "slug": "atomx",
+  "website": "www.atomx.com",
+  "description": "Operator of an online advertising platform intended to allow advertisers, publishers, and intermediaries to control each impression. The company's platform offers an online marketplace that connects networks, demand-side platforms, supply-side platforms, and other parties and features pre- and post-bid fraud detection algorithms, advanced reports, and a control panel, enabling businesses to eliminate all fraud pre-bid and exercise full control over their advertisements.",
+  "one_liner": "Operator of an online advertising platform intended to allow advertisers, publishers, and intermediaries to control each impression. The company's platform offers an online marketplace that connects networks, demand-side platforms, supply-side platforms, and other parties and features pre- and post-bid fraud detection algorithms, advanced reports, and a control panel, enabling businesses to eliminate all fraud pre-bid and exercise full control over their advertisements.",
+  "location": "Malaysia",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/fb87880e-1527-4c30-a1a7-e9f22fbbd9f6.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/atomx",
+  "api": "/companies/atomx.json"
+}

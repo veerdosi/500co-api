@@ -1,0 +1,21 @@
+{
+  "id": 4323,
+  "name": "Progressive Generation Inc.",
+  "slug": "pg-studios",
+  "website": "pg-studios.com",
+  "description": "Provider of content production and broadcasting services intended to produce content in multi-languages for multi-platforms. The company's services specialize in the making of animation artworks in both two-dimensional and three-dimensional environments with quality standards, enabling viewers to have creative, innovative, and profitable animated entertainment experiences.",
+  "one_liner": "Provider of content production and broadcasting services intended to produce content in multi-languages for multi-platforms. The company's services specialize in the making of animation artworks in both two-dimensional and three-dimensional environments with quality standards, enabling viewers to have creative, innovative, and profitable animated entertainment experiences.",
+  "location": "Jordan",
+  "industry": "Social Media",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/68f85ec4-c0a1-4e54-b8c3-5e412a04ffd2.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Media"
+  ],
+  "url": "https://500.co/portfolio/pg-studios",
+  "api": "/companies/pg-studios.json"
+}

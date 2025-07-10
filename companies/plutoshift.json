@@ -1,0 +1,21 @@
+{
+  "id": 4750,
+  "name": "Pluto AI, Inc.",
+  "slug": "plutoshift",
+  "website": "plutoshift.com",
+  "description": "Developer of an operational data platform designed to empower operators to automate performance monitoring for any industrial workflow. The company's platform makes businesses drive return on investment by reducing resource consumption and operating costs and also provides data-driven operations by moving insights and AI from the back office to front-line operators, managers, and executives, enabling operators to automatically monitor the performance of critical processes and have access to actionable information.",
+  "one_liner": "Developer of an operational data platform designed to empower operators to automate performance monitoring for any industrial workflow. The company's platform makes businesses drive return on investment by reducing resource consumption and operating costs and also provides data-driven operations by moving insights and AI from the back office to front-line operators, managers, and executives, enabling operators to automatically monitor the performance of critical processes and have access to actionable information.",
+  "location": "United States",
+  "industry": "Climate Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d9c3949f-5546-490e-aad8-d61fcb2ba3b2.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Climate Tech"
+  ],
+  "url": "https://500.co/portfolio/plutoshift",
+  "api": "/companies/plutoshift.json"
+}

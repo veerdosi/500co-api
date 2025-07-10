@@ -1,0 +1,22 @@
+{
+  "id": 4377,
+  "name": "Capy Inc.",
+  "slug": "capy",
+  "website": "www.leminnow.com",
+  "description": "Developer of online security software designed to protect websites against password brute-force attacks, spam and fraud. The company's software offers sable CAPTCHAs and other authentication alternatives to make login procedures secure, enabling users to protect enterprise websites in a hassle-free manner.",
+  "one_liner": "Developer of online security software designed to protect websites against password brute-force attacks, spam and fraud. The company's software offers sable CAPTCHAs and other authentication alternatives to make login procedures secure, enabling users to protect enterprise websites in a hassle-free manner.",
+  "location": "United States",
+  "industry": "AI/Machine Learning, Cybersecurity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/5eb2991f-3b05-49d0-89d4-0d86a1f908e1.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "Cybersecurity"
+  ],
+  "url": "https://500.co/portfolio/capy",
+  "api": "/companies/capy.json"
+}

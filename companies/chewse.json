@@ -1,0 +1,21 @@
+{
+  "id": 4745,
+  "name": "Chewse, Inc.",
+  "slug": "chewse",
+  "website": "chewse.com",
+  "description": "Provider of an online food catering platform designed to offer group meals. The company's online platform offers a virtual meal manager, local restaurants, in-house drivers and on-site meal hosts for people to search database of local restaurant and catering menus as well as place their orders, enabling users to access catering options as per their tastes and budget, pay online and receive food.",
+  "one_liner": "Provider of an online food catering platform designed to offer group meals. The company's online platform offers a virtual meal manager, local restaurants, in-house drivers and on-site meal hosts for people to search database of local restaurant and catering menus as well as place their orders, enabling users to access catering options as per their tastes and budget, pay online and receive food.",
+  "location": "United States",
+  "industry": "Food",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4030c3b0-839e-4a19-83e9-7111762e0f75.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Food"
+  ],
+  "url": "https://500.co/portfolio/chewse",
+  "api": "/companies/chewse.json"
+}

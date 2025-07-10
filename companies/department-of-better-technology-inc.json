@@ -1,0 +1,21 @@
+{
+  "id": 4275,
+  "name": "Department of Better Technology Inc",
+  "slug": "department-of-better-technology-inc",
+  "website": "dobt.co",
+  "description": "Developer of an open source software designed to offer government teams workflow and decision-making tools. The company's open source software is a custom software that meets compliance and security standards and it runs governments' most important processes, such as procurement, regulatory enforcement and permitting, enabling government teams to digitize tedious manual processes.",
+  "one_liner": "Developer of an open source software designed to offer government teams workflow and decision-making tools. The company's open source software is a custom software that meets compliance and security standards and it runs governments' most important processes, such as procurement, regulatory enforcement and permitting, enabling government teams to digitize tedious manual processes.",
+  "location": "United States",
+  "industry": "Government",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Government"
+  ],
+  "url": "https://500.co/portfolio/department-of-better-technology-inc",
+  "api": "/companies/department-of-better-technology-inc.json"
+}

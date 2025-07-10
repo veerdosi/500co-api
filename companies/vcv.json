@@ -1,0 +1,21 @@
+{
+  "id": 4232,
+  "name": "VCV Incorporated",
+  "slug": "vcv",
+  "website": "vcv.ai",
+  "description": "Operator of a recruiting platform intended to assist companies to hire employees. The company's platform leverages artificial intelligence for autonomously searching resumes and conducting video interviews, enabling employers to reduce efforts, increase efficiency, and save money and manpower.",
+  "one_liner": "Operator of a recruiting platform intended to assist companies to hire employees. The company's platform leverages artificial intelligence for autonomously searching resumes and conducting video interviews, enabling employers to reduce efforts, increase efficiency, and save money and manpower.",
+  "location": "Russia",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/vcv",
+  "api": "/companies/vcv.json"
+}

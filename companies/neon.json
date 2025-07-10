@@ -1,0 +1,21 @@
+{
+  "id": 5096,
+  "name": "Neon Financial, Inc",
+  "slug": "neon",
+  "website": "www.neonforlife.com",
+  "description": "Provider of bill payment technology intended to pay bills on flexible terms and conditions. The company's application facilitates payments for various services including rent bills, electricity bills, water bills, internet bills, and parking bills and also can add bills on the application and it automatically pays every bill, every month using a credit line and sends regular updates, enabling individuals to simplify their monthly bill payments and make them consistent.",
+  "one_liner": "Provider of bill payment technology intended to pay bills on flexible terms and conditions. The company's application facilitates payments for various services including rent bills, electricity bills, water bills, internet bills, and parking bills and also can add bills on the application and it automatically pays every bill, every month using a credit line and sends regular updates, enabling individuals to simplify their monthly bill payments and make them consistent.",
+  "location": "United States",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b8f14b2d-5a94-4702-84c7-89ddd19bd679.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/neon",
+  "api": "/companies/neon.json"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 5420,
+  "name": "GLOSET LLC",
+  "slug": "gloset",
+  "website": "gloset.mx",
+  "description": "Operator of a digital e-commerce platform intended to provide second-hand clothes. The company's platform includes formal wear, party wear, sportswear, maternity clothes, shoes, and accessories, enabling customers to choose various fashion accessories at an affordable price.",
+  "one_liner": "Operator of a digital e-commerce platform intended to provide second-hand clothes. The company's platform includes formal wear, party wear, sportswear, maternity clothes, shoes, and accessories, enabling customers to choose various fashion accessories at an affordable price.",
+  "location": "Mexico",
+  "industry": "Ecommerce, Fashion, Marketplace",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/f489e62f-4b85-4d9b-8f15-cd6abdcfee95.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Ecommerce",
+    "Fashion",
+    "Marketplace"
+  ],
+  "url": "https://500.co/portfolio/gloset",
+  "api": "/companies/gloset.json"
+}

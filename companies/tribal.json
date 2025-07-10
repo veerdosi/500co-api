@@ -1,0 +1,23 @@
+{
+  "id": 4487,
+  "name": "Aingel Corp.",
+  "slug": "tribal",
+  "website": "www.tribal.credit",
+  "description": "Operator of modern financial tools intended to provide access to corporate cards and advanced spending controls. The company's tools help to manage online ad spending, reduce declined transactions, costly foreign exchange fees, and unfavorable currency conversion rates, and manage subscription payments together in one place, enabling companies to make it easy to pay and control business expenses, including cross-border transactions.",
+  "one_liner": "Operator of modern financial tools intended to provide access to corporate cards and advanced spending controls. The company's tools help to manage online ad spending, reduce declined transactions, costly foreign exchange fees, and unfavorable currency conversion rates, and manage subscription payments together in one place, enabling companies to make it easy to pay and control business expenses, including cross-border transactions.",
+  "location": "United States",
+  "industry": "Credit & Lending, Crypto, Payments",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Credit & Lending",
+    "Crypto",
+    "Payments"
+  ],
+  "url": "https://500.co/portfolio/tribal",
+  "api": "/companies/tribal.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2844,
+  "name": "Veritas Mobile Holdings, Ltd.",
+  "slug": "ayannah",
+  "website": "www.ayannah.com",
+  "description": "Developer of a fintech platform designed to provide affordable and accessible digital commerce and payment services. The company's platform provides digital financial services to the world's emerging middle class, most of whom are migrants or unbanked, enabling customers to avail of affordable finance and improve their quality of life.",
+  "one_liner": "Developer of a fintech platform designed to provide affordable and accessible digital commerce and payment services. The company's platform provides digital financial services to the world's emerging middle class, most of whom are migrants or unbanked, enabling customers to avail of affordable finance and improve their quality of life.",
+  "location": "Philippines",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/1dfd8c09-2639-459d-9e2d-4aa27337d173.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/ayannah",
+  "api": "/companies/ayannah.json"
+}

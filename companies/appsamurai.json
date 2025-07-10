@@ -1,0 +1,22 @@
+{
+  "id": 3220,
+  "name": "App Samurai Inc.",
+  "slug": "appsamurai",
+  "website": "appsamurai.com",
+  "description": "Operator of an AI-powered, secure mobile user acquisition platform intended to help app owners, advertisers and publishers grow their apps. The company's platform creates different mobile advertisement campaigns and recommendations, tracks app store performance and tracks in-app events all from one single dashboard, enabling application developers and performance marketers to reach and acquire potential users with effective video campaigns and increase application downloads without much hassle or delay.",
+  "one_liner": "Operator of an AI-powered, secure mobile user acquisition platform intended to help app owners, advertisers and publishers grow their apps. The company's platform creates different mobile advertisement campaigns and recommendations, tracks app store performance and tracks in-app events all from one single dashboard, enabling application developers and performance marketers to reach and acquire potential users with effective video campaigns and increase application downloads without much hassle or delay.",
+  "location": "United States",
+  "industry": "Content, Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/c5ff5a02-7fc7-4c34-8034-e54241f33040.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content",
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/appsamurai",
+  "api": "/companies/appsamurai.json"
+}

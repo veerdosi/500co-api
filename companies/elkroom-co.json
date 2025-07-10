@@ -1,0 +1,21 @@
+{
+  "id": 5805,
+  "name": "ELKROOM CO., LTD.",
+  "slug": "elkroom-co",
+  "website": "elkroom.com",
+  "description": "Developer of game launcher designed to optimize the gaming experience. The company offers a game launcher to assist mobile game players so that they can have a better experience playing games on mobile phones and can also record every moment of playing, enabling players to optimize and speed up their phones so they can enjoy playing without any delay.",
+  "one_liner": "Developer of game launcher designed to optimize the gaming experience. The company offers a game launcher to assist mobile game players so that they can have a better experience playing games on mobile phones and can also record every moment of playing, enabling players to optimize and speed up their phones so they can enjoy playing without any delay.",
+  "location": "Taiwan",
+  "industry": "Gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Gaming"
+  ],
+  "url": "https://500.co/portfolio/elkroom-co",
+  "api": "/companies/elkroom-co.json"
+}

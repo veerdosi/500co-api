@@ -1,0 +1,21 @@
+{
+  "id": 4173,
+  "name": "Bequest, Inc.",
+  "slug": "bequest-inc",
+  "website": "willing.com",
+  "description": "Provider of a platform designed to create legal will online. The company's platform offers an online tool for the user to create a will or living will in minutes and help users to find and compare costs for funeral homes and cemeteries, enabling users to protect their family, property and save their time and money.",
+  "one_liner": "Provider of a platform designed to create legal will online. The company's platform offers an online tool for the user to create a will or living will in minutes and help users to find and compare costs for funeral homes and cemeteries, enabling users to protect their family, property and save their time and money.",
+  "location": "United States",
+  "industry": "Legal",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/28746df8-87d9-40d4-8263-7e678688fc4f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Legal"
+  ],
+  "url": "https://500.co/portfolio/bequest-inc",
+  "api": "/companies/bequest-inc.json"
+}

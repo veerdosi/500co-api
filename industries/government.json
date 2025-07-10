@@ -1,0 +1,339 @@
+[
+  {
+    "id": 4982,
+    "name": "Drivio, Inc.",
+    "slug": "drivio",
+    "website": "finenyc.com",
+    "description": "Developer of a mobile application intended to track and pay parking tickets. The company's mobile application leverages technology to allow users to pay for parking tickets and also set up reminders for their tickets, enabling customers to easily manage and settle parking violations.",
+    "one_liner": "Developer of a mobile application intended to track and pay parking tickets. The company's mobile application leverages technology to allow users to pay for parking tickets and also set up reminders for their tickets, enabling customers to easily manage and settle parking violations.",
+    "location": "United States",
+    "industry": "Government",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Government"
+    ],
+    "url": "https://500.co/portfolio/drivio",
+    "api": "/companies/drivio.json"
+  },
+  {
+    "id": 3532,
+    "name": "Evreka Yazılım Donanım Danışmanlık Eğitim San. Tic. A.Ş.",
+    "slug": "evreka",
+    "website": "evreka.co",
+    "description": "Developer of a software-based smart waste collection system designed to make the environment clean. The company's system collects waste through wireless sensors, which can measure how full a garbage bin is and instantaneously send the information to the cloud using M2M technology, enabling clients to reduce garbage collection costs.",
+    "one_liner": "Developer of a software-based smart waste collection system designed to make the environment clean. The company's system collects waste through wireless sensors, which can measure how full a garbage bin is and instantaneously send the information to the cloud using M2M technology, enabling clients to reduce garbage collection costs.",
+    "location": "Turkey",
+    "industry": "Climate Tech, Government",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/09be1efc-a4e9-45e8-8e01-a1029a9962b1.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Climate Tech",
+      "Government"
+    ],
+    "url": "https://500.co/portfolio/evreka",
+    "api": "/companies/evreka.json"
+  },
+  {
+    "id": 5060,
+    "name": "Faception Ltd.",
+    "slug": "faception",
+    "website": "www.faception.com",
+    "description": "Developer of a facial personality analytics platform designed to automatically reveal personalities in real-time. The company's platform offers facial recognition technology that analyzes a person's facial image and reveals his personality, providing clients with predictive screening technology and aiding to take preventive actions in the fields of public safety, smart cities, and homeland security.",
+    "one_liner": "Developer of a facial personality analytics platform designed to automatically reveal personalities in real-time. The company's platform offers facial recognition technology that analyzes a person's facial image and reveals his personality, providing clients with predictive screening technology and aiding to take preventive actions in the fields of public safety, smart cities, and homeland security.",
+    "location": "Israel",
+    "industry": "Government",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Government"
+    ],
+    "url": "https://500.co/portfolio/faception",
+    "api": "/companies/faception.json"
+  },
+  {
+    "id": 4505,
+    "name": "GlobeKeeper LLC",
+    "slug": "globekeeper",
+    "website": "globekeeper.com",
+    "description": "Developer of secure communication and tracking software designed to communicate securely and easily within an organization. The company's software includes features such as real-time tracking, mission planning, and case management, enabling government and private security organizations to improve their operations and keep people safe.",
+    "one_liner": "Developer of secure communication and tracking software designed to communicate securely and easily within an organization. The company's software includes features such as real-time tracking, mission planning, and case management, enabling government and private security organizations to improve their operations and keep people safe.",
+    "location": "United States",
+    "industry": "Government",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b5f8e943-95ad-4f8a-b3d7-38e09759db60.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Government"
+    ],
+    "url": "https://500.co/portfolio/globekeeper",
+    "api": "/companies/globekeeper.json"
+  },
+  {
+    "id": 2962,
+    "name": "Graffer, Inc.",
+    "slug": "graffer",
+    "website": "graffer.jp",
+    "description": "Developer of a compliance platform designed to simplify the process of submitting commercial documents to the government in Japan. The company's platform offers a corporate and regulation directory and procedural guides by digitizing government paperwork, enabling Japanese business owners to file regulatory documents and receive guidance on complex issues through a single platform.",
+    "one_liner": "Developer of a compliance platform designed to simplify the process of submitting commercial documents to the government in Japan. The company's platform offers a corporate and regulation directory and procedural guides by digitizing government paperwork, enabling Japanese business owners to file regulatory documents and receive guidance on complex issues through a single platform.",
+    "location": "Japan",
+    "industry": "Government",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7516f67d-699e-4184-a4fd-67a87957faab.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Government"
+    ],
+    "url": "https://500.co/portfolio/graffer",
+    "api": "/companies/graffer.json"
+  },
+  {
+    "id": 4552,
+    "name": "CTY Inc",
+    "slug": "numina",
+    "website": "numina.co",
+    "description": "Developer of a computer vision sensing platform designed to empower cities with data to become responsive and equitable. The company's platform measures and predicts volume counts, paths, speeds, interactions, and other behaviors of pedestrians, bicycles, vehicles, wheelchairs, travelers, and objects in streets, enabling businesses to plan and invest in infrastructure in the public right of way to prevent the collection of personally identifiable information and to provide intelligence without surveillance.",
+    "one_liner": "Developer of a computer vision sensing platform designed to empower cities with data to become responsive and equitable. The company's platform measures and predicts volume counts, paths, speeds, interactions, and other behaviors of pedestrians, bicycles, vehicles, wheelchairs, travelers, and objects in streets, enabling businesses to plan and invest in infrastructure in the public right of way to prevent the collection of personally identifiable information and to provide intelligence without surveillance.",
+    "location": "United Arab Emirates",
+    "industry": "Government",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Government"
+    ],
+    "url": "https://500.co/portfolio/numina",
+    "api": "/companies/numina.json"
+  },
+  {
+    "id": 4554,
+    "name": "Raxar Technology Corporation",
+    "slug": "raxar",
+    "website": "raxar.com",
+    "description": "Developer of an operations management platform intended for asset inspection and tracking systems. The company's platform offers real-time mobile systems based on context and sensor technologies to optimize the life cycle of assets beginning at conceptual design and continuing through manufacturing, maintenance, and decommissioning, enabling facilities, construction, airports, and other industries to reduce costs, track critical assets and optimize complex workflows.",
+    "one_liner": "Developer of an operations management platform intended for asset inspection and tracking systems. The company's platform offers real-time mobile systems based on context and sensor technologies to optimize the life cycle of assets beginning at conceptual design and continuing through manufacturing, maintenance, and decommissioning, enabling facilities, construction, airports, and other industries to reduce costs, track critical assets and optimize complex workflows.",
+    "location": "United States",
+    "industry": "Government",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/90ac0df9-5d1e-47cc-84da-185fc9aa9ac3.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Government"
+    ],
+    "url": "https://500.co/portfolio/raxar",
+    "api": "/companies/raxar.json"
+  },
+  {
+    "id": 2873,
+    "name": "CommunityLogiq Software Inc.",
+    "slug": "urbanlogiq",
+    "website": "urbanlogiq.com",
+    "description": "Developer of urban data analytics platform designed to equip public officials with the tools to build safe, strong, and resilient communities. The company's platform permits tracking and visualization of business data, gathering of actionable intelligence and early warning indicators, as well as tracking of transportation and traffic data, enabling governments to generate fast insights in one platform without any data wrangling or specialized training.",
+    "one_liner": "Developer of urban data analytics platform designed to equip public officials with the tools to build safe, strong, and resilient communities. The company's platform permits tracking and visualization of business data, gathering of actionable intelligence and early warning indicators, as well as tracking of transportation and traffic data, enabling governments to generate fast insights in one platform without any data wrangling or specialized training.",
+    "location": "Canada",
+    "industry": "Government",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/27301da3-97c2-4d48-ac5b-ffd00fe95743.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Government"
+    ],
+    "url": "https://500.co/portfolio/urbanlogiq",
+    "api": "/companies/urbanlogiq.json"
+  },
+  {
+    "id": 5263,
+    "name": "Zenysis Technologies, Inc.",
+    "slug": "zenysis",
+    "website": "www.zenysis.com",
+    "description": "Developer of data-analysis software intended to help governments and international organizations to confront the challenges faced by humanity. The company's software helps to rapidly strengthen the delivery of essential public services, responds to large-scale humanitarian emergencies, as well as tackles complex challenges with precision and speed, enabling clients to deeply understand their challenges and jointly explore how they might be rapidly prototyped.",
+    "one_liner": "Developer of data-analysis software intended to help governments and international organizations to confront the challenges faced by humanity. The company's software helps to rapidly strengthen the delivery of essential public services, responds to large-scale humanitarian emergencies, as well as tackles complex challenges with precision and speed, enabling clients to deeply understand their challenges and jointly explore how they might be rapidly prototyped.",
+    "location": "United States",
+    "industry": "Government",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/12049250-6caa-4ccc-9e05-2ff15793f686.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Government"
+    ],
+    "url": "https://500.co/portfolio/zenysis",
+    "api": "/companies/zenysis.json"
+  },
+  {
+    "id": 3997,
+    "name": "Digital Currency Council, Inc.",
+    "slug": "digital-currency-council-inc",
+    "website": "sabr.io",
+    "description": "Developer of a software designed to monitors multiple blockchains to identify and locate criminal activity. The company's software aims to ensure that bitcoin and other digital currencies are not utilized for illicit purposes, enabling law enforcement agencies to identify and locate criminal activities.",
+    "one_liner": "Developer of a software designed to monitors multiple blockchains to identify and locate criminal activity. The company's software aims to ensure that bitcoin and other digital currencies are not utilized for illicit purposes, enabling law enforcement agencies to identify and locate criminal activities.",
+    "location": "United States",
+    "industry": "Government",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Government"
+    ],
+    "url": "https://500.co/portfolio/digital-currency-council-inc",
+    "api": "/companies/digital-currency-council-inc.json"
+  },
+  {
+    "id": 4480,
+    "name": "The Atlas Marketplace, Co.",
+    "slug": "the-atlas-marketplace-co",
+    "website": "the-atlas.com",
+    "description": "Developer of an online community platform focused on modernizing the local government officials and staff. The company's platform allows users to share success stories, learn what's working in other cities, build relationships with partners and source new solutions and new partners, enabling local governments and implementing partners to solve specific civic problems.",
+    "one_liner": "Developer of an online community platform focused on modernizing the local government officials and staff. The company's platform allows users to share success stories, learn what's working in other cities, build relationships with partners and source new solutions and new partners, enabling local governments and implementing partners to solve specific civic problems.",
+    "location": "United States",
+    "industry": "Government",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b580b57b-f53f-455f-8900-3eed42868a98.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Government"
+    ],
+    "url": "https://500.co/portfolio/the-atlas-marketplace-co",
+    "api": "/companies/the-atlas-marketplace-co.json"
+  },
+  {
+    "id": 3689,
+    "name": "Govlist Inc.",
+    "slug": "govlist-inc",
+    "website": "thegovlist.com",
+    "description": "Provider of a data-driven platform designed to streamline the IT procurement process and improve the quality of public digital services offered by the government. The company's data-driven platform has an inbuilt analytics dashboard that tracks and optimizes government purchasing through automation and data analytics, makes intelligent decisions by leveraging valuable data and insights, makes procurement faster by automating and organizing documents, forms, and paperwork in one place, enabling local governments and vendors to improve IT procurement and amplify government sales respectively.",
+    "one_liner": "Provider of a data-driven platform designed to streamline the IT procurement process and improve the quality of public digital services offered by the government. The company's data-driven platform has an inbuilt analytics dashboard that tracks and optimizes government purchasing through automation and data analytics, makes intelligent decisions by leveraging valuable data and insights, makes procurement faster by automating and organizing documents, forms, and paperwork in one place, enabling local governments and vendors to improve IT procurement and amplify government sales respectively.",
+    "location": "United States",
+    "industry": "Government",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Government"
+    ],
+    "url": "https://500.co/portfolio/govlist-inc",
+    "api": "/companies/govlist-inc.json"
+  },
+  {
+    "id": 4307,
+    "name": "CROWDFORCE INC.",
+    "slug": "crowdforce-inc",
+    "website": "crowdforce.io",
+    "description": "Provider of an online platform designed to create forms online to collect quality data using any mobile device. The company's platform offers to create, save and publish forms with online form builder and it captures quality data, keep all forms in one place, analyze data and provide insights on that, enabling local & international businesses, NGOs, and Governments crowdsource reliable market about Africa.",
+    "one_liner": "Provider of an online platform designed to create forms online to collect quality data using any mobile device. The company's platform offers to create, save and publish forms with online form builder and it captures quality data, keep all forms in one place, analyze data and provide insights on that, enabling local & international businesses, NGOs, and Governments crowdsource reliable market about Africa.",
+    "location": "United States",
+    "industry": "Government",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7284f602-f721-4fbd-ae0f-806e2a865cc3.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Government"
+    ],
+    "url": "https://500.co/portfolio/crowdforce-inc",
+    "api": "/companies/crowdforce-inc.json"
+  },
+  {
+    "id": 4891,
+    "name": "Remix Software, Inc.",
+    "slug": "remix-software-inc",
+    "website": "getremix.com",
+    "description": "Provider of a web-based platform intended to improve decision-making and planning processes in the public sector. The company's web-based platform offers a public transit planning platform helping government agencies decide and plan cities and routes enabling planners at transit agencies and local governments to quickly design transit routes and immediately understand the cost and demographic impact of a proposed change to better balance transit, biking, walking and vehicles.",
+    "one_liner": "Provider of a web-based platform intended to improve decision-making and planning processes in the public sector. The company's web-based platform offers a public transit planning platform helping government agencies decide and plan cities and routes enabling planners at transit agencies and local governments to quickly design transit routes and immediately understand the cost and demographic impact of a proposed change to better balance transit, biking, walking and vehicles.",
+    "location": "United States",
+    "industry": "Government",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Government"
+    ],
+    "url": "https://500.co/portfolio/remix-software-inc",
+    "api": "/companies/remix-software-inc.json"
+  },
+  {
+    "id": 4275,
+    "name": "Department of Better Technology Inc",
+    "slug": "department-of-better-technology-inc",
+    "website": "dobt.co",
+    "description": "Developer of an open source software designed to offer government teams workflow and decision-making tools. The company's open source software is a custom software that meets compliance and security standards and it runs governments' most important processes, such as procurement, regulatory enforcement and permitting, enabling government teams to digitize tedious manual processes.",
+    "one_liner": "Developer of an open source software designed to offer government teams workflow and decision-making tools. The company's open source software is a custom software that meets compliance and security standards and it runs governments' most important processes, such as procurement, regulatory enforcement and permitting, enabling government teams to digitize tedious manual processes.",
+    "location": "United States",
+    "industry": "Government",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Government"
+    ],
+    "url": "https://500.co/portfolio/department-of-better-technology-inc",
+    "api": "/companies/department-of-better-technology-inc.json"
+  },
+  {
+    "id": 4292,
+    "name": "Votizen Inc",
+    "slug": "votizen-inc",
+    "website": "www.votizen.com",
+    "description": "Provider of a platform for U.S. political engagement. The company is a provider of media content focused on U.S. federal, state and local processes and citizen engagement in democracy.",
+    "one_liner": "Provider of a platform for U.S. political engagement. The company is a provider of media content focused on U.S. federal, state and local processes and citizen engagement in democracy.",
+    "location": "United States",
+    "industry": "Government",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/c52ad649-0ed6-4837-9964-c6abea45df03.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Government"
+    ],
+    "url": "https://500.co/portfolio/votizen-inc",
+    "api": "/companies/votizen-inc.json"
+  }
+]

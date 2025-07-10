@@ -1,0 +1,22 @@
+{
+  "id": 8234,
+  "name": "Raised Networks Inc.",
+  "slug": "raised",
+  "website": "https://joinraised.com/",
+  "description": "Raised is a marketplace of senior business on-demand professionals in Sales, Growth, Marketing, Product and CS with experience at Tier-1 startups and scaleups like Miro, Revolut, Pinterest, Grammarly, Tinder or Coinbase. Our experts work directly with founding teams to accelerate growth, get a higher valuation and solve the toughest challenges of their startups.",
+  "one_liner": "Raised is a marketplace of senior business on-demand professionals in Sales, Growth, Marketing, Product and CS with experience at Tier-1 startups and scaleups like Miro, Revolut, Pinterest, Grammarly, Tinder or Coinbase. Our experts work directly with founding teams to accelerate growth, get a higher valuation and solve the toughest challenges of their startups.",
+  "location": "United States",
+  "industry": "AI/Machine Learning, HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/6e480e78-085f-47b0-b258-1ec62d5e6a87.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/raised",
+  "api": "/companies/raised.json"
+}

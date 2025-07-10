@@ -1,0 +1,21 @@
+{
+  "id": 5014,
+  "name": "PlusMargin Pte Ltd",
+  "slug": "plusmargin",
+  "website": "plusmargin.com",
+  "description": "Developer of a predictive marketing platform designed to assist e-commerce merchants in increasing their conversion rates and average order value. The company's platform analyzes a shopper's digital body language and predicts their purchase intent using advanced machine learning techniques, behavioral psychology, and statistical models to show personalized offers and messages that cater particularly to the users, enabling e-commerce merchants to analyze a customer's purchase intent, promote and sell their products.",
+  "one_liner": "Developer of a predictive marketing platform designed to assist e-commerce merchants in increasing their conversion rates and average order value. The company's platform analyzes a shopper's digital body language and predicts their purchase intent using advanced machine learning techniques, behavioral psychology, and statistical models to show personalized offers and messages that cater particularly to the users, enabling e-commerce merchants to analyze a customer's purchase intent, promote and sell their products.",
+  "location": "Singapore",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/plusmargin",
+  "api": "/companies/plusmargin.json"
+}

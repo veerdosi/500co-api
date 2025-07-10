@@ -1,0 +1,21 @@
+{
+  "id": 2826,
+  "name": "Cuidamimascota, Ltd",
+  "slug": "cuidamimascota",
+  "website": "www.cuidamimascota.com.mx",
+  "description": "Developer of a pet care platform designed to assist people to find trusted caregivers. The company's platform connects pet owners who are looking for where to leave their pets when they travel or just for the day with pet sitters who take care of their beloved pets decreasing the stress and separation anxiety, enabling pet owners to leave their pets behind while traveling.",
+  "one_liner": "Developer of a pet care platform designed to assist people to find trusted caregivers. The company's platform connects pet owners who are looking for where to leave their pets when they travel or just for the day with pet sitters who take care of their beloved pets decreasing the stress and separation anxiety, enabling pet owners to leave their pets behind while traveling.",
+  "location": "Mexico",
+  "industry": "Marketplace",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/61380a23-b80b-4f49-96fa-564d15025ddd.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Marketplace"
+  ],
+  "url": "https://500.co/portfolio/cuidamimascota",
+  "api": "/companies/cuidamimascota.json"
+}

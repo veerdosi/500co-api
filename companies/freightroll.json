@@ -1,0 +1,21 @@
+{
+  "id": 3874,
+  "name": "FreightRoll, Inc.",
+  "slug": "freightroll",
+  "website": "www.freightroll.com",
+  "description": "Developer of a digital trade documentation and visibility platform designed to improve visibility into the supply chain. The company's platform provides a dashboard that features access to a proprietary network of carriers, book shipments, uploads loading statuses and prevents deadhead, enabling users to operate shipping activities efficiently.",
+  "one_liner": "Developer of a digital trade documentation and visibility platform designed to improve visibility into the supply chain. The company's platform provides a dashboard that features access to a proprietary network of carriers, book shipments, uploads loading statuses and prevents deadhead, enabling users to operate shipping activities efficiently.",
+  "location": "United States",
+  "industry": "Supply Chain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/cf9b2417-b442-4465-8126-e57e48e18606.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Supply Chain"
+  ],
+  "url": "https://500.co/portfolio/freightroll",
+  "api": "/companies/freightroll.json"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 4353,
+  "name": "FineDine Menu, Inc",
+  "slug": "finedine",
+  "website": "www.finedinemenu.com",
+  "description": "Developer of a digital menu platform designed to help restaurants, cafés, bars and hotels increase sales and lower operational costs. The company's platform offers an error-free ordering process, promotes items, tracks customer behavior and collects feedbacks, enabling restaurants to minimize customer waiting time and employee costs.",
+  "one_liner": "Developer of a digital menu platform designed to help restaurants, cafés, bars and hotels increase sales and lower operational costs. The company's platform offers an error-free ordering process, promotes items, tracks customer behavior and collects feedbacks, enabling restaurants to minimize customer waiting time and employee costs.",
+  "location": "Turkey",
+  "industry": "Productivity, Infrastructure",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4bdb2a27-6e7c-4512-b21a-23ad38760633.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Productivity",
+    "Infrastructure"
+  ],
+  "url": "https://500.co/portfolio/finedine",
+  "api": "/companies/finedine.json"
+}

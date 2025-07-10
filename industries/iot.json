@@ -1,0 +1,161 @@
+[
+  {
+    "id": 3130,
+    "name": "eFishery Pte Ltd",
+    "slug": "efishery",
+    "website": "efishery.com",
+    "description": "Operator of an Internet of Things-based aquaculture company intended to serve fish and shrimp farmers to reduce social and economic inequalities. The company offers an automatic fish feeder for commercial aquaculture that uses motion sensors to measure fish appetite and feed amounts and also provides integrated services, starting from farming operations, and financing to distribution, enabling fish farmers to increase productivity and profits in fish and shrimp farming.",
+    "one_liner": "Operator of an Internet of Things-based aquaculture company intended to serve fish and shrimp farmers to reduce social and economic inequalities. The company offers an automatic fish feeder for commercial aquaculture that uses motion sensors to measure fish appetite and feed amounts and also provides integrated services, starting from farming operations, and financing to distribution, enabling fish farmers to increase productivity and profits in fish and shrimp farming.",
+    "location": "Indonesia",
+    "industry": "AgTech, IoT, Deep Tech",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ac0cb322-d721-4217-b42b-9fd68bd66906.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "AgTech",
+      "IoT",
+      "Deep Tech"
+    ],
+    "url": "https://500.co/portfolio/efishery",
+    "api": "/companies/efishery.json"
+  },
+  {
+    "id": 3394,
+    "name": "Eino, Inc.",
+    "slug": "eino",
+    "website": "www.eino.ai",
+    "description": "The Connectivity Digital Twin",
+    "one_liner": "The Connectivity Digital Twin",
+    "location": "United States",
+    "industry": "AI/Machine Learning, IoT, Deep Tech",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/36c21954-6278-4e3b-8e48-7917eb984fc3.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "AI/Machine Learning",
+      "IoT",
+      "Deep Tech"
+    ],
+    "url": "https://500.co/portfolio/eino",
+    "api": "/companies/eino.json"
+  },
+  {
+    "id": 3266,
+    "name": "Shortcut Labs AB",
+    "slug": "flic",
+    "website": "flic.io",
+    "description": "Developer of a wireless smart button intended to trigger applications, services, and mobile devices. The company's device is a physical shortcut that wirelessly connects to phones, tablets, or computers for the pre-configuring tasks on the user's phone, enabling users to access devices without moving from one place to another.",
+    "one_liner": "Developer of a wireless smart button intended to trigger applications, services, and mobile devices. The company's device is a physical shortcut that wirelessly connects to phones, tablets, or computers for the pre-configuring tasks on the user's phone, enabling users to access devices without moving from one place to another.",
+    "location": "Sweden",
+    "industry": "IoT",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e3cf8f15-26a4-44e0-906d-5acc810c7cd2.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "IoT"
+    ],
+    "url": "https://500.co/portfolio/flic",
+    "api": "/companies/flic.json"
+  },
+  {
+    "id": 4496,
+    "name": "INDOS Corp.",
+    "slug": "garment-io",
+    "website": "garment.io",
+    "description": "Developer of a production management device and platform designed to boost the productivity of the garment manufacturing industry. The company's technology offers production order tracking, transaction feeds, and quality level analysis through different dashboards, enabling factory managers and supervisors to save money, performance, and production cost.",
+    "one_liner": "Developer of a production management device and platform designed to boost the productivity of the garment manufacturing industry. The company's technology offers production order tracking, transaction feeds, and quality level analysis through different dashboards, enabling factory managers and supervisors to save money, performance, and production cost.",
+    "location": "United States",
+    "industry": "AI/Machine Learning, Data & Analytics, IoT",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f35a8c45-3661-4767-8b1c-b0c70cb5d72d.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "AI/Machine Learning",
+      "Data & Analytics",
+      "IoT"
+    ],
+    "url": "https://500.co/portfolio/garment-io",
+    "api": "/companies/garment-io.json"
+  },
+  {
+    "id": 5800,
+    "name": "iChase Co., Ltd.",
+    "slug": "ichase",
+    "website": "www.ichase.io",
+    "description": "Developer of an artificial intelligence poultry health monitoring system designed to provide poultry physiological monitoring and disease prevention. The company's system is a remote monitoring system using computer vision, guided laser beams, an electronic weighing machine and control software built on machine learning, enabling farmers to boost productivity by monitoring poultry birds' health and maturity.",
+    "one_liner": "Developer of an artificial intelligence poultry health monitoring system designed to provide poultry physiological monitoring and disease prevention. The company's system is a remote monitoring system using computer vision, guided laser beams, an electronic weighing machine and control software built on machine learning, enabling farmers to boost productivity by monitoring poultry birds' health and maturity.",
+    "location": "Taiwan",
+    "industry": "AI/Machine Learning, AgTech, IoT",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/bd844e2a-e088-4cb0-a802-f932ee328f90.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "AI/Machine Learning",
+      "AgTech",
+      "IoT"
+    ],
+    "url": "https://500.co/portfolio/ichase",
+    "api": "/companies/ichase.json"
+  },
+  {
+    "id": 5798,
+    "name": "PurismEV Inc.",
+    "slug": "purismev",
+    "website": "www.purism-ev.com",
+    "description": "Operator of an AI energy efficiency company intended to improve motor and battery efficiency based on driving patterns. The company offers various services such as reducing environmental impact, increasing vehicle lifetime, reducing battery size, improving range performance, increasing energy efficiency, and improving acceleration, providing users with real-time vehicle monitoring.",
+    "one_liner": "Operator of an AI energy efficiency company intended to improve motor and battery efficiency based on driving patterns. The company offers various services such as reducing environmental impact, increasing vehicle lifetime, reducing battery size, improving range performance, increasing energy efficiency, and improving acceleration, providing users with real-time vehicle monitoring.",
+    "location": "Taiwan",
+    "industry": "Automotive, Energy, IoT",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/f7c7c742-9a0d-4273-8c42-1364f783906b.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Automotive",
+      "Energy",
+      "IoT"
+    ],
+    "url": "https://500.co/portfolio/purismev",
+    "api": "/companies/purismev.json"
+  },
+  {
+    "id": 4971,
+    "name": "Exipple Studio, Inc (SL)",
+    "slug": "exipple-studio-inc-sl",
+    "website": "gestoos.com",
+    "description": "Provider of an artificial intelligence based software platform designed to revolutionize the way humans interact with technology. The company's platform enables cameras and sensors to see, understand, and respond to human movement and behavior in any environment or context, providing enterprises with precision tracking of any shape, object and motion.",
+    "one_liner": "Provider of an artificial intelligence based software platform designed to revolutionize the way humans interact with technology. The company's platform enables cameras and sensors to see, understand, and respond to human movement and behavior in any environment or context, providing enterprises with precision tracking of any shape, object and motion.",
+    "location": "United States",
+    "industry": "AI/Machine Learning, Automotive, IoT",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5a7d32a8-6ca9-4da6-a149-25bec60292d8.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "AI/Machine Learning",
+      "Automotive",
+      "IoT"
+    ],
+    "url": "https://500.co/portfolio/exipple-studio-inc-sl",
+    "api": "/companies/exipple-studio-inc-sl.json"
+  }
+]

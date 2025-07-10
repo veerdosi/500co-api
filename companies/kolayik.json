@@ -1,0 +1,19 @@
+{
+  "id": 5360,
+  "name": "Kolay Yazılım Anonim Şirketi",
+  "slug": "kolayik",
+  "website": "kolayik.com",
+  "description": "Developer of a human resources management platform designed to manage employee information. The company's platform features payment reports, calendars, payroll management, performance evaluation, and personal information records among other solutions, enabling organizations to manage their employee-related information such as leaves, assets, and reports.",
+  "one_liner": "Developer of a human resources management platform designed to manage employee information. The company's platform features payment reports, calendars, payroll management, performance evaluation, and personal information records among other solutions, enabling organizations to manage their employee-related information such as leaves, assets, and reports.",
+  "location": "Turkey",
+  "industry": "",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d6d618a8-b00f-4501-8305-d055fd7cbc76.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://500.co/portfolio/kolayik",
+  "api": "/companies/kolayik.json"
+}

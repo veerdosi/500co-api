@@ -1,0 +1,23 @@
+{
+  "id": 4835,
+  "name": "Duchess Mercantiles Sdn Bhd",
+  "slug": "applecrumby--fish",
+  "website": "www.applecrumbyandfish.com",
+  "description": "Operator of an e-commerce platform intended to offer a wide range of baby-care products and essentials. The company's platform offers a wide range of infant goods that include but are not limited to diapers, wipes, skin care, oral care and cleaning products made from quality materials and ingredients, enabling customers to have access to affordable premium baby-care goods.",
+  "one_liner": "Operator of an e-commerce platform intended to offer a wide range of baby-care products and essentials. The company's platform offers a wide range of infant goods that include but are not limited to diapers, wipes, skin care, oral care and cleaning products made from quality materials and ingredients, enabling customers to have access to affordable premium baby-care goods.",
+  "location": "Malaysia",
+  "industry": "Ecommerce, Healthcare, Consumer",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Ecommerce",
+    "Healthcare",
+    "Consumer"
+  ],
+  "url": "https://500.co/portfolio/applecrumby--fish",
+  "api": "/companies/applecrumby--fish.json"
+}

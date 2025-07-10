@@ -1,0 +1,21 @@
+{
+  "id": 4764,
+  "name": "SupplyHog Holdings, LLC.",
+  "slug": "supplyhog-holdings-llc",
+  "website": "supplyhog.com",
+  "description": "Provider of an online marketplace designed to sell construction supplies. The company's online marketplace offers drop shipping and contractor-level pricing services along with hardware and building supplies, enabling general contractors to procure building materials.",
+  "one_liner": "Provider of an online marketplace designed to sell construction supplies. The company's online marketplace offers drop shipping and contractor-level pricing services along with hardware and building supplies, enabling general contractors to procure building materials.",
+  "location": "United States",
+  "industry": "Construction",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f1526305-b1c6-4834-bc85-b84e5e320ae0.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Construction"
+  ],
+  "url": "https://500.co/portfolio/supplyhog-holdings-llc",
+  "api": "/companies/supplyhog-holdings-llc.json"
+}

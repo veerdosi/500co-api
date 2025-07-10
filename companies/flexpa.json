@@ -1,0 +1,21 @@
+{
+  "id": 4905,
+  "name": "AUTOMATE MEDICAL, INC.",
+  "slug": "flexpa",
+  "website": "www.flexpa.com",
+  "description": "Developer of a healthcare platform designed to ensure better outcomes through the use of diagnostic tests and lab reports. The company's product digitizes collected data from disparate hardware providers, interprets it, and then creates analytics dashboards to see how both individual patients and groups of patients are doing, enabling healthcare providers to determine treatment plans and pharmaceutical options for patients.",
+  "one_liner": "Developer of a healthcare platform designed to ensure better outcomes through the use of diagnostic tests and lab reports. The company's product digitizes collected data from disparate hardware providers, interprets it, and then creates analytics dashboards to see how both individual patients and groups of patients are doing, enabling healthcare providers to determine treatment plans and pharmaceutical options for patients.",
+  "location": "Canada",
+  "industry": "Health Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/10469ced-c300-42b1-8c85-0f25d791a02f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Health Tech"
+  ],
+  "url": "https://500.co/portfolio/flexpa",
+  "api": "/companies/flexpa.json"
+}

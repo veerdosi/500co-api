@@ -1,0 +1,23 @@
+{
+  "id": 5063,
+  "name": "Umoja Labs Corp.",
+  "slug": "umoja",
+  "website": "www.umoja.xyz",
+  "description": "The best and safest way to monetize your Bitcoin. ",
+  "one_liner": "The best and safest way to monetize your Bitcoin. ",
+  "location": "United States",
+  "industry": "Blockchain, Crypto, Web 3",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/ff695d62-343e-4a86-8354-ddbd17b6ff92.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Blockchain",
+    "Crypto",
+    "Web 3"
+  ],
+  "url": "https://500.co/portfolio/umoja",
+  "api": "/companies/umoja.json"
+}

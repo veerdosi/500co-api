@@ -1,0 +1,21 @@
+{
+  "id": 2704,
+  "name": "Shiprocket Limited",
+  "slug": "shiprocket",
+  "website": "www.shiprocket.in",
+  "description": "Developer of an e-commerce shipping and enablement application designed to offer negotiated freight rates. The company's platform employs a machine-learning-based data engine that recommends proper courier service for a business and chooses a courier company, prints shipping labels, and tracks orders from a single panel, enabling businesses to manage their shipping and returns simply and effectively.",
+  "one_liner": "Developer of an e-commerce shipping and enablement application designed to offer negotiated freight rates. The company's platform employs a machine-learning-based data engine that recommends proper courier service for a business and chooses a courier company, prints shipping labels, and tracks orders from a single panel, enabling businesses to manage their shipping and returns simply and effectively.",
+  "location": "India",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/shiprocket",
+  "api": "/companies/shiprocket.json"
+}

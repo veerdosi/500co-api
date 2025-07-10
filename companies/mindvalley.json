@@ -1,0 +1,21 @@
+{
+  "id": 5332,
+  "name": "MindValley Inc.",
+  "slug": "mindvalley",
+  "website": "www.mindvalley.com",
+  "description": "Operator of an education investment group intended to build and invest in education businesses. The company publishes ideas and teachings by good authors in personal growth, wellbeing, spirituality, productivity, mindfulness and more and combines them with cutting-edge sophisticated learning technology, thereby helping users with their growth.",
+  "one_liner": "Operator of an education investment group intended to build and invest in education businesses. The company publishes ideas and teachings by good authors in personal growth, wellbeing, spirituality, productivity, mindfulness and more and combines them with cutting-edge sophisticated learning technology, thereby helping users with their growth.",
+  "location": "Malaysia",
+  "industry": "Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/81457a83-7e7c-477e-ba44-a763b57c2f07.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/mindvalley",
+  "api": "/companies/mindvalley.json"
+}

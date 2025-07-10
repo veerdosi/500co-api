@@ -1,0 +1,21 @@
+{
+  "id": 4633,
+  "name": "Qwil, Inc.",
+  "slug": "qwil-inc",
+  "website": "qwil.co",
+  "description": "Developer of an independent contractor management platform designed to empower freelancers with the financial services they need to thrive. The company's independent contractor management platform provides a payment-management system for independent contractors, offering instant payments for work performed, financial management tools and access to healthcare and retirement benefits, enabling them to manage their independent contractor workforce.",
+  "one_liner": "Developer of an independent contractor management platform designed to empower freelancers with the financial services they need to thrive. The company's independent contractor management platform provides a payment-management system for independent contractors, offering instant payments for work performed, financial management tools and access to healthcare and retirement benefits, enabling them to manage their independent contractor workforce.",
+  "location": "United States",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/836eca5d-c729-4f14-b3ec-ea5e11f23f63.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/qwil-inc",
+  "api": "/companies/qwil-inc.json"
+}

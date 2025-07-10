@@ -1,0 +1,21 @@
+{
+  "id": 3938,
+  "name": "Mygola, Inc.",
+  "slug": "mygola-inc",
+  "website": "mygola.com",
+  "description": "Provider of online trip advisory services. The company provides a travel planning service that helps users to create custom trip plans in minutes.",
+  "one_liner": "Provider of online trip advisory services. The company provides a travel planning service that helps users to create custom trip plans in minutes.",
+  "location": "United States",
+  "industry": "Travel & Tourism",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Travel & Tourism"
+  ],
+  "url": "https://500.co/portfolio/mygola-inc",
+  "api": "/companies/mygola-inc.json"
+}

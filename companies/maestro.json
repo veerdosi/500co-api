@@ -1,0 +1,22 @@
+{
+  "id": 4967,
+  "name": "Maestro Interactive, Inc.",
+  "slug": "maestro",
+  "website": "www.maestro.io",
+  "description": "Operator of a white-label platform intended to help enterprise live streamers own, engage, and monetize audiences. The company's live and on-demand video streaming platform provides interactive video channels with two-way communication for personalized experiences, enabling content creators and brand sponsors to engage and monetize audiences at a large scale.",
+  "one_liner": "Operator of a white-label platform intended to help enterprise live streamers own, engage, and monetize audiences. The company's live and on-demand video streaming platform provides interactive video channels with two-way communication for personalized experiences, enabling content creators and brand sponsors to engage and monetize audiences at a large scale.",
+  "location": "United States",
+  "industry": "Social Media, Social Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/68a4b0e9-c0fb-4cb4-b431-ef7e0d37dc99.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Media",
+    "Social Impact"
+  ],
+  "url": "https://500.co/portfolio/maestro",
+  "api": "/companies/maestro.json"
+}

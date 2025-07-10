@@ -1,0 +1,21 @@
+{
+  "id": 4829,
+  "name": "BetterView Marketplace, Inc.",
+  "slug": "betterview-marketplace",
+  "website": "www.betterview.com",
+  "description": "Developer of a property intelligence and risk management platform designed for property and casualty (P&C) insurers. The company's platform identifies and mitigates risk, improves operational and inspection efficiency, and builds a more transparent customer experience throughout the policy lifecycle, empowering insurers to automate pricing, underwriting and renewal while focusing strategic action on critical properties.",
+  "one_liner": "Developer of a property intelligence and risk management platform designed for property and casualty (P&C) insurers. The company's platform identifies and mitigates risk, improves operational and inspection efficiency, and builds a more transparent customer experience throughout the policy lifecycle, empowering insurers to automate pricing, underwriting and renewal while focusing strategic action on critical properties.",
+  "location": "United States",
+  "industry": "Aviation",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Aviation"
+  ],
+  "url": "https://500.co/portfolio/betterview-marketplace",
+  "api": "/companies/betterview-marketplace.json"
+}

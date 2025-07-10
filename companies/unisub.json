@@ -1,0 +1,27 @@
+{
+  "id": 5853,
+  "name": "UniSub LLC",
+  "slug": "unisub",
+  "website": "unisub.io",
+  "description": "Developer of recurring crypto payment platform designed to allow people to avail subscriptions through crypto. The company's platform integrates crypto subscriptions, that make payments automatic, so customers don't have to make a payment or manually enter their payment information, enabling businesses to accept recurring crypto payments.",
+  "one_liner": "Developer of recurring crypto payment platform designed to allow people to avail subscriptions through crypto. The company's platform integrates crypto subscriptions, that make payments automatic, so customers don't have to make a payment or manually enter their payment information, enabling businesses to accept recurring crypto payments.",
+  "location": "Georgia",
+  "industry": "Blockchain, Crypto, FinTech, Gambling, Payments, SaaS, Web 3",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/c9c7ecbe-8eda-4394-b6da-fbb6114aedcd.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Blockchain",
+    "Crypto",
+    "FinTech",
+    "Gambling",
+    "Payments",
+    "SaaS",
+    "Web 3"
+  ],
+  "url": "https://500.co/portfolio/unisub",
+  "api": "/companies/unisub.json"
+}

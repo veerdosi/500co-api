@@ -1,0 +1,21 @@
+{
+  "id": 4638,
+  "name": "Homebot, Inc.",
+  "slug": "homebot-inc",
+  "website": "homebot.ai",
+  "description": "Provider of a content platform for homeowners. The company's application offers a financial dashboard and planner for homeowners to earn money by working with leaders in the mortgage lending and real estate industries.",
+  "one_liner": "Provider of a content platform for homeowners. The company's application offers a financial dashboard and planner for homeowners to earn money by working with leaders in the mortgage lending and real estate industries.",
+  "location": "United States",
+  "industry": "Credit & Lending",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/73d9f070-4418-4124-81e9-ea710d882f38.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Credit & Lending"
+  ],
+  "url": "https://500.co/portfolio/homebot-inc",
+  "api": "/companies/homebot-inc.json"
+}

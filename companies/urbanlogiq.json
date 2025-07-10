@@ -1,0 +1,21 @@
+{
+  "id": 2873,
+  "name": "CommunityLogiq Software Inc.",
+  "slug": "urbanlogiq",
+  "website": "urbanlogiq.com",
+  "description": "Developer of urban data analytics platform designed to equip public officials with the tools to build safe, strong, and resilient communities. The company's platform permits tracking and visualization of business data, gathering of actionable intelligence and early warning indicators, as well as tracking of transportation and traffic data, enabling governments to generate fast insights in one platform without any data wrangling or specialized training.",
+  "one_liner": "Developer of urban data analytics platform designed to equip public officials with the tools to build safe, strong, and resilient communities. The company's platform permits tracking and visualization of business data, gathering of actionable intelligence and early warning indicators, as well as tracking of transportation and traffic data, enabling governments to generate fast insights in one platform without any data wrangling or specialized training.",
+  "location": "Canada",
+  "industry": "Government",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/27301da3-97c2-4d48-ac5b-ffd00fe95743.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Government"
+  ],
+  "url": "https://500.co/portfolio/urbanlogiq",
+  "api": "/companies/urbanlogiq.json"
+}

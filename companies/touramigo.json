@@ -1,0 +1,21 @@
+{
+  "id": 8119,
+  "name": "Tour Amigo Pty Ltd",
+  "slug": "touramigo",
+  "website": "touramigo.com",
+  "description": "",
+  "one_liner": "",
+  "location": "Australia",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/971363cc-96bb-4aee-89d7-1b4ff060424a.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/touramigo",
+  "api": "/companies/touramigo.json"
+}

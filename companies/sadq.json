@@ -1,0 +1,21 @@
+{
+  "id": 5733,
+  "name": "Sadq Holding Limited",
+  "slug": "sadq",
+  "website": "www.sadq-sa.com",
+  "description": "Sadq enables individuals and businesses to execute and verify documents online to make them legally binding in seconds",
+  "one_liner": "Sadq enables individuals and businesses to execute and verify documents online to make them legally binding in seconds",
+  "location": "Saudi Arabia",
+  "industry": "Legal",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/12142bc8-4721-47e7-b224-64d51e1b4760.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Legal"
+  ],
+  "url": "https://500.co/portfolio/sadq",
+  "api": "/companies/sadq.json"
+}

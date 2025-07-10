@@ -1,0 +1,21 @@
+{
+  "id": 4255,
+  "name": "Greply, Inc.",
+  "slug": "greply-inc",
+  "website": "streem.com",
+  "description": "Developer of an on-demand communication and collaboration tool for home service professionals. The company's mobile application delivers a combination of augmented reality (AR), computer vision, and machine learning in order to capture information such as brand model, serial number, measurements and angles, and also allows for saving notes and images through a digital toolbox and record, enabling home management professionals including plumbers, painters and electricians to provide remote support, spend less time on the road and have happier customers.",
+  "one_liner": "Developer of an on-demand communication and collaboration tool for home service professionals. The company's mobile application delivers a combination of augmented reality (AR), computer vision, and machine learning in order to capture information such as brand model, serial number, measurements and angles, and also allows for saving notes and images through a digital toolbox and record, enabling home management professionals including plumbers, painters and electricians to provide remote support, spend less time on the road and have happier customers.",
+  "location": "United States",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5d6b7174-ecee-4f07-9598-210d72c69212.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/greply-inc",
+  "api": "/companies/greply-inc.json"
+}

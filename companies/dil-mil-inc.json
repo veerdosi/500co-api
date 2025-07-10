@@ -1,0 +1,21 @@
+{
+  "id": 4061,
+  "name": "Dil Mil, Inc.",
+  "slug": "dil-mil-inc",
+  "website": "dilmil.co",
+  "description": "Developer of a match-making application. The company's applications match people looking for serious relationships using proprietary machine learning and artificial intelligence based algorithms, providing users with simple, reliable and private matchmaking.",
+  "one_liner": "Developer of a match-making application. The company's applications match people looking for serious relationships using proprietary machine learning and artificial intelligence based algorithms, providing users with simple, reliable and private matchmaking.",
+  "location": "United States",
+  "industry": "Social Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/fd4d7a46-a3fc-4c28-9c30-bb823f305d65.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Impact"
+  ],
+  "url": "https://500.co/portfolio/dil-mil-inc",
+  "api": "/companies/dil-mil-inc.json"
+}

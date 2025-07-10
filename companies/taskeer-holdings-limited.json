@@ -1,0 +1,21 @@
+{
+  "id": 5731,
+  "name": "Taskeer Holdings Limited",
+  "slug": "taskeer-holdings-limited",
+  "website": "taskeer.co",
+  "description": "Provider of financial solutions intended to facilitate traditional monthly group savings. The company's platform enables monthly collections that contribute to facilitating money-saving concepts, taking into consideration any challenges and constraints, enabling consumers to get assurance of quality standards, trusted members and accurate receiving dates.",
+  "one_liner": "Provider of financial solutions intended to facilitate traditional monthly group savings. The company's platform enables monthly collections that contribute to facilitating money-saving concepts, taking into consideration any challenges and constraints, enabling consumers to get assurance of quality standards, trusted members and accurate receiving dates.",
+  "location": "Saudi Arabia",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/taskeer-holdings-limited",
+  "api": "/companies/taskeer-holdings-limited.json"
+}

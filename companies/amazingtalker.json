@@ -1,0 +1,23 @@
+{
+  "id": 5484,
+  "name": "AmazingTalker Limited",
+  "slug": "amazingtalker",
+  "website": "en.amazingtalker.com",
+  "description": "Developer of a robust online learning platform designed to empower learners in their pursuit of any language or subject. The company's services include learning with one-on-one attention and guidance, taking customized courses that fit individual schedule, budget and interests and an immersive language learning environment, enabling learners to take online tutoring from professional online language tutors and teachers.",
+  "one_liner": "Developer of a robust online learning platform designed to empower learners in their pursuit of any language or subject. The company's services include learning with one-on-one attention and guidance, taking customized courses that fit individual schedule, budget and interests and an immersive language learning environment, enabling learners to take online tutoring from professional online language tutors and teachers.",
+  "location": "Taiwan",
+  "industry": "Education, SaaS, Subscription",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/603cfee6-749e-4bde-8e99-1411b3c3e383.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education",
+    "SaaS",
+    "Subscription"
+  ],
+  "url": "https://500.co/portfolio/amazingtalker",
+  "api": "/companies/amazingtalker.json"
+}

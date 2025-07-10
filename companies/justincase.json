@@ -1,0 +1,21 @@
+{
+  "id": 5575,
+  "name": "justinCase Technologies, Inc. (fka P2P)",
+  "slug": "justincase",
+  "website": "justincase.jp",
+  "description": "Provider of insurance services intended to offer small and short-term insurance services. The company offers mobile-native, data-driven innovative insurance products and digital platforms which connect insurance products to various services, enabling clients to get insurance easily and provide new products to the market with new technologies, creating an impact on society.",
+  "one_liner": "Provider of insurance services intended to offer small and short-term insurance services. The company offers mobile-native, data-driven innovative insurance products and digital platforms which connect insurance products to various services, enabling clients to get insurance easily and provide new products to the market with new technologies, creating an impact on society.",
+  "location": "Japan",
+  "industry": "InsurTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5fc8a23a-c115-457d-936c-64bd33e0f53a.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "InsurTech"
+  ],
+  "url": "https://500.co/portfolio/justincase",
+  "api": "/companies/justincase.json"
+}

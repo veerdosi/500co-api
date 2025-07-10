@@ -1,0 +1,8 @@
+# Dependencies
+/node_modules
+
+# Build output
+/dist
+
+# Local data files
+500co_portfolio.html

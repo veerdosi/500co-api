@@ -1,0 +1,21 @@
+{
+  "id": 4693,
+  "name": "Remind101, Inc.",
+  "slug": "remind101-inc",
+  "website": "remind.com",
+  "description": "Provider of a real-time messaging application designed to bridge the communication gap in primary education. The company's real-time messaging application schedules reminders ahead of time, as well as coordinates the logistics of school-related activities, enabling teachers, parents, students and administrators in K-12 schools to communicate with each other.",
+  "one_liner": "Provider of a real-time messaging application designed to bridge the communication gap in primary education. The company's real-time messaging application schedules reminders ahead of time, as well as coordinates the logistics of school-related activities, enabling teachers, parents, students and administrators in K-12 schools to communicate with each other.",
+  "location": "United States",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/9b91aecb-131e-4c9b-a0a6-6cb87406522e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/remind101-inc",
+  "api": "/companies/remind101-inc.json"
+}

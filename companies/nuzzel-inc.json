@@ -1,0 +1,21 @@
+{
+  "id": 4095,
+  "name": "Nuzzel, Inc.",
+  "slug": "nuzzel-inc",
+  "website": "nuzzel.com",
+  "description": "Provider of personalized news and curated newsletters designed for busy professionals. The company's platform continuously scans a lot of news publications and tracks how stories are being shared on social networks every day, and provides customized feeds to users based on preferences, providing influencers in media, technology, and finance sectors to save time and stay informed.",
+  "one_liner": "Provider of personalized news and curated newsletters designed for busy professionals. The company's platform continuously scans a lot of news publications and tracks how stories are being shared on social networks every day, and provides customized feeds to users based on preferences, providing influencers in media, technology, and finance sectors to save time and stay informed.",
+  "location": "United States",
+  "industry": "Social Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Impact"
+  ],
+  "url": "https://500.co/portfolio/nuzzel-inc",
+  "api": "/companies/nuzzel-inc.json"
+}

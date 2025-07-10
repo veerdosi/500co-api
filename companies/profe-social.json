@@ -1,0 +1,21 @@
+{
+  "id": 5304,
+  "name": "PROFE SOCIAL LLC",
+  "slug": "profe-social",
+  "website": "profe.social",
+  "description": "Operator of an education network platform designed to enrich teachers' educational experience through collaboration with other teachers. The company's platform allows sharing of educational resources and experiences that can serve as inspiration for other teachers, and at the same time receive feedback, enabling teachers from all over the world to grow professionally together and earn money.",
+  "one_liner": "Operator of an education network platform designed to enrich teachers' educational experience through collaboration with other teachers. The company's platform allows sharing of educational resources and experiences that can serve as inspiration for other teachers, and at the same time receive feedback, enabling teachers from all over the world to grow professionally together and earn money.",
+  "location": "Chile",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/068932ee-686c-4462-928e-928b868f82c9.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/profe-social",
+  "api": "/companies/profe-social.json"
+}

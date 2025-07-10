@@ -1,0 +1,23 @@
+{
+  "id": 5407,
+  "name": "Simplemarket Inc.",
+  "slug": "betastore",
+  "website": "www.betastore.co",
+  "description": "Operator of a B2B marketplace intended to connect informal retailers directly with wholesalers and manufacturers. The company's platform helps small retailers source their inventory, and access financing, and essential insurance services, helping retailers to streamline their digital procurement and financing.",
+  "one_liner": "Operator of a B2B marketplace intended to connect informal retailers directly with wholesalers and manufacturers. The company's platform helps small retailers source their inventory, and access financing, and essential insurance services, helping retailers to streamline their digital procurement and financing.",
+  "location": "Nigeria",
+  "industry": "CPG (Consumer packaged goods), Retail, B2B Marketplaces",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "CPG (Consumer packaged goods)",
+    "Retail",
+    "B2B Marketplaces"
+  ],
+  "url": "https://500.co/portfolio/betastore",
+  "api": "/companies/betastore.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4536,
+  "name": "Piper Learning, Inc.",
+  "slug": "piper-learning-inc",
+  "website": "www.playpiper.in",
+  "description": "Developer of a computer kit designed to let children assemble their own computers. The company's computer kit is pre-installed with 10 worlds that interact with the computer kit while being built, utilizing in-game directions for how to add on to the hardware and sensors in order to advance in the game, enabling kids to create with code and electronics and learn the basics of technology through tangible play.",
+  "one_liner": "Developer of a computer kit designed to let children assemble their own computers. The company's computer kit is pre-installed with 10 worlds that interact with the computer kit while being built, utilizing in-game directions for how to add on to the hardware and sensors in order to advance in the game, enabling kids to create with code and electronics and learn the basics of technology through tangible play.",
+  "location": "United States",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/3c54f1fb-40cb-4507-bc66-a406771b26e9.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/piper-learning-inc",
+  "api": "/companies/piper-learning-inc.json"
+}

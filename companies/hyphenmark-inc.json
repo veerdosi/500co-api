@@ -1,0 +1,21 @@
+{
+  "id": 4642,
+  "name": "Hyphenmark Inc.",
+  "slug": "hyphenmark-inc",
+  "website": "gethyphen.com",
+  "description": "Developer of a real-time employee engagement platform designed to help employees to express themselves. The company's platform offers actionable analytics based on pulse surveys and anonymous crowd-sourced employee conversations, enabling companies to boost employee retention, productivity and satisfaction.",
+  "one_liner": "Developer of a real-time employee engagement platform designed to help employees to express themselves. The company's platform offers actionable analytics based on pulse surveys and anonymous crowd-sourced employee conversations, enabling companies to boost employee retention, productivity and satisfaction.",
+  "location": "United States",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/40864cd7-1a1d-49e7-8b14-22ca310e5179.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/hyphenmark-inc",
+  "api": "/companies/hyphenmark-inc.json"
+}

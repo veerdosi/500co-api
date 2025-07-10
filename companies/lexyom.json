@@ -1,0 +1,23 @@
+{
+  "id": 4357,
+  "name": "Lexyom, Inc.",
+  "slug": "lexyom",
+  "website": "www.lexyom.com",
+  "description": "Developer of an online legal platform designed to offer experienced, international, and price-predictable legal services to clients. The company's platform leverages artificial intelligence technology to offer draft legal documents and offers advisory services in the areas of contracts, tax, trademarks, and investment rounds, enabling clients to have access to a secure and confidential way to get legal advice at an affordable cost.",
+  "one_liner": "Developer of an online legal platform designed to offer experienced, international, and price-predictable legal services to clients. The company's platform leverages artificial intelligence technology to offer draft legal documents and offers advisory services in the areas of contracts, tax, trademarks, and investment rounds, enabling clients to have access to a secure and confidential way to get legal advice at an affordable cost.",
+  "location": "Lebanon",
+  "industry": "AI/Machine Learning, Blockchain, Legal",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4363ffd7-e7e6-44e0-9dc4-a6a7e07cd514.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "Blockchain",
+    "Legal"
+  ],
+  "url": "https://500.co/portfolio/lexyom",
+  "api": "/companies/lexyom.json"
+}

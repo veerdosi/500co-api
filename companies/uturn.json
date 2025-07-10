@@ -1,0 +1,21 @@
+{
+  "id": 2983,
+  "name": "Webedia Arabia Ltd",
+  "slug": "uturn",
+  "website": "www.uturn.me",
+  "description": "Operator of an entertainment network intended to produce premium content with the aim to promote Arabic content globally. The company's entertainment network produces multimedia content that can be availed via Uturn application and YouTube, thereby providing users with social, fun and interactive multimedia content.",
+  "one_liner": "Operator of an entertainment network intended to produce premium content with the aim to promote Arabic content globally. The company's entertainment network produces multimedia content that can be availed via Uturn application and YouTube, thereby providing users with social, fun and interactive multimedia content.",
+  "location": "Saudi Arabia",
+  "industry": "Entertainment / Media",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a867d695-d1ef-472b-b8ef-89337487fb0b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Entertainment / Media"
+  ],
+  "url": "https://500.co/portfolio/uturn",
+  "api": "/companies/uturn.json"
+}

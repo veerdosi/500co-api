@@ -1,0 +1,23 @@
+{
+  "id": 5471,
+  "name": "JCDT Inc",
+  "slug": "carbon",
+  "website": "carbon.ai",
+  "description": "Developer of universal retrieval engine designed to help businesses connect external data sources to their large language models (LLM). The company's system connects external data to vector databases, enabling clients to ingest unstructured data wherever it is stored to enhance capabilities and insights for businesses using large language models.",
+  "one_liner": "Developer of universal retrieval engine designed to help businesses connect external data sources to their large language models (LLM). The company's system connects external data to vector databases, enabling clients to ingest unstructured data wherever it is stored to enhance capabilities and insights for businesses using large language models.",
+  "location": "United States",
+  "industry": "Ecommerce, Logistics, Supply Chain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/757d02da-8238-49b0-838d-20f4d19fe6cd.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Ecommerce",
+    "Logistics",
+    "Supply Chain"
+  ],
+  "url": "https://500.co/portfolio/carbon",
+  "api": "/companies/carbon.json"
+}

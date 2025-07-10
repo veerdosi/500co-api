@@ -1,0 +1,21 @@
+{
+  "id": 4736,
+  "name": "Ethic, Inc.",
+  "slug": "ethic",
+  "website": "www.ethic.com",
+  "description": "Developer of a data-driven technology platform designed to offer simplified financial planning services and portfolios. The company's platform leverages investment consulting technology that creates sustainable portfolios that are optimized to reduce tracking error to the underlying passive index against well-established benchmarks, enabling family offices, health advisers, and endowment foundations to provide customized sustainability insights and optimized passive portfolio construction for their clients.",
+  "one_liner": "Developer of a data-driven technology platform designed to offer simplified financial planning services and portfolios. The company's platform leverages investment consulting technology that creates sustainable portfolios that are optimized to reduce tracking error to the underlying passive index against well-established benchmarks, enabling family offices, health advisers, and endowment foundations to provide customized sustainability insights and optimized passive portfolio construction for their clients.",
+  "location": "United States",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/abff4120-0f8c-46e3-8807-38a9342a5df2.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/ethic",
+  "api": "/companies/ethic.json"
+}

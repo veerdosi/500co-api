@@ -1,0 +1,21 @@
+{
+  "id": 4041,
+  "name": "Canva Inc.",
+  "slug": "canva",
+  "website": "www.canva.com",
+  "description": "Operator of an online graphic design platform intended to democratize access to design and visual communication. The company's platform offers drag-and-drop features and professional layouts to consistently design graphics through a vast collection of professionally designed layouts to personalize the design with a stock library of photographs, illustrations and imagery, enabling companies and users to design presentations, and social media graphics with appropriate layouts.",
+  "one_liner": "Operator of an online graphic design platform intended to democratize access to design and visual communication. The company's platform offers drag-and-drop features and professional layouts to consistently design graphics through a vast collection of professionally designed layouts to personalize the design with a stock library of photographs, illustrations and imagery, enabling companies and users to design presentations, and social media graphics with appropriate layouts.",
+  "location": "Australia",
+  "industry": "Social Media",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/0ce7a852-b320-4ac3-b04e-8afdd6b69df7.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Media"
+  ],
+  "url": "https://500.co/portfolio/canva",
+  "api": "/companies/canva.json"
+}

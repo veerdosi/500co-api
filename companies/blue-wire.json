@@ -1,0 +1,23 @@
+{
+  "id": 3414,
+  "name": "Blue Wire, Inc.",
+  "slug": "blue-wire",
+  "website": "www.bluewirepods.com",
+  "description": "Developer of a sports podcasting platform intended to bring together a new generation of creators to create audio content. The company's network is made up of journalists, former athletes, and influential fans, building sports podcasting channels on various sports leagues and college football and soccer markets, enabling users to get updates about the sports.",
+  "one_liner": "Developer of a sports podcasting platform intended to bring together a new generation of creators to create audio content. The company's network is made up of journalists, former athletes, and influential fans, building sports podcasting channels on various sports leagues and college football and soccer markets, enabling users to get updates about the sports.",
+  "location": "United Kingdom",
+  "industry": "AdTech, Content, Creator Economy",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/615935d8-9146-4b31-a9e9-cc4497ef3bc2.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AdTech",
+    "Content",
+    "Creator Economy"
+  ],
+  "url": "https://500.co/portfolio/blue-wire",
+  "api": "/companies/blue-wire.json"
+}

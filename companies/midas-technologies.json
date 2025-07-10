@@ -1,0 +1,23 @@
+{
+  "id": 5433,
+  "name": "Midas Technologies Inc.",
+  "slug": "midas-technologies",
+  "website": "www.midascash.app",
+  "description": "Developer of a personal rewards platform designed to generate added value to daily purchases. The company's Financial platform offers a rewards application in which users pay in cash and receive points for all their purchases and redeem those points in exchange for products and services at the checkout of all affiliated stores, enabling users to use their points, find their favorite promotions and earn more benefits on all their purchases.",
+  "one_liner": "Developer of a personal rewards platform designed to generate added value to daily purchases. The company's Financial platform offers a rewards application in which users pay in cash and receive points for all their purchases and redeem those points in exchange for products and services at the checkout of all affiliated stores, enabling users to use their points, find their favorite promotions and earn more benefits on all their purchases.",
+  "location": "Mexico",
+  "industry": "Data & Analytics, FinTech, SaaS",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b681bc9b-14c3-4227-90e4-d293e4e99089.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics",
+    "FinTech",
+    "SaaS"
+  ],
+  "url": "https://500.co/portfolio/midas-technologies",
+  "api": "/companies/midas-technologies.json"
+}

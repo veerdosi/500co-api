@@ -1,0 +1,21 @@
+{
+  "id": 2810,
+  "name": "Reserveout, Ltd.",
+  "slug": "reserveout",
+  "website": "reserveout.com",
+  "description": "Operator of a restaurant and table management platform designed to bridge the gap between hospitality, entertainment, and dining service providers. The company allows users to search, view, and immediately reserve restaurants through a number of online channels, enabling restaurants and hotels to efficiently manage, track and sell resources and services available within their business.",
+  "one_liner": "Operator of a restaurant and table management platform designed to bridge the gap between hospitality, entertainment, and dining service providers. The company allows users to search, view, and immediately reserve restaurants through a number of online channels, enabling restaurants and hotels to efficiently manage, track and sell resources and services available within their business.",
+  "location": "United Arab Emirates",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/reserveout",
+  "api": "/companies/reserveout.json"
+}

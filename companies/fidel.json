@@ -1,0 +1,21 @@
+{
+  "id": 5250,
+  "name": "Fidel Limited",
+  "slug": "fidel",
+  "website": "fidelapi.com",
+  "description": "Developer of a financial infrastructure platform intended to link payment cards with mobile and website applications. The company's platform integrates directly with various payment cards such as Visa or Mastercard to get granular transaction data, including amount, location, date and merchant in real-time thus utilizing consumers' financial data for improved marketing and customer engagement, enabling clients to monitor and reward customers based on actual spending.",
+  "one_liner": "Developer of a financial infrastructure platform intended to link payment cards with mobile and website applications. The company's platform integrates directly with various payment cards such as Visa or Mastercard to get granular transaction data, including amount, location, date and merchant in real-time thus utilizing consumers' financial data for improved marketing and customer engagement, enabling clients to monitor and reward customers based on actual spending.",
+  "location": "United Kingdom",
+  "industry": "Payments",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e2b0b0f3-d49c-4d40-9a80-f8fbe10dc3d5.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Payments"
+  ],
+  "url": "https://500.co/portfolio/fidel",
+  "api": "/companies/fidel.json"
+}

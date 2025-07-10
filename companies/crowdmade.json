@@ -1,0 +1,21 @@
+{
+  "id": 4976,
+  "name": "Crowdmade, Inc.",
+  "slug": "crowdmade",
+  "website": "crowdmade.com",
+  "description": "Developer of an online platform intended for creating custom merchandise. The company creates custom merchandise like apparel, mugs, and other products that are available for sale through its online platform, enabling creators to upload their designs to the platform and receive payment for each product sold.",
+  "one_liner": "Developer of an online platform intended for creating custom merchandise. The company creates custom merchandise like apparel, mugs, and other products that are available for sale through its online platform, enabling creators to upload their designs to the platform and receive payment for each product sold.",
+  "location": "United States",
+  "industry": "Fashion",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/fc7fcb4b-2d54-40e3-968e-9a17e40fa503.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion"
+  ],
+  "url": "https://500.co/portfolio/crowdmade",
+  "api": "/companies/crowdmade.json"
+}

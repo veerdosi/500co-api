@@ -1,0 +1,21 @@
+{
+  "id": 2818,
+  "name": "Incluyeme.com Inc",
+  "slug": "incluyemecom",
+  "website": "www.incluyeme.com",
+  "description": "Operator of a job portal designed to provide assistance to people with disabilities in finding a job. The company's portal provides several job opportunities for people with disabilities who register for the company's services, and publicizes their work inclusion programs and their job searches, enabling disabled job seekers to get hold of jobs that are superior to what is available in traditional portals.",
+  "one_liner": "Operator of a job portal designed to provide assistance to people with disabilities in finding a job. The company's portal provides several job opportunities for people with disabilities who register for the company's services, and publicizes their work inclusion programs and their job searches, enabling disabled job seekers to get hold of jobs that are superior to what is available in traditional portals.",
+  "location": "Argentina",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/14041a3f-93e7-478b-b547-781ca74868d0.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/incluyemecom",
+  "api": "/companies/incluyemecom.json"
+}

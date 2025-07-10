@@ -1,0 +1,21 @@
+{
+  "id": 4478,
+  "name": "Core Labs, Inc.",
+  "slug": "core-labs",
+  "website": "www.corelabs.xyz",
+  "description": "Developer of a professional social networking platform intended to build professional identity and connection for the digital economy. . The company's platform provides launching of a new venture, learning a new skill, working towards a promotion or career milestone and closing of deal, enabling entrepreneurs to progress in less time, learn faster and cultivate powerful professional identities.",
+  "one_liner": "Developer of a professional social networking platform intended to build professional identity and connection for the digital economy. . The company's platform provides launching of a new venture, learning a new skill, working towards a promotion or career milestone and closing of deal, enabling entrepreneurs to progress in less time, learn faster and cultivate powerful professional identities.",
+  "location": "United States",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/cd914dbe-4d85-4b45-b140-bc4845b28f60.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/core-labs",
+  "api": "/companies/core-labs.json"
+}

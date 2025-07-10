@@ -1,0 +1,21 @@
+{
+  "id": 5247,
+  "name": "ElMetr, Inc.",
+  "slug": "elmetr",
+  "website": "elmetr.com",
+  "description": "Operator of an online legal platform designed to find a suitable lawyer to handle legal tasks. The company's platform allows users to search for lawyers in the streams of family law, commercial law, criminal law, civil law, military courts, workers' law, administrative judiciary, and state councils and simplifies legal practice by offering a cloud-based SaaS solution designed for lawyers, which manages cases, billing, and client interaction, enabling users to connect to qualified lawyers.",
+  "one_liner": "Operator of an online legal platform designed to find a suitable lawyer to handle legal tasks. The company's platform allows users to search for lawyers in the streams of family law, commercial law, criminal law, civil law, military courts, workers' law, administrative judiciary, and state councils and simplifies legal practice by offering a cloud-based SaaS solution designed for lawyers, which manages cases, billing, and client interaction, enabling users to connect to qualified lawyers.",
+  "location": "Saudi Arabia",
+  "industry": "Legal",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f2647178-1366-4e4f-8f55-f25c1cd10fda.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Legal"
+  ],
+  "url": "https://500.co/portfolio/elmetr",
+  "api": "/companies/elmetr.json"
+}

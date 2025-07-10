@@ -1,0 +1,21 @@
+{
+  "id": 5292,
+  "name": "Loopay LLC",
+  "slug": "loopay",
+  "website": "loopay.com",
+  "description": "Developer of a financial technology designed to accelerate the growth of small and mid-size enterprises by strengthening cash flow. The company's technology offers accounting systems adaptable to any file upload, access to reports and integrations to have control of the operation, payment dispersion related to banked and unbanked personnel, accounting reconciliation, and payment process optimization, enabling small and mid-size enterprises to cover advances and balances, account by account and focus on getting more customers without financial limitations.",
+  "one_liner": "Developer of a financial technology designed to accelerate the growth of small and mid-size enterprises by strengthening cash flow. The company's technology offers accounting systems adaptable to any file upload, access to reports and integrations to have control of the operation, payment dispersion related to banked and unbanked personnel, accounting reconciliation, and payment process optimization, enabling small and mid-size enterprises to cover advances and balances, account by account and focus on getting more customers without financial limitations.",
+  "location": "Colombia",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/b6c1c9bf-46b8-4f47-8e84-a4f62bdcc1e6.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/loopay",
+  "api": "/companies/loopay.json"
+}

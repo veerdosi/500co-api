@@ -1,0 +1,21 @@
+{
+  "id": 5168,
+  "name": "Glife Technologies Pte Ltd",
+  "slug": "glife",
+  "website": "glife.com.sg",
+  "description": "Operator of a food technology company intended to empower and uplift smallholder farmers and businesses with technology. The company focuses on sourcing, storage, packing, and distribution, enabling clients to reduce the risk of mishandling, damage, and contamination.",
+  "one_liner": "Operator of a food technology company intended to empower and uplift smallholder farmers and businesses with technology. The company focuses on sourcing, storage, packing, and distribution, enabling clients to reduce the risk of mishandling, damage, and contamination.",
+  "location": "Singapore",
+  "industry": "Supply Chain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/746feee7-d841-45ca-afa5-f0c8236d03e9.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Supply Chain"
+  ],
+  "url": "https://500.co/portfolio/glife",
+  "api": "/companies/glife.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2934,
+  "name": "Magnetis Consultoria De Investimentos LTDA",
+  "slug": "magnetis",
+  "website": "magnetis.com.br",
+  "description": "Provider of an online investment platform designed to revolutionize how people plan their future through smarter investments. The company's online investment platform utilizes cutting edge technology and financial expertise with secured service, enabling businesses to invest in a easier way with customized investment plan.",
+  "one_liner": "Provider of an online investment platform designed to revolutionize how people plan their future through smarter investments. The company's online investment platform utilizes cutting edge technology and financial expertise with secured service, enabling businesses to invest in a easier way with customized investment plan.",
+  "location": "Cayman Islands",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/df3ec008-52e7-41e5-a23b-1cba811476c5.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/magnetis",
+  "api": "/companies/magnetis.json"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 3130,
+  "name": "eFishery Pte Ltd",
+  "slug": "efishery",
+  "website": "efishery.com",
+  "description": "Operator of an Internet of Things-based aquaculture company intended to serve fish and shrimp farmers to reduce social and economic inequalities. The company offers an automatic fish feeder for commercial aquaculture that uses motion sensors to measure fish appetite and feed amounts and also provides integrated services, starting from farming operations, and financing to distribution, enabling fish farmers to increase productivity and profits in fish and shrimp farming.",
+  "one_liner": "Operator of an Internet of Things-based aquaculture company intended to serve fish and shrimp farmers to reduce social and economic inequalities. The company offers an automatic fish feeder for commercial aquaculture that uses motion sensors to measure fish appetite and feed amounts and also provides integrated services, starting from farming operations, and financing to distribution, enabling fish farmers to increase productivity and profits in fish and shrimp farming.",
+  "location": "Indonesia",
+  "industry": "AgTech, IoT, Deep Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ac0cb322-d721-4217-b42b-9fd68bd66906.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AgTech",
+    "IoT",
+    "Deep Tech"
+  ],
+  "url": "https://500.co/portfolio/efishery",
+  "api": "/companies/efishery.json"
+}

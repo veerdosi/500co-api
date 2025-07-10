@@ -1,0 +1,22 @@
+{
+  "id": 3531,
+  "name": "Kimola Veri Teknolojileri A.S.",
+  "slug": "kimola",
+  "website": "kimola.com",
+  "description": "Developer of a consumer research platform designed to provide audience-specific trends and lifestyle insights. The company's platform uses an artificial intelligence engine to profile consumers anonymously and detect the language and emotions of a text block, extract entities, and search within a large volume of unstructured text data, enabling marketers to build better marketing strategies, optimize media buying and increase return on investment with insights.",
+  "one_liner": "Developer of a consumer research platform designed to provide audience-specific trends and lifestyle insights. The company's platform uses an artificial intelligence engine to profile consumers anonymously and detect the language and emotions of a text block, extract entities, and search within a large volume of unstructured text data, enabling marketers to build better marketing strategies, optimize media buying and increase return on investment with insights.",
+  "location": "Turkey",
+  "industry": "Content, Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e3380cae-8b0e-4463-9445-ee29e73405c2.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content",
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/kimola",
+  "api": "/companies/kimola.json"
+}

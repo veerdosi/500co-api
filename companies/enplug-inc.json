@@ -1,0 +1,21 @@
+{
+  "id": 3487,
+  "name": "Enplug, Inc.",
+  "slug": "enplug-inc",
+  "website": "enplug.com",
+  "description": "Provider of a digital signage platform designed to enable marketers and communicators to create compelling digital signage for television screens around the globe. The company's digital signage platform helps to instantly deploy content across many displays and create modern and interactive experience for their audience by featuring live social media walls from social media, enabling marketers and communicators to keeps content relevant and timely to increase audience engagement.",
+  "one_liner": "Provider of a digital signage platform designed to enable marketers and communicators to create compelling digital signage for television screens around the globe. The company's digital signage platform helps to instantly deploy content across many displays and create modern and interactive experience for their audience by featuring live social media walls from social media, enabling marketers and communicators to keeps content relevant and timely to increase audience engagement.",
+  "location": "United States",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/bc733604-20fc-4864-ac86-25751be83550.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/enplug-inc",
+  "api": "/companies/enplug-inc.json"
+}

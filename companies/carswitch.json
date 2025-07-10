@@ -1,0 +1,21 @@
+{
+  "id": 5327,
+  "name": "CarSwitch Ltd.",
+  "slug": "carswitch",
+  "website": "carswitch.com",
+  "description": "Operator of an online car marketplace intended to assist in the transaction of used cars. The company's marketplace inspects, warrants, photographs, advertises, collects calls, filters prospective buyers, attends test drives, and handles paperwork, enabling users to easily buy old cars and avail insurance, financing, and transfer ownership.",
+  "one_liner": "Operator of an online car marketplace intended to assist in the transaction of used cars. The company's marketplace inspects, warrants, photographs, advertises, collects calls, filters prospective buyers, attends test drives, and handles paperwork, enabling users to easily buy old cars and avail insurance, financing, and transfer ownership.",
+  "location": "United Arab Emirates",
+  "industry": "Mobility",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/67da8159-76cb-4158-8daf-04509ec9460a.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Mobility"
+  ],
+  "url": "https://500.co/portfolio/carswitch",
+  "api": "/companies/carswitch.json"
+}

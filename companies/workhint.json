@@ -1,0 +1,21 @@
+{
+  "id": 4318,
+  "name": "Workhint, Inc.",
+  "slug": "workhint",
+  "website": "www.workhint.com",
+  "description": "Developer of B2B SaaS solutions intended to help create a matching platform for different business functions. The company's system creates a platform in three steps that are named supply & demand, select request block, and invite users, the whole can be used in different use-cases and functions like advisory, mentorship, telemedicine, freelance management, and part-timers management, enabling organizations to reduce cost, improve productivity, and drive insight-driven decisions.",
+  "one_liner": "Developer of B2B SaaS solutions intended to help create a matching platform for different business functions. The company's system creates a platform in three steps that are named supply & demand, select request block, and invite users, the whole can be used in different use-cases and functions like advisory, mentorship, telemedicine, freelance management, and part-timers management, enabling organizations to reduce cost, improve productivity, and drive insight-driven decisions.",
+  "location": "Saudi Arabia",
+  "industry": "SaaS",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/be9371a0-d0bc-4d7c-b538-695f2bf5e810.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "SaaS"
+  ],
+  "url": "https://500.co/portfolio/workhint",
+  "api": "/companies/workhint.json"
+}

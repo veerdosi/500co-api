@@ -1,0 +1,23 @@
+{
+  "id": 5379,
+  "name": "Rosetta.Ai Holding Pte. Ltd.",
+  "slug": "rosettaai",
+  "website": "https://www.rosetta.ai",
+  "description": "Developer of a customer retention platform designed to facilitate e-commerce companies in improving conversion and customer loyalty. The company's platform uses artificial intelligence technology to enhance customer conversion and retention by analyzing consumer preferences, and predicting inventory, and recommending products for online and offline during shopping flow, enabling e-commerce businesses to increase conversion and order value.",
+  "one_liner": "Developer of a customer retention platform designed to facilitate e-commerce companies in improving conversion and customer loyalty. The company's platform uses artificial intelligence technology to enhance customer conversion and retention by analyzing consumer preferences, and predicting inventory, and recommending products for online and offline during shopping flow, enabling e-commerce businesses to increase conversion and order value.",
+  "location": "Taiwan",
+  "industry": "Ecommerce, SaaS, Artificial Intelligence / Machine Learning",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/0121651c-a9e2-4916-b379-dfef63f8a251.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Ecommerce",
+    "SaaS",
+    "Artificial Intelligence / Machine Learning"
+  ],
+  "url": "https://500.co/portfolio/rosettaai",
+  "api": "/companies/rosettaai.json"
+}

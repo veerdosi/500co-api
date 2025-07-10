@@ -1,0 +1,21 @@
+{
+  "id": 5071,
+  "name": "Sankun Inc",
+  "slug": "sankun",
+  "website": "sankun.com",
+  "description": "Developer of construction software intended to provide information about construction perfection. The company's platform provides total purchasing alternatives that encompass bidding, project management, and evaluation, and provides data regarding construction-related companies, enabling businesses to receive good construction methods.",
+  "one_liner": "Developer of construction software intended to provide information about construction perfection. The company's platform provides total purchasing alternatives that encompass bidding, project management, and evaluation, and provides data regarding construction-related companies, enabling businesses to receive good construction methods.",
+  "location": "South Korea",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/085a8b98-6262-4465-8824-c434c55bda72.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/sankun",
+  "api": "/companies/sankun.json"
+}

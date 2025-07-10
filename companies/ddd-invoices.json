@@ -1,0 +1,23 @@
+{
+  "id": 8294,
+  "name": "DDD Invoices Ltd",
+  "slug": "ddd-invoices",
+  "website": "https://dddinvoices.com/",
+  "description": "One API to enable locally compliant invoicing for your software, globally.",
+  "one_liner": "One API to enable locally compliant invoicing for your software, globally.",
+  "location": "UNITED KINGDOM",
+  "industry": "Developer Tools, FinTech, SaaS",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/6bcd5893-54cc-4715-a2c4-2b796a013312.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools",
+    "FinTech",
+    "SaaS"
+  ],
+  "url": "https://500.co/portfolio/ddd-invoices",
+  "api": "/companies/ddd-invoices.json"
+}

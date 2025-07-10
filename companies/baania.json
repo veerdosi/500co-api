@@ -1,0 +1,21 @@
+{
+  "id": 3314,
+  "name": "BAANIA (THAILAND) COMPANY LIMITED",
+  "slug": "baania",
+  "website": "www.baania.com",
+  "description": "Operator of a real estate information platform intended to offer a database of real estate listings to customers. The company's platform uses information about projects, houses and various house designs to find and compare properties in Thailand with the option of seeing their historical prices, enabling buyers to calculate interest on properties and make informed decisions about them before buying.",
+  "one_liner": "Operator of a real estate information platform intended to offer a database of real estate listings to customers. The company's platform uses information about projects, houses and various house designs to find and compare properties in Thailand with the option of seeing their historical prices, enabling buyers to calculate interest on properties and make informed decisions about them before buying.",
+  "location": "Thailand",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/da040bd6-7d51-45cb-b5b0-74215572bd6c.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/baania",
+  "api": "/companies/baania.json"
+}

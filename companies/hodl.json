@@ -1,0 +1,21 @@
+{
+  "id": 3858,
+  "name": "Flashratings Inc.",
+  "slug": "hodl",
+  "website": "www.hodl.mobi",
+  "description": "Developer of a crypto market data application designed to track cryptocurrency prices and charts from all exchanges. The company's application offers real-time charts, prices, and information from all global exchanges along with filtered tweets and headlines from news sources, enabling users to have clarity about the cryptocurrency scenario in the financial market.",
+  "one_liner": "Developer of a crypto market data application designed to track cryptocurrency prices and charts from all exchanges. The company's application offers real-time charts, prices, and information from all global exchanges along with filtered tweets and headlines from news sources, enabling users to have clarity about the cryptocurrency scenario in the financial market.",
+  "location": "United States",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f2c25ed1-4fc5-4ffb-bae3-057f976bc067.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/hodl",
+  "api": "/companies/hodl.json"
+}

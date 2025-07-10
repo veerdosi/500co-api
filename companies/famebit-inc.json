@@ -1,0 +1,21 @@
+{
+  "id": 2774,
+  "name": "FameBit, Inc.",
+  "slug": "famebit-inc",
+  "website": "famebit.com",
+  "description": "Operator of a marketplace for businesses to find, hire and work with YouTube influencers for product and service endorsements. The company streamlines the whole process from connection to video delivery by providing self-serve tools that allow businesses to deploy YouTube marketing campaigns for product endorsement such as product reviews, tutorials and hauls.",
+  "one_liner": "Operator of a marketplace for businesses to find, hire and work with YouTube influencers for product and service endorsements. The company streamlines the whole process from connection to video delivery by providing self-serve tools that allow businesses to deploy YouTube marketing campaigns for product endorsement such as product reviews, tutorials and hauls.",
+  "location": "Canada",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/104177ea-1d9c-4469-8fe6-256279c18e30.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/famebit-inc",
+  "api": "/companies/famebit-inc.json"
+}

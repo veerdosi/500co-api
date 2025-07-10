@@ -1,0 +1,21 @@
+{
+  "id": 4324,
+  "name": "Liwwa, Inc.",
+  "slug": "liwwa",
+  "website": "liwwa.com",
+  "description": "Developer of a peer-to-peer lending platform designed to build more substantial opportunities for people in the MENA region and beyond. The company's platform connects borrowers to investors and facilitates capital access for small businesses, enabling business owners to raise money to buy business assets and help investors to lend money for a profit.",
+  "one_liner": "Developer of a peer-to-peer lending platform designed to build more substantial opportunities for people in the MENA region and beyond. The company's platform connects borrowers to investors and facilitates capital access for small businesses, enabling business owners to raise money to buy business assets and help investors to lend money for a profit.",
+  "location": "Jordan",
+  "industry": "Credit & Lending",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Credit & Lending"
+  ],
+  "url": "https://500.co/portfolio/liwwa",
+  "api": "/companies/liwwa.json"
+}

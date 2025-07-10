@@ -1,0 +1,21 @@
+{
+  "id": 5047,
+  "name": "Nuren Group Limited",
+  "slug": "enlinea",
+  "website": "www.enlinea.asia",
+  "description": "Developer of a community platform designed to address female family matters. The company's platform specializes in covering women's journey from getting married to entering motherhood by gathering related vendors and services under one roof, enabling users to discover inspirations, find suitable products, and shop online.",
+  "one_liner": "Developer of a community platform designed to address female family matters. The company's platform specializes in covering women's journey from getting married to entering motherhood by gathering related vendors and services under one roof, enabling users to discover inspirations, find suitable products, and shop online.",
+  "location": "Australia",
+  "industry": "FemTech (women's health)",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f14a16d6-122b-4131-b7aa-8befa2a3b8ed.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FemTech (women's health)"
+  ],
+  "url": "https://500.co/portfolio/enlinea",
+  "api": "/companies/enlinea.json"
+}

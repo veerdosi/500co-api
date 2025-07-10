@@ -1,0 +1,22 @@
+{
+  "id": 4313,
+  "name": "Instabeat, Inc.",
+  "slug": "instabeat",
+  "website": "instabeat.com",
+  "description": "Developer of goggle-mounted sensor products designed to enhance swimming performance in real time. The company offers swimming goggles that capture real-time heart rate, stroke detection, laps and instant heart rate information that are presented through a mobile application, enabling swimmers to get accurate information related to their performance and their improvement insights after training.",
+  "one_liner": "Developer of goggle-mounted sensor products designed to enhance swimming performance in real time. The company offers swimming goggles that capture real-time heart rate, stroke detection, laps and instant heart rate information that are presented through a mobile application, enabling swimmers to get accurate information related to their performance and their improvement insights after training.",
+  "location": "Lebanon",
+  "industry": "Health Tech, Wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Health Tech",
+    "Wellness"
+  ],
+  "url": "https://500.co/portfolio/instabeat",
+  "api": "/companies/instabeat.json"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 4821,
+  "name": "Cargobase Pte. Ltd.",
+  "slug": "cargobase",
+  "website": "www.cargobase.com",
+  "description": "Developer of a SaaS-based logistics platform designed to automate all procurement and freight management processes between enterprise shippers and logistics providers. The company's platform helps enterprise shippers to reduce logistics spending and save time with quoting, booking, management, and analysis of on-demand air, ocean, parcel, rail, and road shipments from their private pool of logistics providers, enabling clients to manage on-demand freight effectively.",
+  "one_liner": "Developer of a SaaS-based logistics platform designed to automate all procurement and freight management processes between enterprise shippers and logistics providers. The company's platform helps enterprise shippers to reduce logistics spending and save time with quoting, booking, management, and analysis of on-demand air, ocean, parcel, rail, and road shipments from their private pool of logistics providers, enabling clients to manage on-demand freight effectively.",
+  "location": "Indonesia",
+  "industry": "Logistics, Supply Chain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/6a21c157-31b9-455a-a667-c7b4ec7b51f0.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Logistics",
+    "Supply Chain"
+  ],
+  "url": "https://500.co/portfolio/cargobase",
+  "api": "/companies/cargobase.json"
+}

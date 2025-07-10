@@ -1,0 +1,22 @@
+{
+  "id": 2719,
+  "name": "Humi Holdings Corp.",
+  "slug": "humica",
+  "website": "www.humi.ca",
+  "description": "Developer of cloud-based software designed to automate human resources processes. The company's software facilitates employee recruiting and onboarding, time-off tracking, scheduling, payroll management, benefits administration, as well as performance monitoring and reporting, enabling businesses to simplify and modernize human resource management.",
+  "one_liner": "Developer of cloud-based software designed to automate human resources processes. The company's software facilitates employee recruiting and onboarding, time-off tracking, scheduling, payroll management, benefits administration, as well as performance monitoring and reporting, enabling businesses to simplify and modernize human resource management.",
+  "location": "Canada",
+  "industry": "FinTech, SaaS",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/1d810d87-b05c-4e7c-a2d9-421636553297.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech",
+    "SaaS"
+  ],
+  "url": "https://500.co/portfolio/humica",
+  "api": "/companies/humica.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4994,
+  "name": "Barn & Willow Inc.",
+  "slug": "barn--willow",
+  "website": "barnandwillow.com",
+  "description": "Operator of a home decor platform intended to offer custom window draperies and all types of textile products. The company's brand offers a wide selection of custom draperies from a wide range of fabrics, styles, and dimensions that can be custom stitched to the exact dimension and style specifications, enabling customers to purchase home drapery products according to their choice of color, fabric, and dimension.",
+  "one_liner": "Operator of a home decor platform intended to offer custom window draperies and all types of textile products. The company's brand offers a wide selection of custom draperies from a wide range of fabrics, styles, and dimensions that can be custom stitched to the exact dimension and style specifications, enabling customers to purchase home drapery products according to their choice of color, fabric, and dimension.",
+  "location": "United States",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/cdd7b1af-8426-4431-bd52-df7ec46bf1c5.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/barn--willow",
+  "api": "/companies/barn--willow.json"
+}

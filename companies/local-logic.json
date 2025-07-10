@@ -1,0 +1,21 @@
+{
+  "id": 2869,
+  "name": "Entreprise Nexmoov inc.",
+  "slug": "local-logic",
+  "website": "locallogic.co",
+  "description": "Developer of a real estate platform intended to offer insights and analysis for residential real estate. The company's platform uses artificial intelligence, geospatial and user-generated data to quantify lifestyle and location qualities for any address in the US and Canada, enabling real estate developers to understand the demand of citizens and begin conversations with a transparent and organized understanding of what a city and community need.",
+  "one_liner": "Developer of a real estate platform intended to offer insights and analysis for residential real estate. The company's platform uses artificial intelligence, geospatial and user-generated data to quantify lifestyle and location qualities for any address in the US and Canada, enabling real estate developers to understand the demand of citizens and begin conversations with a transparent and organized understanding of what a city and community need.",
+  "location": "Canada",
+  "industry": "Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/6a8821ab-79a8-4b01-bb30-43c8d4566b7f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/local-logic",
+  "api": "/companies/local-logic.json"
+}

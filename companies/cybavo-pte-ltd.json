@@ -1,0 +1,22 @@
+{
+  "id": 5383,
+  "name": "CYBAVO Pte. Ltd.",
+  "slug": "cybavo-pte-ltd",
+  "website": "www.cybavo.com",
+  "description": "Operator of a crypto custody firm intended to provide advanced digital asset custody by developing a custom operating system. The company provides blockchain security solutions via a patented encryption technology, and a highly secure sandboxed environment to deliver its suite of solutions, thereby helping clients easily manage digital assets and prevent malicious attacks, theft, and loss.",
+  "one_liner": "Operator of a crypto custody firm intended to provide advanced digital asset custody by developing a custom operating system. The company provides blockchain security solutions via a patented encryption technology, and a highly secure sandboxed environment to deliver its suite of solutions, thereby helping clients easily manage digital assets and prevent malicious attacks, theft, and loss.",
+  "location": "Singapore",
+  "industry": "Crypto, Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/742c8ef2-b350-4a60-b88f-676e46e1351b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Crypto",
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/cybavo-pte-ltd",
+  "api": "/companies/cybavo-pte-ltd.json"
+}

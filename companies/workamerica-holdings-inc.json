@@ -1,0 +1,21 @@
+{
+  "id": 3983,
+  "name": "WorkAmerica Holdings, Inc.",
+  "slug": "workamerica-holdings-inc",
+  "website": "workamerica.co",
+  "description": "Provider of an online recruitment platform designed to connect employers in the skilled trades with trained and credentialed talent. The company's platform includes community colleges, vocational schools and credentialing agencies to help employers build a quality talent pipeline nationwide, enabling them to save time and find the right candidate easily.",
+  "one_liner": "Provider of an online recruitment platform designed to connect employers in the skilled trades with trained and credentialed talent. The company's platform includes community colleges, vocational schools and credentialing agencies to help employers build a quality talent pipeline nationwide, enabling them to save time and find the right candidate easily.",
+  "location": "United States",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/795b9280-5f9e-4644-a87a-000a47b565ac.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/workamerica-holdings-inc",
+  "api": "/companies/workamerica-holdings-inc.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4134,
+  "name": "Incredible Labs, Inc.",
+  "slug": "incredible-labs-inc",
+  "website": "incredible.io",
+  "description": "Developer of an artificial intelligence software. The company is the creator of Donna, a mobile personal assistant that anticipates individual needs.",
+  "one_liner": "Developer of an artificial intelligence software. The company is the creator of Donna, a mobile personal assistant that anticipates individual needs.",
+  "location": "United States",
+  "industry": "Productivity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/9f1a3ec7-bb48-4345-8105-1516e64269d4.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Productivity"
+  ],
+  "url": "https://500.co/portfolio/incredible-labs-inc",
+  "api": "/companies/incredible-labs-inc.json"
+}

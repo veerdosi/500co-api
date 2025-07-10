@@ -1,0 +1,21 @@
+{
+  "id": 2965,
+  "name": "PT Hijup.com",
+  "slug": "hijup",
+  "website": "www.hijup.com",
+  "description": "Operator of an online fashion and lifestyle e-commerce platform designed to serve Muslim women. The company's platform offers a wide range of products including square hijab, scarf caps, long dresses, blazers and skirts as well as accessories such as masks, brooches, socks and necklaces.",
+  "one_liner": "Operator of an online fashion and lifestyle e-commerce platform designed to serve Muslim women. The company's platform offers a wide range of products including square hijab, scarf caps, long dresses, blazers and skirts as well as accessories such as masks, brooches, socks and necklaces.",
+  "location": "Indonesia",
+  "industry": "Fashion",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/afe5a148-a603-4680-8cf8-27b2740125ed.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion"
+  ],
+  "url": "https://500.co/portfolio/hijup",
+  "api": "/companies/hijup.json"
+}

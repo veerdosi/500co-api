@@ -1,0 +1,23 @@
+{
+  "id": 5202,
+  "name": "Grain Pte. Ltd.",
+  "slug": "grain",
+  "website": "grain.com.sg",
+  "description": "Developer of an online food delivery platform designed to serve food delivery of different preferences through online orders. The company's platform offers everyday meals and catering services featuring chef-crafted meals made with fresh and wholesome ingredients, enabling users to order healthy and fresh meals and satisfy their food experiences.",
+  "one_liner": "Developer of an online food delivery platform designed to serve food delivery of different preferences through online orders. The company's platform offers everyday meals and catering services featuring chef-crafted meals made with fresh and wholesome ingredients, enabling users to order healthy and fresh meals and satisfy their food experiences.",
+  "location": "Singapore",
+  "industry": "Ecommerce, Food, Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/be2d6a94-f41a-40b4-85d3-cfa167054ea4.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Ecommerce",
+    "Food",
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/grain",
+  "api": "/companies/grain.json"
+}

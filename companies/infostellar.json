@@ -1,0 +1,21 @@
+{
+  "id": 3215,
+  "name": "Infostellar Inc.",
+  "slug": "infostellar",
+  "website": "infostellar.net",
+  "description": "Developer of a cloud-based satellite antenna-sharing platform designed to provide convenient, efficient communications infrastructure for humanity's ongoing space expansion. The company's platform helps in transmission at a lower cost while passing on revenue to antenna owners in the network, enabling businesses to share their antennas during idle time.",
+  "one_liner": "Developer of a cloud-based satellite antenna-sharing platform designed to provide convenient, efficient communications infrastructure for humanity's ongoing space expansion. The company's platform helps in transmission at a lower cost while passing on revenue to antenna owners in the network, enabling businesses to share their antennas during idle time.",
+  "location": "Japan",
+  "industry": "Space Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/3737bffb-2009-42aa-a597-401fdbf8cc74.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Space Tech"
+  ],
+  "url": "https://500.co/portfolio/infostellar",
+  "api": "/companies/infostellar.json"
+}

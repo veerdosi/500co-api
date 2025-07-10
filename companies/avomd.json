@@ -1,0 +1,21 @@
+{
+  "id": 3443,
+  "name": "AvoMD, Inc.",
+  "slug": "avomd",
+  "website": "www.avomd.io",
+  "description": "Operator of a no-code technology platform intended for making clinical content actionable at the point of care. The company's software offers physicians the knowledge they need through a unique clinician user interface and has been shown to dramatically increase clinical guideline usability and usage, enabling healthcare organizations to digitize their clinical pathways/content and put them in the hands of providers instantly.",
+  "one_liner": "Operator of a no-code technology platform intended for making clinical content actionable at the point of care. The company's software offers physicians the knowledge they need through a unique clinician user interface and has been shown to dramatically increase clinical guideline usability and usage, enabling healthcare organizations to digitize their clinical pathways/content and put them in the hands of providers instantly.",
+  "location": "United States",
+  "industry": "Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f139baf4-766a-4513-a44b-057fc3984707.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/avomd",
+  "api": "/companies/avomd.json"
+}

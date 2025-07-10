@@ -1,0 +1,21 @@
+{
+  "id": 3207,
+  "name": "Connected Robotics Inc.",
+  "slug": "connected-robotics",
+  "website": "connected-robotics.com",
+  "description": "Developer of cooking robots designed to solve the shortage of labor faced by the Japanese restaurant industry. The company uses artificial intelligence image processing and robot control technologies to bring back happiness to workers by using deep learning to make intelligent robots in the kitchen, enabling clients in restaurants, shopping malls, stations, service areas, amusement centers, and large-scale events to provide fun and healthy meals to consumers and contribute to creating a better society.",
+  "one_liner": "Developer of cooking robots designed to solve the shortage of labor faced by the Japanese restaurant industry. The company uses artificial intelligence image processing and robot control technologies to bring back happiness to workers by using deep learning to make intelligent robots in the kitchen, enabling clients in restaurants, shopping malls, stations, service areas, amusement centers, and large-scale events to provide fun and healthy meals to consumers and contribute to creating a better society.",
+  "location": "Japan",
+  "industry": "Robotics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/3f3eef51-ff55-4d65-91f1-506e9d2303dd.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Robotics"
+  ],
+  "url": "https://500.co/portfolio/connected-robotics",
+  "api": "/companies/connected-robotics.json"
+}

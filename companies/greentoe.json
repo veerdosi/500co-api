@@ -1,0 +1,21 @@
+{
+  "id": 3830,
+  "name": "Grow Rich Technologies, Inc.",
+  "slug": "greentoe",
+  "website": "www.greentoe.com",
+  "description": "Operator of an online shopping platform designed to facilitate people to set their own prices on appliances. The company's platform is an e-commerce negotiation website that offers various products directly from a network of certified retailers, enabling users to pay the price they want to pay for the electronics they want to buy.",
+  "one_liner": "Operator of an online shopping platform designed to facilitate people to set their own prices on appliances. The company's platform is an e-commerce negotiation website that offers various products directly from a network of certified retailers, enabling users to pay the price they want to pay for the electronics they want to buy.",
+  "location": "United States",
+  "industry": "Ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/11e28f59-59e1-4033-a04e-29bf5fed00de.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Ecommerce"
+  ],
+  "url": "https://500.co/portfolio/greentoe",
+  "api": "/companies/greentoe.json"
+}

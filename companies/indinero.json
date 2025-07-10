@@ -1,0 +1,21 @@
+{
+  "id": 3750,
+  "name": "InDinero, Inc.",
+  "slug": "indinero",
+  "website": "www.indinero.com",
+  "description": "Operator of business management and accounting software intended to automate day-to-day bookkeeping tasks. The company's software combines a full finance team of bookkeepers, accountants, and CPAs to provide startups and small businesses the knowledge to understand their company's financial health, enabling businesses to make informed decisions about how and where to use their money.",
+  "one_liner": "Operator of business management and accounting software intended to automate day-to-day bookkeeping tasks. The company's software combines a full finance team of bookkeepers, accountants, and CPAs to provide startups and small businesses the knowledge to understand their company's financial health, enabling businesses to make informed decisions about how and where to use their money.",
+  "location": "United States",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/1327b300-f0ff-4992-92ba-5d03849e20ce.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/indinero",
+  "api": "/companies/indinero.json"
+}

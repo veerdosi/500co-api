@@ -1,0 +1,21 @@
+{
+  "id": 4753,
+  "name": "Second Nature Healthy Habits Ltd",
+  "slug": "second-nature",
+  "website": "www.secondnature.io",
+  "description": "Provider of a lifestyle improvement program intended to inspire, educate and support those at risk of chronic lifestyle diseases. The company offers personalized programs developed by dietitians and psychologists and provides ongoing one-on-one support from a nutritionist that people need to prevent diabetes by using a smart plan, enabling individuals to improve their mood, sleep, and energy levels while losing weight.",
+  "one_liner": "Provider of a lifestyle improvement program intended to inspire, educate and support those at risk of chronic lifestyle diseases. The company offers personalized programs developed by dietitians and psychologists and provides ongoing one-on-one support from a nutritionist that people need to prevent diabetes by using a smart plan, enabling individuals to improve their mood, sleep, and energy levels while losing weight.",
+  "location": "United Kingdom",
+  "industry": "Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2f3b3d28-20e6-44f6-8971-1d8dc618eb62.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/second-nature",
+  "api": "/companies/second-nature.json"
+}

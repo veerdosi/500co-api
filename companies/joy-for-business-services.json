@@ -1,0 +1,21 @@
+{
+  "id": 5567,
+  "name": "Joy for Business Services Holdings Limited",
+  "slug": "joy-for-business-services",
+  "website": "joyapp.io",
+  "description": "Operator of a car servicing platform intended to offer car maintenance services. The company offers various services such as tire changes, oil changes, battery replacement, car wash, detailing and roadside assistance, enabling customers to get provided with all types of services in the comfort of their homes.",
+  "one_liner": "Operator of a car servicing platform intended to offer car maintenance services. The company offers various services such as tire changes, oil changes, battery replacement, car wash, detailing and roadside assistance, enabling customers to get provided with all types of services in the comfort of their homes.",
+  "location": "Saudi Arabia",
+  "industry": "Mobility",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/0542fe3a-ca9d-4b69-a915-c9157c068833.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Mobility"
+  ],
+  "url": "https://500.co/portfolio/joy-for-business-services",
+  "api": "/companies/joy-for-business-services.json"
+}

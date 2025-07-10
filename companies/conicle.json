@@ -1,0 +1,21 @@
+{
+  "id": 3348,
+  "name": "Conicle Co., Ltd.",
+  "slug": "conicle",
+  "website": "conicle.com",
+  "description": "Developer of a learning management platform intended to help learning and development in organizations. The company's platform provides cloud-based learning management systems and ready-to-learn courses by partnering with industry experts to co-create, produce and provide online learning programs with coursework, evaluation and certificates for individuals and businesses, enabling clients to teach, learn and develop without boundaries.",
+  "one_liner": "Developer of a learning management platform intended to help learning and development in organizations. The company's platform provides cloud-based learning management systems and ready-to-learn courses by partnering with industry experts to co-create, produce and provide online learning programs with coursework, evaluation and certificates for individuals and businesses, enabling clients to teach, learn and develop without boundaries.",
+  "location": "Thailand",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/bfac4d9a-900c-4fbb-a9a6-199e5384e975.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/conicle",
+  "api": "/companies/conicle.json"
+}

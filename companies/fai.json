@@ -1,0 +1,21 @@
+{
+  "id": 8169,
+  "name": "FAI & GLOBAL SOLUTIONS HOLDING LIMITED",
+  "slug": "fai",
+  "website": "https://fai.sa/en/",
+  "description": "An easy solution that automates tax management for SMEs and individuals, to ensure compliance with local regulations.",
+  "one_liner": "An easy solution that automates tax management for SMEs and individuals, to ensure compliance with local regulations.",
+  "location": "Saudi Arabia",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/fai",
+  "api": "/companies/fai.json"
+}

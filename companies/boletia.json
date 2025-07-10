@@ -1,0 +1,21 @@
+{
+  "id": 4827,
+  "name": "Boletia Inc.",
+  "slug": "boletia",
+  "website": "boletia.com",
+  "description": "Developer of an event management platform designed to help event organizers to sell their tickets. The company's platform offers conference management including accreditation, registration, collection, and selling of tickets, enabling event organizers to sell tickets through local convenience stores, which is a popular way of purchasing tickets.",
+  "one_liner": "Developer of an event management platform designed to help event organizers to sell their tickets. The company's platform offers conference management including accreditation, registration, collection, and selling of tickets, enabling event organizers to sell tickets through local convenience stores, which is a popular way of purchasing tickets.",
+  "location": "Mexico",
+  "industry": "SaaS",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/3973323d-f2a8-4c0d-8ba3-76c42cd05ca2.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "SaaS"
+  ],
+  "url": "https://500.co/portfolio/boletia",
+  "api": "/companies/boletia.json"
+}

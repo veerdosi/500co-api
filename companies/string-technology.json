@@ -1,0 +1,21 @@
+{
+  "id": 5301,
+  "name": "String Technology Inc",
+  "slug": "string-technology",
+  "website": "www.string.xyz",
+  "description": "Developer of a digital platform designed to integrate fiat payments into Web3 games. The company's platform builds credit card and bank payments for NFTs and tokens directly into your game environment, enabling clients to have full control over their experience and lets games own the user journey from end-to-end.",
+  "one_liner": "Developer of a digital platform designed to integrate fiat payments into Web3 games. The company's platform builds credit card and bank payments for NFTs and tokens directly into your game environment, enabling clients to have full control over their experience and lets games own the user journey from end-to-end.",
+  "location": "United States",
+  "industry": "Crypto",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Crypto"
+  ],
+  "url": "https://500.co/portfolio/string-technology",
+  "api": "/companies/string-technology.json"
+}

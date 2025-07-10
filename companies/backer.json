@@ -1,0 +1,21 @@
+{
+  "id": 5042,
+  "name": "Principly, Inc.",
+  "slug": "backer",
+  "website": "backer.com",
+  "description": "Developer of an investment platform designed to guide college students to save money. The company's platform offers a simple, fast, and efficient way to create a college savings plan provides a link for family and friends to contribute easily, and allows for tax-free investment of savings, enabling parents and families to save smartly for their children's education and future.",
+  "one_liner": "Developer of an investment platform designed to guide college students to save money. The company's platform offers a simple, fast, and efficient way to create a college savings plan provides a link for family and friends to contribute easily, and allows for tax-free investment of savings, enabling parents and families to save smartly for their children's education and future.",
+  "location": "United States",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/0b3a487c-9c0a-4a7e-aaaa-937c419deb40.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/backer",
+  "api": "/companies/backer.json"
+}

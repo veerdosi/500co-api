@@ -1,0 +1,22 @@
+{
+  "id": 5090,
+  "name": "GROA, Inc.",
+  "slug": "glance-care",
+  "website": "www.glance.care",
+  "description": "Developer of digital health consultation platform designed to assist medical professionals in delivering high-quality clinical recommendations. The company's platform offers clinical decision support systems to secure better patient outcomes by providing more accurate diagnoses, saving diagnosis time resulting in enhanced decision making for medical professionals, thereby enabling healthcare professionals to potentially deliver better outcomes in clinical accuracy and productivity.",
+  "one_liner": "Developer of digital health consultation platform designed to assist medical professionals in delivering high-quality clinical recommendations. The company's platform offers clinical decision support systems to secure better patient outcomes by providing more accurate diagnoses, saving diagnosis time resulting in enhanced decision making for medical professionals, thereby enabling healthcare professionals to potentially deliver better outcomes in clinical accuracy and productivity.",
+  "location": "Saudi Arabia",
+  "industry": "AI/Machine Learning, Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/5791b0da-7fc3-4ca7-a688-b799865592e2.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/glance-care",
+  "api": "/companies/glance-care.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3839,
+  "name": "Lumific Inc",
+  "slug": "lumific-inc",
+  "website": "lumific.com",
+  "description": "Developer of a web and mobile-based application for editing photos. The company's application automatically sorts and edits photos stored in the cloud and on mobile device.",
+  "one_liner": "Developer of a web and mobile-based application for editing photos. The company's application automatically sorts and edits photos stored in the cloud and on mobile device.",
+  "location": "United States",
+  "industry": "Social Media",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/650e7472-4d2c-471f-9292-eda07c6b1d8c.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Media"
+  ],
+  "url": "https://500.co/portfolio/lumific-inc",
+  "api": "/companies/lumific-inc.json"
+}

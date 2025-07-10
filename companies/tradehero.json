@@ -1,0 +1,21 @@
+{
+  "id": 5056,
+  "name": "MyHero Limited",
+  "slug": "tradehero",
+  "website": "en.tradehero.mobi",
+  "description": "Provider of a virtual money trading platform. The company offers a mobile stock market simulation application enabling users to trade virtual money in a controlled environment with real financial market information.",
+  "one_liner": "Provider of a virtual money trading platform. The company offers a mobile stock market simulation application enabling users to trade virtual money in a controlled environment with real financial market information.",
+  "location": "Singapore",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/tradehero",
+  "api": "/companies/tradehero.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5664,
+  "name": "Vedra Holdings LLC",
+  "slug": "price-lab",
+  "website": "pricelabsolutions.com",
+  "description": "PRICE LAB optimizes the pricing strategy and communication in physical stores for retailers through a SaaS and hardware solution. It replaces paper prices on shelves with digital price tags that are updated in real time through a cloud platform.",
+  "one_liner": "PRICE LAB optimizes the pricing strategy and communication in physical stores for retailers through a SaaS and hardware solution. It replaces paper prices on shelves with digital price tags that are updated in real time through a cloud platform.",
+  "location": "Peru",
+  "industry": "Retail",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d998c832-57f1-42ee-ab05-073b3d552c3a.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Retail"
+  ],
+  "url": "https://500.co/portfolio/price-lab",
+  "api": "/companies/price-lab.json"
+}

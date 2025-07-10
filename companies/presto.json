@@ -1,0 +1,21 @@
+{
+  "id": 5161,
+  "name": "Presto Automation Inc.",
+  "slug": "presto",
+  "website": "presto.com",
+  "description": "Presto Automation Inc overlays next-gen digital solutions onto the physical world. It provides an accurate, next-gen solution that uses artificial intelligence to automate speech recognition for restaurant drive-thru. The Company earns substantially all of its revenue in the United States.",
+  "one_liner": "Presto Automation Inc overlays next-gen digital solutions onto the physical world. It provides an accurate, next-gen solution that uses artificial intelligence to automate speech recognition for restaurant drive-thru. The Company earns substantially all of its revenue in the United States.",
+  "location": "United States",
+  "industry": "Payments",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4b32eefb-8f24-4f66-8e18-4d6f2d278748.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Payments"
+  ],
+  "url": "https://500.co/portfolio/presto",
+  "api": "/companies/presto.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5648,
+  "name": "Electronic Grid Systems Inc.",
+  "slug": "swift-charge",
+  "website": "swiftcharge.io",
+  "description": "Developer of an EV charging technology designed to tackle the electrical grid infrastructure problems. The company's technology helps to build a future with a clean and low-cost energy system that seamlessly integrates renewable energy sources, energy storage, and zero-emission vehicles, enabling clients to deploy EV charging stations with minimized cost and effort.",
+  "one_liner": "Developer of an EV charging technology designed to tackle the electrical grid infrastructure problems. The company's technology helps to build a future with a clean and low-cost energy system that seamlessly integrates renewable energy sources, energy storage, and zero-emission vehicles, enabling clients to deploy EV charging stations with minimized cost and effort.",
+  "location": "Canada",
+  "industry": "Energy",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/8e4a925b-a97a-4e86-bd64-ccebfa88e7cb.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Energy"
+  ],
+  "url": "https://500.co/portfolio/swift-charge",
+  "api": "/companies/swift-charge.json"
+}

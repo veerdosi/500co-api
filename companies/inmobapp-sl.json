@@ -1,0 +1,21 @@
+{
+  "id": 4243,
+  "name": "Inmobapp SL",
+  "slug": "inmobapp-sl",
+  "website": "blinkbooking.com",
+  "description": "Provider of hotel booking application designed to help in last minute hotel bookings. The company's hotel booking application provide details of hotels and helps to book at a lower rate, enabling users to book hotels with a click at last moments.",
+  "one_liner": "Provider of hotel booking application designed to help in last minute hotel bookings. The company's hotel booking application provide details of hotels and helps to book at a lower rate, enabling users to book hotels with a click at last moments.",
+  "location": "United States",
+  "industry": "Travel & Tourism",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/698759d8-b89d-42e2-8569-a15f2cc6201b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Travel & Tourism"
+  ],
+  "url": "https://500.co/portfolio/inmobapp-sl",
+  "api": "/companies/inmobapp-sl.json"
+}

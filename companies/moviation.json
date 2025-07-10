@@ -1,0 +1,21 @@
+{
+  "id": 8071,
+  "name": "Moviation, Inc.",
+  "slug": "moviation",
+  "website": "www.moviationair.com",
+  "description": "Develper of an air mobility platform intended to provide safety and convenience based on expertise and data. The company's platform uses the inherent value of mobilization by utilizing conventional helicopters and eventually replacing all fleets with eVTOLs, enabling clients to get pleasant and quality mobility experiences.",
+  "one_liner": "Develper of an air mobility platform intended to provide safety and convenience based on expertise and data. The company's platform uses the inherent value of mobilization by utilizing conventional helicopters and eventually replacing all fleets with eVTOLs, enabling clients to get pleasant and quality mobility experiences.",
+  "location": "South Korea",
+  "industry": "Consumer",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/a8e1076b-4976-4f37-9bc5-f6e1a655639a.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Consumer"
+  ],
+  "url": "https://500.co/portfolio/moviation",
+  "api": "/companies/moviation.json"
+}

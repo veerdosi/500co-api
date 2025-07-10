@@ -1,0 +1,23 @@
+{
+  "id": 5176,
+  "name": "Krosslinker Pte. Ltd.",
+  "slug": "krosslinker",
+  "website": "www.krosslinker.com",
+  "description": "Developer of a thermal insulation material designed to tackle the demanding challenges of cold-chain bio-pharmaceutical packaging. The company's material offers enhanced insulation performance, durability, and moisture resistance, and is eco-friendly, enabling clients to have a safe handling of bio-pharma products.",
+  "one_liner": "Developer of a thermal insulation material designed to tackle the demanding challenges of cold-chain bio-pharmaceutical packaging. The company's material offers enhanced insulation performance, durability, and moisture resistance, and is eco-friendly, enabling clients to have a safe handling of bio-pharma products.",
+  "location": "Singapore",
+  "industry": "CleanTech, Energy, Sustainability",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/790bd09e-e6cf-4f0d-8760-beb726d5e561.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "CleanTech",
+    "Energy",
+    "Sustainability"
+  ],
+  "url": "https://500.co/portfolio/krosslinker",
+  "api": "/companies/krosslinker.json"
+}

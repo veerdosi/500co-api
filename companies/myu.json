@@ -1,0 +1,21 @@
+{
+  "id": 2807,
+  "name": "Fikra Ltd",
+  "slug": "myu",
+  "website": "myu.co",
+  "description": "Developer of a communication platform designed to facilitate proper communication with the school community. The company's application lets users communicate with their students by sending announcements and notifications to any mobile at any time along with attaching photos and voice notifications, enabling teachers to connect with the community without the need of sharing a phone number.",
+  "one_liner": "Developer of a communication platform designed to facilitate proper communication with the school community. The company's application lets users communicate with their students by sending announcements and notifications to any mobile at any time along with attaching photos and voice notifications, enabling teachers to connect with the community without the need of sharing a phone number.",
+  "location": "Kuwait",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e6dd6396-26e9-48f4-8015-dc1c03fb3172.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/myu",
+  "api": "/companies/myu.json"
+}

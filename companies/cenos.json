@@ -1,0 +1,19 @@
+{
+  "id": 3180,
+  "name": "Cenos, SIA",
+  "slug": "cenos",
+  "website": "www.cenos-platform.com",
+  "description": "Developer of a simulation platform designed to democratize simulation with open-source and focused applications. The company's platform is a finite element method-based, computer-aided engineering software physical process simulation and computational modeling of induction heating, induction hardening, and tempering of steel, aluminum, copper, and other parts, enabling clients to iterate designs faster than physical prototypes for induction heating and antenna design.",
+  "one_liner": "Developer of a simulation platform designed to democratize simulation with open-source and focused applications. The company's platform is a finite element method-based, computer-aided engineering software physical process simulation and computational modeling of induction heating, induction hardening, and tempering of steel, aluminum, copper, and other parts, enabling clients to iterate designs faster than physical prototypes for induction heating and antenna design.",
+  "location": "United States",
+  "industry": "",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/aafde881-00e0-4d75-9160-59dcbae051ef.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://500.co/portfolio/cenos",
+  "api": "/companies/cenos.json"
+}

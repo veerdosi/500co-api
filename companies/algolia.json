@@ -1,0 +1,21 @@
+{
+  "id": 5404,
+  "name": "Algolia SAS",
+  "slug": "algolia",
+  "website": "www.algolia.com",
+  "description": "Developer of a search and discovery application programming interface platform designed to create fast, instant, and relevant search and discovery experiences. The company's platform provides the infrastructure, engine, and tools needed to create fast, relevant consumer-grade search, enabling developers to easily integrate it into websites and applications and drive consumer engagement.",
+  "one_liner": "Developer of a search and discovery application programming interface platform designed to create fast, instant, and relevant search and discovery experiences. The company's platform provides the infrastructure, engine, and tools needed to create fast, relevant consumer-grade search, enabling developers to easily integrate it into websites and applications and drive consumer engagement.",
+  "location": "United States",
+  "industry": "AI/Machine Learning",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/d2c28b50-51b7-4017-9fec-5648d9d5618f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning"
+  ],
+  "url": "https://500.co/portfolio/algolia",
+  "api": "/companies/algolia.json"
+}

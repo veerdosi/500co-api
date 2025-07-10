@@ -1,0 +1,21 @@
+{
+  "id": 5335,
+  "name": "The Sampler App Inc",
+  "slug": "sampler",
+  "website": "www.sampler.io",
+  "description": "Provider of self-serve digital product sampling services intended to make it targeted, measurable, and turnkey. The company's services include capturing demographic and behavioral insights on every product sample with easy-to-read results, enabling businesses to understand the consumer analytics and preferences behind the product.",
+  "one_liner": "Provider of self-serve digital product sampling services intended to make it targeted, measurable, and turnkey. The company's services include capturing demographic and behavioral insights on every product sample with easy-to-read results, enabling businesses to understand the consumer analytics and preferences behind the product.",
+  "location": "Canada",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2203f016-42a6-4a05-94f3-307fa0890549.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/sampler",
+  "api": "/companies/sampler.json"
+}

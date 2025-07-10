@@ -1,0 +1,21 @@
+{
+  "id": 3542,
+  "name": "Lean Technologies, Ltd.",
+  "slug": "lean-technologies",
+  "website": "leantech.me",
+  "description": "Developer of a fintech platform designed to abstract developers from the fragmentation of the financial infrastructure. The company's platform makes it easy for developers to connect to the user's bank accounts and provides financial institutions with a plug-and-play integration layer to scalably connect with emerging fintech companies without relinquishing control, enabling businesses to seamlessly access their customers' financial data and initiate instant bank transfers",
+  "one_liner": "Developer of a fintech platform designed to abstract developers from the fragmentation of the financial infrastructure. The company's platform makes it easy for developers to connect to the user's bank accounts and provides financial institutions with a plug-and-play integration layer to scalably connect with emerging fintech companies without relinquishing control, enabling businesses to seamlessly access their customers' financial data and initiate instant bank transfers",
+  "location": "Saudi Arabia",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/919c7e76-7770-45f8-990b-da54d361b38c.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/lean-technologies",
+  "api": "/companies/lean-technologies.json"
+}

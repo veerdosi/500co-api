@@ -1,0 +1,23 @@
+{
+  "id": 4903,
+  "name": "Yeuma Inc",
+  "slug": "trend",
+  "website": "www.trend.io",
+  "description": "Trend is building the world’s largest decentralized creative AI powered studio. Trend automates content creation for brands and replaces their creative agencies.\n\nOn track for generating $1m+ this year\n\nCustomers like Nestle, Huel, Unilever\n\nBacked by Flybridge, Pharrell Williams, Techstars Ventures, founders of Twitch, Rotten Tomatoes, Kabam, Crunchyroll etc.",
+  "one_liner": "Trend is building the world’s largest decentralized creative AI powered studio. Trend automates content creation for brands and replaces their creative agencies.\n\nOn track for generating $1m+ this year\n\nCustomers like Nestle, Huel, Unilever\n\nBacked by Flybridge, Pharrell Williams, Techstars Ventures, founders of Twitch, Rotten Tomatoes, Kabam, Crunchyroll etc.",
+  "location": "United States",
+  "industry": "Content, Marketplace, Entertainment / Media",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7b7d6f7e-c2ea-4673-b4db-8f18057d9da9.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content",
+    "Marketplace",
+    "Entertainment / Media"
+  ],
+  "url": "https://500.co/portfolio/trend",
+  "api": "/companies/trend.json"
+}

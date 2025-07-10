@@ -1,0 +1,21 @@
+{
+  "id": 8116,
+  "name": "Habitus Associates Co., Ltd.",
+  "slug": "habitus-associates",
+  "website": "artue.io",
+  "description": "Developer of online art platform called Artue aimed at transforming traditional methods of art exhibition and transaction into an online-centric approach.",
+  "one_liner": "Developer of online art platform called Artue aimed at transforming traditional methods of art exhibition and transaction into an online-centric approach.",
+  "location": "South Korea",
+  "industry": "Consumer",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/6ac4e59e-03a8-40ab-b3fd-5a3fe9994337.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Consumer"
+  ],
+  "url": "https://500.co/portfolio/habitus-associates",
+  "api": "/companies/habitus-associates.json"
+}

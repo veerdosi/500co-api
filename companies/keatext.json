@@ -1,0 +1,21 @@
+{
+  "id": 2721,
+  "name": "Keatext Inc.",
+  "slug": "keatext",
+  "website": "www.keatext.ai",
+  "description": "Developer of an AI-powered text analytics platform designed to synthesize feedback from multiple channels to produce insights delivered on one comprehensive dashboard. The company's platform uses deep learning applied to natural language processing to unlock the meaning behind volumes of text customer feedback by identifying topics that show up and interpret the sentiment and intent behind the comments, enabling clients to dive into the data and find key insights.",
+  "one_liner": "Developer of an AI-powered text analytics platform designed to synthesize feedback from multiple channels to produce insights delivered on one comprehensive dashboard. The company's platform uses deep learning applied to natural language processing to unlock the meaning behind volumes of text customer feedback by identifying topics that show up and interpret the sentiment and intent behind the comments, enabling clients to dive into the data and find key insights.",
+  "location": "Canada",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/45e2ff21-4e70-4493-abaf-fef299c44f0d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/keatext",
+  "api": "/companies/keatext.json"
+}

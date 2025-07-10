@@ -1,0 +1,21 @@
+{
+  "id": 4280,
+  "name": "Fullstack Academy, Inc.",
+  "slug": "fullstack-academy-inc",
+  "website": "fullstackacademy.com",
+  "description": "Operator of a software development school. The company offers curriculum courses on Web technologies such as Node.js/Express, JavaScript, MongoDB, AngularJS, HTML5 and CSS3 for students to become a software engineer.",
+  "one_liner": "Operator of a software development school. The company offers curriculum courses on Web technologies such as Node.js/Express, JavaScript, MongoDB, AngularJS, HTML5 and CSS3 for students to become a software engineer.",
+  "location": "United States",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5c6f8c5e-96bd-480f-8fd2-a375092ef7dc.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/fullstack-academy-inc",
+  "api": "/companies/fullstack-academy-inc.json"
+}

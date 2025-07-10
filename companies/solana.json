@@ -1,0 +1,21 @@
+{
+  "id": 4585,
+  "name": "Solana Labs, Inc.",
+  "slug": "solana",
+  "website": "solana.com",
+  "description": "Developer of a decentralized blockchain platform designed to deliver a scalable blockchain network. The company's platform unlocks concurrent graphics processing unit parallelization, using proof of history, delivering high speed, low latency, and inexpensive transactions, all at layer without sharding, enabling users to scale over transactions on stock hardware.",
+  "one_liner": "Developer of a decentralized blockchain platform designed to deliver a scalable blockchain network. The company's platform unlocks concurrent graphics processing unit parallelization, using proof of history, delivering high speed, low latency, and inexpensive transactions, all at layer without sharding, enabling users to scale over transactions on stock hardware.",
+  "location": "United States",
+  "industry": "Web 3",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/15266a29-bd11-45f5-a7e5-db67843a8f4e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Web 3"
+  ],
+  "url": "https://500.co/portfolio/solana",
+  "api": "/companies/solana.json"
+}

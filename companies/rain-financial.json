@@ -1,0 +1,22 @@
+{
+  "id": 4389,
+  "name": "Rain Financial, Inc.",
+  "slug": "rain-financial",
+  "website": "www.rain.com",
+  "description": "Developer of a cryptocurrency trading platform designed to give licensed digital currency exchange in the Middle East. The company's platform offers cryptocurrency exchange operating out of the regulatory sandbox, enabling clients to buy, sell, and store digital currency in a regulated, secure, and compliant way.",
+  "one_liner": "Developer of a cryptocurrency trading platform designed to give licensed digital currency exchange in the Middle East. The company's platform offers cryptocurrency exchange operating out of the regulatory sandbox, enabling clients to buy, sell, and store digital currency in a regulated, secure, and compliant way.",
+  "location": "Bahrain",
+  "industry": "Crypto, FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Crypto",
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/rain-financial",
+  "api": "/companies/rain-financial.json"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 3223,
+  "name": "Floom Ltd.",
+  "slug": "floom",
+  "website": "www.floom.com",
+  "description": "Operator of an online floral marketplace platform intended to offer customers a wide range of flower bouquets from local artisanal florists. The company's platform allows independent florists to list their flower creations online for selling and to be used for social events according to buyers' and customers' needs, enabling customers to purchase attractive bouquets for various occasions and get them delivered to their doorstep.",
+  "one_liner": "Operator of an online floral marketplace platform intended to offer customers a wide range of flower bouquets from local artisanal florists. The company's platform allows independent florists to list their flower creations online for selling and to be used for social events according to buyers' and customers' needs, enabling customers to purchase attractive bouquets for various occasions and get them delivered to their doorstep.",
+  "location": "United Kingdom",
+  "industry": "Marketplace, Consumer",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/1bf9401d-dd2a-4911-80d7-101bb6c01b68.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Marketplace",
+    "Consumer"
+  ],
+  "url": "https://500.co/portfolio/floom",
+  "api": "/companies/floom.json"
+}

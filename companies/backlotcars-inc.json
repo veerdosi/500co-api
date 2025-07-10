@@ -1,0 +1,21 @@
+{
+  "id": 3670,
+  "name": "BacklotCars, Inc.",
+  "slug": "backlotcars-inc",
+  "website": "backlotcars.com",
+  "description": "Provider of a subscription based online wholesale marketplace for the wholesale auto industry designed to make buying wholesale easy, transparent and enjoyable. The company's wholesale marketplace provides direct access to true wholesale inventory from new car stores, enabling car dealers, auto finance companies and rental car companies to liquidate inventory direct to their end-market without having to go to physical auctions.",
+  "one_liner": "Provider of a subscription based online wholesale marketplace for the wholesale auto industry designed to make buying wholesale easy, transparent and enjoyable. The company's wholesale marketplace provides direct access to true wholesale inventory from new car stores, enabling car dealers, auto finance companies and rental car companies to liquidate inventory direct to their end-market without having to go to physical auctions.",
+  "location": "United States",
+  "industry": "Mobility",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/dbe37de1-d912-4e78-a496-204ea4e18aed.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Mobility"
+  ],
+  "url": "https://500.co/portfolio/backlotcars-inc",
+  "api": "/companies/backlotcars-inc.json"
+}

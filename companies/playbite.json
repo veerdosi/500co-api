@@ -1,0 +1,23 @@
+{
+  "id": 5518,
+  "name": "Playbite Inc.",
+  "slug": "playbite",
+  "website": "www.playbite.com",
+  "description": "Developer of a gaming platform designed to earn tickets while playing. The company's application allows gamers to redeem their earned ticket for prize money, enabling users to play fun games and earn real prizes.",
+  "one_liner": "Developer of a gaming platform designed to earn tickets while playing. The company's application allows gamers to redeem their earned ticket for prize money, enabling users to play fun games and earn real prizes.",
+  "location": "United States",
+  "industry": "App, Gaming, Subscription",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/a337a10c-18ab-467d-b354-f8a3e02bab4c.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "App",
+    "Gaming",
+    "Subscription"
+  ],
+  "url": "https://500.co/portfolio/playbite",
+  "api": "/companies/playbite.json"
+}

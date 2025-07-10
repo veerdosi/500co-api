@@ -1,0 +1,23 @@
+{
+  "id": 5513,
+  "name": "Solusi Bengkel Digital Pte. Ltd.",
+  "slug": "belanjaparts",
+  "website": "belanjaparts.com",
+  "description": "Developer of B2B e-commerce platform designed to digitize automotive workshops. The company platform offers various vehicle parts, other equipment, and lubricants at wholesale rates and quantities from various digital vendors, enabling small-medium workshops to market their products and supplies more effectively and efficiently.",
+  "one_liner": "Developer of B2B e-commerce platform designed to digitize automotive workshops. The company platform offers various vehicle parts, other equipment, and lubricants at wholesale rates and quantities from various digital vendors, enabling small-medium workshops to market their products and supplies more effectively and efficiently.",
+  "location": "Indonesia",
+  "industry": "Automotive, Ecommerce, Marketplace",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/8d51f867-b643-44db-bc4b-e70cdba303c9.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Automotive",
+    "Ecommerce",
+    "Marketplace"
+  ],
+  "url": "https://500.co/portfolio/belanjaparts",
+  "api": "/companies/belanjaparts.json"
+}

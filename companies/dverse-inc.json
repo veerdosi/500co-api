@@ -1,0 +1,21 @@
+{
+  "id": 4333,
+  "name": "Dverse, Inc.",
+  "slug": "dverse-inc",
+  "website": "www.symmetry-dimensions.com",
+  "description": "Developer of virtual reality production software. The company's virtual reality production software, Symmetry can be used in 360-degree video, create objects in real time and convert 3D models made by engineers into virtual reality contents, enabling users to enjoy the display in a virtual reality space.",
+  "one_liner": "Developer of virtual reality production software. The company's virtual reality production software, Symmetry can be used in 360-degree video, create objects in real time and convert 3D models made by engineers into virtual reality contents, enabling users to enjoy the display in a virtual reality space.",
+  "location": "United States",
+  "industry": "Construction",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Construction"
+  ],
+  "url": "https://500.co/portfolio/dverse-inc",
+  "api": "/companies/dverse-inc.json"
+}

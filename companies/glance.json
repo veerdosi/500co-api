@@ -1,0 +1,22 @@
+{
+  "id": 5414,
+  "name": "Buglance Holding LTD",
+  "slug": "glance",
+  "website": "buglance.com",
+  "description": "Developer of a crowdsourced software testing platform designed to provide access to testers and devices. The company's platform connects software testers with businesses to provide development of mobile apps, games, and websites for bugs, security, and UX/UI issues, enabling software companies to outsource testing and launch better apps with fewer bugs at an affordable price.",
+  "one_liner": "Developer of a crowdsourced software testing platform designed to provide access to testers and devices. The company's platform connects software testers with businesses to provide development of mobile apps, games, and websites for bugs, security, and UX/UI issues, enabling software companies to outsource testing and launch better apps with fewer bugs at an affordable price.",
+  "location": "Saudi Arabia",
+  "industry": "Health Tech, InsurTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/2071c7b6-7b99-4d89-b488-7fec978f0cf4.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Health Tech",
+    "InsurTech"
+  ],
+  "url": "https://500.co/portfolio/glance",
+  "api": "/companies/glance.json"
+}

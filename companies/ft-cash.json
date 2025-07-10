@@ -1,0 +1,21 @@
+{
+  "id": 2725,
+  "name": "Nomisma Mobile Solutions Private Limited",
+  "slug": "ft-cash",
+  "website": "www.ftcash.com",
+  "description": "Developer of a mobile payments platform designed to empower micro-merchants and SMEs through financial inclusion using digital payments and loans. The company's platform features the ability to accept payments through multiple payment instruments including debit cards, credit cards, and mobile wallets, enabling merchants to accept electronic payments without any additional hardware or POS device.",
+  "one_liner": "Developer of a mobile payments platform designed to empower micro-merchants and SMEs through financial inclusion using digital payments and loans. The company's platform features the ability to accept payments through multiple payment instruments including debit cards, credit cards, and mobile wallets, enabling merchants to accept electronic payments without any additional hardware or POS device.",
+  "location": "India",
+  "industry": "Payments",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/cb226393-964f-41ea-ae14-73c72706c75d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Payments"
+  ],
+  "url": "https://500.co/portfolio/ft-cash",
+  "api": "/companies/ft-cash.json"
+}

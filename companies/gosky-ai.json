@@ -1,0 +1,21 @@
+{
+  "id": 5319,
+  "name": "GOSKY Holding",
+  "slug": "gosky-ai",
+  "website": "www.goskyai.com",
+  "description": "Developer of social customer relationship management software (CRM) intended to improve marketing accuracy and efficiency. The company applies artificial intelligence technology for R&D of social CRM, its main products include member loyalty platform, marketing chatbot and advertisement deployment, enabling brands to convert their social media followers into prospective customers in a convenient way.",
+  "one_liner": "Developer of social customer relationship management software (CRM) intended to improve marketing accuracy and efficiency. The company applies artificial intelligence technology for R&D of social CRM, its main products include member loyalty platform, marketing chatbot and advertisement deployment, enabling brands to convert their social media followers into prospective customers in a convenient way.",
+  "location": "Taiwan",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/c375ce5e-a485-4f08-a389-a388a4fadd25.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/gosky-ai",
+  "api": "/companies/gosky-ai.json"
+}

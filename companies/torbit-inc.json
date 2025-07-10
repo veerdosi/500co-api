@@ -1,0 +1,21 @@
+{
+  "id": 3746,
+  "name": "Torbit, Inc.",
+  "slug": "torbit-inc",
+  "website": "torbit.com",
+  "description": "Provider of a cloud-based website accelerator. The company provides tools to help businesses measure website performance and quantify how speed impacts their revenue.",
+  "one_liner": "Provider of a cloud-based website accelerator. The company provides tools to help businesses measure website performance and quantify how speed impacts their revenue.",
+  "location": "United States",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/torbit-inc",
+  "api": "/companies/torbit-inc.json"
+}

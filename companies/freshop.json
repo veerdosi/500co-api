@@ -1,0 +1,22 @@
+{
+  "id": 4093,
+  "name": "Freshop, Inc.",
+  "slug": "freshop",
+  "website": "freshop.com",
+  "description": "Developer of an online platform for grocers. The company's platform helps in shopping groceries on the user's tablet and mobile device interfaces and explore various products.",
+  "one_liner": "Developer of an online platform for grocers. The company's platform helps in shopping groceries on the user's tablet and mobile device interfaces and explore various products.",
+  "location": "United States",
+  "industry": "Ecommerce, Food",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ece13218-8330-44b6-9d0c-b48ca66b48a0.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Ecommerce",
+    "Food"
+  ],
+  "url": "https://500.co/portfolio/freshop",
+  "api": "/companies/freshop.json"
+}

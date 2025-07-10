@@ -1,0 +1,23 @@
+{
+  "id": 5540,
+  "name": "BRICKS DAG, Inc.",
+  "slug": "bricks",
+  "website": "www.bricks.tools",
+  "description": "Developer and operator of a digital platform designed for building interactive apps. With visual dynamic presentation technology and code-free software and hardware data concatenation, the company's low-code/no-code platform develops digital display contents suitable for billboards, kiosk, self-service machine and other screen application, enabling designers to improve content development efficiency and convenience.",
+  "one_liner": "Developer and operator of a digital platform designed for building interactive apps. With visual dynamic presentation technology and code-free software and hardware data concatenation, the company's low-code/no-code platform develops digital display contents suitable for billboards, kiosk, self-service machine and other screen application, enabling designers to improve content development efficiency and convenience.",
+  "location": "Taiwan",
+  "industry": "AI/Machine Learning, Developer Tools, Retail",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a26636a0-dc2f-480d-b49c-3b788fb718cf.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "Developer Tools",
+    "Retail"
+  ],
+  "url": "https://500.co/portfolio/bricks",
+  "api": "/companies/bricks.json"
+}

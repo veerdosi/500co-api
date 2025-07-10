@@ -1,0 +1,21 @@
+{
+  "id": 3879,
+  "name": "Innovative Hospitality, LLC",
+  "slug": "chouxbox",
+  "website": "www.chouxbox.com",
+  "description": "Developer of enterprise software technologies designed for the hospitality industry. The company provides accountants, chefs, operators, and national corporations with real-time analytics and accountability on a collaborative, cloud-based platform, helping firms manage high volumes of transactions from centralized locations.",
+  "one_liner": "Developer of enterprise software technologies designed for the hospitality industry. The company provides accountants, chefs, operators, and national corporations with real-time analytics and accountability on a collaborative, cloud-based platform, helping firms manage high volumes of transactions from centralized locations.",
+  "location": "United States",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/c7577b08-e5c5-45a5-8e19-cfee9ab5a14b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/chouxbox",
+  "api": "/companies/chouxbox.json"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 4152,
+  "name": "HAT GSC, Inc.",
+  "slug": "hat-gsc-inc",
+  "website": "gospotcheck.com",
+  "description": "Create beautiful data visualizations, easily. Connect your data (currently Airtable and Google Sheets), configure visualizations with drag and drop, and embed them anywhere.",
+  "one_liner": "Create beautiful data visualizations, easily. Connect your data (currently Airtable and Google Sheets), configure visualizations with drag and drop, and embed them anywhere.",
+  "location": "United States",
+  "industry": "No Code, SaaS",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/52f112ef-418d-4bb8-883e-a459b6269b70.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "No Code",
+    "SaaS"
+  ],
+  "url": "https://500.co/portfolio/hat-gsc-inc",
+  "api": "/companies/hat-gsc-inc.json"
+}

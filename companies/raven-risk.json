@@ -1,0 +1,22 @@
+{
+  "id": 8177,
+  "name": "RAVEN RISK AI INC.",
+  "slug": "raven-risk",
+  "website": "www.ravenrisk.ai",
+  "description": "AI-empowered solutions for Corporate Credit",
+  "one_liner": "AI-empowered solutions for Corporate Credit",
+  "location": "United States",
+  "industry": "AI/Machine Learning, FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2d663261-9de3-4b92-960b-59ce6906b7e7.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/raven-risk",
+  "api": "/companies/raven-risk.json"
+}

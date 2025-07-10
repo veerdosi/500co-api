@@ -1,0 +1,21 @@
+{
+  "id": 2847,
+  "name": "Applyboard Inc.",
+  "slug": "applyboard",
+  "website": "www.applyboard.com",
+  "description": "Provider of online education services intended to empower students around the world to access education. The company's platform automates and streamlines the educational application process by connecting students and recruitment agencies with post-secondary institutions, enabling students from all around the world to apply to universities in North America without any hassles.",
+  "one_liner": "Provider of online education services intended to empower students around the world to access education. The company's platform automates and streamlines the educational application process by connecting students and recruitment agencies with post-secondary institutions, enabling students from all around the world to apply to universities in North America without any hassles.",
+  "location": "Canada",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/defb6048-5c9e-452a-b3c0-eaf7e14afbce.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/applyboard",
+  "api": "/companies/applyboard.json"
+}

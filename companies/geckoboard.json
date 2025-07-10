@@ -1,0 +1,22 @@
+{
+  "id": 5160,
+  "name": "Datachoice Solutions Ltd.",
+  "slug": "geckoboard",
+  "website": "www.geckoboard.com",
+  "description": "Developer of a live television dashboard designed to assist everyone in a team in focusing on metrics that matter to a business. The company's dashboard platform is used to collect business information from many online services, and summarize it to distill the key messages and displays on the screen, enabling businesses to be honest and effective by using data to set clear goals.",
+  "one_liner": "Developer of a live television dashboard designed to assist everyone in a team in focusing on metrics that matter to a business. The company's dashboard platform is used to collect business information from many online services, and summarize it to distill the key messages and displays on the screen, enabling businesses to be honest and effective by using data to set clear goals.",
+  "location": "United Kingdom",
+  "industry": "Data & Analytics, Productivity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/6951b165-4fab-4574-9d84-28867007f931.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics",
+    "Productivity"
+  ],
+  "url": "https://500.co/portfolio/geckoboard",
+  "api": "/companies/geckoboard.json"
+}

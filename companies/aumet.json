@@ -1,0 +1,21 @@
+{
+  "id": 4626,
+  "name": "Aumet Medical Co.",
+  "slug": "aumet",
+  "website": "aumet.com",
+  "description": "Developer of a B2B healthcare platform designed to support healthcare providers with their business decisions and performance. The company's platform aims to promote healthcare companies acquire the products and services on the market, and access essential information for critical business decisions, enabling clients to bridge the gaps in the healthcare industry by digitalizing the ordering process between, suppliers and healthcare providers.",
+  "one_liner": "Developer of a B2B healthcare platform designed to support healthcare providers with their business decisions and performance. The company's platform aims to promote healthcare companies acquire the products and services on the market, and access essential information for critical business decisions, enabling clients to bridge the gaps in the healthcare industry by digitalizing the ordering process between, suppliers and healthcare providers.",
+  "location": "United States",
+  "industry": "Health Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Health Tech"
+  ],
+  "url": "https://500.co/portfolio/aumet",
+  "api": "/companies/aumet.json"
+}

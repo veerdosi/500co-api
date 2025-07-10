@@ -1,0 +1,21 @@
+{
+  "id": 5569,
+  "name": "Halogen Capital Sdn. Bhd.",
+  "slug": "halogen-capital",
+  "website": "https://halogen.my",
+  "description": "Developer of a digital platform designed to help investors gain exposure safely to the new asset classes. The company specializes in digital assets and combines traditional capital market expertise with deep technology knowledge, enabling clients to access digital assets, and help with private key management, tax uncertainties, and inconsistent fund reporting.",
+  "one_liner": "Developer of a digital platform designed to help investors gain exposure safely to the new asset classes. The company specializes in digital assets and combines traditional capital market expertise with deep technology knowledge, enabling clients to access digital assets, and help with private key management, tax uncertainties, and inconsistent fund reporting.",
+  "location": "Malaysia",
+  "industry": "Crypto",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/26275968-dfaf-4e6d-9580-d8260d1b332f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Crypto"
+  ],
+  "url": "https://500.co/portfolio/halogen-capital",
+  "api": "/companies/halogen-capital.json"
+}

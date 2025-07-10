@@ -1,0 +1,21 @@
+{
+  "id": 3468,
+  "name": "Start Research Inc.",
+  "slug": "alluva",
+  "website": "alluva.com",
+  "description": "Developer of an analyst marketplace designed to discover investment opportunities. The company's platform quantitatively and qualitatively rates cryptocurrencies by using a contributor model that rewards users for correct calls, enabling investors with an improved market movement understanding.",
+  "one_liner": "Developer of an analyst marketplace designed to discover investment opportunities. The company's platform quantitatively and qualitatively rates cryptocurrencies by using a contributor model that rewards users for correct calls, enabling investors with an improved market movement understanding.",
+  "location": "China",
+  "industry": "Crypto",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/03f4b273-59da-452d-aee4-486ad6e16fe1.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Crypto"
+  ],
+  "url": "https://500.co/portfolio/alluva",
+  "api": "/companies/alluva.json"
+}

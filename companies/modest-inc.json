@@ -1,0 +1,19 @@
+{
+  "id": 4104,
+  "name": "Modest, Inc.",
+  "slug": "modest-inc",
+  "website": "modest.com",
+  "description": "Developer of mobile shopping application. The company assists retailers to monetize their products by generating a product list, as a result for the searches conducted by shoppers, by studying their shopping history, similar shoppers, taste and preferences.",
+  "one_liner": "Developer of mobile shopping application. The company assists retailers to monetize their products by generating a product list, as a result for the searches conducted by shoppers, by studying their shopping history, similar shoppers, taste and preferences.",
+  "location": "United States",
+  "industry": "",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/cf7f5f20-2b92-4090-adeb-0ec6b8038598.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://500.co/portfolio/modest-inc",
+  "api": "/companies/modest-inc.json"
+}

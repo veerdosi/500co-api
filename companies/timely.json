@@ -1,0 +1,21 @@
+{
+  "id": 3072,
+  "name": "Memory AS",
+  "slug": "timely",
+  "website": "timelyapp.com",
+  "description": "Developer of a tracking software designed to track and manage time and work automatically. The company's application features automatic time tracking, project time management, and team time management which records work, groups it, suggests time entries, and offers suggestions, enabling clients to track their work efficiently while increasing sales and productivity.",
+  "one_liner": "Developer of a tracking software designed to track and manage time and work automatically. The company's application features automatic time tracking, project time management, and team time management which records work, groups it, suggests time entries, and offers suggestions, enabling clients to track their work efficiently while increasing sales and productivity.",
+  "location": "Norway",
+  "industry": "Productivity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/0ed397b5-d08d-4024-b876-6794aafdd373.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Productivity"
+  ],
+  "url": "https://500.co/portfolio/timely",
+  "api": "/companies/timely.json"
+}

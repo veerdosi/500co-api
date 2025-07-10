@@ -1,0 +1,21 @@
+{
+  "id": 4868,
+  "name": "View the Space, Inc.",
+  "slug": "vts",
+  "website": "www.vts.com",
+  "description": "Developer of a leasing and asset management platform designed to help commercial real estate professionals. The company's platform offers one place to track all of their leases, assets and tenants as well as allows them to create custom alerts and reporting capabilities that provide critical insights, enabling office, retail, and industrial landlords and brokers to transform their leasing process and convert leads to leases efficiently.",
+  "one_liner": "Developer of a leasing and asset management platform designed to help commercial real estate professionals. The company's platform offers one place to track all of their leases, assets and tenants as well as allows them to create custom alerts and reporting capabilities that provide critical insights, enabling office, retail, and industrial landlords and brokers to transform their leasing process and convert leads to leases efficiently.",
+  "location": "United States",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a617c126-4d87-458b-86f0-2aedc127a0d4.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/vts",
+  "api": "/companies/vts.json"
+}

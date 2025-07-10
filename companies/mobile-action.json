@@ -1,0 +1,22 @@
+{
+  "id": 3517,
+  "name": "Mobile Action, Inc.",
+  "slug": "mobile-action",
+  "website": "www.mobileaction.co",
+  "description": "Developer of a marketing intelligence platform designed to offer intuitive application store optimization. The company's platform helps application publishers rank higher in application store searches, get more organic downloads, and understand vital metrics that will help them make the right business decisions, enabling developers and large enterprises to get precise data to gain a competitive advantage.",
+  "one_liner": "Developer of a marketing intelligence platform designed to offer intuitive application store optimization. The company's platform helps application publishers rank higher in application store searches, get more organic downloads, and understand vital metrics that will help them make the right business decisions, enabling developers and large enterprises to get precise data to gain a competitive advantage.",
+  "location": "United States",
+  "industry": "Data & Analytics, Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/dadbb4bd-5415-4171-bcb4-3e9fc0e1e844.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics",
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/mobile-action",
+  "api": "/companies/mobile-action.json"
+}

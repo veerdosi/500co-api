@@ -1,0 +1,22 @@
+{
+  "id": 5591,
+  "name": "Motion Creative Cloud Inc.",
+  "slug": "motion",
+  "website": "motionapp.com",
+  "description": "Developer of a creative analytics platform designed to increase the impact of creative performance through data-driven decision-making. The company's platform offers different tools that translate insights into visual reports to bridge the gap between media buyers and creatives and combines visual content with performance metrics, enabling growth and marketing teams of businesses to eliminate information overload and identify key drivers of creative performance to improve their creative strategy.",
+  "one_liner": "Developer of a creative analytics platform designed to increase the impact of creative performance through data-driven decision-making. The company's platform offers different tools that translate insights into visual reports to bridge the gap between media buyers and creatives and combines visual content with performance metrics, enabling growth and marketing teams of businesses to eliminate information overload and identify key drivers of creative performance to improve their creative strategy.",
+  "location": "Canada",
+  "industry": "Developer Tools, Productivity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/04d497c1-32b8-44cf-bdef-1bdd9a410b44.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools",
+    "Productivity"
+  ],
+  "url": "https://500.co/portfolio/motion",
+  "api": "/companies/motion.json"
+}

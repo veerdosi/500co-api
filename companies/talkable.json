@@ -1,0 +1,21 @@
+{
+  "id": 3773,
+  "name": "Talkable, Inc.",
+  "slug": "talkable",
+  "website": "www.talkable.com",
+  "description": "Developer of a referral program software intended to help brands acquire new customers with endorsements from current customers. The company's software identifies, targets, and rewards valuable customers through in-depth data analysis and offers A/B testing and ongoing campaign optimization, enabling users to create and optimize offers with pre-defined templates and to increase sales.",
+  "one_liner": "Developer of a referral program software intended to help brands acquire new customers with endorsements from current customers. The company's software identifies, targets, and rewards valuable customers through in-depth data analysis and offers A/B testing and ongoing campaign optimization, enabling users to create and optimize offers with pre-defined templates and to increase sales.",
+  "location": "United States",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ea85212c-893b-4f3d-ba22-832ab5721e46.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/talkable",
+  "api": "/companies/talkable.json"
+}

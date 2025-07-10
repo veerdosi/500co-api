@@ -1,0 +1,23 @@
+{
+  "id": 3078,
+  "name": "Melodics Ltd.",
+  "slug": "melodics",
+  "website": "melodics.com",
+  "description": "Developer of a desktop application designed to help people to play their musical instruments with confidence. The company's application offers music lessons that build a rhythm, timing, and muscle memory to develop an understanding of the patterns, theory, and structure of contemporary music through active learning and performance, enabling music enthusiasts to improve musical skills by making practice fun, relevant, and effective.",
+  "one_liner": "Developer of a desktop application designed to help people to play their musical instruments with confidence. The company's application offers music lessons that build a rhythm, timing, and muscle memory to develop an understanding of the patterns, theory, and structure of contemporary music through active learning and performance, enabling music enthusiasts to improve musical skills by making practice fun, relevant, and effective.",
+  "location": "New Zealand",
+  "industry": "Education, Entertainment / Media, Creator Economy",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d5775ac2-14eb-4635-b5e2-eb6ab03c0a6e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education",
+    "Entertainment / Media",
+    "Creator Economy"
+  ],
+  "url": "https://500.co/portfolio/melodics",
+  "api": "/companies/melodics.json"
+}

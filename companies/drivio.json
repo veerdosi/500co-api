@@ -1,0 +1,21 @@
+{
+  "id": 4982,
+  "name": "Drivio, Inc.",
+  "slug": "drivio",
+  "website": "finenyc.com",
+  "description": "Developer of a mobile application intended to track and pay parking tickets. The company's mobile application leverages technology to allow users to pay for parking tickets and also set up reminders for their tickets, enabling customers to easily manage and settle parking violations.",
+  "one_liner": "Developer of a mobile application intended to track and pay parking tickets. The company's mobile application leverages technology to allow users to pay for parking tickets and also set up reminders for their tickets, enabling customers to easily manage and settle parking violations.",
+  "location": "United States",
+  "industry": "Government",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Government"
+  ],
+  "url": "https://500.co/portfolio/drivio",
+  "api": "/companies/drivio.json"
+}

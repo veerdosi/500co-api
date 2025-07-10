@@ -1,0 +1,22 @@
+{
+  "id": 5276,
+  "name": "OneStoreHub Pte Ltd",
+  "slug": "storehub",
+  "website": "www.storehub.com",
+  "description": "Developer of cloud-based point-of-sale software designed to help retailers to digitize their business. The company's software develops a cloud-based point-of-sale system that offers real-time reports, inventory management, and customer data collection that help to connect the long line of less sophisticated physical traders online, enabling users to digitize their finances and inventory management.",
+  "one_liner": "Developer of cloud-based point-of-sale software designed to help retailers to digitize their business. The company's software develops a cloud-based point-of-sale system that offers real-time reports, inventory management, and customer data collection that help to connect the long line of less sophisticated physical traders online, enabling users to digitize their finances and inventory management.",
+  "location": "Malaysia",
+  "industry": "Retail, SaaS",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d23c555d-b918-41eb-a1ef-ff6ae20b7263.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Retail",
+    "SaaS"
+  ],
+  "url": "https://500.co/portfolio/storehub",
+  "api": "/companies/storehub.json"
+}

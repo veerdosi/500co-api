@@ -1,0 +1,21 @@
+{
+  "id": 3029,
+  "name": "YouScan Limited",
+  "slug": "youscan-limited",
+  "website": "www.leadscanr.com",
+  "description": "Developer of lead generation tools designed to connect businesses with their potential clients on social media networks. The company's lead generation tools analyzes millions of public social media posts and uses sophisticated language processing algorithms to find social media messages that express an intention to buy a certain product or service, enabling businesses that provide relevant products or services to reach out to the author of the messages.",
+  "one_liner": "Developer of lead generation tools designed to connect businesses with their potential clients on social media networks. The company's lead generation tools analyzes millions of public social media posts and uses sophisticated language processing algorithms to find social media messages that express an intention to buy a certain product or service, enabling businesses that provide relevant products or services to reach out to the author of the messages.",
+  "location": "Cyprus",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f9155640-1277-415f-b548-606feb817d22.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/youscan-limited",
+  "api": "/companies/youscan-limited.json"
+}

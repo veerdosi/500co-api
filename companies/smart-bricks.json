@@ -1,0 +1,21 @@
+{
+  "id": 8253,
+  "name": "Smart Bricks Holdings Limited",
+  "slug": "smart-bricks",
+  "website": "https://www.smart-bricks.com/",
+  "description": "The Smarter Way to Invest in Residential Real Estate - Powered by AI.",
+  "one_liner": "The Smarter Way to Invest in Residential Real Estate - Powered by AI.",
+  "location": "United Arab Emirates",
+  "industry": "PropTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "PropTech"
+  ],
+  "url": "https://500.co/portfolio/smart-bricks",
+  "api": "/companies/smart-bricks.json"
+}

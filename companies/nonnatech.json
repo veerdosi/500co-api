@@ -1,0 +1,24 @@
+{
+  "id": 3770,
+  "name": "Nonnatech, Inc.",
+  "slug": "nonnatech",
+  "website": "nonnatech.com",
+  "description": "Developer of a device-agnostic platform designed for early detection of health conditions and pinpoints those who may be at risk of hospitalization. The company's platform aids in the early detection of physiological changes by utilizing data from FDA-approved devices, predictive analytics, and machine learning, enabling healthcare professionals to track and monitor the health conditions and physical changes of their patients.",
+  "one_liner": "Developer of a device-agnostic platform designed for early detection of health conditions and pinpoints those who may be at risk of hospitalization. The company's platform aids in the early detection of physiological changes by utilizing data from FDA-approved devices, predictive analytics, and machine learning, enabling healthcare professionals to track and monitor the health conditions and physical changes of their patients.",
+  "location": "United States",
+  "industry": "AI/Machine Learning, Health Tech, Big Data, Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d4564e11-4cb9-4e5a-a0f7-14a9af6585f3.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "Health Tech",
+    "Big Data",
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/nonnatech",
+  "api": "/companies/nonnatech.json"
+}

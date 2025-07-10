@@ -1,0 +1,22 @@
+{
+  "id": 5589,
+  "name": "VoyceMe Inc.",
+  "slug": "voyceme",
+  "website": "www.voyce.me",
+  "description": "Developer a social creator platform designed to allow social interaction among fans and authors. The company offers original manga, webcomics, and web novels, by giving historically underserved creators new ways to tell their stories, generate revenue, and engage with their fans, enabling readers to find new stories and the ability to experience them through immersive storytelling and helping authors monetize their stories and build and engage their fan base.",
+  "one_liner": "Developer a social creator platform designed to allow social interaction among fans and authors. The company offers original manga, webcomics, and web novels, by giving historically underserved creators new ways to tell their stories, generate revenue, and engage with their fans, enabling readers to find new stories and the ability to experience them through immersive storytelling and helping authors monetize their stories and build and engage their fan base.",
+  "location": "United States",
+  "industry": "Leisure & Entretainment, Social Media",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/cd44beb3-6fe4-470a-9767-8f773c9aca85.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Leisure & Entretainment",
+    "Social Media"
+  ],
+  "url": "https://500.co/portfolio/voyceme",
+  "api": "/companies/voyceme.json"
+}

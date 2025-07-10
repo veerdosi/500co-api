@@ -1,0 +1,22 @@
+{
+  "id": 2876,
+  "name": "Breaker Co. Ltd",
+  "slug": "breaker-co-ltd",
+  "website": "brkr.jp",
+  "description": "Tokyo-based social media branding agency connecting the world to Japan. ",
+  "one_liner": "Tokyo-based social media branding agency connecting the world to Japan. ",
+  "location": "Japan",
+  "industry": "Creative Industry, Social Media",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/537f715d-15c6-4dcc-904a-269c0e8b2338.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Creative Industry",
+    "Social Media"
+  ],
+  "url": "https://500.co/portfolio/breaker-co-ltd",
+  "api": "/companies/breaker-co-ltd.json"
+}

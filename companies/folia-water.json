@@ -1,0 +1,21 @@
+{
+  "id": 4625,
+  "name": "Folia Water, Inc.",
+  "slug": "folia-water",
+  "website": "www.foliawater.com",
+  "description": "Developer and manufacturer of paper water filter products designed to reduce waterborne pathogens. The company's product uses large-scale paper machinery to manufacture low-cost nano-metal materials which are chemically functionalized fiber, enabling clients to help customers drink purified water at a low cost.",
+  "one_liner": "Developer and manufacturer of paper water filter products designed to reduce waterborne pathogens. The company's product uses large-scale paper machinery to manufacture low-cost nano-metal materials which are chemically functionalized fiber, enabling clients to help customers drink purified water at a low cost.",
+  "location": "United States",
+  "industry": "Manufacturing",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/9a4bbae5-fca0-4a97-84c2-762cc87dff82.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Manufacturing"
+  ],
+  "url": "https://500.co/portfolio/folia-water",
+  "api": "/companies/folia-water.json"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 3610,
+  "name": "Springcoin, Inc.",
+  "slug": "spring-labs",
+  "website": "springlabs.com",
+  "description": "Developer of a decentralized network designed to permit participants to share and exchange information about financial data. The company's network leverages the security, scalability, transparency, and efficiency of blockchain technology to provide financial institutions and lenders with greater data control and flexibility for the credit system, enabling clients to improve the protection and security of their credit information.",
+  "one_liner": "Developer of a decentralized network designed to permit participants to share and exchange information about financial data. The company's network leverages the security, scalability, transparency, and efficiency of blockchain technology to provide financial institutions and lenders with greater data control and flexibility for the credit system, enabling clients to improve the protection and security of their credit information.",
+  "location": "United States",
+  "industry": "Crypto, FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/3b3039b0-2ea7-466d-ab6f-9adb93c71ee0.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Crypto",
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/spring-labs",
+  "api": "/companies/spring-labs.json"
+}

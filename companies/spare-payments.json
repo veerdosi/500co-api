@@ -1,0 +1,23 @@
+{
+  "id": 2827,
+  "name": "Spare Payments",
+  "slug": "spare-payments",
+  "website": "www.paywithspare.com",
+  "description": "Developer of a financial platform designed to help schools implement cashless payments. The company offers a wearable device paired with financial software on smartphones that allow kids to make purchases at school through electronic payments, enabling parents to leverage modern technology to create a safer life for their children.",
+  "one_liner": "Developer of a financial platform designed to help schools implement cashless payments. The company offers a wearable device paired with financial software on smartphones that allow kids to make purchases at school through electronic payments, enabling parents to leverage modern technology to create a safer life for their children.",
+  "location": "Egypt",
+  "industry": "Education, FinTech, Social Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/2027f7e8-c88d-46e7-848b-9d6389c9422a.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education",
+    "FinTech",
+    "Social Impact"
+  ],
+  "url": "https://500.co/portfolio/spare-payments",
+  "api": "/companies/spare-payments.json"
+}

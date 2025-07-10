@@ -1,0 +1,21 @@
+{
+  "id": 2838,
+  "name": "Trocafone, Inc.",
+  "slug": "trocafone",
+  "website": "www.trocafone.com.br",
+  "description": "Operator of an online smartphone marketplace intended to help customers to buy and sell used phones and smartphones online. The company's marketplace improves the selling and buying experience by acquiring the devices from sellers, refurbishing and re-selling them as pre-owned certified, enabling buyers to enjoy various deals for peer-to-peer transactions combined with the service, convenience and safety of a retail store.",
+  "one_liner": "Operator of an online smartphone marketplace intended to help customers to buy and sell used phones and smartphones online. The company's marketplace improves the selling and buying experience by acquiring the devices from sellers, refurbishing and re-selling them as pre-owned certified, enabling buyers to enjoy various deals for peer-to-peer transactions combined with the service, convenience and safety of a retail store.",
+  "location": "Brazil",
+  "industry": "Ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/d58afe4b-719e-48e7-9d5a-5ce2b7e72c15.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Ecommerce"
+  ],
+  "url": "https://500.co/portfolio/trocafone",
+  "api": "/companies/trocafone.json"
+}

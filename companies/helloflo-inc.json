@@ -1,0 +1,21 @@
+{
+  "id": 3799,
+  "name": "HelloFlo Inc",
+  "slug": "helloflo-inc",
+  "website": "helloflo.com",
+  "description": "Provider of a subscription-based online business that delivers feminine products. The company provides products, services and everyday health and wellness resources and it also encourages women empowerment management.",
+  "one_liner": "Provider of a subscription-based online business that delivers feminine products. The company provides products, services and everyday health and wellness resources and it also encourages women empowerment management.",
+  "location": "United States",
+  "industry": "Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/helloflo-inc",
+  "api": "/companies/helloflo-inc.json"
+}

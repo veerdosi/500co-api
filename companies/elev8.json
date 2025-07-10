@@ -1,0 +1,23 @@
+{
+  "id": 5859,
+  "name": "EAS Innovations Inc.",
+  "slug": "elev8",
+  "website": "www.elev8autosolutions.com",
+  "description": "Developer of a business software platform designed to revolutionize dealership management. The company's all-in-one platform streamlines dealership operations and brings the power of real-time accounting to the forefront of the industry, enabling clients to give advance dealer management system.",
+  "one_liner": "Developer of a business software platform designed to revolutionize dealership management. The company's all-in-one platform streamlines dealership operations and brings the power of real-time accounting to the forefront of the industry, enabling clients to give advance dealer management system.",
+  "location": "United States",
+  "industry": "Automotive, FinTech, SaaS",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Automotive",
+    "FinTech",
+    "SaaS"
+  ],
+  "url": "https://500.co/portfolio/elev8",
+  "api": "/companies/elev8.json"
+}

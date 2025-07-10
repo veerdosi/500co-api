@@ -1,0 +1,21 @@
+{
+  "id": 8114,
+  "name": "Agile Loop L.L.C.",
+  "slug": "agile-loop",
+  "website": "agileloop.ai",
+  "description": "Automating workflows on any software you use, through human language. ",
+  "one_liner": "Automating workflows on any software you use, through human language. ",
+  "location": "Saudi Arabia",
+  "industry": "AI/Machine Learning",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/d06cab7a-eda5-43d9-9d05-60715defc4bc.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning"
+  ],
+  "url": "https://500.co/portfolio/agile-loop",
+  "api": "/companies/agile-loop.json"
+}

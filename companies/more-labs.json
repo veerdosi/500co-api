@@ -1,0 +1,23 @@
+{
+  "id": 4692,
+  "name": "More Labs, Inc.",
+  "slug": "more-labs",
+  "website": "www.morelabs.com",
+  "description": "Provider of supplementary drinks intended to address different areas of health and wellness, including energy, focus, sleep and recovery. The company's drinks are a liquid dietary supplement that contains Dihydromyricetin (DHM) which has anti-hepatotoxic properties to help detoxify the body, enabling consumers to boost the body's natural response.",
+  "one_liner": "Provider of supplementary drinks intended to address different areas of health and wellness, including energy, focus, sleep and recovery. The company's drinks are a liquid dietary supplement that contains Dihydromyricetin (DHM) which has anti-hepatotoxic properties to help detoxify the body, enabling consumers to boost the body's natural response.",
+  "location": "United States",
+  "industry": "CPG (Consumer packaged goods), Healthcare, Consumer",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/8cbf6d85-cb72-4687-bad0-9372deeb5e8c.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "CPG (Consumer packaged goods)",
+    "Healthcare",
+    "Consumer"
+  ],
+  "url": "https://500.co/portfolio/more-labs",
+  "api": "/companies/more-labs.json"
+}

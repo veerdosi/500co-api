@@ -1,0 +1,21 @@
+{
+  "id": 3265,
+  "name": "VCNC Co., Ltd.",
+  "slug": "vcnc-co-ltd",
+  "website": "between.us",
+  "description": "Provider of an online application platform intended for the couple to share photos and messages through their phone. The company's platform includes secret community, enabling users to chat privately anywhere.",
+  "one_liner": "Provider of an online application platform intended for the couple to share photos and messages through their phone. The company's platform includes secret community, enabling users to chat privately anywhere.",
+  "location": "South Korea",
+  "industry": "Social Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/3548e6f9-8bb7-4978-bf6d-2dae2041fe7d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Impact"
+  ],
+  "url": "https://500.co/portfolio/vcnc-co-ltd",
+  "api": "/companies/vcnc-co-ltd.json"
+}

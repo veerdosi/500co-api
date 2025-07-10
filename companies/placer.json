@@ -1,0 +1,21 @@
+{
+  "id": 4862,
+  "name": "Placer Labs, Inc.",
+  "slug": "placer",
+  "website": "www.placer.ai",
+  "description": "Developer of human movement analytics platform designed to provide visibility into offline behavior for the retail industry. The company's platform generates insights into any physical place and provides actionable location-based insights into the audience and competition, enabling businesses to make smarter business decisions for any physical space.",
+  "one_liner": "Developer of human movement analytics platform designed to provide visibility into offline behavior for the retail industry. The company's platform generates insights into any physical place and provides actionable location-based insights into the audience and competition, enabling businesses to make smarter business decisions for any physical space.",
+  "location": "United States",
+  "industry": "Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7b047249-8028-45d7-bf11-472c18febe14.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/placer",
+  "api": "/companies/placer.json"
+}

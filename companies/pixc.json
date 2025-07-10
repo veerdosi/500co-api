@@ -1,0 +1,21 @@
+{
+  "id": 5062,
+  "name": "Pixc, Inc.",
+  "slug": "pixc",
+  "website": "pixc.com",
+  "description": "Developer of image editing software designed to turn product images into edited versions that help to increase the online sales of the products. The company's software uses high-definition image editing technology that eases the process of background removal of the product images and highlights the product in front of customers, enabling store owners to attract customers and increase revenue.",
+  "one_liner": "Developer of image editing software designed to turn product images into edited versions that help to increase the online sales of the products. The company's software uses high-definition image editing technology that eases the process of background removal of the product images and highlights the product in front of customers, enabling store owners to attract customers and increase revenue.",
+  "location": "Australia",
+  "industry": "Social Media",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/83c581b0-1ce5-45eb-b67f-4e01be5b97f7.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Media"
+  ],
+  "url": "https://500.co/portfolio/pixc",
+  "api": "/companies/pixc.json"
+}

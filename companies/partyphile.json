@@ -1,0 +1,21 @@
+{
+  "id": 3192,
+  "name": "Guestlist Philippines, Inc.",
+  "slug": "partyphile",
+  "website": "partyphile.com",
+  "description": "Developer of an event discovery application. The company's event discovery application allows to discover the best parties, events and nightlife hotspots, enabling users to book tables and get on the guest list through the application.",
+  "one_liner": "Developer of an event discovery application. The company's event discovery application allows to discover the best parties, events and nightlife hotspots, enabling users to book tables and get on the guest list through the application.",
+  "location": "Philippines",
+  "industry": "Entertainment / Media",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/51553a00-f685-4d20-89d1-63d6166e901c.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Entertainment / Media"
+  ],
+  "url": "https://500.co/portfolio/partyphile",
+  "api": "/companies/partyphile.json"
+}

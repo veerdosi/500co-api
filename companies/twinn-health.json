@@ -1,0 +1,21 @@
+{
+  "id": 3568,
+  "name": "Twinn Health Limited",
+  "slug": "twinn-health",
+  "website": "twinn.health",
+  "description": "Developer of healthcare tools intended for early disease detection using imaging and AI tools to extend a healthy human lifespan. The company's platform uses MRI scanning and AI to get information about metabolism and body composition, enabling healthcare professionals to look for warning signs of potential inflammation, damage, and disease in major organs, muscles, and bones.",
+  "one_liner": "Developer of healthcare tools intended for early disease detection using imaging and AI tools to extend a healthy human lifespan. The company's platform uses MRI scanning and AI to get information about metabolism and body composition, enabling healthcare professionals to look for warning signs of potential inflammation, damage, and disease in major organs, muscles, and bones.",
+  "location": "United Kingdom",
+  "industry": "BioTech & Life Sciences",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "BioTech & Life Sciences"
+  ],
+  "url": "https://500.co/portfolio/twinn-health",
+  "api": "/companies/twinn-health.json"
+}

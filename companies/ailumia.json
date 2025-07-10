@@ -1,0 +1,23 @@
+{
+  "id": 5454,
+  "name": "Ailumia Global Ltd",
+  "slug": "ailumia",
+  "website": "ailumia.com",
+  "description": "Operator and developer of an IT consulting platform. The company's platform is empowered by artificial intelligence technology to guide every aspect of their retail process, providing customers and sellers with solutions and resources for potential challenges in the e-commerce industry.",
+  "one_liner": "Operator and developer of an IT consulting platform. The company's platform is empowered by artificial intelligence technology to guide every aspect of their retail process, providing customers and sellers with solutions and resources for potential challenges in the e-commerce industry.",
+  "location": "Taiwan",
+  "industry": "Ecommerce, Marketplace, Subscription",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/8a611cbb-f80f-4bed-a626-9aa5caa36c51.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Ecommerce",
+    "Marketplace",
+    "Subscription"
+  ],
+  "url": "https://500.co/portfolio/ailumia",
+  "api": "/companies/ailumia.json"
+}

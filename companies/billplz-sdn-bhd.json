@@ -1,0 +1,21 @@
+{
+  "id": 5217,
+  "name": "Billplz Sdn Bhd.",
+  "slug": "billplz-sdn-bhd",
+  "website": "billplz.com",
+  "description": "Provider of an online payment gateway designed to initiate automate and cashless bill payment system. The company's online payment gateway provides a fully secure payment portal where users can share the confidential bank details, enabling users to be assured of safety and privacy.",
+  "one_liner": "Provider of an online payment gateway designed to initiate automate and cashless bill payment system. The company's online payment gateway provides a fully secure payment portal where users can share the confidential bank details, enabling users to be assured of safety and privacy.",
+  "location": "Malaysia",
+  "industry": "Payments",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/9d55a488-7a67-4dba-a8e7-1ef264e32090.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Payments"
+  ],
+  "url": "https://500.co/portfolio/billplz-sdn-bhd",
+  "api": "/companies/billplz-sdn-bhd.json"
+}

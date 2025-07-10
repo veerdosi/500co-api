@@ -1,0 +1,22 @@
+{
+  "id": 3457,
+  "name": "Mall IQ, Inc.",
+  "slug": "mall-iq",
+  "website": "www.malliq.com",
+  "description": "Developer of an indoor location-based engagement and analytics platform designed to provide actionable insights. The company's platform contains features like indoor location tracking, detailed analytics, effortless fast setup, and behavior-based campaign, enabling banks, credit unions, fintech, loyalty platforms, and retailers to digitize real-time purchase intent in the physical world.",
+  "one_liner": "Developer of an indoor location-based engagement and analytics platform designed to provide actionable insights. The company's platform contains features like indoor location tracking, detailed analytics, effortless fast setup, and behavior-based campaign, enabling banks, credit unions, fintech, loyalty platforms, and retailers to digitize real-time purchase intent in the physical world.",
+  "location": "United States",
+  "industry": "Content, Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/bfb461cc-6337-4d94-9d60-8905722af565.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content",
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/mall-iq",
+  "api": "/companies/mall-iq.json"
+}

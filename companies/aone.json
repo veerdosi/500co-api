@@ -1,0 +1,22 @@
+{
+  "id": 5671,
+  "name": "My AOne Learning Sdn. Bhd.",
+  "slug": "aone",
+  "website": "aoneschools.com",
+  "description": "B2B Backend Management SaaS and payment software for educational businesses in Southeast Asia",
+  "one_liner": "B2B Backend Management SaaS and payment software for educational businesses in Southeast Asia",
+  "location": "Malaysia",
+  "industry": "Education, SaaS",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/4d97ad6d-ea64-4b3e-a377-08ed7b6b7c2d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education",
+    "SaaS"
+  ],
+  "url": "https://500.co/portfolio/aone",
+  "api": "/companies/aone.json"
+}

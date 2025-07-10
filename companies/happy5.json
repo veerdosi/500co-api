@@ -1,0 +1,21 @@
+{
+  "id": 2976,
+  "name": "PT Indonesia Untuk Dunia",
+  "slug": "happy5",
+  "website": "happy5.co",
+  "description": "Developer of a performance management platform designed to provide real-time people data. The company's platform allows managers to monitor and give reviews to rate the performance and continuous feedback related to a task, enabling employees to get visibility of all tasks' progress and their alignment with the company's strategic priority.",
+  "one_liner": "Developer of a performance management platform designed to provide real-time people data. The company's platform allows managers to monitor and give reviews to rate the performance and continuous feedback related to a task, enabling employees to get visibility of all tasks' progress and their alignment with the company's strategic priority.",
+  "location": "Indonesia",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/289c2007-a971-430b-a9a6-692fe20a8e12.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/happy5",
+  "api": "/companies/happy5.json"
+}

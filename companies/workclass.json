@@ -1,0 +1,21 @@
+{
+  "id": 3350,
+  "name": "Workclass Pte. Ltd.",
+  "slug": "workclass",
+  "website": "workclass.co",
+  "description": "Operator of an online job search platform intended to serve blue-collar workers. The company offers to help match employers with relevant workers as well as provides a portal for candidates to search and find jobs matching their skills, enabling individuals to search for jobs as well as provide companies access to resumes and hire matching candidates.",
+  "one_liner": "Operator of an online job search platform intended to serve blue-collar workers. The company offers to help match employers with relevant workers as well as provides a portal for candidates to search and find jobs matching their skills, enabling individuals to search for jobs as well as provide companies access to resumes and hire matching candidates.",
+  "location": "Singapore",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/workclass",
+  "api": "/companies/workclass.json"
+}

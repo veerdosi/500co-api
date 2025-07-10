@@ -1,0 +1,21 @@
+{
+  "id": 4792,
+  "name": "Luxeva Ltd",
+  "slug": "popxo",
+  "website": "popxo.com",
+  "description": "Provider of an online influencer marketing community platform intended to blend content and commerce. The company's platform is based on a digital publication that creates stories, videos, and social media content in six languages about the things young Indian women care about including fashion, beauty, lifestyle, weddings, and work-related topics and publish on the platform, thereby enabling women to lead their lives through data-driven insights.",
+  "one_liner": "Provider of an online influencer marketing community platform intended to blend content and commerce. The company's platform is based on a digital publication that creates stories, videos, and social media content in six languages about the things young Indian women care about including fashion, beauty, lifestyle, weddings, and work-related topics and publish on the platform, thereby enabling women to lead their lives through data-driven insights.",
+  "location": "India",
+  "industry": "Fashion",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion"
+  ],
+  "url": "https://500.co/portfolio/popxo",
+  "api": "/companies/popxo.json"
+}

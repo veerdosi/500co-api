@@ -1,0 +1,21 @@
+{
+  "id": 5000,
+  "name": "Retailigence Corp.",
+  "slug": "retailigence-corp",
+  "website": "retailigence.com",
+  "description": "Developer of Online-to-Offline (O2O) local marketing and commerce platform. The company provides in-store product data and location services for facilitating a shopper's path-to-purchase in brick-and-mortar stores.",
+  "one_liner": "Developer of Online-to-Offline (O2O) local marketing and commerce platform. The company provides in-store product data and location services for facilitating a shopper's path-to-purchase in brick-and-mortar stores.",
+  "location": "United States",
+  "industry": "Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2d3f104a-fe44-4c8f-8008-f647456230b3.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/retailigence-corp",
+  "api": "/companies/retailigence-corp.json"
+}

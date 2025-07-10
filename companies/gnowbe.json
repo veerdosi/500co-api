@@ -1,0 +1,23 @@
+{
+  "id": 2797,
+  "name": "Gnowbe Group Ltd",
+  "slug": "gnowbe",
+  "website": "www.gnowbe.com",
+  "description": "Developer of a mobile micro-learning educational software designed to offer employee development, training, and engagement tool. The company's system features group boards for shared learning and, scheduled session deployment, rapid curation accessing multimedia options, gamification, offline access, and push notifications, enabling creators to improve culture, and capabilities by designing engaging, informative, fun content.",
+  "one_liner": "Developer of a mobile micro-learning educational software designed to offer employee development, training, and engagement tool. The company's system features group boards for shared learning and, scheduled session deployment, rapid curation accessing multimedia options, gamification, offline access, and push notifications, enabling creators to improve culture, and capabilities by designing engaging, informative, fun content.",
+  "location": "Singapore",
+  "industry": "Education, SaaS, Creator Economy",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/8b8b4bc6-0a53-4227-8c21-51a575bbc201.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education",
+    "SaaS",
+    "Creator Economy"
+  ],
+  "url": "https://500.co/portfolio/gnowbe",
+  "api": "/companies/gnowbe.json"
+}

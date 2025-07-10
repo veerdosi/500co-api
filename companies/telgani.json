@@ -1,0 +1,21 @@
+{
+  "id": 3560,
+  "name": "Telgani Holding Limited",
+  "slug": "telgani",
+  "website": "www.telgani.com",
+  "description": "Developer of a car rental platform intended to help users rent their desired cars. The company's platform allows users to pick the car and the location they want to travel to and provides options for nearby providers to compare and book car rides, enabling customers to rent cars at competitive prices.",
+  "one_liner": "Developer of a car rental platform intended to help users rent their desired cars. The company's platform allows users to pick the car and the location they want to travel to and provides options for nearby providers to compare and book car rides, enabling customers to rent cars at competitive prices.",
+  "location": "Saudi Arabia",
+  "industry": "Mobility",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/6f4af74a-aa84-485f-a2cd-d730e02df640.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Mobility"
+  ],
+  "url": "https://500.co/portfolio/telgani",
+  "api": "/companies/telgani.json"
+}

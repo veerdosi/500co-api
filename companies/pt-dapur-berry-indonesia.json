@@ -1,0 +1,21 @@
+{
+  "id": 2948,
+  "name": "PT Dapur Berry Indonesia",
+  "slug": "pt-dapur-berry-indonesia",
+  "website": "berrykitchen.com",
+  "description": "Provider of an online catering service designed to provide food to the consumers at any location. The company's online catering service takes online orders for lunch boxes and bento meals, enabling consumers to order food from a varied range of delicious and healthy food menu.",
+  "one_liner": "Provider of an online catering service designed to provide food to the consumers at any location. The company's online catering service takes online orders for lunch boxes and bento meals, enabling consumers to order food from a varied range of delicious and healthy food menu.",
+  "location": "Indonesia",
+  "industry": "Mobility",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Mobility"
+  ],
+  "url": "https://500.co/portfolio/pt-dapur-berry-indonesia",
+  "api": "/companies/pt-dapur-berry-indonesia.json"
+}

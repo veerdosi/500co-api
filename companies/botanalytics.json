@@ -1,0 +1,22 @@
+{
+  "id": 3500,
+  "name": "Botanalytics, Inc.",
+  "slug": "botanalytics",
+  "website": "botanalytics.co",
+  "description": "Developer a conversational analytics platform designed to provide analytics and data tools. The company's suite of products offers deep insight into user behaviour, identifies trends and opportunities, and optimizes the chatbot's performance, enabling developers to maximise their chatbots' impact to create meaningful conversations.",
+  "one_liner": "Developer a conversational analytics platform designed to provide analytics and data tools. The company's suite of products offers deep insight into user behaviour, identifies trends and opportunities, and optimizes the chatbot's performance, enabling developers to maximise their chatbots' impact to create meaningful conversations.",
+  "location": "United States",
+  "industry": "Data & Analytics, Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/678ce158-a9fa-4704-beb6-1a7aa0552dd6.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics",
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/botanalytics",
+  "api": "/companies/botanalytics.json"
+}

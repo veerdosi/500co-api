@@ -1,0 +1,21 @@
+{
+  "id": 4865,
+  "name": "Startups.com LLC",
+  "slug": "startupscom",
+  "website": "www.startups.com",
+  "description": "Operator of a global startup launching platform intended to connect startup companies with customers, funding, mentors and instructors. The company's platform gives information regarding startups, investors, investment deals and other similar information from the business startup and financial world, as well as helps startups find customers, funding and mentors, enabling investors and startups to access a platform to explore private market information.",
+  "one_liner": "Operator of a global startup launching platform intended to connect startup companies with customers, funding, mentors and instructors. The company's platform gives information regarding startups, investors, investment deals and other similar information from the business startup and financial world, as well as helps startups find customers, funding and mentors, enabling investors and startups to access a platform to explore private market information.",
+  "location": "United States",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5f2bad7c-7a03-4ace-a7c9-c5a6367111c0.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/startupscom",
+  "api": "/companies/startupscom.json"
+}

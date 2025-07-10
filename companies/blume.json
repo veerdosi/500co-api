@@ -1,0 +1,21 @@
+{
+  "id": 5048,
+  "name": "Elleboxco Incorporated",
+  "slug": "blume",
+  "website": "www.blume.com",
+  "description": "Provider of a female hygiene subscription box service intended to deliver safe and sustainable period products. The company offers a customized selection of pads and tampons, acne-fighting products, hygiene, and self-care items, enabling young females to get personal care products easily at their doorstep without needing to run to the drug store.",
+  "one_liner": "Provider of a female hygiene subscription box service intended to deliver safe and sustainable period products. The company offers a customized selection of pads and tampons, acne-fighting products, hygiene, and self-care items, enabling young females to get personal care products easily at their doorstep without needing to run to the drug store.",
+  "location": "Canada",
+  "industry": "Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4df37b24-7b42-4062-96bc-9ecde8c2114a.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/blume",
+  "api": "/companies/blume.json"
+}

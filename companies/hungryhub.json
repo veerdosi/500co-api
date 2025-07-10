@@ -1,0 +1,23 @@
+{
+  "id": 3363,
+  "name": "AppServation Co., Ltd.",
+  "slug": "hungryhub",
+  "website": "web.hungryhub.com",
+  "description": "Developer of a fixed-price dining application designed to offer buffet deals and share set menus. The company's platform permits diners to know food bills upfront before entering restaurants as well as assists restaurants to drive revenue through sustainable promotions, enabling restaurants to improve their customer engagement in food service.",
+  "one_liner": "Developer of a fixed-price dining application designed to offer buffet deals and share set menus. The company's platform permits diners to know food bills upfront before entering restaurants as well as assists restaurants to drive revenue through sustainable promotions, enabling restaurants to improve their customer engagement in food service.",
+  "location": "Thailand",
+  "industry": "Food, Marketplace, Travel & Tourism",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/81ea4c02-1392-43ff-8673-cc2c1b522f1b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Food",
+    "Marketplace",
+    "Travel & Tourism"
+  ],
+  "url": "https://500.co/portfolio/hungryhub",
+  "api": "/companies/hungryhub.json"
+}

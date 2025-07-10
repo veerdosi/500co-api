@@ -1,0 +1,24 @@
+{
+  "id": 5451,
+  "name": "DWhale Inc.",
+  "slug": "clap",
+  "website": "welcome.clap.company",
+  "description": "Developer of management software designed for the onboarding process. The company's software is an integrated growth platform that connects employee goals, feedback, and performance and allows goal alignment, enabling firms to optimize their performance management culture, and providing communication and leadership guides for effective performance management.",
+  "one_liner": "Developer of management software designed for the onboarding process. The company's software is an integrated growth platform that connects employee goals, feedback, and performance and allows goal alignment, enabling firms to optimize their performance management culture, and providing communication and leadership guides for effective performance management.",
+  "location": "South Korea",
+  "industry": "Education, SaaS, Talent Management, HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/44538c7d-07dd-42c5-bb23-1d445b386418.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education",
+    "SaaS",
+    "Talent Management",
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/clap",
+  "api": "/companies/clap.json"
+}

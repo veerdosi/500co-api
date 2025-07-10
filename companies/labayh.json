@@ -1,0 +1,21 @@
+{
+  "id": 5159,
+  "name": "Labayh Holding LTD",
+  "slug": "labayh",
+  "website": "labayh.net",
+  "description": "Operator of a psychological care platform that provides well-being and mental health services. The company's platform connects users with licensed psychologists and psychiatrists through its mobile application, to offer consultations related to different problems that affect their mental health, enabling users to connect with doctors and receive advice for their health issues.",
+  "one_liner": "Operator of a psychological care platform that provides well-being and mental health services. The company's platform connects users with licensed psychologists and psychiatrists through its mobile application, to offer consultations related to different problems that affect their mental health, enabling users to connect with doctors and receive advice for their health issues.",
+  "location": "Saudi Arabia",
+  "industry": "Health Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4df0c7e8-9b87-4d7d-ada6-b40fb6ded24c.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Health Tech"
+  ],
+  "url": "https://500.co/portfolio/labayh",
+  "api": "/companies/labayh.json"
+}

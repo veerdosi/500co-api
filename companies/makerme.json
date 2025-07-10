@@ -1,0 +1,21 @@
+{
+  "id": 3794,
+  "name": "Maker, Inc.",
+  "slug": "makerme",
+  "website": "www.maker.co",
+  "description": "Developer of a content marketing platform designed to create and deliver engaging marketing campaigns. The company's platform combines design, web-publishing, and analytics tools in a single interface that can enhance any existing site to create, publish and optimize content for their landing and product pages, enabling clients to enrich their sites, increasing engagement, conversion, and revenue growth.",
+  "one_liner": "Developer of a content marketing platform designed to create and deliver engaging marketing campaigns. The company's platform combines design, web-publishing, and analytics tools in a single interface that can enhance any existing site to create, publish and optimize content for their landing and product pages, enabling clients to enrich their sites, increasing engagement, conversion, and revenue growth.",
+  "location": "United States",
+  "industry": "Fashion",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/bd2d72ff-12f7-4db0-941f-9bc4ad73a96b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion"
+  ],
+  "url": "https://500.co/portfolio/makerme",
+  "api": "/companies/makerme.json"
+}

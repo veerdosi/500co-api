@@ -1,0 +1,23 @@
+{
+  "id": 5073,
+  "name": "TICKR HOLDINGS, INC.",
+  "slug": "ticketrev",
+  "website": "www.ticketrev.com",
+  "description": "Operator of a reverse marketplace intended to buy and resell live event tickets. The company's platform offers buyers to create bids on events by choosing their preferred seating location and naming their offer price, enabling sellers to accept a matching bid and resell their tickets instantly.",
+  "one_liner": "Operator of a reverse marketplace intended to buy and resell live event tickets. The company's platform offers buyers to create bids on events by choosing their preferred seating location and naming their offer price, enabling sellers to accept a matching bid and resell their tickets instantly.",
+  "location": "United States",
+  "industry": "Sports, Entertainment / Media, Consumer",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4922a029-985f-481e-82ac-ff2872234944.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Sports",
+    "Entertainment / Media",
+    "Consumer"
+  ],
+  "url": "https://500.co/portfolio/ticketrev",
+  "api": "/companies/ticketrev.json"
+}

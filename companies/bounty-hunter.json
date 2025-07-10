@@ -1,0 +1,21 @@
+{
+  "id": 4975,
+  "name": "Bounty Hunter Inc.",
+  "slug": "bounty-hunter",
+  "website": "bhuntr.com",
+  "description": "Operator of a creative competition platform intended for brands to run creative contests. The company's platform is a channel for creative people to realize and chase their dreams by, enabling creative people with the opportunity to show their success, let themselves shine through the competition, and at the same time provide a complete portfolio so that creators can put their creative works on and share with each other, and learn and grow.",
+  "one_liner": "Operator of a creative competition platform intended for brands to run creative contests. The company's platform is a channel for creative people to realize and chase their dreams by, enabling creative people with the opportunity to show their success, let themselves shine through the competition, and at the same time provide a complete portfolio so that creators can put their creative works on and share with each other, and learn and grow.",
+  "location": "Taiwan",
+  "industry": "Social Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/cf0d1d0c-6680-4787-8798-563958540299.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Impact"
+  ],
+  "url": "https://500.co/portfolio/bounty-hunter",
+  "api": "/companies/bounty-hunter.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4823,
+  "name": "HomeGP Sdn Bhd",
+  "slug": "homegp",
+  "website": "www.homegp.asia",
+  "description": "Developer of a healthcare software designed to connect healthcare seekers to house-call healthcare practitioners. The company's platform offers private home caregivers, licensed physiotherapists, pathology lab services, medicine courier services, and many other miscellaneous services, enabling patients bedridden at home or elderly people to access professional healthcare services without having to step out of their comfort zone.",
+  "one_liner": "Developer of a healthcare software designed to connect healthcare seekers to house-call healthcare practitioners. The company's platform offers private home caregivers, licensed physiotherapists, pathology lab services, medicine courier services, and many other miscellaneous services, enabling patients bedridden at home or elderly people to access professional healthcare services without having to step out of their comfort zone.",
+  "location": "Egypt",
+  "industry": "Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a88a491a-d94b-402a-9c88-7ee684bc36b1.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/homegp",
+  "api": "/companies/homegp.json"
+}

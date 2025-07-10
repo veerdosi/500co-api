@@ -1,0 +1,23 @@
+{
+  "id": 3703,
+  "name": "72Lux Inc.",
+  "slug": "shoppable",
+  "website": "shoppable.com",
+  "description": "Developer of a distributed shopping platform intended to reduce the marketing budget. The company's platform revolutionizes affiliate marketing, integrates shopping experiences into paid search, display and social media and turnkey embeddable commerce options are available for websites, allows maximum flexibility on desktop and mobile, and holds multiple patents for universal checkout, enabling advertisers, retailers and publishers to create shoppable sites, content, advertisements, mobile applications and other commerce experiences.",
+  "one_liner": "Developer of a distributed shopping platform intended to reduce the marketing budget. The company's platform revolutionizes affiliate marketing, integrates shopping experiences into paid search, display and social media and turnkey embeddable commerce options are available for websites, allows maximum flexibility on desktop and mobile, and holds multiple patents for universal checkout, enabling advertisers, retailers and publishers to create shoppable sites, content, advertisements, mobile applications and other commerce experiences.",
+  "location": "United States",
+  "industry": "AdTech, CPG (Consumer packaged goods), Ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/6abd0b5c-aa7f-40fa-a467-3f8d7ae0670f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AdTech",
+    "CPG (Consumer packaged goods)",
+    "Ecommerce"
+  ],
+  "url": "https://500.co/portfolio/shoppable",
+  "api": "/companies/shoppable.json"
+}

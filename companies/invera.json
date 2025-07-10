@@ -1,0 +1,21 @@
+{
+  "id": 5685,
+  "name": "Invertio Investments LLC",
+  "slug": "invera",
+  "website": "invera.io",
+  "description": "Developer of fintech platform intended to provide the infrastructure to embed and scale investment products to financial institutions. The company's platform expands the margins of its operations with a combination of investment platforms and automation resolutions, helping businesses access financial expertise to better understand their customers and make better business decisions.",
+  "one_liner": "Developer of fintech platform intended to provide the infrastructure to embed and scale investment products to financial institutions. The company's platform expands the margins of its operations with a combination of investment platforms and automation resolutions, helping businesses access financial expertise to better understand their customers and make better business decisions.",
+  "location": "Argentina",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/d8d00648-975c-470a-8e37-c4d6e462f4cc.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/invera",
+  "api": "/companies/invera.json"
+}

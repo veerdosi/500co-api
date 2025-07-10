@@ -1,0 +1,21 @@
+{
+  "id": 2781,
+  "name": "Doodle Mobile Ltd",
+  "slug": "doodle-mobile-ltd",
+  "website": "doodlemobile.com",
+  "description": "Provider of an online gaming platform designed to offer mobile games. The company's platform develops and publishes mobile social games for android-based devices, enabling game enthusiasts to download them and play with their friends.",
+  "one_liner": "Provider of an online gaming platform designed to offer mobile games. The company's platform develops and publishes mobile social games for android-based devices, enabling game enthusiasts to download them and play with their friends.",
+  "location": "Cayman Islands",
+  "industry": "Gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Gaming"
+  ],
+  "url": "https://500.co/portfolio/doodle-mobile-ltd",
+  "api": "/companies/doodle-mobile-ltd.json"
+}

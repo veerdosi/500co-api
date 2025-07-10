@@ -1,0 +1,21 @@
+{
+  "id": 5102,
+  "name": "Appaegis Inc.",
+  "slug": "mammoth-cyber",
+  "website": "www.mammothcyber.com",
+  "description": "Developer of agentless zero-trust access system intended to connect users with enterprise applications. The company's technology blocks attacks from zero-day exploits, while keeping enterprise data within its secure access service edge framework regardless of the choice of architecture, platforms, and existing portfolio of products, enabling customers to gain full visibility and control of how users interact with applications.",
+  "one_liner": "Developer of agentless zero-trust access system intended to connect users with enterprise applications. The company's technology blocks attacks from zero-day exploits, while keeping enterprise data within its secure access service edge framework regardless of the choice of architecture, platforms, and existing portfolio of products, enabling customers to gain full visibility and control of how users interact with applications.",
+  "location": "United States",
+  "industry": "Cybersecurity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Cybersecurity"
+  ],
+  "url": "https://500.co/portfolio/mammoth-cyber",
+  "api": "/companies/mammoth-cyber.json"
+}

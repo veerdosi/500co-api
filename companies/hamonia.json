@@ -1,0 +1,21 @@
+{
+  "id": 2937,
+  "name": "Harmonia Inc.",
+  "slug": "hamonia",
+  "website": "www.harmoniainc.jp",
+  "description": "Developer of a pricing management tool designed to provide optimum rates by streamlining price settings according to supply and demand. The company's tool utilizes machine learning technology that increases calculation accuracy and automatic operation, enabling hotel employees and their customers to get to make zero price mismatches around the world.",
+  "one_liner": "Developer of a pricing management tool designed to provide optimum rates by streamlining price settings according to supply and demand. The company's tool utilizes machine learning technology that increases calculation accuracy and automatic operation, enabling hotel employees and their customers to get to make zero price mismatches around the world.",
+  "location": "Japan",
+  "industry": "Travel & Tourism",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/c6ff601f-e04f-4652-8ce6-44bfc5725a73.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Travel & Tourism"
+  ],
+  "url": "https://500.co/portfolio/hamonia",
+  "api": "/companies/hamonia.json"
+}

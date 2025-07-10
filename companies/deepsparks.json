@@ -1,0 +1,21 @@
+{
+  "id": 3345,
+  "name": "DeepSparks Co., Ltd.",
+  "slug": "deepsparks",
+  "website": "www.deepsparks.ai",
+  "description": "Developer of an AI technology platform designed to assist with marketing and alternative scoring applications. The company's platform is a fully digitalized process of lowering risk in credit scoring in the loan approval process by analyzing data, enabling financial institutions and microlenders to serve customers in the underbanked sector.",
+  "one_liner": "Developer of an AI technology platform designed to assist with marketing and alternative scoring applications. The company's platform is a fully digitalized process of lowering risk in credit scoring in the loan approval process by analyzing data, enabling financial institutions and microlenders to serve customers in the underbanked sector.",
+  "location": "Thailand",
+  "industry": "AI/Machine Learning",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning"
+  ],
+  "url": "https://500.co/portfolio/deepsparks",
+  "api": "/companies/deepsparks.json"
+}

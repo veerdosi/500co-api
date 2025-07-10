@@ -1,0 +1,21 @@
+{
+  "id": 3374,
+  "name": "Lemonaide Pte. Ltd.",
+  "slug": "lemonaide",
+  "website": "lemonaidegroup.com",
+  "description": "Operator of a digital platform designed for providing services to the automotive industry. The company offers software that manages and handles the data and information related to the history of automotive and technology for autonomously authenticating products for all stakeholders, enabling automotive buyers and sellers to eliminate such asymmetric and misleading information as well as manage the resource in a correct and useful manner.",
+  "one_liner": "Operator of a digital platform designed for providing services to the automotive industry. The company offers software that manages and handles the data and information related to the history of automotive and technology for autonomously authenticating products for all stakeholders, enabling automotive buyers and sellers to eliminate such asymmetric and misleading information as well as manage the resource in a correct and useful manner.",
+  "location": "Thailand",
+  "industry": "InsurTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "InsurTech"
+  ],
+  "url": "https://500.co/portfolio/lemonaide",
+  "api": "/companies/lemonaide.json"
+}

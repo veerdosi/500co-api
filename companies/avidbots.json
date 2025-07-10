@@ -1,0 +1,21 @@
+{
+  "id": 2861,
+  "name": "Avidbots Corp.",
+  "slug": "avidbots",
+  "website": "avidbots.com",
+  "description": "Developer of autonomous robotics systems designed to automate commercial floor cleaning. The company's systems cooperate to clean department stores, auto dealerships, education facilities, airports, and other commercial cleaning spaces and thus automates the most labor and time-intensive part of commercial cleaning, enabling the cleaning crew to focus on higher-value cleaning tasks and leaving repetitive and tedious floor scrubbing to robots.",
+  "one_liner": "Developer of autonomous robotics systems designed to automate commercial floor cleaning. The company's systems cooperate to clean department stores, auto dealerships, education facilities, airports, and other commercial cleaning spaces and thus automates the most labor and time-intensive part of commercial cleaning, enabling the cleaning crew to focus on higher-value cleaning tasks and leaving repetitive and tedious floor scrubbing to robots.",
+  "location": "Canada",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/26795ea5-3fa4-4790-87c6-69d77b29e906.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/avidbots",
+  "api": "/companies/avidbots.json"
+}

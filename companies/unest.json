@@ -1,0 +1,21 @@
+{
+  "id": 5693,
+  "name": "UNest Holdings, Inc.",
+  "slug": "unest",
+  "website": "unest.co",
+  "description": "Developer of a digital investing platform designed to help parents to save and grow the money needed to fund their children's education.",
+  "one_liner": "Developer of a digital investing platform designed to help parents to save and grow the money needed to fund their children's education.",
+  "location": "United States",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2a18c8b1-e900-4082-b4f4-c4919e86ec64.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/unest",
+  "api": "/companies/unest.json"
+}

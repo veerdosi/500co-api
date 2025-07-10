@@ -1,0 +1,21 @@
+{
+  "id": 5552,
+  "name": "DATAINT LLC",
+  "slug": "dataint",
+  "website": "dataint.mx",
+  "description": "Developer of a data-driven intelligence platform designed to help organizations mitigate the security risks that their personnel and physical assets face in their operations. The company offers complete security services with crime analytics, human intel and safe route planning to protect and secure operations and personnel and streamlines intelligence data collection and management for efficient threat identification, enabling analysts to focus on security threats instead of managing and collecting data as well as reduce risk, prioritize vulnerabilities and plan their logistics with more clarity and ease.",
+  "one_liner": "Developer of a data-driven intelligence platform designed to help organizations mitigate the security risks that their personnel and physical assets face in their operations. The company offers complete security services with crime analytics, human intel and safe route planning to protect and secure operations and personnel and streamlines intelligence data collection and management for efficient threat identification, enabling analysts to focus on security threats instead of managing and collecting data as well as reduce risk, prioritize vulnerabilities and plan their logistics with more clarity and ease.",
+  "location": "Mexico",
+  "industry": "SaaS",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/7ddf6754-6c5b-471d-b2af-797f7c213d8b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "SaaS"
+  ],
+  "url": "https://500.co/portfolio/dataint",
+  "api": "/companies/dataint.json"
+}

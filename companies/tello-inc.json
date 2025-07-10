@@ -1,0 +1,21 @@
+{
+  "id": 4285,
+  "name": "Tello, Inc.",
+  "slug": "tello-inc",
+  "website": "tello.com",
+  "description": "Developer of SaaS and mobile application for customer feedback. The company provides web and mobile service that aggregates ratings for businesses from across the web and allows users to post comments about their experience at a business.",
+  "one_liner": "Developer of SaaS and mobile application for customer feedback. The company provides web and mobile service that aggregates ratings for businesses from across the web and allows users to post comments about their experience at a business.",
+  "location": "United States",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/299a5a5b-c88f-4f4e-b03b-6246ca24d356.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/tello-inc",
+  "api": "/companies/tello-inc.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2696,
+  "name": "Civet Biosciences Limited",
+  "slug": "civetbio",
+  "website": "civetbio.com",
+  "description": "Provider of biotechnology service intended to accelerate drug discovery for live bio-therapeutics. The company's service includes a microbiota bank, a clinical intervention platform, and core big data technology that powers their bioinformatics pipeline, enabling researchers to characterize the Asian gut microbiome and understand the varying profiles across country regions.",
+  "one_liner": "Provider of biotechnology service intended to accelerate drug discovery for live bio-therapeutics. The company's service includes a microbiota bank, a clinical intervention platform, and core big data technology that powers their bioinformatics pipeline, enabling researchers to characterize the Asian gut microbiome and understand the varying profiles across country regions.",
+  "location": "China",
+  "industry": "BioTech & Life Sciences",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "BioTech & Life Sciences"
+  ],
+  "url": "https://500.co/portfolio/civetbio",
+  "api": "/companies/civetbio.json"
+}

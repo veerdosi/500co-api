@@ -1,0 +1,182 @@
+[
+  {
+    "id": 8334,
+    "name": "DK Finechemical Co., Ltd.",
+    "slug": "dk-finechemical",
+    "website": "www.dkfinechem.com",
+    "description": "Manufacturer of eco-friendly functional additives made from natural wood and cotton-derived cellulose, serving industries including construction, food, animal feed, and medicine.",
+    "one_liner": "Manufacturer of eco-friendly functional additives made from natural wood and cotton-derived cellulose, serving industries including construction, food, animal feed, and medicine.",
+    "location": "KOREA, REPUBLIC OF",
+    "industry": "Manufacturing, Big Data",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/95a0a5f7-b4b9-4395-b5e0-d3246af8ad4e.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Manufacturing",
+      "Big Data"
+    ],
+    "url": "https://500.co/portfolio/dk-finechemical",
+    "api": "/companies/dk-finechemical.json"
+  },
+  {
+    "id": 3146,
+    "name": "FireVisor Systems Pte. Ltd.",
+    "slug": "firevisor",
+    "website": "www.firevisor.com",
+    "description": "Developer of a factory analysis platform designed to automate manufacturing processes. The company's platform leverages artificial intelligence and machine learning to detect, analyze and monitor manufacturing defects thereby reducing the cost of poor quality, enabling clients to reduce manual labor hours and increase profits.",
+    "one_liner": "Developer of a factory analysis platform designed to automate manufacturing processes. The company's platform leverages artificial intelligence and machine learning to detect, analyze and monitor manufacturing defects thereby reducing the cost of poor quality, enabling clients to reduce manual labor hours and increase profits.",
+    "location": "Singapore",
+    "industry": "Manufacturing",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Manufacturing"
+    ],
+    "url": "https://500.co/portfolio/firevisor",
+    "api": "/companies/firevisor.json"
+  },
+  {
+    "id": 4625,
+    "name": "Folia Water, Inc.",
+    "slug": "folia-water",
+    "website": "www.foliawater.com",
+    "description": "Developer and manufacturer of paper water filter products designed to reduce waterborne pathogens. The company's product uses large-scale paper machinery to manufacture low-cost nano-metal materials which are chemically functionalized fiber, enabling clients to help customers drink purified water at a low cost.",
+    "one_liner": "Developer and manufacturer of paper water filter products designed to reduce waterborne pathogens. The company's product uses large-scale paper machinery to manufacture low-cost nano-metal materials which are chemically functionalized fiber, enabling clients to help customers drink purified water at a low cost.",
+    "location": "United States",
+    "industry": "Manufacturing",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/9a4bbae5-fca0-4a97-84c2-762cc87dff82.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Manufacturing"
+    ],
+    "url": "https://500.co/portfolio/folia-water",
+    "api": "/companies/folia-water.json"
+  },
+  {
+    "id": 5576,
+    "name": "PT Sinari Generasi Indonesia",
+    "slug": "proglix",
+    "website": "proglix.com",
+    "description": "Developer of procurement platform designed for purchasing industrial products at the lowest prices for the business. The company's platform specializes in business and industrial needs, specifically electrical and engineering equipment and building and construction supplies with the support of technology, enabling businesses with reasonable price offers and bringing together trusted raw material supplier partners by increasing the selling of raw materials.",
+    "one_liner": "Developer of procurement platform designed for purchasing industrial products at the lowest prices for the business. The company's platform specializes in business and industrial needs, specifically electrical and engineering equipment and building and construction supplies with the support of technology, enabling businesses with reasonable price offers and bringing together trusted raw material supplier partners by increasing the selling of raw materials.",
+    "location": "Indonesia",
+    "industry": "Industrials, Manufacturing, B2B Marketplaces",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/60d908cd-011f-45d0-ad15-27b87c514914.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Industrials",
+      "Manufacturing",
+      "B2B Marketplaces"
+    ],
+    "url": "https://500.co/portfolio/proglix",
+    "api": "/companies/proglix.json"
+  },
+  {
+    "id": 5347,
+    "name": "Seeloz, INC.",
+    "slug": "seeloz",
+    "website": "www.seeloz.com",
+    "description": "Developer of an autonomous requirements planning platform designed to revolutionize supply chain planning and management. The company's platform generates replenishment orders and continuously monitors the supply chain to detect anomalies, provide root cause analysis, derive actionable insights, and recommend corrective actions, enabling clients to deliver transformative business results in verticals that are reliant on global supply chains.",
+    "one_liner": "Developer of an autonomous requirements planning platform designed to revolutionize supply chain planning and management. The company's platform generates replenishment orders and continuously monitors the supply chain to detect anomalies, provide root cause analysis, derive actionable insights, and recommend corrective actions, enabling clients to deliver transformative business results in verticals that are reliant on global supply chains.",
+    "location": "United States",
+    "industry": "AI/Machine Learning, Manufacturing, Utilities (energy, water, waste)",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/78842572-8462-498d-9841-62d7bf57fdc8.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "AI/Machine Learning",
+      "Manufacturing",
+      "Utilities (energy, water, waste)"
+    ],
+    "url": "https://500.co/portfolio/seeloz",
+    "api": "/companies/seeloz.json"
+  },
+  {
+    "id": 3093,
+    "name": "Seppure Pte. Ltd.",
+    "slug": "seppure",
+    "website": "seppure.com",
+    "description": "Developer of a nano-filtration technology designed to revolutionize chemical separation and purification in multiple industries. The company's technology provides a sustainable package for industrial chemical separations by replacing the current distillation process with chemical-resistant nano-filtration membranes, enabling clients to lower global energy use, emissions, and pollution substantially.",
+    "one_liner": "Developer of a nano-filtration technology designed to revolutionize chemical separation and purification in multiple industries. The company's technology provides a sustainable package for industrial chemical separations by replacing the current distillation process with chemical-resistant nano-filtration membranes, enabling clients to lower global energy use, emissions, and pollution substantially.",
+    "location": "Singapore",
+    "industry": "CleanTech, Climate Tech, Manufacturing",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/8f712650-bda7-44c2-a761-c2f76e6d34b5.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "CleanTech",
+      "Climate Tech",
+      "Manufacturing"
+    ],
+    "url": "https://500.co/portfolio/seppure",
+    "api": "/companies/seppure.json"
+  },
+  {
+    "id": 5743,
+    "name": "Sleek EV Pte Ltd.",
+    "slug": "sleek-ev",
+    "website": "www.sleekev.com",
+    "description": "Manufacturer of electric scooters designed for urban riding and create a world where green vehicles become the new standard. The company's scooters utilize motors with field-oriented control, ensuring power optimization and maximum acceleration and removable batteries that can be charged in-bike or via sockets, enabling users to travel efficiently and sustainably.",
+    "one_liner": "Manufacturer of electric scooters designed for urban riding and create a world where green vehicles become the new standard. The company's scooters utilize motors with field-oriented control, ensuring power optimization and maximum acceleration and removable batteries that can be charged in-bike or via sockets, enabling users to travel efficiently and sustainably.",
+    "location": "Thailand",
+    "industry": "App, Automotive, Manufacturing, Mobility",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b94a4d60-7243-4bfc-992a-b5a4884d64f8.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "App",
+      "Automotive",
+      "Manufacturing",
+      "Mobility"
+    ],
+    "url": "https://500.co/portfolio/sleek-ev",
+    "api": "/companies/sleek-ev.json"
+  },
+  {
+    "id": 5541,
+    "name": "Wifworld Pte. Ltd.",
+    "slug": "wifkain",
+    "website": "www.wifkain.com",
+    "description": "Developer of a manufacturing-as-a-service platform designed to connect fashion businesses with fabric suppliers. The company's platform specializes in making it convenient to receive fabrics from suppliers directly, both online and offline to oversee transparent production progress, enabling users to view and order fabrics and order samples effortlessly with direct touch and sensation at all times.",
+    "one_liner": "Developer of a manufacturing-as-a-service platform designed to connect fashion businesses with fabric suppliers. The company's platform specializes in making it convenient to receive fabrics from suppliers directly, both online and offline to oversee transparent production progress, enabling users to view and order fabrics and order samples effortlessly with direct touch and sensation at all times.",
+    "location": "Indonesia",
+    "industry": "Fashion, Manufacturing, Marketplace",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/53810560-77d3-4a4c-aff7-574da07c9438.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Fashion",
+      "Manufacturing",
+      "Marketplace"
+    ],
+    "url": "https://500.co/portfolio/wifkain",
+    "api": "/companies/wifkain.json"
+  }
+]

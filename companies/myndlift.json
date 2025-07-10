@@ -1,0 +1,21 @@
+{
+  "id": 2954,
+  "name": "Myndlift Ltd.",
+  "slug": "myndlift",
+  "website": "www.myndlift.com",
+  "description": "Developer of a professional remote neurofeedback technology designed to improve cognitive abilities. The company's technology detects and measures brain wave activity to offer a set of mind-controlled gamified exercises that are based on an evidence-based technique, enabling healthcare professionals to help patients with ADHD to strengthen their concentration.",
+  "one_liner": "Developer of a professional remote neurofeedback technology designed to improve cognitive abilities. The company's technology detects and measures brain wave activity to offer a set of mind-controlled gamified exercises that are based on an evidence-based technique, enabling healthcare professionals to help patients with ADHD to strengthen their concentration.",
+  "location": "Israel",
+  "industry": "Health Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/14cc5841-b44f-4460-be45-592c22078aaa.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Health Tech"
+  ],
+  "url": "https://500.co/portfolio/myndlift",
+  "api": "/companies/myndlift.json"
+}

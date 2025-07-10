@@ -1,0 +1,22 @@
+{
+  "id": 5352,
+  "name": "Ohalo Limited",
+  "slug": "ohalo",
+  "website": "www.ohalo.co",
+  "description": "Developer of an online data compliance platform designed to facilitate secured and automated data sharing across multiple networks. The company's platform utilizes data compliance algorithms and blockchain technology to connect into a generalized application programming interface, as well as provides infinite flexibility to calibrate ad-hoc data sharing arrangements according to individual data compliance needs, enabling financial institutions to share jurisdictional and financial data quickly and safely.",
+  "one_liner": "Developer of an online data compliance platform designed to facilitate secured and automated data sharing across multiple networks. The company's platform utilizes data compliance algorithms and blockchain technology to connect into a generalized application programming interface, as well as provides infinite flexibility to calibrate ad-hoc data sharing arrangements according to individual data compliance needs, enabling financial institutions to share jurisdictional and financial data quickly and safely.",
+  "location": "United Kingdom",
+  "industry": "Cybersecurity, Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4fa4f10c-bfd0-414e-bbb9-2f1ce9c9e18b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Cybersecurity",
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/ohalo",
+  "api": "/companies/ohalo.json"
+}

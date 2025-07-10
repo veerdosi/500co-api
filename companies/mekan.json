@@ -1,0 +1,22 @@
+{
+  "id": 5511,
+  "name": "Mekan Spare parts LLC",
+  "slug": "mekan",
+  "website": "somosmekan.com",
+  "description": "Operator of an online transformative platform designed to facilitate rapid and improved growth for the automotive sector. The company offers streamlined access to all essential automotive repair and mechanics resources for all automotive brands, ensuring efficient procurement at reasonable costs and providing unparalleled delivery speed, enabling Latam automotive sector's mechanical workshops with the supply of spare parts.",
+  "one_liner": "Operator of an online transformative platform designed to facilitate rapid and improved growth for the automotive sector. The company offers streamlined access to all essential automotive repair and mechanics resources for all automotive brands, ensuring efficient procurement at reasonable costs and providing unparalleled delivery speed, enabling Latam automotive sector's mechanical workshops with the supply of spare parts.",
+  "location": "Colombia",
+  "industry": "Automotive, Consumer",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/ec7e7035-2978-4be6-9af9-f5f45d5fab53.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Automotive",
+    "Consumer"
+  ],
+  "url": "https://500.co/portfolio/mekan",
+  "api": "/companies/mekan.json"
+}

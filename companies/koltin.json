@@ -1,0 +1,21 @@
+{
+  "id": 5130,
+  "name": "Koltin Holdings Ltd",
+  "slug": "koltin",
+  "website": "www.koltin.mx",
+  "description": "Operator of a digital health platform intended to provide insurance and preventative care services to seniors in Mexico. The company's platform specializes in providing health plans, and remote support service that includes accident insurance, medical emergencies, insurance for major medical expenses, and unlimited preventive advice by specialists, enabling the elderly to enjoy their independence for longer while maintaining their physical and mental abilities.",
+  "one_liner": "Operator of a digital health platform intended to provide insurance and preventative care services to seniors in Mexico. The company's platform specializes in providing health plans, and remote support service that includes accident insurance, medical emergencies, insurance for major medical expenses, and unlimited preventive advice by specialists, enabling the elderly to enjoy their independence for longer while maintaining their physical and mental abilities.",
+  "location": "Mexico",
+  "industry": "InsurTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/ed1c5904-2202-46a9-960a-e0c529a091c7.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "InsurTech"
+  ],
+  "url": "https://500.co/portfolio/koltin",
+  "api": "/companies/koltin.json"
+}

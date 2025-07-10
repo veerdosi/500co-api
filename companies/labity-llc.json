@@ -1,0 +1,21 @@
+{
+  "id": 8155,
+  "name": "Labity LLC",
+  "slug": "labity-llc",
+  "website": "calendico.com",
+  "description": "Tu WhatsApp de reservas para que los clientes agenden solos",
+  "one_liner": "Tu WhatsApp de reservas para que los clientes agenden solos",
+  "location": "United States",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/a683857c-869c-4706-a1af-9e0f7998f93b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/labity-llc",
+  "api": "/companies/labity-llc.json"
+}

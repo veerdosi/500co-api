@@ -1,0 +1,21 @@
+{
+  "id": 2840,
+  "name": "Grupo Conektame S.A. de C.V",
+  "slug": "conekta",
+  "website": "www.conekta.com",
+  "description": "Developer of an online payment platform designed to secure and optimize bank processes. The company's platform uses artificial intelligence to integrate the application programming interface to process online and offline payments and analyze the transaction behavior to identify fraudulent purchases while certified secure banking services encrypt and protect banking and financial information, enabling businesses to accept online payments through cards, cash or bank transfers in a simple and safe manner.",
+  "one_liner": "Developer of an online payment platform designed to secure and optimize bank processes. The company's platform uses artificial intelligence to integrate the application programming interface to process online and offline payments and analyze the transaction behavior to identify fraudulent purchases while certified secure banking services encrypt and protect banking and financial information, enabling businesses to accept online payments through cards, cash or bank transfers in a simple and safe manner.",
+  "location": "Mexico",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/aaa46b4f-b95a-4406-b127-243a11391fdb.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/conekta",
+  "api": "/companies/conekta.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4985,
+  "name": "Lansdowne Technologies, Inc.",
+  "slug": "flycrates",
+  "website": "flycrates.com",
+  "description": "Operator of an online logistics platform intended to provide international shipping. The company offers a web-based platform, as well as a Chrome extension, enabling users to purchase from Amazon internationally and get delivered to their doorstep.",
+  "one_liner": "Operator of an online logistics platform intended to provide international shipping. The company offers a web-based platform, as well as a Chrome extension, enabling users to purchase from Amazon internationally and get delivered to their doorstep.",
+  "location": "United States",
+  "industry": "Supply Chain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/edf20c9a-cbc6-46cc-98f3-3c898db1aa38.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Supply Chain"
+  ],
+  "url": "https://500.co/portfolio/flycrates",
+  "api": "/companies/flycrates.json"
+}

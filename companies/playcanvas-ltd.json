@@ -1,0 +1,21 @@
+{
+  "id": 3545,
+  "name": "PlayCanvas Ltd.",
+  "slug": "playcanvas-ltd",
+  "website": "playcanvas.com",
+  "description": "Developer of a visual development platform for interactive web content. The company's visual editing tool lets users build scenes, applications and games in record time, manage project assets, to add interactivity and to communicate and work with the team, enabling developers to build, share and play video game through real-time collaboration.",
+  "one_liner": "Developer of a visual development platform for interactive web content. The company's visual editing tool lets users build scenes, applications and games in record time, manage project assets, to add interactivity and to communicate and work with the team, enabling developers to build, share and play video game through real-time collaboration.",
+  "location": "United Kingdom",
+  "industry": "Gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5072485c-0b65-4739-b6d3-e0c982aa8bca.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Gaming"
+  ],
+  "url": "https://500.co/portfolio/playcanvas-ltd",
+  "api": "/companies/playcanvas-ltd.json"
+}

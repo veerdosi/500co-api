@@ -1,0 +1,21 @@
+{
+  "id": 4072,
+  "name": "Whoosh Traffic, Inc.",
+  "slug": "whoosh-traffic-inc",
+  "website": "www.marketvibe.com",
+  "description": "Provider of hassle-free marketing optimization tools. The company uses customers web analytics and shopping cart data to teach companies how to get more traffic, leads and sales.",
+  "one_liner": "Provider of hassle-free marketing optimization tools. The company uses customers web analytics and shopping cart data to teach companies how to get more traffic, leads and sales.",
+  "location": "United States",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/whoosh-traffic-inc",
+  "api": "/companies/whoosh-traffic-inc.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2871,
+  "name": "Mojio, Inc.",
+  "slug": "mojio",
+  "website": "www.moj.io",
+  "description": "Developer of a modular SaaS platform designed to build, launch, and scale connected mobility services. The company's platform, applications, and services deliver a smarter, safer, and more convenient car ownership experience for the global driving community and offer GPS fleet tracking solutions for small businesses that rely on their vehicles to get the job done, providing individuals and businesses with scalable, secure and hardware-agnostic connected mobility services.",
+  "one_liner": "Developer of a modular SaaS platform designed to build, launch, and scale connected mobility services. The company's platform, applications, and services deliver a smarter, safer, and more convenient car ownership experience for the global driving community and offer GPS fleet tracking solutions for small businesses that rely on their vehicles to get the job done, providing individuals and businesses with scalable, secure and hardware-agnostic connected mobility services.",
+  "location": "Canada",
+  "industry": "Automotive",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/bc2d6449-1379-453d-a0af-baf021823770.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Automotive"
+  ],
+  "url": "https://500.co/portfolio/mojio",
+  "api": "/companies/mojio.json"
+}

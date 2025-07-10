@@ -1,0 +1,21 @@
+{
+  "id": 5340,
+  "name": "Voila Travel GmbH",
+  "slug": "voila-travel-gmbh",
+  "website": "voya.ai",
+  "description": "Operator of an online platform intended to offer digital business travel service. The company's platform offers a travel assistant that uses artificial intelligence tools combined with the advisory of experienced travel experts, enabling travelers to efficiently manage travel expenses and save time.",
+  "one_liner": "Operator of an online platform intended to offer digital business travel service. The company's platform offers a travel assistant that uses artificial intelligence tools combined with the advisory of experienced travel experts, enabling travelers to efficiently manage travel expenses and save time.",
+  "location": "Germany",
+  "industry": "Travel & Tourism",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/6529af1b-9bd8-47de-9344-69457db4f7eb.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Travel & Tourism"
+  ],
+  "url": "https://500.co/portfolio/voila-travel-gmbh",
+  "api": "/companies/voila-travel-gmbh.json"
+}

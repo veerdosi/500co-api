@@ -1,0 +1,21 @@
+{
+  "id": 3047,
+  "name": "OnMyGrad Limited",
+  "slug": "onmygrad",
+  "website": "www.onmygrad.space",
+  "description": "Developer of a talent solution platform for campus recruitment and talent onboarding. The company's platform connects university students with potential employers, enabling fresh graduates to seek career opportunities easily online.",
+  "one_liner": "Developer of a talent solution platform for campus recruitment and talent onboarding. The company's platform connects university students with potential employers, enabling fresh graduates to seek career opportunities easily online.",
+  "location": "Hong Kong",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5fac1fb7-8401-4b41-a834-f1e73b4f368a.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/onmygrad",
+  "api": "/companies/onmygrad.json"
+}

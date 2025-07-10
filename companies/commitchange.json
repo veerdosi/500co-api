@@ -1,0 +1,21 @@
+{
+  "id": 4641,
+  "name": "CommitChange Corp.",
+  "slug": "commitchange",
+  "website": "commitchange.com",
+  "description": "Developer of an open-source software intended for fundraising and the promotion of nonprofit organizations. The company's platform offers features such as donation forms, campaign pages, event ticketing, recurring donations, email integration, and supporter profiles among others, enabling users to have complete control over their fundraising campaigns.",
+  "one_liner": "Developer of an open-source software intended for fundraising and the promotion of nonprofit organizations. The company's platform offers features such as donation forms, campaign pages, event ticketing, recurring donations, email integration, and supporter profiles among others, enabling users to have complete control over their fundraising campaigns.",
+  "location": "United States",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/94a2ede6-ba9d-470d-9a3d-607fb3307dc0.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/commitchange",
+  "api": "/companies/commitchange.json"
+}

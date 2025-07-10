@@ -1,0 +1,22 @@
+{
+  "id": 4945,
+  "name": "Illuminated Futures, Inc.",
+  "slug": "team-machine",
+  "website": "teammachine.ai",
+  "description": "Developer of personal artificial intelligence (AI) platform intended to offer a step-by-step roadmap to dream jobs. The company's platform automatically builds an optimized action plan for learning, by taking career goals, preferred learning styles, and current skills into account, enabling users to develop the skills they need for the next step in their careers.",
+  "one_liner": "Developer of personal artificial intelligence (AI) platform intended to offer a step-by-step roadmap to dream jobs. The company's platform automatically builds an optimized action plan for learning, by taking career goals, preferred learning styles, and current skills into account, enabling users to develop the skills they need for the next step in their careers.",
+  "location": "United States",
+  "industry": "Productivity, HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/29c8a502-6ecd-43bc-a7ac-73ca2db6a98b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Productivity",
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/team-machine",
+  "api": "/companies/team-machine.json"
+}

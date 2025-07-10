@@ -1,0 +1,21 @@
+{
+  "id": 5015,
+  "name": "C2M Technologies, Inc.",
+  "slug": "connected2me",
+  "website": "connected2.me",
+  "description": "Developer of an online social application designed to help people chat with others anonymously. The company's application offers to create chat rooms and sort conversations according to user liking, enabling people to make new friends and stay in touch with each other.",
+  "one_liner": "Developer of an online social application designed to help people chat with others anonymously. The company's application offers to create chat rooms and sort conversations according to user liking, enabling people to make new friends and stay in touch with each other.",
+  "location": "Turkey",
+  "industry": "Telecommunications",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/55683dd3-0e29-4b8b-8129-410943df733a.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Telecommunications"
+  ],
+  "url": "https://500.co/portfolio/connected2me",
+  "api": "/companies/connected2me.json"
+}

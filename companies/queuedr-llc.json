@@ -1,0 +1,21 @@
+{
+  "id": 3637,
+  "name": "QueueDr LLC",
+  "slug": "queuedr-llc",
+  "website": "queuedr.com",
+  "description": "Developer of an appointment tracking application. The company allows doctors to fill openings in their schedule through the application, helping patients to book those openings.",
+  "one_liner": "Developer of an appointment tracking application. The company allows doctors to fill openings in their schedule through the application, helping patients to book those openings.",
+  "location": "United States",
+  "industry": "Health Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/37406b1a-34b1-405a-bd47-7b1d71e5b72d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Health Tech"
+  ],
+  "url": "https://500.co/portfolio/queuedr-llc",
+  "api": "/companies/queuedr-llc.json"
+}

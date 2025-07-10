@@ -1,0 +1,21 @@
+{
+  "id": 2874,
+  "name": "Vbout SAL",
+  "slug": "vbout",
+  "website": "www.vbout.com",
+  "description": "Developer of a marketing automation platform designed to provide email marketing and automation, social media, landing pages, and analytics in one dashboard. The company's platform includes email and social media tools, lead intelligence, and comprehensive analytics while also assisting in creating a sales funnel to convert visitors into leads by nurturing them with automated, personalized content, enabling clients to make their marketing efforts efficient and effective, all from one dashboard.",
+  "one_liner": "Developer of a marketing automation platform designed to provide email marketing and automation, social media, landing pages, and analytics in one dashboard. The company's platform includes email and social media tools, lead intelligence, and comprehensive analytics while also assisting in creating a sales funnel to convert visitors into leads by nurturing them with automated, personalized content, enabling clients to make their marketing efforts efficient and effective, all from one dashboard.",
+  "location": "Lebanon",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/39f60484-7ee4-431f-ad6f-b3df2521522f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/vbout",
+  "api": "/companies/vbout.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5739,
+  "name": "Eleanoor Berhad",
+  "slug": "thenoor",
+  "website": "thenoor.co",
+  "description": "Developer of a Muslim lifestyle application designed to help users achieve their spiritual commitment. The company's application provides a modern and comprehensive on-the-go Quran player that comes with audio voice translation options in five languages aiming to bring Muslims closer to their religion through continuous learning and exposure to the teachings of Islam, enabling users to achieve their spiritual commitment by transforming how they engage with Islam.",
+  "one_liner": "Developer of a Muslim lifestyle application designed to help users achieve their spiritual commitment. The company's application provides a modern and comprehensive on-the-go Quran player that comes with audio voice translation options in five languages aiming to bring Muslims closer to their religion through continuous learning and exposure to the teachings of Islam, enabling users to achieve their spiritual commitment by transforming how they engage with Islam.",
+  "location": "Malaysia",
+  "industry": "Social Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/da1f1c76-24c2-474e-86d6-f95fcc8796f1.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Impact"
+  ],
+  "url": "https://500.co/portfolio/thenoor",
+  "api": "/companies/thenoor.json"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 5468,
+  "name": "FLEX FINANCIAL TECHNOLOGIES, INC.",
+  "slug": "flex",
+  "website": "flexfinance.ai",
+  "description": "Developer of a spend management platform designed to help small and medium-sized enterprises to manage and track expenses. The company's platform provides an intuitive user interface, insights, digital requisitions, bulk payment transfers, budgeting, and expense tracking, enabling businesses to digitize their daily operations.",
+  "one_liner": "Developer of a spend management platform designed to help small and medium-sized enterprises to manage and track expenses. The company's platform provides an intuitive user interface, insights, digital requisitions, bulk payment transfers, budgeting, and expense tracking, enabling businesses to digitize their daily operations.",
+  "location": "Nigeria",
+  "industry": "FinTech, Payments, Mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/2dd83924-18a5-4c94-96f1-6b6f1b4c15c0.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech",
+    "Payments",
+    "Mobile"
+  ],
+  "url": "https://500.co/portfolio/flex",
+  "api": "/companies/flex.json"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 3553,
+  "name": "Digitasport Holdings Limited",
+  "slug": "bithai",
+  "website": "bith.ai",
+  "description": "Developer of a video editor platform designed to promote gaming content. The company's platform provides a game arena, and a medium for content creators to showcase their talent through clip-sharing by offering them easy-to-use video editing and social media distribution tools, enabling content creators to create and edit their content to formats suitable for various social media platforms.",
+  "one_liner": "Developer of a video editor platform designed to promote gaming content. The company's platform provides a game arena, and a medium for content creators to showcase their talent through clip-sharing by offering them easy-to-use video editing and social media distribution tools, enabling content creators to create and edit their content to formats suitable for various social media platforms.",
+  "location": "Jordan",
+  "industry": "Content, Creative Industry, Creator Economy",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content",
+    "Creative Industry",
+    "Creator Economy"
+  ],
+  "url": "https://500.co/portfolio/bithai",
+  "api": "/companies/bithai.json"
+}

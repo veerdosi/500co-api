@@ -1,0 +1,21 @@
+{
+  "id": 5147,
+  "name": "Ion Mobility Pte. Ltd.",
+  "slug": "ion-mobility",
+  "website": "ionmobility.com",
+  "description": "Manufacturer of technology and automotive original equipment intended to create and deliver sustainable mobility and energy assistance. The company develops electric motorbikes with a competency equivalent to gasoline vehicles and combines advanced hardware and software technology with human-centered design to deliver smart electric motorbikes and energy charging and storage services, enabling consumers to transform how they move and get affordable and sustainable mobility.",
+  "one_liner": "Manufacturer of technology and automotive original equipment intended to create and deliver sustainable mobility and energy assistance. The company develops electric motorbikes with a competency equivalent to gasoline vehicles and combines advanced hardware and software technology with human-centered design to deliver smart electric motorbikes and energy charging and storage services, enabling consumers to transform how they move and get affordable and sustainable mobility.",
+  "location": "Singapore",
+  "industry": "Automotive",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/af78be67-c26d-447a-9c00-adeab27dc4be.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Automotive"
+  ],
+  "url": "https://500.co/portfolio/ion-mobility",
+  "api": "/companies/ion-mobility.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3289,
+  "name": "Smart Crowd Ltd",
+  "slug": "smart-crowd",
+  "website": "smartcrowd.ae",
+  "description": "Operator of a real estate crowdfunding platform intended to make real estate investment accessible. The company's platform provides the opportunity to buy and sell fractional shares in properties and reduces the barriers to entry to build financial and real estate assets and generate investment income, enabling low and middle-income individuals to actively manage their shares and make informed decisions while investing in real estate projects.",
+  "one_liner": "Operator of a real estate crowdfunding platform intended to make real estate investment accessible. The company's platform provides the opportunity to buy and sell fractional shares in properties and reduces the barriers to entry to build financial and real estate assets and generate investment income, enabling low and middle-income individuals to actively manage their shares and make informed decisions while investing in real estate projects.",
+  "location": "United Arab Emirates",
+  "industry": "Consumer",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ec6292b8-3be9-4503-af4f-ba8ce46c1252.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Consumer"
+  ],
+  "url": "https://500.co/portfolio/smart-crowd",
+  "api": "/companies/smart-crowd.json"
+}

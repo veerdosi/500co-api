@@ -1,0 +1,21 @@
+{
+  "id": 5299,
+  "name": "Ringkas Asia Pte. Ltd.",
+  "slug": "ringkas",
+  "website": "ringkas.co.id",
+  "description": "Developer of a digital mortgage platform intended to help democratize home ownership and make it accessible for everyone. The company allows a user to be pre-qualified for a home budget in a few steps, free of cost, works with trusted partners to help qualify people for mortgages, and matches unique profiles to pre-qualified rates, enabling users to help qualify for a mortgage for their dream home.",
+  "one_liner": "Developer of a digital mortgage platform intended to help democratize home ownership and make it accessible for everyone. The company allows a user to be pre-qualified for a home budget in a few steps, free of cost, works with trusted partners to help qualify people for mortgages, and matches unique profiles to pre-qualified rates, enabling users to help qualify for a mortgage for their dream home.",
+  "location": "Indonesia",
+  "industry": "Credit & Lending",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a57aad2a-d8e0-4b22-9bb0-f071e77ae317.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Credit & Lending"
+  ],
+  "url": "https://500.co/portfolio/ringkas",
+  "api": "/companies/ringkas.json"
+}

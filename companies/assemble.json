@@ -1,0 +1,22 @@
+{
+  "id": 3471,
+  "name": "Assemble, Inc.",
+  "slug": "assemble",
+  "website": "www.assemble.tv",
+  "description": "Developer of a creative collaboration platform designed to connect companies with creative talents. The company's platform offers content creation, talent screening, and project management, and facilitates fixed pricing, enabling project managers to rapidly estimate budgets, source talent, and build projects within a short span of time.",
+  "one_liner": "Developer of a creative collaboration platform designed to connect companies with creative talents. The company's platform offers content creation, talent screening, and project management, and facilitates fixed pricing, enabling project managers to rapidly estimate budgets, source talent, and build projects within a short span of time.",
+  "location": "United States",
+  "industry": "Productivity, SaaS",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/367807a1-74fe-4123-af21-392a7550a796.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Productivity",
+    "SaaS"
+  ],
+  "url": "https://500.co/portfolio/assemble",
+  "api": "/companies/assemble.json"
+}

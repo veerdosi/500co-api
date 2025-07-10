@@ -1,0 +1,21 @@
+{
+  "id": 5213,
+  "name": "GamerzClass ApS",
+  "slug": "gamerzclass-aps",
+  "website": "gamerzclass.com",
+  "description": "Provider of an online gaming platform intended to create step-by-step programs that improve gaming skills. The company's platform offers online courses, produces and sells learning material for e-sport players while also offering video courses in professional sports games that are developed in collaboration with leading players, enabling gamers to learn efficiently and improve their gaming experience.",
+  "one_liner": "Provider of an online gaming platform intended to create step-by-step programs that improve gaming skills. The company's platform offers online courses, produces and sells learning material for e-sport players while also offering video courses in professional sports games that are developed in collaboration with leading players, enabling gamers to learn efficiently and improve their gaming experience.",
+  "location": "Denmark",
+  "industry": "Gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4b55de71-4974-4412-84ff-1c896c10acb8.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Gaming"
+  ],
+  "url": "https://500.co/portfolio/gamerzclass-aps",
+  "api": "/companies/gamerzclass-aps.json"
+}

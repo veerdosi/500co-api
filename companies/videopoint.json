@@ -1,0 +1,21 @@
+{
+  "id": 8232,
+  "name": "TouchPoints Inc.",
+  "slug": "videopoint",
+  "website": "https://videopoint.ai/",
+  "description": "Shoppable video for DTC sales",
+  "one_liner": "Shoppable video for DTC sales",
+  "location": "UNITED STATES",
+  "industry": "AI/Machine Learning",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5fd45e5c-08ac-4654-8e9f-6514b6bb0b39.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning"
+  ],
+  "url": "https://500.co/portfolio/videopoint",
+  "api": "/companies/videopoint.json"
+}

@@ -1,0 +1,157 @@
+[
+  {
+    "id": 5426,
+    "name": "SPORTS TECH LATAM LLC",
+    "slug": "alquila-tu-cancha",
+    "website": "alquilatucancha.com",
+    "description": "Developer of sports platform intended for reserving the court online instantly. The company's platform specializes in providing a network to choose a court and book spaces for soccer, padel, tennis, and more sports, providing users with the option of celebrating birthdays as well by renting the court which is available in their city and in real-time.",
+    "one_liner": "Developer of sports platform intended for reserving the court online instantly. The company's platform specializes in providing a network to choose a court and book spaces for soccer, padel, tennis, and more sports, providing users with the option of celebrating birthdays as well by renting the court which is available in their city and in real-time.",
+    "location": "Argentina",
+    "industry": "Direct to Consumer, Remote, Sports",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5a452f11-f6c8-4843-ad6f-dc749e878b20.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Direct to Consumer",
+      "Remote",
+      "Sports"
+    ],
+    "url": "https://500.co/portfolio/alquila-tu-cancha",
+    "api": "/companies/alquila-tu-cancha.json"
+  },
+  {
+    "id": 2754,
+    "name": "Bettertheworld, Inc.",
+    "slug": "flipgive",
+    "website": "www.flipgive.com",
+    "description": "Developer of a team funding platform designed to revolutionize the way sports teams raise money. The company's platform allows the team to manage their funds and provides cash back from purchases made for groceries, gas, clothes, equipment, meals out, travel and as well as allows donation collection, enabling youth sports teams to raise money in a hassle-free manner.",
+    "one_liner": "Developer of a team funding platform designed to revolutionize the way sports teams raise money. The company's platform allows the team to manage their funds and provides cash back from purchases made for groceries, gas, clothes, equipment, meals out, travel and as well as allows donation collection, enabling youth sports teams to raise money in a hassle-free manner.",
+    "location": "Canada",
+    "industry": "Ecommerce, Sports, B2B Marketplaces",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/6157d5b6-c2e5-4ee1-b8ae-d064d233074f.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Ecommerce",
+      "Sports",
+      "B2B Marketplaces"
+    ],
+    "url": "https://500.co/portfolio/flipgive",
+    "api": "/companies/flipgive.json"
+  },
+  {
+    "id": 8096,
+    "name": "Forged Sports, Inc.",
+    "slug": "forged-sports",
+    "website": "www.forgedsports.co",
+    "description": "Developer of indoor golf simulator software with an emphasis on gamification.",
+    "one_liner": "Developer of indoor golf simulator software with an emphasis on gamification.",
+    "location": "United States",
+    "industry": "Sports",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/e02d795c-5c30-487c-be39-2e30c72fe79d.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Sports"
+    ],
+    "url": "https://500.co/portfolio/forged-sports",
+    "api": "/companies/forged-sports.json"
+  },
+  {
+    "id": 5858,
+    "name": "Preciser, Inc.",
+    "slug": "preciser",
+    "website": "www.preciser.io",
+    "description": "Developer of an artificial intelligence-powered prediction platform designed to provide forecasts for sports betting. The company's integrated analytical tools allow for the interpretation of trends, the identification of outliers, and the observation of statistical insights through AI/ML predictions to provide an effective way to discover meaningful and accurate data, enabling sports bettors and fantasy sports players to shorten the time required for research and make well-informed projections with graphical analysis.",
+    "one_liner": "Developer of an artificial intelligence-powered prediction platform designed to provide forecasts for sports betting. The company's integrated analytical tools allow for the interpretation of trends, the identification of outliers, and the observation of statistical insights through AI/ML predictions to provide an effective way to discover meaningful and accurate data, enabling sports bettors and fantasy sports players to shorten the time required for research and make well-informed projections with graphical analysis.",
+    "location": "United States",
+    "industry": "AI/Machine Learning, SaaS, Sports",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/579722a0-593a-4c6c-b9c8-4b15e3b6e82d.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "AI/Machine Learning",
+      "SaaS",
+      "Sports"
+    ],
+    "url": "https://500.co/portfolio/preciser",
+    "api": "/companies/preciser.json"
+  },
+  {
+    "id": 3026,
+    "name": "Sportwey Inc S.A.P.I. DE C.V.",
+    "slug": "sportwey",
+    "website": "sportwey.com",
+    "description": "Developer of a sports search platform intended to create, manage and find amateur sports tournaments. The company's platform offers tools for managing various aspects of a sports tournament including communication, payment, notifications, calendar integration, application and registration management, enabling athletes to connect with local tournaments easily every day.",
+    "one_liner": "Developer of a sports search platform intended to create, manage and find amateur sports tournaments. The company's platform offers tools for managing various aspects of a sports tournament including communication, payment, notifications, calendar integration, application and registration management, enabling athletes to connect with local tournaments easily every day.",
+    "location": "Mexico",
+    "industry": "Sports",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/1395606d-c22c-4990-9d90-0484da94b871.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Sports"
+    ],
+    "url": "https://500.co/portfolio/sportwey",
+    "api": "/companies/sportwey.json"
+  },
+  {
+    "id": 5138,
+    "name": "TeamUp Inc.",
+    "slug": "teamup",
+    "website": "www.fanzapp.io",
+    "description": "Developer of an online sports leagues and tournaments management application designed to track individual players' stats. The company's platform follows a multiple-tier revenue model based on subscriptions, commissions, advertising and monetization of big data, enabling customers to get a big enough pool of players, and enough data, to begin their scouting activities.",
+    "one_liner": "Developer of an online sports leagues and tournaments management application designed to track individual players' stats. The company's platform follows a multiple-tier revenue model based on subscriptions, commissions, advertising and monetization of big data, enabling customers to get a big enough pool of players, and enough data, to begin their scouting activities.",
+    "location": "Saudi Arabia",
+    "industry": "Sports",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Sports"
+    ],
+    "url": "https://500.co/portfolio/teamup",
+    "api": "/companies/teamup.json"
+  },
+  {
+    "id": 5073,
+    "name": "TICKR HOLDINGS, INC.",
+    "slug": "ticketrev",
+    "website": "www.ticketrev.com",
+    "description": "Operator of a reverse marketplace intended to buy and resell live event tickets. The company's platform offers buyers to create bids on events by choosing their preferred seating location and naming their offer price, enabling sellers to accept a matching bid and resell their tickets instantly.",
+    "one_liner": "Operator of a reverse marketplace intended to buy and resell live event tickets. The company's platform offers buyers to create bids on events by choosing their preferred seating location and naming their offer price, enabling sellers to accept a matching bid and resell their tickets instantly.",
+    "location": "United States",
+    "industry": "Sports, Entertainment / Media, Consumer",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4922a029-985f-481e-82ac-ff2872234944.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Sports",
+      "Entertainment / Media",
+      "Consumer"
+    ],
+    "url": "https://500.co/portfolio/ticketrev",
+    "api": "/companies/ticketrev.json"
+  }
+]

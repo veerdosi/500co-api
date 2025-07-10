@@ -1,0 +1,22 @@
+{
+  "id": 4751,
+  "name": "Blavity Inc.",
+  "slug": "blavity",
+  "website": "blavityinc.com",
+  "description": "Developer of a video curating and editing platform designed to economically support Black millennials across the African diaspora. The company's platform includes multicultural content and videos, built for and by passionate black millennials trying to add convenient balance to the way Black people are represented in media and culture, enabling users to get distinctive and original content as well as awareness regarding systemic racism.",
+  "one_liner": "Developer of a video curating and editing platform designed to economically support Black millennials across the African diaspora. The company's platform includes multicultural content and videos, built for and by passionate black millennials trying to add convenient balance to the way Black people are represented in media and culture, enabling users to get distinctive and original content as well as awareness regarding systemic racism.",
+  "location": "United States",
+  "industry": "Content, Social Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4b62f241-663f-48f6-ac52-b559c219730c.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content",
+    "Social Impact"
+  ],
+  "url": "https://500.co/portfolio/blavity",
+  "api": "/companies/blavity.json"
+}

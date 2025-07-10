@@ -1,0 +1,21 @@
+{
+  "id": 4532,
+  "name": "Vibely, Inc.",
+  "slug": "vibely-inc",
+  "website": "www.vibely.io",
+  "description": "Developer and operator of a social networking platform designed to create communities and make friendships. The company's platform arranges self-organized local events, casual meetups and parties, enabling influencers to increase engagement with followers while monetizing with participation fees and membership dues.",
+  "one_liner": "Developer and operator of a social networking platform designed to create communities and make friendships. The company's platform arranges self-organized local events, casual meetups and parties, enabling influencers to increase engagement with followers while monetizing with participation fees and membership dues.",
+  "location": "United States",
+  "industry": "Social Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/25cc2aed-fc29-4193-8a9b-17445d7e3a98.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Impact"
+  ],
+  "url": "https://500.co/portfolio/vibely-inc",
+  "api": "/companies/vibely-inc.json"
+}

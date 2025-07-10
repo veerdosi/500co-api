@@ -1,0 +1,21 @@
+{
+  "id": 4708,
+  "name": "Modus Technologies, Inc.",
+  "slug": "modus-technologies-inc",
+  "website": "www.modusclosing.com",
+  "description": "Provider of an escrow platform intended to make closure of home less painful for people. The company's platform combines with revolutionary technology to bring seamless experience throughout the process which are offered online to save time, enabling real estate clients to outsource manual data entry associated with home closings in a hassle free way and avoid the delay in proceedings.",
+  "one_liner": "Provider of an escrow platform intended to make closure of home less painful for people. The company's platform combines with revolutionary technology to bring seamless experience throughout the process which are offered online to save time, enabling real estate clients to outsource manual data entry associated with home closings in a hassle free way and avoid the delay in proceedings.",
+  "location": "United States",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ea09b437-98d3-4c18-b146-baaaa4c8f44c.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/modus-technologies-inc",
+  "api": "/companies/modus-technologies-inc.json"
+}

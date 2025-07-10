@@ -1,0 +1,21 @@
+{
+  "id": 2851,
+  "name": "MAGNiTT Inc.",
+  "slug": "magnitt",
+  "website": "magnitt.com",
+  "description": "Developer of an online financial data platform designed to offer investment-related information on a subscription-based model. The company's platform helps in assisting startups looking for funding, talent, and services through their database and analytical results, enabling investors, entrepreneurs, and corporates to connect and make better investment decisions.",
+  "one_liner": "Developer of an online financial data platform designed to offer investment-related information on a subscription-based model. The company's platform helps in assisting startups looking for funding, talent, and services through their database and analytical results, enabling investors, entrepreneurs, and corporates to connect and make better investment decisions.",
+  "location": "United Arab Emirates",
+  "industry": "Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4516412a-cd31-46c5-ada3-52f9c1b29501.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/magnitt",
+  "api": "/companies/magnitt.json"
+}

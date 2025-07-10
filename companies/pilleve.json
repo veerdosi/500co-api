@@ -1,0 +1,21 @@
+{
+  "id": 3484,
+  "name": "Pilleve, Inc.",
+  "slug": "pilleve",
+  "website": "www.pilleve.com",
+  "description": "Developer of a remote monitoring system designed to reduce the risk of addiction to controlled drugs. The company's bottle aims to prevent the long-term costs associated with opioid abuse and addiction, enabling patients to receive optimal care while preventing the risk of addiction.",
+  "one_liner": "Developer of a remote monitoring system designed to reduce the risk of addiction to controlled drugs. The company's bottle aims to prevent the long-term costs associated with opioid abuse and addiction, enabling patients to receive optimal care while preventing the risk of addiction.",
+  "location": "United States",
+  "industry": "Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ffa7b48f-6d97-4b16-a3e9-588305654b05.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/pilleve",
+  "api": "/companies/pilleve.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5172,
+  "name": "Homage Co Pte Ltd",
+  "slug": "homage",
+  "website": "www.homage.sg",
+  "description": "Developer of a caregiving platform designed to match seniors in need of on-demand caregiving services with licensed practitioners. The company's platform optimizes caregiving based on factors such as illness, professional experience, and geography, as well as creates more robust databases of patient-generated healthcare data, providing deeper and better insights for care operators, hospitals, and medical service providers, enabling parents and grandparents to have the comfort and control to remain in their own homes as they age.",
+  "one_liner": "Developer of a caregiving platform designed to match seniors in need of on-demand caregiving services with licensed practitioners. The company's platform optimizes caregiving based on factors such as illness, professional experience, and geography, as well as creates more robust databases of patient-generated healthcare data, providing deeper and better insights for care operators, hospitals, and medical service providers, enabling parents and grandparents to have the comfort and control to remain in their own homes as they age.",
+  "location": "Singapore",
+  "industry": "Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f4d96419-05ad-412f-8e60-b379c584f57f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/homage",
+  "api": "/companies/homage.json"
+}

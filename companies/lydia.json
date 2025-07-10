@@ -1,0 +1,21 @@
+{
+  "id": 5092,
+  "name": "Knowtions Research o/a Lydia AI",
+  "slug": "lydia",
+  "website": "www.lydia.ai",
+  "description": "Developer of a multilingual applied artificial intelligence platform designed to process and transform unstructured and unorganized clinical data. The company's platform synthesizes large amounts of clinical data to learn how medicine is practiced globally, enabling health insurers to unlock and use predictive insights in unorganized health data as well as to automate claim management and enhance the patient experience.",
+  "one_liner": "Developer of a multilingual applied artificial intelligence platform designed to process and transform unstructured and unorganized clinical data. The company's platform synthesizes large amounts of clinical data to learn how medicine is practiced globally, enabling health insurers to unlock and use predictive insights in unorganized health data as well as to automate claim management and enhance the patient experience.",
+  "location": "Estonia",
+  "industry": "InsurTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "InsurTech"
+  ],
+  "url": "https://500.co/portfolio/lydia",
+  "api": "/companies/lydia.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5681,
+  "name": "Phasio Pte. Ltd.",
+  "slug": "phasio",
+  "website": "phas.io",
+  "description": "Developer of digital manufacturing platform designed to make operations nimble and efficient at scale for SME (small-to-medium enterprise) businesses. The company makes ordering parts, designing parts, and communicating with customers seamless, enabling clients to maximize productivity.",
+  "one_liner": "Developer of digital manufacturing platform designed to make operations nimble and efficient at scale for SME (small-to-medium enterprise) businesses. The company makes ordering parts, designing parts, and communicating with customers seamless, enabling clients to maximize productivity.",
+  "location": "Singapore",
+  "industry": "Supply Chain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/77f4b4e9-01d8-4cf7-a3de-88c662ee52f8.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Supply Chain"
+  ],
+  "url": "https://500.co/portfolio/phasio",
+  "api": "/companies/phasio.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5229,
+  "name": "PlanGrid, Inc.",
+  "slug": "plangrid-inc",
+  "website": "plangrid.com",
+  "description": "Provider of a construction application intended to offer a construction productivity tool to help teams deliver projects on time. The company's construction application provides real-time updates and seamless file synching over Wi-Fi and cellular networks, enabling owners and architects collaborate easily from their mobile devices and desktops, managing blueprints, specs, photos, RFIs and punch lists as well as to share design plans for construction projects.",
+  "one_liner": "Provider of a construction application intended to offer a construction productivity tool to help teams deliver projects on time. The company's construction application provides real-time updates and seamless file synching over Wi-Fi and cellular networks, enabling owners and architects collaborate easily from their mobile devices and desktops, managing blueprints, specs, photos, RFIs and punch lists as well as to share design plans for construction projects.",
+  "location": "United States",
+  "industry": "Construction",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/affa86fc-9c41-4cbd-bdf9-2e2e0880cb42.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Construction"
+  ],
+  "url": "https://500.co/portfolio/plangrid-inc",
+  "api": "/companies/plangrid-inc.json"
+}

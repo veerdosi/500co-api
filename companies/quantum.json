@@ -1,0 +1,22 @@
+{
+  "id": 2999,
+  "name": "Quantum Marketing Technologies Ltd.",
+  "slug": "quantum",
+  "website": "www.quantums.com.sa",
+  "description": "Developer of a marketing platform designed to offer specialized targeted market research and product testing campaigns. The company's platform offers intelligent matching, feedback, and analytics, enabling enterprises to increase business results and enhance profitability",
+  "one_liner": "Developer of a marketing platform designed to offer specialized targeted market research and product testing campaigns. The company's platform offers intelligent matching, feedback, and analytics, enabling enterprises to increase business results and enhance profitability",
+  "location": "Saudi Arabia",
+  "industry": "Content, Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/948bf09b-5e36-4d34-8a25-65b9d6e5d220.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content",
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/quantum",
+  "api": "/companies/quantum.json"
+}

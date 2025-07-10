@@ -1,0 +1,21 @@
+{
+  "id": 2825,
+  "name": "Jobedu Inc.",
+  "slug": "jobedu-inc",
+  "website": "jobedu.com",
+  "description": "Retailer of streetwear and accessories intended to blend Arab culture with global popular culture. The company's streetwear curates the works of Arab designers and modern trends, enabling customers to create a sustainable brand that embodies Arab culture.",
+  "one_liner": "Retailer of streetwear and accessories intended to blend Arab culture with global popular culture. The company's streetwear curates the works of Arab designers and modern trends, enabling customers to create a sustainable brand that embodies Arab culture.",
+  "location": "United States",
+  "industry": "Fashion",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7971d103-23cb-456d-8091-02fa48f3bbb2.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion"
+  ],
+  "url": "https://500.co/portfolio/jobedu-inc",
+  "api": "/companies/jobedu-inc.json"
+}

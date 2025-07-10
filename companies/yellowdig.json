@@ -1,0 +1,23 @@
+{
+  "id": 4494,
+  "name": "Six Deg, Inc.",
+  "slug": "yellowdig",
+  "website": "www.yellowdig.co",
+  "description": "Developer of a social learning platform designed to promote and improve peer learning outcomes for students. The company's platform forms a social layer on top of existing enterprise learning systems to build engaging learning experiences privately and securely and helps to turn their classroom into a collaborative learning community, enabling institutions and universities to increase students' knowledge of current affairs and increase engagement and retention.",
+  "one_liner": "Developer of a social learning platform designed to promote and improve peer learning outcomes for students. The company's platform forms a social layer on top of existing enterprise learning systems to build engaging learning experiences privately and securely and helps to turn their classroom into a collaborative learning community, enabling institutions and universities to increase students' knowledge of current affairs and increase engagement and retention.",
+  "location": "United States",
+  "industry": "Education, Impact, SaaS",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/2c6e2f59-caec-4350-b6ab-2c0bb73192e2.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education",
+    "Impact",
+    "SaaS"
+  ],
+  "url": "https://500.co/portfolio/yellowdig",
+  "api": "/companies/yellowdig.json"
+}

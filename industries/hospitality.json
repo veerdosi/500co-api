@@ -1,0 +1,112 @@
+[
+  {
+    "id": 3382,
+    "name": "One Life One Technology Inc",
+    "slug": "h2o-hospitality",
+    "website": "h2ohospitality.io",
+    "description": "Developer of digital transformation solutions for the hospitality industry revolutionizing hospitality facilities’ operational flow and value chain. H2O enables smart mobile check-in & check-out, 100% automatic reservation, and optimizes the funnel and processing of valuable data to increase direct sales volume.",
+    "one_liner": "Developer of digital transformation solutions for the hospitality industry revolutionizing hospitality facilities’ operational flow and value chain. H2O enables smart mobile check-in & check-out, 100% automatic reservation, and optimizes the funnel and processing of valuable data to increase direct sales volume.",
+    "location": "South Korea",
+    "industry": "CRM, Hospitality",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/31f8061a-9574-4de7-b4e5-7ba384059155.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "CRM",
+      "Hospitality"
+    ],
+    "url": "https://500.co/portfolio/h2o-hospitality",
+    "api": "/companies/h2o-hospitality.json"
+  },
+  {
+    "id": 4814,
+    "name": "Helpr Asia Sdn Bhd.",
+    "slug": "helprnow",
+    "website": "giftr.my",
+    "description": "Operator of an online marketplace platform intended to assist customers in purchasing gifts. The company offers gifts for all kinds of occasions as well as provides customized gifts, along with recommendations of places to visit or dine for various events, enabling users to put a personal touch on gifts and purchase them at a low cost.",
+    "one_liner": "Operator of an online marketplace platform intended to assist customers in purchasing gifts. The company offers gifts for all kinds of occasions as well as provides customized gifts, along with recommendations of places to visit or dine for various events, enabling users to put a personal touch on gifts and purchase them at a low cost.",
+    "location": "Malaysia",
+    "industry": "Marketplace, Hospitality",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5aefbbed-d9c3-4d08-aad7-8eadb8cd043a.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Marketplace",
+      "Hospitality"
+    ],
+    "url": "https://500.co/portfolio/helprnow",
+    "api": "/companies/helprnow.json"
+  },
+  {
+    "id": 3481,
+    "name": "Ovation Up Inc.",
+    "slug": "ovation",
+    "website": "ovationup.com",
+    "description": "Developer of an actionable guest feedback platform designed to drive revenue for multi-unit restaurants. The company's platform tracks and figures out the enterprise's loyal customers and assists them in leaving positive online reviews, as well as provides customer feedback and increases social media following, enabling businesses to monitor and measure their web presence and engage increased customers by improving their online marketing strategies.",
+    "one_liner": "Developer of an actionable guest feedback platform designed to drive revenue for multi-unit restaurants. The company's platform tracks and figures out the enterprise's loyal customers and assists them in leaving positive online reviews, as well as provides customer feedback and increases social media following, enabling businesses to monitor and measure their web presence and engage increased customers by improving their online marketing strategies.",
+    "location": "United States",
+    "industry": "SME Solution, CRM, Hospitality",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/0f8cecac-875f-4d82-8194-9fa76ec2ad97.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "SME Solution",
+      "CRM",
+      "Hospitality"
+    ],
+    "url": "https://500.co/portfolio/ovation",
+    "api": "/companies/ovation.json"
+  },
+  {
+    "id": 8070,
+    "name": "Porte Tech Inc.",
+    "slug": "porte-tech",
+    "website": "porte.tech",
+    "description": "",
+    "one_liner": "",
+    "location": "Kazakhstan",
+    "industry": "Travel & Tourism, Hospitality",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b4bbff11-dc9d-4f70-a3c2-e253f0fdbac1.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Travel & Tourism",
+      "Hospitality"
+    ],
+    "url": "https://500.co/portfolio/porte-tech",
+    "api": "/companies/porte-tech.json"
+  },
+  {
+    "id": 4867,
+    "name": "Social Tables, Inc.",
+    "slug": "socialtables",
+    "website": "socialtables.com",
+    "description": "Developer of a cloud-based hospitality software designed to create successful face-to-face events. The company's software offers a collaborative platform that is used by planners and property professionals to connect with each other, enabling clients to come together online to create and manage events from any location on any device.",
+    "one_liner": "Developer of a cloud-based hospitality software designed to create successful face-to-face events. The company's software offers a collaborative platform that is used by planners and property professionals to connect with each other, enabling clients to come together online to create and manage events from any location on any device.",
+    "location": "United States",
+    "industry": "Hospitality",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b3396210-1d8a-405e-a4d1-498b3847b60e.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Hospitality"
+    ],
+    "url": "https://500.co/portfolio/socialtables",
+    "api": "/companies/socialtables.json"
+  }
+]

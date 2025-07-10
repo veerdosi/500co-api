@@ -1,0 +1,21 @@
+{
+  "id": 3059,
+  "name": "Appgain, Inc.",
+  "slug": "appgain",
+  "website": "appgain.io",
+  "description": "Developer of a mobile marketing and customer engagement platform designed for customer lifecycle management. The company platform helps marketers from different industries to overcome the challenges they face by using smart solutions like deep links, mobile landing pages, notifications, and retargeting, enabling brands to get more users and improve engagement in one single platform.",
+  "one_liner": "Developer of a mobile marketing and customer engagement platform designed for customer lifecycle management. The company platform helps marketers from different industries to overcome the challenges they face by using smart solutions like deep links, mobile landing pages, notifications, and retargeting, enabling brands to get more users and improve engagement in one single platform.",
+  "location": "Egypt",
+  "industry": "AI/Machine Learning",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ed0a998d-b28a-4c43-91c6-6dc0dba8de5b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning"
+  ],
+  "url": "https://500.co/portfolio/appgain",
+  "api": "/companies/appgain.json"
+}

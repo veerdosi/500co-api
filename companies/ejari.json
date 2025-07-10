@@ -1,0 +1,22 @@
+{
+  "id": 5772,
+  "name": "Ejari Property Technologies Holdings Limited",
+  "slug": "ejari",
+  "website": "ejari.sa",
+  "description": "Operator of a real estate technology company intended to provide rent now and pay later service for residential properties. The company rents the unit on behalf of the customer for a period of one year or six months and then re-rents it to the customer with a monthly payment plan, enabling customers to reduce their financial burden and pay rent on a monthly basis.",
+  "one_liner": "Operator of a real estate technology company intended to provide rent now and pay later service for residential properties. The company rents the unit on behalf of the customer for a period of one year or six months and then re-rents it to the customer with a monthly payment plan, enabling customers to reduce their financial burden and pay rent on a monthly basis.",
+  "location": "Saudi Arabia",
+  "industry": "FinTech, PropTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/8452d1bb-af47-415f-a14c-e2682594ef9e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech",
+    "PropTech"
+  ],
+  "url": "https://500.co/portfolio/ejari",
+  "api": "/companies/ejari.json"
+}

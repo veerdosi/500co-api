@@ -1,0 +1,21 @@
+{
+  "id": 3844,
+  "name": "SimplifiMed, Inc.",
+  "slug": "simplifimed-inc",
+  "website": "simplifimed.com",
+  "description": "Provider of a platform for connecting patients with doctors. The company provides an online platform where patients could update their personal health profiles and seek medication facilities and consult with caregivers without having to move to clinics physically.",
+  "one_liner": "Provider of a platform for connecting patients with doctors. The company provides an online platform where patients could update their personal health profiles and seek medication facilities and consult with caregivers without having to move to clinics physically.",
+  "location": "United States",
+  "industry": "Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e9be1282-56d3-40f1-912f-ccdc6178b51d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/simplifimed-inc",
+  "api": "/companies/simplifimed-inc.json"
+}

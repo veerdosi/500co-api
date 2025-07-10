@@ -1,0 +1,22 @@
+{
+  "id": 3871,
+  "name": "Tagove Limited, Inc.",
+  "slug": "acquire",
+  "website": "acquire.io",
+  "description": "Developer of a multi-channel customer communication platform designed to transform the way companies connect with online customers. The company's platform provides live chat software that provides video chat, voice calling and text chat services with co-browsing and screen sharing facilities, enabling clients to communicate face-to-face with customers thus improving their performance and driving long-lasting customer engagement.",
+  "one_liner": "Developer of a multi-channel customer communication platform designed to transform the way companies connect with online customers. The company's platform provides live chat software that provides video chat, voice calling and text chat services with co-browsing and screen sharing facilities, enabling clients to communicate face-to-face with customers thus improving their performance and driving long-lasting customer engagement.",
+  "location": "United Kingdom",
+  "industry": "Content, Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f77494de-1600-4a86-9699-830971fc1fce.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content",
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/acquire",
+  "api": "/companies/acquire.json"
+}

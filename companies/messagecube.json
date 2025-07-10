@@ -1,0 +1,21 @@
+{
+  "id": 3398,
+  "name": "MessageCube Corp Inc.",
+  "slug": "messagecube",
+  "website": "messagecube.mobi",
+  "description": "Developer of a messaging platform designed to allow people to share their purchase experiences over chat. The company's platform provides built-in chat migration for group chat, unlimited picture video sharing, smart search functionality over various categories, location sending and sharing, and background customization, enabling people to share fun activities with their friends over chat.",
+  "one_liner": "Developer of a messaging platform designed to allow people to share their purchase experiences over chat. The company's platform provides built-in chat migration for group chat, unlimited picture video sharing, smart search functionality over various categories, location sending and sharing, and background customization, enabling people to share fun activities with their friends over chat.",
+  "location": "United States",
+  "industry": "Social Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Impact"
+  ],
+  "url": "https://500.co/portfolio/messagecube",
+  "api": "/companies/messagecube.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5662,
+  "name": "NodeFlair Pte. Ltd.",
+  "slug": "nodeflair",
+  "website": "nodeflair.com",
+  "description": "Operator of a career platform intended to help tech talents in Asia make smarter career decisions. The company's platform is one place for discovery, researching, and securing of jobs, and career uplifting, enabling individuals to get jobs as per their requirements and skills.",
+  "one_liner": "Operator of a career platform intended to help tech talents in Asia make smarter career decisions. The company's platform is one place for discovery, researching, and securing of jobs, and career uplifting, enabling individuals to get jobs as per their requirements and skills.",
+  "location": "Singapore",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/613570e8-bad2-4986-9435-d77516c8674c.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/nodeflair",
+  "api": "/companies/nodeflair.json"
+}

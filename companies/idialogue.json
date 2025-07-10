@@ -1,0 +1,21 @@
+{
+  "id": 5661,
+  "name": "iDialogue Inc.",
+  "slug": "idialogue",
+  "website": "idialogue.com",
+  "description": "Developer of an online learning platform intended to connect students with teachers and peers from around the world. The company's platform provides micro-tutoring and tools for self-paced learning combined with on-demand interactive learning activities, such as virtual field trips and workshops with experts, guest speakers and professionals from different areas, enabling students to receive an immersive learning experience.",
+  "one_liner": "Developer of an online learning platform intended to connect students with teachers and peers from around the world. The company's platform provides micro-tutoring and tools for self-paced learning combined with on-demand interactive learning activities, such as virtual field trips and workshops with experts, guest speakers and professionals from different areas, enabling students to receive an immersive learning experience.",
+  "location": "Turkey",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b0280211-360b-462f-b6da-5594fa08ad3a.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/idialogue",
+  "api": "/companies/idialogue.json"
+}

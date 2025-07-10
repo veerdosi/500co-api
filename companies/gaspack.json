@@ -1,0 +1,21 @@
+{
+  "id": 5596,
+  "name": "Gaspack, Pte. Ltd.",
+  "slug": "gaspack",
+  "website": "www.gaspack.xyz",
+  "description": "Developer of nonfungible token launchpad intended to empower creators, artists, and brands to generate extra income. The company's launchpad helps content creators and artists build their internet protocol into nonfungible token projects, from the development phase to the launching, scaling, and maintaining them as sustainable businesses, providing artists and brands with full tech stack support, community management, and creative consultancy to help them embark in their content creation journey.",
+  "one_liner": "Developer of nonfungible token launchpad intended to empower creators, artists, and brands to generate extra income. The company's launchpad helps content creators and artists build their internet protocol into nonfungible token projects, from the development phase to the launching, scaling, and maintaining them as sustainable businesses, providing artists and brands with full tech stack support, community management, and creative consultancy to help them embark in their content creation journey.",
+  "location": "United Kingdom",
+  "industry": "Web 3",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/6eef8274-d0d4-405c-bfb3-6c32f52d3056.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Web 3"
+  ],
+  "url": "https://500.co/portfolio/gaspack",
+  "api": "/companies/gaspack.json"
+}

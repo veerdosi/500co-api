@@ -1,0 +1,19 @@
+{
+  "id": 8550,
+  "name": "CTM Longevity Holdings Pte. Ltd.",
+  "slug": "chi-longevity",
+  "website": "www.chilongevity.com",
+  "description": "",
+  "one_liner": "",
+  "location": "SINGAPORE",
+  "industry": "",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/7e0cb417-f264-4575-87c9-4bb7b6d7abb9.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://500.co/portfolio/chi-longevity",
+  "api": "/companies/chi-longevity.json"
+}

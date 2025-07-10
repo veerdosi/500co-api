@@ -1,0 +1,21 @@
+{
+  "id": 4283,
+  "name": "Qualaroo, Inc.",
+  "slug": "qualaroo-inc",
+  "website": "qualaroo.com",
+  "description": "Provider of services intended to capturing key insights through real-time feedback, intelligent reporting, and in-depth analysis. The company's services are customizable and adaptive, offer possible engagement experience and helps to understand the unique needs, intentions and frustrations of their website, enabling marketers to serve the needs of website visitors and gain the power to unlock enormous and untapped revenue growth in their businesses.",
+  "one_liner": "Provider of services intended to capturing key insights through real-time feedback, intelligent reporting, and in-depth analysis. The company's services are customizable and adaptive, offer possible engagement experience and helps to understand the unique needs, intentions and frustrations of their website, enabling marketers to serve the needs of website visitors and gain the power to unlock enormous and untapped revenue growth in their businesses.",
+  "location": "United States",
+  "industry": "Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/30f9a338-d4d0-45a7-8bf6-b9e8fe410d9b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/qualaroo-inc",
+  "api": "/companies/qualaroo-inc.json"
+}

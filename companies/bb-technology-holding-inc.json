@@ -1,0 +1,21 @@
+{
+  "id": 5001,
+  "name": "BB Technology Holding, Inc.",
+  "slug": "bb-technology-holding-inc",
+  "website": "www.boatbound.co",
+  "description": "Provider of a peer-to-peer boat rental platform intended to offer boats available to everyone. The company's platform provides real time customer service support and insurance coverage, both in the U.S. and internationally, enabling renters and boat owners to provide the best concierge services easily.",
+  "one_liner": "Provider of a peer-to-peer boat rental platform intended to offer boats available to everyone. The company's platform provides real time customer service support and insurance coverage, both in the U.S. and internationally, enabling renters and boat owners to provide the best concierge services easily.",
+  "location": "United States",
+  "industry": "Mobility",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/8363533b-1d56-4297-8077-fed12ca523aa.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Mobility"
+  ],
+  "url": "https://500.co/portfolio/bb-technology-holding-inc",
+  "api": "/companies/bb-technology-holding-inc.json"
+}

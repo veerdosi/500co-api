@@ -1,0 +1,21 @@
+{
+  "id": 5289,
+  "name": "21st Century Market, Inc.",
+  "slug": "21-market",
+  "website": "www.21market.kr",
+  "description": "Developer of an e-commerce platform designed to inspect electronic device quality and resell them to consumers. The company purchases a variety of used electronic devices and sells them as verified refurbished products at the new product level through upcycling, packaging, and warranty, enabling consumers with refurbished products and increasing customer satisfaction.",
+  "one_liner": "Developer of an e-commerce platform designed to inspect electronic device quality and resell them to consumers. The company purchases a variety of used electronic devices and sells them as verified refurbished products at the new product level through upcycling, packaging, and warranty, enabling consumers with refurbished products and increasing customer satisfaction.",
+  "location": "South Korea",
+  "industry": "Consumer",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f45db4ae-df28-4de9-903b-762d21a916dc.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Consumer"
+  ],
+  "url": "https://500.co/portfolio/21-market",
+  "api": "/companies/21-market.json"
+}

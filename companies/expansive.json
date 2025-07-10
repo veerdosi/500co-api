@@ -1,0 +1,21 @@
+{
+  "id": 3213,
+  "name": "Expansive Realty S.A.P.I. de C.V.",
+  "slug": "expansive",
+  "website": "expansive.mx",
+  "description": "Developer of an online investment platform created to facilitate real estate crowdfunding. The company's platform displays real estate projects with descriptions, risk factors as well as performance to investors for funding, enabling small and medium-sized developers with the lack of opportunities to finance their projects.",
+  "one_liner": "Developer of an online investment platform created to facilitate real estate crowdfunding. The company's platform displays real estate projects with descriptions, risk factors as well as performance to investors for funding, enabling small and medium-sized developers with the lack of opportunities to finance their projects.",
+  "location": "Peru",
+  "industry": "PropTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/028b7e0f-d7c8-436e-aabe-2ba43d199094.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "PropTech"
+  ],
+  "url": "https://500.co/portfolio/expansive",
+  "api": "/companies/expansive.json"
+}

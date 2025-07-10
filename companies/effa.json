@@ -1,0 +1,23 @@
+{
+  "id": 5497,
+  "name": "Effa Corporation",
+  "slug": "effa",
+  "website": "www.effa.one",
+  "description": "Developer of eco-clean disposable products designed to replace plastic analogs with the use of paper to reduce pollution. The company's toothbrush uses innovative nylon that can quickly decompose with little impact on the environment, has a minimalist look, and areas made of recycled paper covered with environmentally friendly lamination made from corn starch, enabling users to get access to easy-to-use, cheap, and stylish toothbrush at a reasonable cost.",
+  "one_liner": "Developer of eco-clean disposable products designed to replace plastic analogs with the use of paper to reduce pollution. The company's toothbrush uses innovative nylon that can quickly decompose with little impact on the environment, has a minimalist look, and areas made of recycled paper covered with environmentally friendly lamination made from corn starch, enabling users to get access to easy-to-use, cheap, and stylish toothbrush at a reasonable cost.",
+  "location": "United States",
+  "industry": "BioTech & Life Sciences, Sustainability, Utilities (energy, water, waste)",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/a1919529-b56f-452a-ada9-6e90e53da0e1.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "BioTech & Life Sciences",
+    "Sustainability",
+    "Utilities (energy, water, waste)"
+  ],
+  "url": "https://500.co/portfolio/effa",
+  "api": "/companies/effa.json"
+}

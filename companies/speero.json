@@ -1,0 +1,21 @@
+{
+  "id": 2788,
+  "name": "Speero Limited",
+  "slug": "speero",
+  "website": "speero.net",
+  "description": "Operator of an online marketplace intended to provide automotive spare parts. The company's marketplace covers used and new parts in one single platform with direct integrations with repair shops, insurance companies, and other businesses and also allows users to compare price quotes from suppliers and make an order through the platform or app, enabling users to get automotive parts at low cost and clients to reduce their cost, increase efficiency, eliminate fraud, and discover new opportunities while running their businesses.",
+  "one_liner": "Operator of an online marketplace intended to provide automotive spare parts. The company's marketplace covers used and new parts in one single platform with direct integrations with repair shops, insurance companies, and other businesses and also allows users to compare price quotes from suppliers and make an order through the platform or app, enabling users to get automotive parts at low cost and clients to reduce their cost, increase efficiency, eliminate fraud, and discover new opportunities while running their businesses.",
+  "location": "Saudi Arabia",
+  "industry": "Consumer",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/93a5a23e-1497-488f-a658-96175a44728f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Consumer"
+  ],
+  "url": "https://500.co/portfolio/speero",
+  "api": "/companies/speero.json"
+}

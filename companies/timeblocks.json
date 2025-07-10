@@ -1,0 +1,21 @@
+{
+  "id": 3051,
+  "name": "Day2Life Inc.",
+  "slug": "timeblocks",
+  "website": "day2life.com",
+  "description": "Developer of a time management platform intended to manage daily and long-term plans. The company's platform offers a calendar library utilizing a structure-based drag-and-drop technology that eliminates the need for multiple page transitions to sync the current schedule and planned events in one place, enabling users to manage their schedules quicker than conventional calendar applications.",
+  "one_liner": "Developer of a time management platform intended to manage daily and long-term plans. The company's platform offers a calendar library utilizing a structure-based drag-and-drop technology that eliminates the need for multiple page transitions to sync the current schedule and planned events in one place, enabling users to manage their schedules quicker than conventional calendar applications.",
+  "location": "South Korea",
+  "industry": "Productivity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/b43d0a1d-a76d-42ea-8144-e2f6b5108949.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Productivity"
+  ],
+  "url": "https://500.co/portfolio/timeblocks",
+  "api": "/companies/timeblocks.json"
+}

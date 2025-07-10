@@ -1,0 +1,23 @@
+{
+  "id": 5758,
+  "name": "Healf Intermediate Holdings LLC",
+  "slug": "healf",
+  "website": "www.healf.mx",
+  "description": "Provider of financial services intended for major medical expense insurance. The company offers to pay up to 90% of the refundable amount and take care of the process with the insurer, enabling clients to focus on their recovery.",
+  "one_liner": "Provider of financial services intended for major medical expense insurance. The company offers to pay up to 90% of the refundable amount and take care of the process with the insurer, enabling clients to focus on their recovery.",
+  "location": "Mexico",
+  "industry": "Health Tech, InsurTech, Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/62b6db80-4965-4610-9f9e-f7a8d883e93a.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Health Tech",
+    "InsurTech",
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/healf",
+  "api": "/companies/healf.json"
+}

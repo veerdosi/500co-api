@@ -1,0 +1,19 @@
+{
+  "id": 8491,
+  "name": "Endeavor Catalyst I LP",
+  "slug": "endeavor-catalyst-i",
+  "website": "endeavor.org",
+  "description": "Endeavor Global is a non-profit venture capital organization. Founded in 1997, the firm is headquartered in New York, New York along with more than thirty offices worldwide. It invests through its investment vehicle Endeavor Catalyst which was launched in 2012.",
+  "one_liner": "Endeavor Global is a non-profit venture capital organization. Founded in 1997, the firm is headquartered in New York, New York along with more than thirty offices worldwide. It invests through its investment vehicle Endeavor Catalyst which was launched in 2012.",
+  "location": "UNITED STATES",
+  "industry": "",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/d905f064-5ce0-4758-a3f5-73a23fceac51.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://500.co/portfolio/endeavor-catalyst-i",
+  "api": "/companies/endeavor-catalyst-i.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5125,
+  "name": "Caarry Solutions Inc.",
+  "slug": "picker",
+  "website": "www.pickerexpress.com",
+  "description": "Operator of a logistics technology platform intended to build tools to connect e-commerce businesses with all kinds of logistics providers. The company's platform offers services such as application programming interface delivery, application programming interface routes and application programming interface pickups, enabling businesses to connect with multiple delivery fleets that expand their coverage and reduce logistics expenses.",
+  "one_liner": "Operator of a logistics technology platform intended to build tools to connect e-commerce businesses with all kinds of logistics providers. The company's platform offers services such as application programming interface delivery, application programming interface routes and application programming interface pickups, enabling businesses to connect with multiple delivery fleets that expand their coverage and reduce logistics expenses.",
+  "location": "Ecuador",
+  "industry": "Logistics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/1164e0e1-a39e-44d0-b801-4469f2fdd76d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Logistics"
+  ],
+  "url": "https://500.co/portfolio/picker",
+  "api": "/companies/picker.json"
+}

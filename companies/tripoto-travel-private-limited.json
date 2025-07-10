@@ -1,0 +1,22 @@
+{
+  "id": 4991,
+  "name": "Tripoto Travel Private Limited",
+  "slug": "tripoto-travel-private-limited",
+  "website": "www.tripoto.com",
+  "description": "Provider of an online publishing platform designed to connect global community of travelers around the world. The company's online publishing platform offers complete travel itineraries with travel photos, enabling users to plan tips with prior knowledge of the place.",
+  "one_liner": "Provider of an online publishing platform designed to connect global community of travelers around the world. The company's online publishing platform offers complete travel itineraries with travel photos, enabling users to plan tips with prior knowledge of the place.",
+  "location": "India",
+  "industry": "Travel & Tourism, Social Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4a7d1e03-5247-476a-b541-580c0df86696.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Travel & Tourism",
+    "Social Impact"
+  ],
+  "url": "https://500.co/portfolio/tripoto-travel-private-limited",
+  "api": "/companies/tripoto-travel-private-limited.json"
+}

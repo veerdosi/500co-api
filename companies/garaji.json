@@ -1,0 +1,21 @@
+{
+  "id": 2835,
+  "name": "Garaji FZ-LLC",
+  "slug": "garaji",
+  "website": "www.garaji.com",
+  "description": "Developer of an automobile servicing platform designed to facilitate car repairing solutions comfortably. The company's platform provides users the information on garages, checks ratings, and availability, it also compares real-time prices, allowing users to choose from alternative service centers for their vehicles.",
+  "one_liner": "Developer of an automobile servicing platform designed to facilitate car repairing solutions comfortably. The company's platform provides users the information on garages, checks ratings, and availability, it also compares real-time prices, allowing users to choose from alternative service centers for their vehicles.",
+  "location": "United Arab Emirates",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a21b492b-b73a-4fba-9eed-ac9a0e3c52ec.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/garaji",
+  "api": "/companies/garaji.json"
+}

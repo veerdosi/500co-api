@@ -1,0 +1,21 @@
+{
+  "id": 3846,
+  "name": "MakerBot Industries LLC",
+  "slug": "makerbot-industries-llc",
+  "website": "makerbot.com",
+  "description": "Provider of desktop Three-dimensional(3D) printing technology. The company manufactures Three-dimensional(3D) desktop printers and components, as well as providing the MakerBot 3D Ecosystem, an online platform of 3D printing tools, including Thingiverse, a crowdsourced collection of downloadable digital designs.",
+  "one_liner": "Provider of desktop Three-dimensional(3D) printing technology. The company manufactures Three-dimensional(3D) desktop printers and components, as well as providing the MakerBot 3D Ecosystem, an online platform of 3D printing tools, including Thingiverse, a crowdsourced collection of downloadable digital designs.",
+  "location": "United States",
+  "industry": "Social Media",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/3ddf08f0-34e8-41e9-b26a-31916b356828.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Media"
+  ],
+  "url": "https://500.co/portfolio/makerbot-industries-llc",
+  "api": "/companies/makerbot-industries-llc.json"
+}

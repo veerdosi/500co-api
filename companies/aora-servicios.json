@@ -1,0 +1,22 @@
+{
+  "id": 5131,
+  "name": "AORA SERVICES INC.",
+  "slug": "aora-servicios",
+  "website": "aoraservicios.com",
+  "description": "Developer of home and office services applications designed to solve everyone's day-to-day life problems. The company's application provides professional services such as masonry, locksmith, technology and cleaning alternatives, appliance installation, maintenance and repairs, enabling users to get their specific service needs and requirements fulfilled.",
+  "one_liner": "Developer of home and office services applications designed to solve everyone's day-to-day life problems. The company's application provides professional services such as masonry, locksmith, technology and cleaning alternatives, appliance installation, maintenance and repairs, enabling users to get their specific service needs and requirements fulfilled.",
+  "location": "Mexico",
+  "industry": "Marketplace, Agnostic (all)",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/648ad077-44e5-4e21-b2a0-4a070f7cf680.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Marketplace",
+    "Agnostic (all)"
+  ],
+  "url": "https://500.co/portfolio/aora-servicios",
+  "api": "/companies/aora-servicios.json"
+}

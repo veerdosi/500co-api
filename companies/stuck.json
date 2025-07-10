@@ -1,0 +1,23 @@
+{
+  "id": 5565,
+  "name": "SagaTech",
+  "slug": "stuck",
+  "website": "stucktheapp.com",
+  "description": "Developer of an on-demand technology platform designed to provide quality and hassle-free writing. The company's platform helps to provide translation from Arabic to English, proofreading of the documents, rephrasing and revamping the contents, content development, and language branding to create the desired tone and message, enabling individuals and businesses to get language support.",
+  "one_liner": "Developer of an on-demand technology platform designed to provide quality and hassle-free writing. The company's platform helps to provide translation from Arabic to English, proofreading of the documents, rephrasing and revamping the contents, content development, and language branding to create the desired tone and message, enabling individuals and businesses to get language support.",
+  "location": "Saudi Arabia",
+  "industry": "Content, Productivity, SaaS",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content",
+    "Productivity",
+    "SaaS"
+  ],
+  "url": "https://500.co/portfolio/stuck",
+  "api": "/companies/stuck.json"
+}

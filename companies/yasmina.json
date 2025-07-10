@@ -1,0 +1,21 @@
+{
+  "id": 8311,
+  "name": "Yasmina Holdings Limited",
+  "slug": "yasmina",
+  "website": "www.yasmina.ai",
+  "description": "Yasmina is a licensed embedded insurance provider that allows online businesses to customize and sell policies to their users.",
+  "one_liner": "Yasmina is a licensed embedded insurance provider that allows online businesses to customize and sell policies to their users.",
+  "location": "Saudi Arabia",
+  "industry": "InsurTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "InsurTech"
+  ],
+  "url": "https://500.co/portfolio/yasmina",
+  "api": "/companies/yasmina.json"
+}

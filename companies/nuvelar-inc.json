@@ -1,0 +1,21 @@
+{
+  "id": 4471,
+  "name": "Nuvelar Inc.",
+  "slug": "nuvelar-inc",
+  "website": "www.nuvelar.com",
+  "description": "Provider of a digital signage platform intended to facilitate content management for digital signage. The platform permits the creation of one's own communication channels for delivering contents on digital screens, either commercial or institutional and to remotely manage the message one wants transmit to their customers or employees, enabling users to manage their screens and content simply through a Web application.",
+  "one_liner": "Provider of a digital signage platform intended to facilitate content management for digital signage. The platform permits the creation of one's own communication channels for delivering contents on digital screens, either commercial or institutional and to remotely manage the message one wants transmit to their customers or employees, enabling users to manage their screens and content simply through a Web application.",
+  "location": "United States",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2be97bbf-5254-48a8-8dcd-7cd92e962dde.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/nuvelar-inc",
+  "api": "/companies/nuvelar-inc.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3240,
+  "name": "Newneek Co., Ltd.",
+  "slug": "newneek",
+  "website": "newneek.co",
+  "description": "Operator of a digital media platform intended to publish news articles online. The company's platform offers e-mail newsletters that convey current issues that are provided on a subscription basis directly to the reader with a focus on authenticity and humor, enabling subscribers to get access to daily news in the mail.",
+  "one_liner": "Operator of a digital media platform intended to publish news articles online. The company's platform offers e-mail newsletters that convey current issues that are provided on a subscription basis directly to the reader with a focus on authenticity and humor, enabling subscribers to get access to daily news in the mail.",
+  "location": "South Korea",
+  "industry": "Consumer",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/acfbfad1-6175-41bc-848c-9825ed2d5acc.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Consumer"
+  ],
+  "url": "https://500.co/portfolio/newneek",
+  "api": "/companies/newneek.json"
+}

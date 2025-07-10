@@ -1,0 +1,22 @@
+{
+  "id": 4918,
+  "name": "Mars Reel Media Corp.",
+  "slug": "mars-reel",
+  "website": "tfiom.com",
+  "description": "Operator of an online sports-focused media platform intended to provide news coverage of sports athletes and teams in high school hoops. The company's platform offer viewers with short highlight videos and cool music delivered to their mobile devices, enabling users to discover all the latest international sports news and videos under one website.",
+  "one_liner": "Operator of an online sports-focused media platform intended to provide news coverage of sports athletes and teams in high school hoops. The company's platform offer viewers with short highlight videos and cool music delivered to their mobile devices, enabling users to discover all the latest international sports news and videos under one website.",
+  "location": "United States",
+  "industry": "Entertainment / Media, Social Media",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f0f0cbf6-c47a-474d-ac7d-59eda8c12420.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Entertainment / Media",
+    "Social Media"
+  ],
+  "url": "https://500.co/portfolio/mars-reel",
+  "api": "/companies/mars-reel.json"
+}

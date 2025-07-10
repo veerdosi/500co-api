@@ -1,0 +1,21 @@
+{
+  "id": 3406,
+  "name": "Docket Technologies, Inc.",
+  "slug": "docket-technologies",
+  "website": "www.getdocket.com",
+  "description": "Developer of a centralized platform designed to check the status of matters, monitor key information, and gain deep analytics into the legal department. The company's platform tracks team key performance indicators, and key matter data, prepares for board meetings in one click as well, and helps to make data-driven decisions about legal spending, enabling clients to manage workload and generate reports automatically.",
+  "one_liner": "Developer of a centralized platform designed to check the status of matters, monitor key information, and gain deep analytics into the legal department. The company's platform tracks team key performance indicators, and key matter data, prepares for board meetings in one click as well, and helps to make data-driven decisions about legal spending, enabling clients to manage workload and generate reports automatically.",
+  "location": "United States",
+  "industry": "Legal",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Legal"
+  ],
+  "url": "https://500.co/portfolio/docket-technologies",
+  "api": "/companies/docket-technologies.json"
+}

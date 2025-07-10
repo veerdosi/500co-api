@@ -1,0 +1,22 @@
+{
+  "id": 5600,
+  "name": "Earthgen Technology Co., Ltd.",
+  "slug": "earthgen-tech",
+  "website": "www.earthgen.com.tw",
+  "description": "Developer of drones designed for agriculture in Taiwan. The company focuses on drones technology which can be applied in farming, such as manual sraying of pesticides, enabling farmers to improve efficiency.",
+  "one_liner": "Developer of drones designed for agriculture in Taiwan. The company focuses on drones technology which can be applied in farming, such as manual sraying of pesticides, enabling farmers to improve efficiency.",
+  "location": "Taiwan",
+  "industry": "AgTech, Aviation",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AgTech",
+    "Aviation"
+  ],
+  "url": "https://500.co/portfolio/earthgen-tech",
+  "api": "/companies/earthgen-tech.json"
+}

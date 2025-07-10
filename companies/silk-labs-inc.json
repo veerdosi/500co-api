@@ -1,0 +1,22 @@
+{
+  "id": 3436,
+  "name": "Silk Labs, Inc.",
+  "slug": "silk-labs-inc",
+  "website": "silklabs.com",
+  "description": "Developer of an on-device artificial intelligence platform designed to make connected products a little more human. The company's on-device artificial intelligence platform develops software products which helps in providing technology and fabrics to connect devices together, enabling hardware manufacturers to easily and quickly offer a new class of intelligent products to their customers.",
+  "one_liner": "Developer of an on-device artificial intelligence platform designed to make connected products a little more human. The company's on-device artificial intelligence platform develops software products which helps in providing technology and fabrics to connect devices together, enabling hardware manufacturers to easily and quickly offer a new class of intelligent products to their customers.",
+  "location": "United States",
+  "industry": "Developer Tools, Infrastructure",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools",
+    "Infrastructure"
+  ],
+  "url": "https://500.co/portfolio/silk-labs-inc",
+  "api": "/companies/silk-labs-inc.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5747,
+  "name": "Glorri, Inc.",
+  "slug": "glorri",
+  "website": "glorri.com",
+  "description": "",
+  "one_liner": "",
+  "location": "Azerbaijan",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/590051e0-2c87-43b6-9ddb-f38e7b9c6278.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/glorri",
+  "api": "/companies/glorri.json"
+}

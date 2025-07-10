@@ -1,0 +1,22 @@
+{
+  "id": 4906,
+  "name": "Incognito Technologies Inc.",
+  "slug": "incognito-technologies",
+  "website": "inctech.in",
+  "description": "Provider of information technology services intended for effective quality assurance in the field of system solutions. The company manages the information technology infrastructure from concept to completion and develops industry-specific enterprise resource planning, enabling clients to access information technology products and services that comply with the latest trends in the market.",
+  "one_liner": "Provider of information technology services intended for effective quality assurance in the field of system solutions. The company manages the information technology infrastructure from concept to completion and develops industry-specific enterprise resource planning, enabling clients to access information technology products and services that comply with the latest trends in the market.",
+  "location": "India",
+  "industry": "Cybersecurity, Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Cybersecurity",
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/incognito-technologies",
+  "api": "/companies/incognito-technologies.json"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 5389,
+  "name": "Fintor, Inc.",
+  "slug": "fintor",
+  "website": "fintor.com",
+  "description": "Operator of a fractional real estate investing platform intended to offer a simpler, smarter, and more reliable way to invest money. The company's software allows individual real estate investors or bigger real estate development firms to list their properties and give people the opportunity to buy shares, enabling investors to invest in the real estate markets.",
+  "one_liner": "Operator of a fractional real estate investing platform intended to offer a simpler, smarter, and more reliable way to invest money. The company's software allows individual real estate investors or bigger real estate development firms to list their properties and give people the opportunity to buy shares, enabling investors to invest in the real estate markets.",
+  "location": "United States",
+  "industry": "FinTech, Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/dcad5af5-625b-4561-8fa5-b7eebfd71279.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech",
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/fintor",
+  "api": "/companies/fintor.json"
+}

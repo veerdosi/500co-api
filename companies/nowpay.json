@@ -1,0 +1,21 @@
+{
+  "id": 3552,
+  "name": "Nowpay Inc.",
+  "slug": "nowpay",
+  "website": "nowpay.cash",
+  "description": "Developer of a financial platform designed to focus on improving the financial wellness of corporate employees. The company's platform lets corporate workers receive part of their salaries in advance at almost any time during the month and the same is deducted from their monthly salary, enabling employees to access funding in times of emergency, and for corporations to improve employee happiness, productivity, and corporate loyalty.",
+  "one_liner": "Developer of a financial platform designed to focus on improving the financial wellness of corporate employees. The company's platform lets corporate workers receive part of their salaries in advance at almost any time during the month and the same is deducted from their monthly salary, enabling employees to access funding in times of emergency, and for corporations to improve employee happiness, productivity, and corporate loyalty.",
+  "location": "Egypt",
+  "industry": "Credit & Lending",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/9dc650be-2f75-49ce-9860-8ef8c349aa61.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Credit & Lending"
+  ],
+  "url": "https://500.co/portfolio/nowpay",
+  "api": "/companies/nowpay.json"
+}

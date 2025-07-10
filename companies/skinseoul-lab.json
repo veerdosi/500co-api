@@ -1,0 +1,21 @@
+{
+  "id": 8333,
+  "name": "Skinseoul Lab",
+  "slug": "skinseoul-lab",
+  "website": "www.skin-seoul.com",
+  "description": "Operator of a tech-driven e-commerce startup addressing global skincare market challenges through advanced AI and data-driven solutions while collecting and matching public information such as product trends, pricing, ingredient insights, and consumer reviews across multiple platforms to enhance its offerings.",
+  "one_liner": "Operator of a tech-driven e-commerce startup addressing global skincare market challenges through advanced AI and data-driven solutions while collecting and matching public information such as product trends, pricing, ingredient insights, and consumer reviews across multiple platforms to enhance its offerings.",
+  "location": "KOREA, REPUBLIC OF",
+  "industry": "Ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/43ea307a-c3e5-4049-b758-bc1fb219ac6d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Ecommerce"
+  ],
+  "url": "https://500.co/portfolio/skinseoul-lab",
+  "api": "/companies/skinseoul-lab.json"
+}

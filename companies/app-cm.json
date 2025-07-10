@@ -1,0 +1,22 @@
+{
+  "id": 2918,
+  "name": "App-CM, Inc.",
+  "slug": "app-cm",
+  "website": "www.app-cm.co.jp",
+  "description": "Developer of an in-line video ads platform designed to provide open-source video compression. The company's advertising platform uses unique video-player technology, without requiring large data traffic, to enable compression of up to one-tenth to one-twentieth in data volume compared to typical formats which are conventionally used for mobile video ad networks, enabling advertisers to publish their ad videos with peace of mind.",
+  "one_liner": "Developer of an in-line video ads platform designed to provide open-source video compression. The company's advertising platform uses unique video-player technology, without requiring large data traffic, to enable compression of up to one-tenth to one-twentieth in data volume compared to typical formats which are conventionally used for mobile video ad networks, enabling advertisers to publish their ad videos with peace of mind.",
+  "location": "Singapore",
+  "industry": "Content, Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/3eddd34b-3d31-4fd9-90c7-04f62f0fde26.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content",
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/app-cm",
+  "api": "/companies/app-cm.json"
+}

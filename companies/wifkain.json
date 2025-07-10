@@ -1,0 +1,23 @@
+{
+  "id": 5541,
+  "name": "Wifworld Pte. Ltd.",
+  "slug": "wifkain",
+  "website": "www.wifkain.com",
+  "description": "Developer of a manufacturing-as-a-service platform designed to connect fashion businesses with fabric suppliers. The company's platform specializes in making it convenient to receive fabrics from suppliers directly, both online and offline to oversee transparent production progress, enabling users to view and order fabrics and order samples effortlessly with direct touch and sensation at all times.",
+  "one_liner": "Developer of a manufacturing-as-a-service platform designed to connect fashion businesses with fabric suppliers. The company's platform specializes in making it convenient to receive fabrics from suppliers directly, both online and offline to oversee transparent production progress, enabling users to view and order fabrics and order samples effortlessly with direct touch and sensation at all times.",
+  "location": "Indonesia",
+  "industry": "Fashion, Manufacturing, Marketplace",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/53810560-77d3-4a4c-aff7-574da07c9438.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion",
+    "Manufacturing",
+    "Marketplace"
+  ],
+  "url": "https://500.co/portfolio/wifkain",
+  "api": "/companies/wifkain.json"
+}

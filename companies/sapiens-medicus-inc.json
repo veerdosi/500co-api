@@ -1,0 +1,23 @@
+{
+  "id": 5477,
+  "name": "Sapiens Medicus Inc",
+  "slug": "sapiens-medicus-inc",
+  "website": "https://esculap.io",
+  "description": "Esculapio is your 24/7 voice‑first full-stack AI doctor that offers you personalized care.",
+  "one_liner": "Esculapio is your 24/7 voice‑first full-stack AI doctor that offers you personalized care.",
+  "location": "United States",
+  "industry": "AI/Machine Learning, Health Tech, Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/14058baa-633d-4472-b92c-e66f180ca073.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "Health Tech",
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/sapiens-medicus-inc",
+  "api": "/companies/sapiens-medicus-inc.json"
+}

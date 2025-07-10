@@ -1,0 +1,22 @@
+{
+  "id": 3075,
+  "name": "SilverPush Pte. Ltd.",
+  "slug": "silverpush",
+  "website": "www.silverpush.co",
+  "description": "Operator of an advertising platform intended to offer data-driven technologies to complex client problems. The company's platform focuses on developing proprietary metrics around advanced computer vision capabilities that can be applied to new use cases in the media industry, enabling brands to discover their most relevant audience through context-relevant video ad placement targeting, in a fully controlled and brand-safe environment.",
+  "one_liner": "Operator of an advertising platform intended to offer data-driven technologies to complex client problems. The company's platform focuses on developing proprietary metrics around advanced computer vision capabilities that can be applied to new use cases in the media industry, enabling brands to discover their most relevant audience through context-relevant video ad placement targeting, in a fully controlled and brand-safe environment.",
+  "location": "India",
+  "industry": "AI/Machine Learning, AdTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/0b01cb4f-f63d-4fce-aee6-a5131cdfe437.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "AdTech"
+  ],
+  "url": "https://500.co/portfolio/silverpush",
+  "api": "/companies/silverpush.json"
+}

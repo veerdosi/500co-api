@@ -1,0 +1,21 @@
+{
+  "id": 2695,
+  "name": "Acadium Inc.",
+  "slug": "acadium",
+  "website": "acadium.com",
+  "description": "Developer of an educational platform designed to offer online marketing courses. The company's platform features free online marketing courses like email, social media, and SEO marketing created by industry experts, enabling students to acquire in-demand skills and also helping to find and apply for an apprenticeship.",
+  "one_liner": "Developer of an educational platform designed to offer online marketing courses. The company's platform features free online marketing courses like email, social media, and SEO marketing created by industry experts, enabling students to acquire in-demand skills and also helping to find and apply for an apprenticeship.",
+  "location": "Canada",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/832b74b5-677e-4f05-8ed5-0714c62266b1.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/acadium",
+  "api": "/companies/acadium.json"
+}

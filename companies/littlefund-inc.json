@@ -1,0 +1,21 @@
+{
+  "id": 3497,
+  "name": "Littlefund Inc.",
+  "slug": "littlefund-inc",
+  "website": "littlefund.co",
+  "description": "Developer of a mobile application designed for financial wellness of children. The company develops an application based smart savings and gift tool enabling parents to teach and enhance their child's financial skills.",
+  "one_liner": "Developer of a mobile application designed for financial wellness of children. The company develops an application based smart savings and gift tool enabling parents to teach and enhance their child's financial skills.",
+  "location": "United States",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/littlefund-inc",
+  "api": "/companies/littlefund-inc.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3118,
+  "name": "Call Levels Pte. Ltd.",
+  "slug": "call-levels",
+  "website": "www.call-levels.com",
+  "description": "Developer of a mobile-based application designed to be used for financial assets tracking. The company's application offers a proprietary, reliable asset monitoring system that alarms about price changes through its automatic notification feature and price monitoring technology, enabling financial institutions and investors to track and set an alert for the financial market stocks, commodities, and indices.",
+  "one_liner": "Developer of a mobile-based application designed to be used for financial assets tracking. The company's application offers a proprietary, reliable asset monitoring system that alarms about price changes through its automatic notification feature and price monitoring technology, enabling financial institutions and investors to track and set an alert for the financial market stocks, commodities, and indices.",
+  "location": "Singapore",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ec703ca3-15d7-4f24-aa4c-7535cf0c0e6c.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/call-levels",
+  "api": "/companies/call-levels.json"
+}

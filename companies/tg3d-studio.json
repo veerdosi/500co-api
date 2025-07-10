@@ -1,0 +1,23 @@
+{
+  "id": 5459,
+  "name": "DMKTZ Inc.",
+  "slug": "tg3d-studio",
+  "website": "www.tg3ds.com",
+  "description": "Provider and developer of digitization designed for fashion industry. The company provides body and fabric digitization using 3D technology, enabling clients with design, manufacturing and innovative online shopping experience.",
+  "one_liner": "Provider and developer of digitization designed for fashion industry. The company provides body and fabric digitization using 3D technology, enabling clients with design, manufacturing and innovative online shopping experience.",
+  "location": "Taiwan",
+  "industry": "3D Printing, App, Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ed6586ab-6d3c-4e8c-a48f-a2c4a8abc391.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "3D Printing",
+    "App",
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/tg3d-studio",
+  "api": "/companies/tg3d-studio.json"
+}

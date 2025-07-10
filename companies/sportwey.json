@@ -1,0 +1,21 @@
+{
+  "id": 3026,
+  "name": "Sportwey Inc S.A.P.I. DE C.V.",
+  "slug": "sportwey",
+  "website": "sportwey.com",
+  "description": "Developer of a sports search platform intended to create, manage and find amateur sports tournaments. The company's platform offers tools for managing various aspects of a sports tournament including communication, payment, notifications, calendar integration, application and registration management, enabling athletes to connect with local tournaments easily every day.",
+  "one_liner": "Developer of a sports search platform intended to create, manage and find amateur sports tournaments. The company's platform offers tools for managing various aspects of a sports tournament including communication, payment, notifications, calendar integration, application and registration management, enabling athletes to connect with local tournaments easily every day.",
+  "location": "Mexico",
+  "industry": "Sports",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/1395606d-c22c-4990-9d90-0484da94b871.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Sports"
+  ],
+  "url": "https://500.co/portfolio/sportwey",
+  "api": "/companies/sportwey.json"
+}

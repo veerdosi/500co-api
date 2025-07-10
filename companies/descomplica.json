@@ -1,0 +1,21 @@
+{
+  "id": 2990,
+  "name": "Descomplica Ltd",
+  "slug": "descomplica",
+  "website": "descomplica.com.br",
+  "description": "Operator of an e-learning platform intended to prepare for college entrance exams. The company's platform offers free access to pre-recorded classes, live classes, online monitoring as well as online lessons for subjects like mathematics, physics, and chemistry to help people achieve their goals through affordable and quality education, enabling students to learn at their own pace as well as prepare and clear other entrance exams at low cost.",
+  "one_liner": "Operator of an e-learning platform intended to prepare for college entrance exams. The company's platform offers free access to pre-recorded classes, live classes, online monitoring as well as online lessons for subjects like mathematics, physics, and chemistry to help people achieve their goals through affordable and quality education, enabling students to learn at their own pace as well as prepare and clear other entrance exams at low cost.",
+  "location": "Brazil",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/c8025205-cc2f-4e19-8d3e-0a2e7c8c0532.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/descomplica",
+  "api": "/companies/descomplica.json"
+}

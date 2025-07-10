@@ -1,0 +1,23 @@
+{
+  "id": 5543,
+  "name": "Text And Pay Me Inc",
+  "slug": "textn-pay-me",
+  "website": "textnpayme.com",
+  "description": "Developer of a payment application designed to turn any text or voice command to make payments. The company's application offers a convenient way to make payments across any digital platform through a payment interface, enabling users to get hassle-free transaction services.",
+  "one_liner": "Developer of a payment application designed to turn any text or voice command to make payments. The company's application offers a convenient way to make payments across any digital platform through a payment interface, enabling users to get hassle-free transaction services.",
+  "location": "Armenia",
+  "industry": "FinTech, Payments, Subscription",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/912fc821-fb1c-4679-b00d-d1aeadc7115e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech",
+    "Payments",
+    "Subscription"
+  ],
+  "url": "https://500.co/portfolio/textn-pay-me",
+  "api": "/companies/textn-pay-me.json"
+}

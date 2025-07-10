@@ -1,0 +1,21 @@
+{
+  "id": 5405,
+  "name": "Kalki, Inc.",
+  "slug": "kalki-zebec-kalkire",
+  "website": "zebec.io",
+  "description": "Developer of a financial platform designed to transform payroll transactions. The company's platform uses decentralized finance (Defi) technology to perform real-time and continuous streams of payments with the support of blockchain technology, enabling users to stream their payroll money to compliant cryptocurrency and convert it into real cash.",
+  "one_liner": "Developer of a financial platform designed to transform payroll transactions. The company's platform uses decentralized finance (Defi) technology to perform real-time and continuous streams of payments with the support of blockchain technology, enabling users to stream their payroll money to compliant cryptocurrency and convert it into real cash.",
+  "location": "United States",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/54010bab-2792-4108-a919-114ae70beb79.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/kalki-zebec-kalkire",
+  "api": "/companies/kalki-zebec-kalkire.json"
+}

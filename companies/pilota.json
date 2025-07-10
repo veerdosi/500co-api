@@ -1,0 +1,21 @@
+{
+  "id": 5211,
+  "name": "Skyhawk Holdings, INC.",
+  "slug": "pilota",
+  "website": "flypilota.com",
+  "description": "Developer of an artificial intelligence-based platform designed to predict the risk of disruption associated with each flight. The company's platform uses machine learning to predict disruptions ahead of time and automatically rebook a traveler's flight for free, enabling passengers to add flexibility and security to their flights, save time and complete their journey.",
+  "one_liner": "Developer of an artificial intelligence-based platform designed to predict the risk of disruption associated with each flight. The company's platform uses machine learning to predict disruptions ahead of time and automatically rebook a traveler's flight for free, enabling passengers to add flexibility and security to their flights, save time and complete their journey.",
+  "location": "United States",
+  "industry": "Travel & Tourism",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7fb69873-502b-4580-8080-995c3b96c275.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Travel & Tourism"
+  ],
+  "url": "https://500.co/portfolio/pilota",
+  "api": "/companies/pilota.json"
+}

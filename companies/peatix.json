@@ -1,0 +1,21 @@
+{
+  "id": 4709,
+  "name": "Peatix, Inc.",
+  "slug": "peatix",
+  "website": "peatix.com",
+  "description": "Developer of a global event discovery platform designed to connect individuals with experiences across diverse categories, fostering shared passions and building vibrant communities. The company's platform offers a seamless search and ticketing experience for thousands of events, from art exhibitions and live music to workshops and conferences, enabling businesses to discover new interests, connect with like-minded individuals, and participate in unforgettable experiences.",
+  "one_liner": "Developer of a global event discovery platform designed to connect individuals with experiences across diverse categories, fostering shared passions and building vibrant communities. The company's platform offers a seamless search and ticketing experience for thousands of events, from art exhibitions and live music to workshops and conferences, enabling businesses to discover new interests, connect with like-minded individuals, and participate in unforgettable experiences.",
+  "location": "United States",
+  "industry": "Entertainment / Media",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2446e70e-590e-435f-a88d-f96ff6b99e2f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Entertainment / Media"
+  ],
+  "url": "https://500.co/portfolio/peatix",
+  "api": "/companies/peatix.json"
+}

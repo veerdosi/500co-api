@@ -1,0 +1,21 @@
+{
+  "id": 2712,
+  "name": "Mero Technologies Inc.",
+  "slug": "mero",
+  "website": "www.mero.co",
+  "description": "Developer of a cloud-based platform designed to give predictive insights to cleaners and property managers. The company's platform uses smart sensor technology to provide a real-time view of a building's usage trends and inventory supply levels, property managers to dispatch cleaning teams to high-priority areas on an intelligent just-in-time basis, enabling clients to optimize the way buildings perform day-to-day cleaning maintenance.",
+  "one_liner": "Developer of a cloud-based platform designed to give predictive insights to cleaners and property managers. The company's platform uses smart sensor technology to provide a real-time view of a building's usage trends and inventory supply levels, property managers to dispatch cleaning teams to high-priority areas on an intelligent just-in-time basis, enabling clients to optimize the way buildings perform day-to-day cleaning maintenance.",
+  "location": "Canada",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/97bdff3d-5028-4c26-a709-bff0f191a55a.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/mero",
+  "api": "/companies/mero.json"
+}

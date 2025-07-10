@@ -1,0 +1,21 @@
+{
+  "id": 4344,
+  "name": "Allsome Inc.",
+  "slug": "allsome",
+  "website": "allsome.my",
+  "description": "Developer of e-commerce fulfillment software intended to provide parcel tracking systems to track packages delivered from online e-commerce sites. The company's software offers a cross-border fulfillment option to track, and get notified for easy order management without heavy investments, enabling companies to take care of their online businesses.",
+  "one_liner": "Developer of e-commerce fulfillment software intended to provide parcel tracking systems to track packages delivered from online e-commerce sites. The company's software offers a cross-border fulfillment option to track, and get notified for easy order management without heavy investments, enabling companies to take care of their online businesses.",
+  "location": "Malaysia",
+  "industry": "Supply Chain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/213df6bf-e86c-409d-a8f8-bcaf63bd4940.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Supply Chain"
+  ],
+  "url": "https://500.co/portfolio/allsome",
+  "api": "/companies/allsome.json"
+}

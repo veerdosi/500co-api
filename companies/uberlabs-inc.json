@@ -1,0 +1,21 @@
+{
+  "id": 4014,
+  "name": "Uberlabs, Inc.",
+  "slug": "uberlabs-inc",
+  "website": "gazemetrix.com",
+  "description": "Provider of an image recognition and visual listening platform. The company uses advanced image recognition and artificial intelligence technologies to identify image-based risks and opportunities while analyzing user-generated photos in social channels, enabling brands to understand how their products are consumed and visualized by users in their daily lives.",
+  "one_liner": "Provider of an image recognition and visual listening platform. The company uses advanced image recognition and artificial intelligence technologies to identify image-based risks and opportunities while analyzing user-generated photos in social channels, enabling brands to understand how their products are consumed and visualized by users in their daily lives.",
+  "location": "United States",
+  "industry": "Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/uberlabs-inc",
+  "api": "/companies/uberlabs-inc.json"
+}

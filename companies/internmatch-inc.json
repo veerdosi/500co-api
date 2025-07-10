@@ -1,0 +1,21 @@
+{
+  "id": 4262,
+  "name": "InternMatch, Inc.",
+  "slug": "internmatch-inc",
+  "website": "internmatch.com",
+  "description": "Provider of a job searching platform designed to connect students and recent graduates with employers. The company's job searching platform is a internship and entry-level jobs marketplace where students find resources and opportunities, enabling its users to secure jobs and create a professional career.",
+  "one_liner": "Provider of a job searching platform designed to connect students and recent graduates with employers. The company's job searching platform is a internship and entry-level jobs marketplace where students find resources and opportunities, enabling its users to secure jobs and create a professional career.",
+  "location": "United States",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a13b1f4d-7fff-419a-9b88-444f0cb89430.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/internmatch-inc",
+  "api": "/companies/internmatch-inc.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3729,
+  "name": "Pixowl, Inc",
+  "slug": "pixowl-inc",
+  "website": "pixowl.com",
+  "description": "Developer of a mobile gaming platform designed to develop games that can be played with family. The company's platform makes use of comic book art to develop and publish integrated comic book and character-driven story-lines, enabling gamers worldwide to play games with storytelling experiences.",
+  "one_liner": "Developer of a mobile gaming platform designed to develop games that can be played with family. The company's platform makes use of comic book art to develop and publish integrated comic book and character-driven story-lines, enabling gamers worldwide to play games with storytelling experiences.",
+  "location": "United States",
+  "industry": "Gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/81efc61b-68c1-4f94-a20c-b1a478fef750.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Gaming"
+  ],
+  "url": "https://500.co/portfolio/pixowl-inc",
+  "api": "/companies/pixowl-inc.json"
+}

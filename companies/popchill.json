@@ -1,0 +1,21 @@
+{
+  "id": 8097,
+  "name": "Popchill Corp.",
+  "slug": "popchill",
+  "website": "www.popchill.com",
+  "description": "Developer of a social eCommerce platform designed for second-hand trade. The company generates an online marketplace for second-hand trade, enabling users to share their fashion styles and sell idle items.",
+  "one_liner": "Developer of a social eCommerce platform designed for second-hand trade. The company generates an online marketplace for second-hand trade, enabling users to share their fashion styles and sell idle items.",
+  "location": "Taiwan",
+  "industry": "Consumer",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/c19494b1-87b6-4051-82c0-45ace78399a2.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Consumer"
+  ],
+  "url": "https://500.co/portfolio/popchill",
+  "api": "/companies/popchill.json"
+}

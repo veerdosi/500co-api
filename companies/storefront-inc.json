@@ -1,0 +1,21 @@
+{
+  "id": 4258,
+  "name": "Storefront, Inc.",
+  "slug": "storefront-inc",
+  "website": "thestorefront.com",
+  "description": "Operator of an online marketplace intended to help people to rent short term retail space. The company's marketplace connects retailers, brands and designers with their customers through short-term retail stores, also known as pop-up shops, as well as helps realtors and space owners to list their property on the site and name their price and approve all bookings, enabling clients to benefit from each other and grow in terms of revenue.",
+  "one_liner": "Operator of an online marketplace intended to help people to rent short term retail space. The company's marketplace connects retailers, brands and designers with their customers through short-term retail stores, also known as pop-up shops, as well as helps realtors and space owners to list their property on the site and name their price and approve all bookings, enabling clients to benefit from each other and grow in terms of revenue.",
+  "location": "United States",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2fb893f8-f76f-436c-a11d-99b626859d92.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/storefront-inc",
+  "api": "/companies/storefront-inc.json"
+}

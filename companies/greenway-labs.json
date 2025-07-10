@@ -1,0 +1,21 @@
+{
+  "id": 4965,
+  "name": "Green Way Labs, Inc.",
+  "slug": "greenway-labs",
+  "website": "greenwaylabs.com",
+  "description": "Owner and developer of non-toxic, eco-friendly cleaning products intended to create a cleaning formula that would meet the green standards. The company's products utilize advanced colloidal chemistry featuring renewable plant-based components to develop a non-toxic, non-solvent-based cleaning solution that can remove oils, greases, including asphalt roofing tars and sealants, enabling users to get a product that is safe for skin and all surfaces at a low cost.",
+  "one_liner": "Owner and developer of non-toxic, eco-friendly cleaning products intended to create a cleaning formula that would meet the green standards. The company's products utilize advanced colloidal chemistry featuring renewable plant-based components to develop a non-toxic, non-solvent-based cleaning solution that can remove oils, greases, including asphalt roofing tars and sealants, enabling users to get a product that is safe for skin and all surfaces at a low cost.",
+  "location": "United States",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/greenway-labs",
+  "api": "/companies/greenway-labs.json"
+}

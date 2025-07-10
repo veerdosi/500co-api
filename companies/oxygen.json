@@ -1,0 +1,22 @@
+{
+  "id": 3583,
+  "name": "ReliefClub, Inc.",
+  "slug": "oxygen",
+  "website": "oxygen.us",
+  "description": "Developer of a modern financial technology platform intended to provide premium financial services for both personal and business banking in a single application. The company's application provides a digital account with instant zero-interest loans and fees, tracks bills, and projects income, it is also developing non-financial SaaS (software-as-a-service) products for the small business market enabling users to enjoy digital banking services conveniently.",
+  "one_liner": "Developer of a modern financial technology platform intended to provide premium financial services for both personal and business banking in a single application. The company's application provides a digital account with instant zero-interest loans and fees, tracks bills, and projects income, it is also developing non-financial SaaS (software-as-a-service) products for the small business market enabling users to enjoy digital banking services conveniently.",
+  "location": "United States",
+  "industry": "Credit & Lending, FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/bf760772-ab22-46a0-8295-84360a43a0b3.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Credit & Lending",
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/oxygen",
+  "api": "/companies/oxygen.json"
+}

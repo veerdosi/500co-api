@@ -1,0 +1,21 @@
+{
+  "id": 3730,
+  "name": "Ordoro, Inc.",
+  "slug": "ordoro",
+  "website": "www.ordoro.com",
+  "description": "Developer of e-commerce logistics platform designed to track supply chains and orders. The company's application uses an open application programming interface (API) to integrate with major marketplaces and shopping cart platforms, enabling merchants to streamline their shipping and inventory management across all their sales channels so they can focus on growing their business.",
+  "one_liner": "Developer of e-commerce logistics platform designed to track supply chains and orders. The company's application uses an open application programming interface (API) to integrate with major marketplaces and shopping cart platforms, enabling merchants to streamline their shipping and inventory management across all their sales channels so they can focus on growing their business.",
+  "location": "United States",
+  "industry": "Supply Chain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4e7c0bc3-da18-4fb9-9418-9c05d9033e97.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Supply Chain"
+  ],
+  "url": "https://500.co/portfolio/ordoro",
+  "api": "/companies/ordoro.json"
+}

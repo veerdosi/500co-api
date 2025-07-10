@@ -1,0 +1,23 @@
+{
+  "id": 5492,
+  "name": "CoolSo Technology Inc.",
+  "slug": "coolso",
+  "website": "coolsotech.com",
+  "description": "Developer of a gesture technology intended to focus on muscle biosensors integrating augmented reality and virtual reality. The company's technology recognizes detailed information such as muscle fatigue, gesture, and strength level, enabling clients to get wearable gesture control and rehabilitation remedies.",
+  "one_liner": "Developer of a gesture technology intended to focus on muscle biosensors integrating augmented reality and virtual reality. The company's technology recognizes detailed information such as muscle fatigue, gesture, and strength level, enabling clients to get wearable gesture control and rehabilitation remedies.",
+  "location": "Taiwan",
+  "industry": "Hardware, Health Tech, Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d5e83ea3-3e84-4bc6-8079-0b7250b7e4a6.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Hardware",
+    "Health Tech",
+    "Impact"
+  ],
+  "url": "https://500.co/portfolio/coolso",
+  "api": "/companies/coolso.json"
+}

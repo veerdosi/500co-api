@@ -1,0 +1,22 @@
+{
+  "id": 3687,
+  "name": "CStorePro, Inc.",
+  "slug": "cstorepro-inc",
+  "website": "cstorepro.com",
+  "description": "Provider of a cloud-based operations and inventory management software designed to manage back office work. The company's software offers live data to monitor sales, void transactions, void tickets, refunds, no sale and manual ring ups, all in real-time, enabling store owners to protect their data with full safeguards according to industry standards and best practices used by banks and financial institutions and control their stores from anywhere.",
+  "one_liner": "Provider of a cloud-based operations and inventory management software designed to manage back office work. The company's software offers live data to monitor sales, void transactions, void tickets, refunds, no sale and manual ring ups, all in real-time, enabling store owners to protect their data with full safeguards according to industry standards and best practices used by banks and financial institutions and control their stores from anywhere.",
+  "location": "United States",
+  "industry": "Data & Analytics, Infrastructure",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2c00be0e-3744-46f1-b44e-e425f418162d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics",
+    "Infrastructure"
+  ],
+  "url": "https://500.co/portfolio/cstorepro-inc",
+  "api": "/companies/cstorepro-inc.json"
+}

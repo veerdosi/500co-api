@@ -1,0 +1,21 @@
+{
+  "id": 2880,
+  "name": "Hey Group GmbH",
+  "slug": "hey-cater",
+  "website": "www.heycater.com",
+  "description": "Provider of catering, cooking, and food delivery services intended to offer a marketplace for connecting chefs with the people. The company's services help in organizing delicious food for people seeking tailored catering services for any event or party, enabling people to connect with caterers, food trucks, and private chefs to get their desired food and place bulk orders from their preferred vendors.",
+  "one_liner": "Provider of catering, cooking, and food delivery services intended to offer a marketplace for connecting chefs with the people. The company's services help in organizing delicious food for people seeking tailored catering services for any event or party, enabling people to connect with caterers, food trucks, and private chefs to get their desired food and place bulk orders from their preferred vendors.",
+  "location": "United States",
+  "industry": "Food",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/c6f13702-d0c5-4c1c-bd2c-dee00e7380e3.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Food"
+  ],
+  "url": "https://500.co/portfolio/hey-cater",
+  "api": "/companies/hey-cater.json"
+}

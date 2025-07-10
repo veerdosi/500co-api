@@ -1,0 +1,21 @@
+{
+  "id": 4891,
+  "name": "Remix Software, Inc.",
+  "slug": "remix-software-inc",
+  "website": "getremix.com",
+  "description": "Provider of a web-based platform intended to improve decision-making and planning processes in the public sector. The company's web-based platform offers a public transit planning platform helping government agencies decide and plan cities and routes enabling planners at transit agencies and local governments to quickly design transit routes and immediately understand the cost and demographic impact of a proposed change to better balance transit, biking, walking and vehicles.",
+  "one_liner": "Provider of a web-based platform intended to improve decision-making and planning processes in the public sector. The company's web-based platform offers a public transit planning platform helping government agencies decide and plan cities and routes enabling planners at transit agencies and local governments to quickly design transit routes and immediately understand the cost and demographic impact of a proposed change to better balance transit, biking, walking and vehicles.",
+  "location": "United States",
+  "industry": "Government",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Government"
+  ],
+  "url": "https://500.co/portfolio/remix-software-inc",
+  "api": "/companies/remix-software-inc.json"
+}

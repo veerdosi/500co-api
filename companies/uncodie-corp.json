@@ -1,0 +1,23 @@
+{
+  "id": 5759,
+  "name": "UNCODIE, CORP.",
+  "slug": "uncodie-corp",
+  "website": "www.uncodie.com",
+  "description": "Developer of AI-based no-code platform designed to create technology and access capital. The company's platform connects apps to custom databases or third-party tools, uses AI to generate clean and reusable code from components and screens and select a variety of frameworks and languages, enabling clients to help build web applications.",
+  "one_liner": "Developer of AI-based no-code platform designed to create technology and access capital. The company's platform connects apps to custom databases or third-party tools, uses AI to generate clean and reusable code from components and screens and select a variety of frameworks and languages, enabling clients to help build web applications.",
+  "location": "Mexico",
+  "industry": "CloudTech, DevOps, Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/c7a506b8-1e02-4407-adf7-c4f83a4c6035.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "CloudTech",
+    "DevOps",
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/uncodie-corp",
+  "api": "/companies/uncodie-corp.json"
+}

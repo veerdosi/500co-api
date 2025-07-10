@@ -1,0 +1,21 @@
+{
+  "id": 4934,
+  "name": "ChannelMeter, Inc.",
+  "slug": "channelmeter",
+  "website": "channelmeter.com",
+  "description": "Developer of brand influencer management platform designed to offer online video marketing services. The company's platform discovers talent, onboards influencers, tracks campaigns, data analytics, payout automation, and reports metrics, enabling businesses to grow successful media content around creators.",
+  "one_liner": "Developer of brand influencer management platform designed to offer online video marketing services. The company's platform discovers talent, onboards influencers, tracks campaigns, data analytics, payout automation, and reports metrics, enabling businesses to grow successful media content around creators.",
+  "location": "Japan",
+  "industry": "Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2890ecac-10d5-471f-b6ce-ece9ec9d79d9.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/channelmeter",
+  "api": "/companies/channelmeter.json"
+}

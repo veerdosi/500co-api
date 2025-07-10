@@ -1,0 +1,22 @@
+{
+  "id": 4831,
+  "name": "Chemical Technologies, Inc.",
+  "slug": "chemtech-ai",
+  "website": "www.chmtch.com",
+  "description": "Developer of an artificial intelligence-based platform designed to predict parameters and automate decision-making. The company's platform uses machine learning technologies to improve unit capacity, product yield, and quality, decrease energy consumption as well and predict the values of key technological parameters, enabling manufacturing plant operators to make an additional profit from the existing unit without further capital investments and cloud connection.",
+  "one_liner": "Developer of an artificial intelligence-based platform designed to predict parameters and automate decision-making. The company's platform uses machine learning technologies to improve unit capacity, product yield, and quality, decrease energy consumption as well and predict the values of key technological parameters, enabling manufacturing plant operators to make an additional profit from the existing unit without further capital investments and cloud connection.",
+  "location": "United States",
+  "industry": "AI/Machine Learning, Industrials",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e062d2c7-8bfe-4d52-bbc2-1948c0b4395e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "Industrials"
+  ],
+  "url": "https://500.co/portfolio/chemtech-ai",
+  "api": "/companies/chemtech-ai.json"
+}

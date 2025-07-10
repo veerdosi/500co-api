@@ -1,0 +1,23 @@
+{
+  "id": 4496,
+  "name": "INDOS Corp.",
+  "slug": "garment-io",
+  "website": "garment.io",
+  "description": "Developer of a production management device and platform designed to boost the productivity of the garment manufacturing industry. The company's technology offers production order tracking, transaction feeds, and quality level analysis through different dashboards, enabling factory managers and supervisors to save money, performance, and production cost.",
+  "one_liner": "Developer of a production management device and platform designed to boost the productivity of the garment manufacturing industry. The company's technology offers production order tracking, transaction feeds, and quality level analysis through different dashboards, enabling factory managers and supervisors to save money, performance, and production cost.",
+  "location": "United States",
+  "industry": "AI/Machine Learning, Data & Analytics, IoT",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f35a8c45-3661-4767-8b1c-b0c70cb5d72d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "Data & Analytics",
+    "IoT"
+  ],
+  "url": "https://500.co/portfolio/garment-io",
+  "api": "/companies/garment-io.json"
+}

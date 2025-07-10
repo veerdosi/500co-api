@@ -1,0 +1,22 @@
+{
+  "id": 3567,
+  "name": "Darb Technology Holding Ltd",
+  "slug": "ajeer",
+  "website": "www.iajeer.com",
+  "description": "Developer of a digital facilities platform designed for providing home maintenance services. The company's platform offers a wide range of services for all home maintenance needs while keeping up with current trends and finding continuous areas of innovative approaches and improvements, enabling customers to access technicians in an on-demand model.",
+  "one_liner": "Developer of a digital facilities platform designed for providing home maintenance services. The company's platform offers a wide range of services for all home maintenance needs while keeping up with current trends and finding continuous areas of innovative approaches and improvements, enabling customers to access technicians in an on-demand model.",
+  "location": "Saudi Arabia",
+  "industry": "PropTech, Consumer",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/a7c6e510-2e7b-4bc4-b8eb-5a4bfc8bec5a.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "PropTech",
+    "Consumer"
+  ],
+  "url": "https://500.co/portfolio/ajeer",
+  "api": "/companies/ajeer.json"
+}

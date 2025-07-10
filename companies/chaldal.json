@@ -1,0 +1,22 @@
+{
+  "id": 3784,
+  "name": "ChalDal, Inc.",
+  "slug": "chaldal",
+  "website": "chaldal.com",
+  "description": "Operator of an online shopping platform intended to offer groceries and daily essential products. The company's platform offers baby products, personal care products, pet food and groceries, enabling customers to buy goods of their own choice and get them delivered to their doorstep.",
+  "one_liner": "Operator of an online shopping platform intended to offer groceries and daily essential products. The company's platform offers baby products, personal care products, pet food and groceries, enabling customers to buy goods of their own choice and get them delivered to their doorstep.",
+  "location": "Bangladesh",
+  "industry": "Ecommerce, Food",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/38fa13cc-a001-45fe-b7f4-4c6bf8746141.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Ecommerce",
+    "Food"
+  ],
+  "url": "https://500.co/portfolio/chaldal",
+  "api": "/companies/chaldal.json"
+}

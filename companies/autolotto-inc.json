@@ -1,0 +1,21 @@
+{
+  "id": 3653,
+  "name": "AutoLotto, Inc.",
+  "slug": "autolotto-inc",
+  "website": "lottery.com",
+  "description": "Provider of mobile lottery services intended to help the lottery industry win over millennials. The company's mobile application Tap, tap, ticket, enables users to buy tickets from their smartphone and scan a paper ticket purchased in-store to track it and get notifications if they win, eliminating lost tickets and the need to track down results and ensuring safety and security by verifying user identity, location and age to provide the best and most-legitimate mobile lottery experience.",
+  "one_liner": "Provider of mobile lottery services intended to help the lottery industry win over millennials. The company's mobile application Tap, tap, ticket, enables users to buy tickets from their smartphone and scan a paper ticket purchased in-store to track it and get notifications if they win, eliminating lost tickets and the need to track down results and ensuring safety and security by verifying user identity, location and age to provide the best and most-legitimate mobile lottery experience.",
+  "location": "United States",
+  "industry": "Gambling",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/205a1670-c8af-4f33-a56a-408d8b5979e8.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Gambling"
+  ],
+  "url": "https://500.co/portfolio/autolotto-inc",
+  "api": "/companies/autolotto-inc.json"
+}

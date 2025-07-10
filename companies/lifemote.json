@@ -1,0 +1,21 @@
+{
+  "id": 3301,
+  "name": "Li̇femote Bi̇li̇şi̇m Ve Ti̇caret Anoni̇m Şi̇rketi̇",
+  "slug": "lifemote",
+  "website": "lifemote.com",
+  "description": "Developer of an artificial intelligence tool designed to quantify and improve the home broadband users' experience. The company's tool offers a collection of household network performance parameters, data analytics, and machine learning algorithms to detect problems and provide assistance, enabling internet service providers to resolve customer complaints thereby offering network services without any interventions.",
+  "one_liner": "Developer of an artificial intelligence tool designed to quantify and improve the home broadband users' experience. The company's tool offers a collection of household network performance parameters, data analytics, and machine learning algorithms to detect problems and provide assistance, enabling internet service providers to resolve customer complaints thereby offering network services without any interventions.",
+  "location": "Turkey",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e1df84ff-9d1b-4fa4-8396-d6bc6f7dddf9.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/lifemote",
+  "api": "/companies/lifemote.json"
+}

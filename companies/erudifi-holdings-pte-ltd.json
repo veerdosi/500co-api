@@ -1,0 +1,21 @@
+{
+  "id": 8103,
+  "name": "Erudifi Holdings Pte. Ltd.",
+  "slug": "erudifi-holdings-pte-ltd",
+  "website": "erudifi.com",
+  "description": "",
+  "one_liner": "",
+  "location": "Singapore",
+  "industry": "Credit & Lending",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/140fd050-f386-45f7-8138-627551ddbc03.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Credit & Lending"
+  ],
+  "url": "https://500.co/portfolio/erudifi-holdings-pte-ltd",
+  "api": "/companies/erudifi-holdings-pte-ltd.json"
+}

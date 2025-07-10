@@ -1,0 +1,21 @@
+{
+  "id": 5587,
+  "name": "PlayHT, Inc.",
+  "slug": "playht",
+  "website": "play.ht",
+  "description": "Developer of an audio platform designed to create realistic voiceovers from text instantly in multiple languages. The company's platform offers various features such as a text-to-voice editor, audio widgets, podcasts, audio articles and phonetics, enabling media companies to scale and automate their content creation with realistic and fidelity generative voices.",
+  "one_liner": "Developer of an audio platform designed to create realistic voiceovers from text instantly in multiple languages. The company's platform offers various features such as a text-to-voice editor, audio widgets, podcasts, audio articles and phonetics, enabling media companies to scale and automate their content creation with realistic and fidelity generative voices.",
+  "location": "United States",
+  "industry": "AI/Machine Learning",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/bb4045d5-0560-4358-8d24-9ca26ab39677.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning"
+  ],
+  "url": "https://500.co/portfolio/playht",
+  "api": "/companies/playht.json"
+}

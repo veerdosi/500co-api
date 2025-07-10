@@ -1,0 +1,22 @@
+{
+  "id": 3305,
+  "name": "Cloud Commerce Co., Ltd.",
+  "slug": "cloud-commerce",
+  "website": "cloudcommerce.co",
+  "description": "Developer of a cross-border e-commerce platform designed to connect product data with the online markets globally. The company's platform provides features such as posting products, updating stock, managing orders and connecting transportation systems automatically, enabling online sellers to manage their online marketplace worldwide.",
+  "one_liner": "Developer of a cross-border e-commerce platform designed to connect product data with the online markets globally. The company's platform provides features such as posting products, updating stock, managing orders and connecting transportation systems automatically, enabling online sellers to manage their online marketplace worldwide.",
+  "location": "Thailand",
+  "industry": "Content, Supply Chain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2eb5feeb-bbc2-485e-9a89-4174d2efbe01.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content",
+    "Supply Chain"
+  ],
+  "url": "https://500.co/portfolio/cloud-commerce",
+  "api": "/companies/cloud-commerce.json"
+}

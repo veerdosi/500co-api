@@ -1,0 +1,21 @@
+{
+  "id": 5237,
+  "name": "Mejuri Inc.",
+  "slug": "mejuri",
+  "website": "mejuri.com",
+  "description": "Operator of an e-commerce platform intended to sell handcrafted fine jewelry for everyday use. The company's direct-to-consumer e-commerce platform features products such as rings, pendants, earrings, bracelets, and other luxury jewelry made up of precious and semi-precious stones, enabling women to buy handcrafted accessories online.",
+  "one_liner": "Operator of an e-commerce platform intended to sell handcrafted fine jewelry for everyday use. The company's direct-to-consumer e-commerce platform features products such as rings, pendants, earrings, bracelets, and other luxury jewelry made up of precious and semi-precious stones, enabling women to buy handcrafted accessories online.",
+  "location": "Canada",
+  "industry": "Fashion",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d7712c62-f97c-498e-b3ef-d55d3d4e5edf.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion"
+  ],
+  "url": "https://500.co/portfolio/mejuri",
+  "api": "/companies/mejuri.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 8074,
+  "name": "CULINARY ARTS TECH LTD",
+  "slug": "fifoplus",
+  "website": "www.fifoplus.com",
+  "description": "Developer of a procurement software designed for HORECA businesses to connect to food suppliers. The company's platform tracks inventory levels and automatically generates orders when supplies are low, provides insights of purchasing trends, enabling restaurants, caterers, cafes, home based and cloud kitchens to make informed decisions about their inventory management and save money.",
+  "one_liner": "Developer of a procurement software designed for HORECA businesses to connect to food suppliers. The company's platform tracks inventory levels and automatically generates orders when supplies are low, provides insights of purchasing trends, enabling restaurants, caterers, cafes, home based and cloud kitchens to make informed decisions about their inventory management and save money.",
+  "location": "Saudi Arabia",
+  "industry": "Consumer",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a6d4d30d-a475-4d91-b0b9-9752a2b904b8.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Consumer"
+  ],
+  "url": "https://500.co/portfolio/fifoplus",
+  "api": "/companies/fifoplus.json"
+}

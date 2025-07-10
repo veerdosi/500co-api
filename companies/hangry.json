@@ -1,0 +1,22 @@
+{
+  "id": 5139,
+  "name": "WEAREHANGRY PTE. LTD.",
+  "slug": "hangry",
+  "website": "www.ishangry.com",
+  "description": "Opeartor of a multi-brand delivery-only restaurant platform designed for consumers looking for a variety of food options. The company's platform offers a selection of virtual restaurants featuring local and international cuisines, enabling customers to order a wide range of meals through a user-friendly app and have them delivered directly to their location.",
+  "one_liner": "Opeartor of a multi-brand delivery-only restaurant platform designed for consumers looking for a variety of food options. The company's platform offers a selection of virtual restaurants featuring local and international cuisines, enabling customers to order a wide range of meals through a user-friendly app and have them delivered directly to their location.",
+  "location": "Indonesia",
+  "industry": "Food, Marketplace",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/1c7121f4-8d13-40a2-a851-bc9b6f50dfec.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Food",
+    "Marketplace"
+  ],
+  "url": "https://500.co/portfolio/hangry",
+  "api": "/companies/hangry.json"
+}

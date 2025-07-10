@@ -1,0 +1,21 @@
+{
+  "id": 4927,
+  "name": "Focus At Will Labs, Inc.",
+  "slug": "focus-at-will-labs",
+  "website": "www.focusatwill.com",
+  "description": "Developer of a music streaming platform intended to offer scientifically engineered music to increase focus and reduce distractions. The company's platform uses phase sequenced instrumental music to increase the attention span when working, studying, writing, and reading, enabling users to concentrate on their work by listening to music and thus improving their productivity.",
+  "one_liner": "Developer of a music streaming platform intended to offer scientifically engineered music to increase focus and reduce distractions. The company's platform uses phase sequenced instrumental music to increase the attention span when working, studying, writing, and reading, enabling users to concentrate on their work by listening to music and thus improving their productivity.",
+  "location": "United States",
+  "industry": "Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e8ee57cc-c399-4cf7-b808-d85ddb72d990.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/focus-at-will-labs",
+  "api": "/companies/focus-at-will-labs.json"
+}

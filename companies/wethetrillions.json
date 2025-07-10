@@ -1,0 +1,21 @@
+{
+  "id": 4850,
+  "name": "LOOLY'S PBC",
+  "slug": "wethetrillions",
+  "website": "www.wethetrillions.com",
+  "description": "Producer of plant-based food products intended to re-engineer preventative healthcare facilities. The company's products are prepared through peer-reviewed research to determine the nutrition goals of each menu that are available in software-enabled mobile cupboards placed at company lobbies, hospitals, bus stations, and universities, enabling consumers to get their nutritional needs fulfilled through fresh, nutritional, and affordable meals.",
+  "one_liner": "Producer of plant-based food products intended to re-engineer preventative healthcare facilities. The company's products are prepared through peer-reviewed research to determine the nutrition goals of each menu that are available in software-enabled mobile cupboards placed at company lobbies, hospitals, bus stations, and universities, enabling consumers to get their nutritional needs fulfilled through fresh, nutritional, and affordable meals.",
+  "location": "United States",
+  "industry": "Supply Chain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/c9b8e0ee-1851-4fd8-b402-8b0ea5ca30b2.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Supply Chain"
+  ],
+  "url": "https://500.co/portfolio/wethetrillions",
+  "api": "/companies/wethetrillions.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3380,
+  "name": "Payple Inc.",
+  "slug": "payple",
+  "website": "www.payple.kr",
+  "description": "Developer of a financial platform designed to offer payment services with a focus on increasing the payment conversion rate. The company's platform focuses on increasing customer conversion rates by analyzing the data necessary for direct marketing and allows automated payments and transfers with API integration, enabling clients to conveniently use credit cards and direct transfer payment methods and expand their business scope.",
+  "one_liner": "Developer of a financial platform designed to offer payment services with a focus on increasing the payment conversion rate. The company's platform focuses on increasing customer conversion rates by analyzing the data necessary for direct marketing and allows automated payments and transfers with API integration, enabling clients to conveniently use credit cards and direct transfer payment methods and expand their business scope.",
+  "location": "South Korea",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/bd23cbd8-abc5-454d-8cb2-f04a4c6e8257.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/payple",
+  "api": "/companies/payple.json"
+}

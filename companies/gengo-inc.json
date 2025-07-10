@@ -1,0 +1,21 @@
+{
+  "id": 5036,
+  "name": "Gengo, Inc.",
+  "slug": "gengo-inc",
+  "website": "gengo.com",
+  "description": "Provider of online language translation services designed to help people to translate all the content in a few clicks. The company's online language translation services offer to upload files or input text, select the translation languages and level to receive an instant quote, as well as offers to give translators any relevant details or specific instructions about project, enabling clients to track their work progress and communicate directly with translators.",
+  "one_liner": "Provider of online language translation services designed to help people to translate all the content in a few clicks. The company's online language translation services offer to upload files or input text, select the translation languages and level to receive an instant quote, as well as offers to give translators any relevant details or specific instructions about project, enabling clients to track their work progress and communicate directly with translators.",
+  "location": "United States",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d107100b-2fa9-4bb7-b7fe-fb2dbfe2d393.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/gengo-inc",
+  "api": "/companies/gengo-inc.json"
+}

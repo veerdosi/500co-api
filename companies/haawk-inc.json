@@ -1,0 +1,23 @@
+{
+  "id": 4109,
+  "name": "HAAWK, Inc.",
+  "slug": "haawk-inc",
+  "website": "www.haawk.com",
+  "description": "Operator of a copyright administration, management, and licensing platforms. The company monitors, monetizes and enforces users' copyrights on user-generated content platforms including YouTube, Facebook/Instagram, and TikTok via the brands HAAWK, Identifyy, Keyframe Audio, and Diistro.",
+  "one_liner": "Operator of a copyright administration, management, and licensing platforms. The company monitors, monetizes and enforces users' copyrights on user-generated content platforms including YouTube, Facebook/Instagram, and TikTok via the brands HAAWK, Identifyy, Keyframe Audio, and Diistro.",
+  "location": "United States",
+  "industry": "AI/Machine Learning, AudioTech, Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/90d99e14-b38e-4ae8-b32b-cd859aa713ac.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "AudioTech",
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/haawk-inc",
+  "api": "/companies/haawk-inc.json"
+}

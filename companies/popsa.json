@@ -1,0 +1,22 @@
+{
+  "id": 3256,
+  "name": "Popsa Holdings Limited",
+  "slug": "popsa",
+  "website": "popsa.com",
+  "description": "Provider of automated photo book printing services intended to bring customizable printed goods to audiences using technology. The company's application uses narrow AI technology which auto-generates photo books with the selected photos and provides editing options, enabling users to create personalized prints such as photo books, calendars, and boxes of prints.",
+  "one_liner": "Provider of automated photo book printing services intended to bring customizable printed goods to audiences using technology. The company's application uses narrow AI technology which auto-generates photo books with the selected photos and provides editing options, enabling users to create personalized prints such as photo books, calendars, and boxes of prints.",
+  "location": "United Kingdom",
+  "industry": "AI/Machine Learning, Commerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2095ec1b-21c2-436e-98e7-e2afbfd40671.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "Commerce"
+  ],
+  "url": "https://500.co/portfolio/popsa",
+  "api": "/companies/popsa.json"
+}

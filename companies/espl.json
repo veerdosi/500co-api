@@ -1,0 +1,22 @@
+{
+  "id": 5157,
+  "name": "Esports Pte. Ltd.",
+  "slug": "espl",
+  "website": "espl.co",
+  "description": "Operator of a global media network intended to organize sports tournaments and events. The company's network specializes in creating a platform for entrepreneurs, engineers, gamers, and industry specialists to compete in online and on-ground tournaments, enabling gamers to access and participate in various global e-sports competitions.",
+  "one_liner": "Operator of a global media network intended to organize sports tournaments and events. The company's network specializes in creating a platform for entrepreneurs, engineers, gamers, and industry specialists to compete in online and on-ground tournaments, enabling gamers to access and participate in various global e-sports competitions.",
+  "location": "Singapore",
+  "industry": "Gaming, Entertainment / Media",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/8c516898-6da7-4872-ae63-93791d39e0f2.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Gaming",
+    "Entertainment / Media"
+  ],
+  "url": "https://500.co/portfolio/espl",
+  "api": "/companies/espl.json"
+}

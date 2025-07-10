@@ -1,0 +1,21 @@
+{
+  "id": 3807,
+  "name": "Tuckernuck, Inc.",
+  "slug": "tuckernuck",
+  "website": "tnuck.com",
+  "description": "Operator of an online retail platform intended to provide classic and all-American lifestyle products. The company operates as an e-commerce platform selling clothing, accessories, home decor items, and gift products, enabling customers to get all types of home accessories and gift products under one roof at reasonable prices.",
+  "one_liner": "Operator of an online retail platform intended to provide classic and all-American lifestyle products. The company operates as an e-commerce platform selling clothing, accessories, home decor items, and gift products, enabling customers to get all types of home accessories and gift products under one roof at reasonable prices.",
+  "location": "United States",
+  "industry": "Fashion",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d125b082-7099-4276-bc86-0326aae65fe9.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion"
+  ],
+  "url": "https://500.co/portfolio/tuckernuck",
+  "api": "/companies/tuckernuck.json"
+}

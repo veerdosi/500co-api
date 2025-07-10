@@ -1,0 +1,23 @@
+{
+  "id": 5121,
+  "name": "Learning Loop Pte. Ltd.",
+  "slug": "learning-loop",
+  "website": "learningloop.org",
+  "description": "Developer of e-learning platform designed for universal lifelong learning. The company's platform offers a way of learning with people from different places and backgrounds with unique perspectives to learn from, and flexibility, enabling customers to experience curiosity-based learning without disrupting their lives.",
+  "one_liner": "Developer of e-learning platform designed for universal lifelong learning. The company's platform offers a way of learning with people from different places and backgrounds with unique perspectives to learn from, and flexibility, enabling customers to experience curiosity-based learning without disrupting their lives.",
+  "location": "Singapore",
+  "industry": "SaaS, Social Media, Network Effects",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/68322c1d-5be2-4c91-902c-4841413d1b2b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "SaaS",
+    "Social Media",
+    "Network Effects"
+  ],
+  "url": "https://500.co/portfolio/learning-loop",
+  "api": "/companies/learning-loop.json"
+}

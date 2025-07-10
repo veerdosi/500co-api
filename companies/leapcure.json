@@ -1,0 +1,21 @@
+{
+  "id": 4658,
+  "name": "Leapcure, inc.",
+  "slug": "leapcure",
+  "website": "leapcure.com",
+  "description": "Provider of patient recruitment services intended for clinical trials. The company connects patients with clinical trials to make research more equitable and efficient with patient advocacy at the forefront, enabling researchers to recruit, engage, and retention of patients for clinical trials.",
+  "one_liner": "Provider of patient recruitment services intended for clinical trials. The company connects patients with clinical trials to make research more equitable and efficient with patient advocacy at the forefront, enabling researchers to recruit, engage, and retention of patients for clinical trials.",
+  "location": "Jordan",
+  "industry": "Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/fd256d57-6362-4ea0-9f89-05d8d580e9ea.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/leapcure",
+  "api": "/companies/leapcure.json"
+}

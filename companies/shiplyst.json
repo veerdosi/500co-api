@@ -1,0 +1,21 @@
+{
+  "id": 3608,
+  "name": "Shiplyst, Inc.",
+  "slug": "shiplyst",
+  "website": "www.shiplyst.com",
+  "description": "Operator of a managed ocean freight procurement marketplace intended to let people search and compare ocean freight rates from various shipping lines. The company's platform offers transparent and real-time tracking, data security through industrial-grade encryption, global marketplace to choose freight forwarders of choice, enabling clients to receive end-to-end container shipment service at reduced costs, thereby increasing efficiency.",
+  "one_liner": "Operator of a managed ocean freight procurement marketplace intended to let people search and compare ocean freight rates from various shipping lines. The company's platform offers transparent and real-time tracking, data security through industrial-grade encryption, global marketplace to choose freight forwarders of choice, enabling clients to receive end-to-end container shipment service at reduced costs, thereby increasing efficiency.",
+  "location": "United States",
+  "industry": "Supply Chain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4e9dc3b5-cc3d-4896-8a56-8f8893e024d1.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Supply Chain"
+  ],
+  "url": "https://500.co/portfolio/shiplyst",
+  "api": "/companies/shiplyst.json"
+}

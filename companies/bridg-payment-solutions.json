@@ -1,0 +1,21 @@
+{
+  "id": 2823,
+  "name": "Bridg Payment Solutions Ltd.",
+  "slug": "bridg-payment-solutions",
+  "website": "www.bridgtheapp.com",
+  "description": "Developer of a payment application designed to make payments without any data plans. The company's application facilitates a transaction to occur between multiple devices even if the phones have a connection to the internet utilizing Bluetooth technology, enabling users to make easy, safe, and wireless payments that have a larger reach with complete user control.",
+  "one_liner": "Developer of a payment application designed to make payments without any data plans. The company's application facilitates a transaction to occur between multiple devices even if the phones have a connection to the internet utilizing Bluetooth technology, enabling users to make easy, safe, and wireless payments that have a larger reach with complete user control.",
+  "location": "United Arab Emirates",
+  "industry": "Payments",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d111035a-ba5d-4be9-b0b4-e6737274473f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Payments"
+  ],
+  "url": "https://500.co/portfolio/bridg-payment-solutions",
+  "api": "/companies/bridg-payment-solutions.json"
+}

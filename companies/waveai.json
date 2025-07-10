@@ -1,0 +1,23 @@
+{
+  "id": 5544,
+  "name": "WaveAI Inc",
+  "slug": "waveai",
+  "website": "www.wave-ai.net",
+  "description": "Developer of an artificial intelligence platform intended to unlock new heights of human creative expression. The company's platform uses artificial intelligence and machine learning technologies to offer musical assistance, placing the user at the heart of the creative process and tools to help conquer creative blocks by suggesting original lyrics, melodies and chords, enabling artists to creative expression and eliminate creative blocks for their business.",
+  "one_liner": "Developer of an artificial intelligence platform intended to unlock new heights of human creative expression. The company's platform uses artificial intelligence and machine learning technologies to offer musical assistance, placing the user at the heart of the creative process and tools to help conquer creative blocks by suggesting original lyrics, melodies and chords, enabling artists to creative expression and eliminate creative blocks for their business.",
+  "location": "United States",
+  "industry": "AI/Machine Learning, SaaS, Entertainment / Media",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/c482ee58-141a-466d-b4c1-179d01643419.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "SaaS",
+    "Entertainment / Media"
+  ],
+  "url": "https://500.co/portfolio/waveai",
+  "api": "/companies/waveai.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3650,
+  "name": "Toshl Inc.",
+  "slug": "toshl-finance",
+  "website": "toshl.com",
+  "description": "Developer of a personal finance manager and bank data aggregator application designed to get personal finance past spreadsheets and graphs. The company's budgeting application tracks and manages a person's daily expenses, as well as organizes their bills and budget, enabling individuals to find out where their money is going and how to keep their finances in shape with the help of infographics.",
+  "one_liner": "Developer of a personal finance manager and bank data aggregator application designed to get personal finance past spreadsheets and graphs. The company's budgeting application tracks and manages a person's daily expenses, as well as organizes their bills and budget, enabling individuals to find out where their money is going and how to keep their finances in shape with the help of infographics.",
+  "location": "Slovenia",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/dd484f5b-89c0-442f-bdc1-a88d7565cc4b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/toshl-finance",
+  "api": "/companies/toshl-finance.json"
+}

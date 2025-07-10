@@ -1,0 +1,22 @@
+{
+  "id": 4769,
+  "name": "Cardinal Blue Software, Inc.",
+  "slug": "pic-collage",
+  "website": "www.piccollage.com",
+  "description": "Developer of a mobile photo application designed to let users combine images, text, and stickers as freeform collages and share them amongst themselves. The company's application lets users search the internet from within the application to find photos, videos, and other images for photo collages in fun and novel ways, enabling users to combine photos, videos, captions, stickers, and special effects to create unique collages and images that they can share with friends.",
+  "one_liner": "Developer of a mobile photo application designed to let users combine images, text, and stickers as freeform collages and share them amongst themselves. The company's application lets users search the internet from within the application to find photos, videos, and other images for photo collages in fun and novel ways, enabling users to combine photos, videos, captions, stickers, and special effects to create unique collages and images that they can share with friends.",
+  "location": "United States",
+  "industry": "Social Media, Social Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/05f256ee-67ea-4b0b-8355-b1410951f98f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Media",
+    "Social Impact"
+  ],
+  "url": "https://500.co/portfolio/pic-collage",
+  "api": "/companies/pic-collage.json"
+}

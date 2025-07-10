@@ -1,0 +1,21 @@
+{
+  "id": 3923,
+  "name": "Boostable, Inc.",
+  "slug": "boostable-inc",
+  "website": "boostable.com",
+  "description": "Provider of an online advertising platform designed to help individual sellers to promote themselves on online marketplaces. The company's online advertising platform helps sellers to preview and launch their ads as well as creates cooperative marketing programs, enabling the e-commerce companies advertise their listings and gather insights.",
+  "one_liner": "Provider of an online advertising platform designed to help individual sellers to promote themselves on online marketplaces. The company's online advertising platform helps sellers to preview and launch their ads as well as creates cooperative marketing programs, enabling the e-commerce companies advertise their listings and gather insights.",
+  "location": "United States",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/boostable-inc",
+  "api": "/companies/boostable-inc.json"
+}

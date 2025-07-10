@@ -1,0 +1,21 @@
+{
+  "id": 4664,
+  "name": "Anyadir Education, Inc.",
+  "slug": "anyadir-education-inc",
+  "website": "admissiontable.com",
+  "description": "Developer of a mobile based social recruitment application for universities. The company enables universities to find prospective international students, engage with them and recruit them for graduate and undergraduate programs.",
+  "one_liner": "Developer of a mobile based social recruitment application for universities. The company enables universities to find prospective international students, engage with them and recruit them for graduate and undergraduate programs.",
+  "location": "United States",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/0d5ae904-64ea-421d-aaf1-b2d77bdcbe94.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/anyadir-education-inc",
+  "api": "/companies/anyadir-education-inc.json"
+}

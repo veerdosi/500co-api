@@ -1,0 +1,21 @@
+{
+  "id": 5285,
+  "name": "Huma Technologies Inc.",
+  "slug": "huma-technologies",
+  "website": "huma.finance",
+  "description": "Operator of a decentralized finance platform intended for lending to businesses and people. The company's platform offers loans against tokens as collateral and provides a transparent, and accessible financial infrastructure and a thriving ecosystem, enabling clients to tokenize and trade cashflow with credit on the blockchain system.",
+  "one_liner": "Operator of a decentralized finance platform intended for lending to businesses and people. The company's platform offers loans against tokens as collateral and provides a transparent, and accessible financial infrastructure and a thriving ecosystem, enabling clients to tokenize and trade cashflow with credit on the blockchain system.",
+  "location": "United States",
+  "industry": "Credit & Lending",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2b566da6-c537-4a88-83c6-f690851c0d72.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Credit & Lending"
+  ],
+  "url": "https://500.co/portfolio/huma-technologies",
+  "api": "/companies/huma-technologies.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3411,
+  "name": "BenRevo Inc.",
+  "slug": "benrevo-inc",
+  "website": "benrevo.com",
+  "description": "Provider of an online platform intended to sell and buy insurance products. The company's online platform automates manual tasks, helps to shop, compare and complete the purchasing of polices online, automates the paper heavy installation process, limiting redundant work and minimizing frequent errors and capture data and provide analytics, enabling the health insurance industry to get linked to the fragmented distribution process.",
+  "one_liner": "Provider of an online platform intended to sell and buy insurance products. The company's online platform automates manual tasks, helps to shop, compare and complete the purchasing of polices online, automates the paper heavy installation process, limiting redundant work and minimizing frequent errors and capture data and provide analytics, enabling the health insurance industry to get linked to the fragmented distribution process.",
+  "location": "United States",
+  "industry": "InsurTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "InsurTech"
+  ],
+  "url": "https://500.co/portfolio/benrevo-inc",
+  "api": "/companies/benrevo-inc.json"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 3762,
+  "name": "First Opinion, Inc.",
+  "slug": "voi",
+  "website": "www.voi.health",
+  "description": "Operator of behavioral health and insights platform designed to help and intervene in people at risk of suicide and mental issues. The company's artificial Intelligence-powered platform provides feedback about imminent suicide risk in order for users to take the required action, enabling health professionals, hospitals, and families to assess risk as highly trained psychiatrists and provide detailed insights about the patient population.",
+  "one_liner": "Operator of behavioral health and insights platform designed to help and intervene in people at risk of suicide and mental issues. The company's artificial Intelligence-powered platform provides feedback about imminent suicide risk in order for users to take the required action, enabling health professionals, hospitals, and families to assess risk as highly trained psychiatrists and provide detailed insights about the patient population.",
+  "location": "United States",
+  "industry": "AI/Machine Learning, Health Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/cda1878b-50f5-42d2-89b7-f251ccc19cb1.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "Health Tech"
+  ],
+  "url": "https://500.co/portfolio/voi",
+  "api": "/companies/voi.json"
+}

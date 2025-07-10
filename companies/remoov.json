@@ -1,0 +1,22 @@
+{
+  "id": 5049,
+  "name": "Remoov, Inc.",
+  "slug": "remoov",
+  "website": "remoovit.com",
+  "description": "Provider of decluttering services intended to reduce waste by increasing recycling and reuse of products. The company services collect all the items the client wants to sell, donate, or discard with one pickup, and the collected items are then handled through consignment sales, donations, or recycling, enabling users to declutter their homes.",
+  "one_liner": "Provider of decluttering services intended to reduce waste by increasing recycling and reuse of products. The company services collect all the items the client wants to sell, donate, or discard with one pickup, and the collected items are then handled through consignment sales, donations, or recycling, enabling users to declutter their homes.",
+  "location": "United States",
+  "industry": "Climate Tech, Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/3bc5cd7c-5fe3-4430-bec7-b64f0b6f868a.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Climate Tech",
+    "Impact"
+  ],
+  "url": "https://500.co/portfolio/remoov",
+  "api": "/companies/remoov.json"
+}

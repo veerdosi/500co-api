@@ -1,0 +1,21 @@
+{
+  "id": 3366,
+  "name": "Favstay Pte. Ltd.",
+  "slug": "favstay",
+  "website": "www.favstay.com",
+  "description": "Operator of a vacation home rental platform designed to help people to list, find, and book accommodations completely. The company's platform offers a curated list of a wide variety of accommodations, enabling users to find rent hotels and rooms from local hosts.",
+  "one_liner": "Operator of a vacation home rental platform designed to help people to list, find, and book accommodations completely. The company's platform offers a curated list of a wide variety of accommodations, enabling users to find rent hotels and rooms from local hosts.",
+  "location": "Thailand",
+  "industry": "Travel & Tourism",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/31b68fb9-e5f7-4762-8f31-8d2c1f99b16d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Travel & Tourism"
+  ],
+  "url": "https://500.co/portfolio/favstay",
+  "api": "/companies/favstay.json"
+}

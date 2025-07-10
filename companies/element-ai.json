@@ -1,0 +1,21 @@
+{
+  "id": 2726,
+  "name": "Element AI Inc",
+  "slug": "element-ai",
+  "website": "www.elementai.com",
+  "description": "Developer of AI software designed to offer deep domain expertise and access to cutting-edge technology. The company's software operationalize and create business impact with a suite of products, services and tools which redefine peak performance with problem-solving technology that continuously learns and improves, enabling clients to unlock insights, accelerate adoption and allow their employees to make decisions with explainable solutions.",
+  "one_liner": "Developer of AI software designed to offer deep domain expertise and access to cutting-edge technology. The company's software operationalize and create business impact with a suite of products, services and tools which redefine peak performance with problem-solving technology that continuously learns and improves, enabling clients to unlock insights, accelerate adoption and allow their employees to make decisions with explainable solutions.",
+  "location": "Canada",
+  "industry": "Productivity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/06c0cb83-14c9-452c-a836-e21d768a9df8.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Productivity"
+  ],
+  "url": "https://500.co/portfolio/element-ai",
+  "api": "/companies/element-ai.json"
+}

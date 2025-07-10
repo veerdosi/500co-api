@@ -1,0 +1,22 @@
+{
+  "id": 5306,
+  "name": "Phase Software GmbH",
+  "slug": "phase",
+  "website": "phase.com",
+  "description": "Developer of a web design platform intended for websites and applications intuitively. The company's platform offers prototype apps and websites built with live data where everything, every button, page, and interaction becomes easy, enabling software developers to design their digital software and platform with ease.",
+  "one_liner": "Developer of a web design platform intended for websites and applications intuitively. The company's platform offers prototype apps and websites built with live data where everything, every button, page, and interaction becomes easy, enabling software developers to design their digital software and platform with ease.",
+  "location": "Taiwan",
+  "industry": "No Code, Productivity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/08fc6ce6-348e-403e-8cca-146b2fd0b852.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "No Code",
+    "Productivity"
+  ],
+  "url": "https://500.co/portfolio/phase",
+  "api": "/companies/phase.json"
+}

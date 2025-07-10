@@ -1,0 +1,23 @@
+{
+  "id": 8291,
+  "name": "&VOLUME LTD",
+  "slug": "volume",
+  "website": "https://nvolume.com/en/index.html",
+  "description": "&Volume is an AI-driven crypto management platform that trades on your behalf, adapting to market conditions and events, while you keep full control of your funds in your own account.",
+  "one_liner": "&Volume is an AI-driven crypto management platform that trades on your behalf, adapting to market conditions and events, while you keep full control of your funds in your own account.",
+  "location": "United Kingdom",
+  "industry": "AI/Machine Learning, Blockchain, Crypto",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/f5e45bd1-6ecc-4c42-b95e-0c8cf433ecc9.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "Blockchain",
+    "Crypto"
+  ],
+  "url": "https://500.co/portfolio/volume",
+  "api": "/companies/volume.json"
+}

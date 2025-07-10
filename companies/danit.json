@@ -1,0 +1,21 @@
+{
+  "id": 8246,
+  "name": "Danit Inc.",
+  "slug": "danit",
+  "website": "",
+  "description": "Developer of a platform that attempts to bridge the gap between startup intuition and data-driven success. Its AI platform turns market signals into predictive insights, guiding founders and investors toward optimal decisions. Danit is not just analyzing startups but also engineering their success.",
+  "one_liner": "Developer of a platform that attempts to bridge the gap between startup intuition and data-driven success. Its AI platform turns market signals into predictive insights, guiding founders and investors toward optimal decisions. Danit is not just analyzing startups but also engineering their success.",
+  "location": "South Korea",
+  "industry": "SaaS",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/d1b308d0-c59b-43b7-881e-e838da44b567.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "SaaS"
+  ],
+  "url": "https://500.co/portfolio/danit",
+  "api": "/companies/danit.json"
+}

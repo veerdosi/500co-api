@@ -1,0 +1,22 @@
+{
+  "id": 4773,
+  "name": "Skillbridge, Inc.",
+  "slug": "skillbridge-inc",
+  "website": "www.skillbridge.co",
+  "description": "Operator of an online marketplace for strategy, finance and marketing freelancers. The company offers an online platform connecting companies with the freelance consultants for market research, modeling, portfolio strategy and other short-term consulting projects.",
+  "one_liner": "Operator of an online marketplace for strategy, finance and marketing freelancers. The company offers an online platform connecting companies with the freelance consultants for market research, modeling, portfolio strategy and other short-term consulting projects.",
+  "location": "United States",
+  "industry": "Content, HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d1a0954d-ac94-419c-bf17-b2709882a35d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content",
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/skillbridge-inc",
+  "api": "/companies/skillbridge-inc.json"
+}

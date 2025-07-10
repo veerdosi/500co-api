@@ -1,0 +1,21 @@
+{
+  "id": 5126,
+  "name": "PLAYOOK LTD.",
+  "slug": "playbook",
+  "website": "www.get-playbook.com",
+  "description": "Developer of education platform designed to bridge the global gender gap and get more women into leadership roles. The company specializes in providing edutainment packages and diverse digital masterclasses led by women leaders, enabling women to get unstuck in their personal and professional lives and navigate pain points with much more clarity and perspective as they learn from real-world scenarios and tactics.",
+  "one_liner": "Developer of education platform designed to bridge the global gender gap and get more women into leadership roles. The company specializes in providing edutainment packages and diverse digital masterclasses led by women leaders, enabling women to get unstuck in their personal and professional lives and navigate pain points with much more clarity and perspective as they learn from real-world scenarios and tactics.",
+  "location": "Bahrain",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/1f0b43bc-881f-457b-98f2-3aa3e47d480a.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/playbook",
+  "api": "/companies/playbook.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5391,
+  "name": "Cadana, Inc.",
+  "slug": "cadana",
+  "website": "cadanapay.com",
+  "description": "Developer of an instant pay platform designed to help workers get paid on demand. The company's platform offers facilities like instant transfers and flexible destination options and allows users to pay for any unexpected expenses, enabling companies to hire and pay people.",
+  "one_liner": "Developer of an instant pay platform designed to help workers get paid on demand. The company's platform offers facilities like instant transfers and flexible destination options and allows users to pay for any unexpected expenses, enabling companies to hire and pay people.",
+  "location": "Ghana",
+  "industry": "Consumer",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/31630a6b-5d60-4a5e-be14-528960e34cb9.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Consumer"
+  ],
+  "url": "https://500.co/portfolio/cadana",
+  "api": "/companies/cadana.json"
+}

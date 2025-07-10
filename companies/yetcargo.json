@@ -1,0 +1,21 @@
+{
+  "id": 3006,
+  "name": "YETCARGO, S.A.P.I. de C.V",
+  "slug": "yetcargo",
+  "website": "yetcargo.com",
+  "description": "Developer of a logistics platform designed to connect carriers with cargo owners. The company provides real-time tracking of cargo and claims to have a portfolio of reliable carriers, enabling businesses in product shipment and transportation by connecting and dealing with air and marine logistics service providers.",
+  "one_liner": "Developer of a logistics platform designed to connect carriers with cargo owners. The company provides real-time tracking of cargo and claims to have a portfolio of reliable carriers, enabling businesses in product shipment and transportation by connecting and dealing with air and marine logistics service providers.",
+  "location": "Mexico",
+  "industry": "Logistics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/5f24baca-e14b-413b-9d2a-9d92e732fa1f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Logistics"
+  ],
+  "url": "https://500.co/portfolio/yetcargo",
+  "api": "/companies/yetcargo.json"
+}

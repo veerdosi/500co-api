@@ -1,0 +1,21 @@
+{
+  "id": 5076,
+  "name": "CHEAF TECHNOLOGIES INC",
+  "slug": "cheaf",
+  "website": "cheaf.com",
+  "description": "Operator of a food technology platform intended to end food waste in stores and restaurants. The company's platform allows affiliated businesses to sell their surpluses at a discount and users of the platform to salvage delicious food for a fraction of the original price, enabling restaurants and businesses to recoup part of their production costs and the users to enjoy food dishes at discounted prices.",
+  "one_liner": "Operator of a food technology platform intended to end food waste in stores and restaurants. The company's platform allows affiliated businesses to sell their surpluses at a discount and users of the platform to salvage delicious food for a fraction of the original price, enabling restaurants and businesses to recoup part of their production costs and the users to enjoy food dishes at discounted prices.",
+  "location": "Mexico",
+  "industry": "Food",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/7ce3a31e-0e85-48c6-bc91-6f036fed501f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Food"
+  ],
+  "url": "https://500.co/portfolio/cheaf",
+  "api": "/companies/cheaf.json"
+}

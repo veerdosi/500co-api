@@ -1,0 +1,21 @@
+{
+  "id": 5373,
+  "name": "Jala Tech Pte. Ltd.",
+  "slug": "jala",
+  "website": "jala.tech",
+  "description": "Developer of a multi-sensor technology designed to monitor water conditions and increase the productivity and efficiency of shrimp farms. The company's technology provides water quality monitoring, planning, and reporting tools complete with a decision support system based on data that has been collected and analyzed, enabling farmers to monitor and adjust their treatments and techniques to ensure a healthy and bountiful pond.",
+  "one_liner": "Developer of a multi-sensor technology designed to monitor water conditions and increase the productivity and efficiency of shrimp farms. The company's technology provides water quality monitoring, planning, and reporting tools complete with a decision support system based on data that has been collected and analyzed, enabling farmers to monitor and adjust their treatments and techniques to ensure a healthy and bountiful pond.",
+  "location": "Indonesia",
+  "industry": "AgTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b4036f60-58ef-4aef-aba9-bd8a538037d1.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AgTech"
+  ],
+  "url": "https://500.co/portfolio/jala",
+  "api": "/companies/jala.json"
+}

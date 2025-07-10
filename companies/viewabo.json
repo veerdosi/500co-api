@@ -1,0 +1,22 @@
+{
+  "id": 5313,
+  "name": "Viewabo, Inc.",
+  "slug": "viewabo",
+  "website": "https://www.viewabo.com",
+  "description": "Viewabo delivers AI-powered Visual Support, enabling businesses to diagnose and resolve hardware issues faster with minimal human intervention.",
+  "one_liner": "Viewabo delivers AI-powered Visual Support, enabling businesses to diagnose and resolve hardware issues faster with minimal human intervention.",
+  "location": "United States",
+  "industry": "Productivity, SaaS",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/467bb2cb-44a5-4fcb-be1a-cbde2d9fd95d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Productivity",
+    "SaaS"
+  ],
+  "url": "https://500.co/portfolio/viewabo",
+  "api": "/companies/viewabo.json"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 4669,
+  "name": "Chefs for Seniors, Inc",
+  "slug": "chefs-for-seniors",
+  "website": "chefsforseniors.com",
+  "description": "Provider of in-home meal preparation services intended to serve senior citizens. The company's services focus on placing a professional chef in homes to make customized, nutritious and affordable meals as per specific dietary concerns and preferences for the week, enabling aged people and senior citizens to avoid cooking meals for themselves, eat healthy food and stay independent.",
+  "one_liner": "Provider of in-home meal preparation services intended to serve senior citizens. The company's services focus on placing a professional chef in homes to make customized, nutritious and affordable meals as per specific dietary concerns and preferences for the week, enabling aged people and senior citizens to avoid cooking meals for themselves, eat healthy food and stay independent.",
+  "location": "United States",
+  "industry": "Ecommerce, Food",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/707c9d36-c80f-4598-a3c6-a7a696d11783.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Ecommerce",
+    "Food"
+  ],
+  "url": "https://500.co/portfolio/chefs-for-seniors",
+  "api": "/companies/chefs-for-seniors.json"
+}

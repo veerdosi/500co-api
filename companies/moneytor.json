@@ -1,0 +1,21 @@
+{
+  "id": 5179,
+  "name": "Aggra Technologies Private Limited",
+  "slug": "moneytor",
+  "website": "moneytor.in",
+  "description": "Developer of an automated debt collection platform designed to improve default recovery rates. The company's platform utilizes machine learning to automate all processes related to agent allocation, communication and settlement decision-making, assisting lenders to reduce their recovery costs as well as default rates, enabling users to become efficient and improve their debt recovery process while still maintaining friendly relations with their clients.",
+  "one_liner": "Developer of an automated debt collection platform designed to improve default recovery rates. The company's platform utilizes machine learning to automate all processes related to agent allocation, communication and settlement decision-making, assisting lenders to reduce their recovery costs as well as default rates, enabling users to become efficient and improve their debt recovery process while still maintaining friendly relations with their clients.",
+  "location": "India",
+  "industry": "Credit & Lending",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d5dd0624-e165-493a-930a-00d2a5f4a850.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Credit & Lending"
+  ],
+  "url": "https://500.co/portfolio/moneytor",
+  "api": "/companies/moneytor.json"
+}

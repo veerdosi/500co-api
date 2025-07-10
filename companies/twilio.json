@@ -1,0 +1,21 @@
+{
+  "id": 4988,
+  "name": "Twilio, Inc.",
+  "slug": "twilio",
+  "website": "twilio.com",
+  "description": "Provider of an application programming interface designed to offer voice communication services. The company's application programming interface offers globally available cloud API that developers can interact with to build intelligent and complex communications systems, enabling customers to build sales automation systems, order inquiry lines, use CRM applications, call routing applications, phone trees, appointment reminders as well as customize voicemail applications.",
+  "one_liner": "Provider of an application programming interface designed to offer voice communication services. The company's application programming interface offers globally available cloud API that developers can interact with to build intelligent and complex communications systems, enabling customers to build sales automation systems, order inquiry lines, use CRM applications, call routing applications, phone trees, appointment reminders as well as customize voicemail applications.",
+  "location": "United States",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/df5e5ef2-6d57-4065-8668-d21e5d4d13dc.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/twilio",
+  "api": "/companies/twilio.json"
+}

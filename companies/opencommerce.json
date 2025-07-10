@@ -1,0 +1,22 @@
+{
+  "id": 3091,
+  "name": "OpenCommerce Group ,Inc",
+  "slug": "opencommerce",
+  "website": "www.opencommercegroup.com",
+  "description": "Operator of a launching platform intended to empower brands to launch, grow, and succeed. The company's ecosystem of products promotes and improves the quality of e-commerce activities in general and cross-border commerce in particular, enabling businesses to plan and execute marketing strategies to increase sales and improve customer relationships automatically.",
+  "one_liner": "Operator of a launching platform intended to empower brands to launch, grow, and succeed. The company's ecosystem of products promotes and improves the quality of e-commerce activities in general and cross-border commerce in particular, enabling businesses to plan and execute marketing strategies to increase sales and improve customer relationships automatically.",
+  "location": "Singapore",
+  "industry": "Content, Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/cc36135e-9a4f-428e-a22d-58255f83e3e8.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content",
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/opencommerce",
+  "api": "/companies/opencommerce.json"
+}

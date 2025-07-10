@@ -1,0 +1,21 @@
+{
+  "id": 3579,
+  "name": "Sleepbox, Inc.",
+  "slug": "sleepbox",
+  "website": "sleepbox.com",
+  "description": "Operator of a chain of private napping cabins intended to offer travelers technology-driven micro-hotels in public places. The company's cabins specialize in compact modular rooms that can be installed anywhere including airports, offices, and hospitals for an hourly or overnight stay, enabling clients to offer travelers private and relaxing sleep experiences at an affordable price.",
+  "one_liner": "Operator of a chain of private napping cabins intended to offer travelers technology-driven micro-hotels in public places. The company's cabins specialize in compact modular rooms that can be installed anywhere including airports, offices, and hospitals for an hourly or overnight stay, enabling clients to offer travelers private and relaxing sleep experiences at an affordable price.",
+  "location": "United States",
+  "industry": "Travel & Tourism",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2111f81f-7355-4583-95e5-97f0dae168ee.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Travel & Tourism"
+  ],
+  "url": "https://500.co/portfolio/sleepbox",
+  "api": "/companies/sleepbox.json"
+}

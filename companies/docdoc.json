@@ -1,0 +1,21 @@
+{
+  "id": 4820,
+  "name": "DocDoc Pte Ltd.",
+  "slug": "docdoc",
+  "website": "www.docdoc.com",
+  "description": "Developer of an artificial intelligence-based healthcare platform designed to empower patients with the information they need to make healthcare decisions. The company's platform focuses on doctor discovery, telemedicine, and cashless services and enhances the end-to-end healthcare journey, enabling patients to optimize healthcare outcomes and costs.",
+  "one_liner": "Developer of an artificial intelligence-based healthcare platform designed to empower patients with the information they need to make healthcare decisions. The company's platform focuses on doctor discovery, telemedicine, and cashless services and enhances the end-to-end healthcare journey, enabling patients to optimize healthcare outcomes and costs.",
+  "location": "Singapore",
+  "industry": "InsurTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/a0ccfed9-9657-4453-9d73-ea384348a0ac.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "InsurTech"
+  ],
+  "url": "https://500.co/portfolio/docdoc",
+  "api": "/companies/docdoc.json"
+}

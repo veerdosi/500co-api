@@ -1,0 +1,21 @@
+{
+  "id": 3020,
+  "name": "GURU DE VIAJE S.A.P.I. DE C.V.",
+  "slug": "gur-de-viaje",
+  "website": "gurudeviaje.com",
+  "description": "Operator of a travel management platform intended to provide deals on flights and tours. The company's platform offers guided tours to different destinations across the world by making travel arrangements, booking tickets, and making hotel reservations, enabling customers to get holiday packages in an affordable and convenient manner.",
+  "one_liner": "Operator of a travel management platform intended to provide deals on flights and tours. The company's platform offers guided tours to different destinations across the world by making travel arrangements, booking tickets, and making hotel reservations, enabling customers to get holiday packages in an affordable and convenient manner.",
+  "location": "Mexico",
+  "industry": "Travel & Tourism",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/fdf01f5d-a16f-4086-8594-fe031f3d070a.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Travel & Tourism"
+  ],
+  "url": "https://500.co/portfolio/gur-de-viaje",
+  "api": "/companies/gur-de-viaje.json"
+}

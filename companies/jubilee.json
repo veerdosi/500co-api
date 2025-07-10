@@ -1,0 +1,22 @@
+{
+  "id": 5593,
+  "name": "Jubilee Inc",
+  "slug": "jubilee",
+  "website": "www.jubileemedia.com",
+  "description": "Provider of weekly digital videos intended to create a movement for human good. The company's videos convey the power of empathy for human good bridge people together and challenge conventional thinking, enabling customers to get motivated and create a positive impact in their lives.",
+  "one_liner": "Provider of weekly digital videos intended to create a movement for human good. The company's videos convey the power of empathy for human good bridge people together and challenge conventional thinking, enabling customers to get motivated and create a positive impact in their lives.",
+  "location": "United States",
+  "industry": "Content, Entertainment / Media",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4af48fb9-41b0-4697-a823-98c66e50d48e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content",
+    "Entertainment / Media"
+  ],
+  "url": "https://500.co/portfolio/jubilee",
+  "api": "/companies/jubilee.json"
+}

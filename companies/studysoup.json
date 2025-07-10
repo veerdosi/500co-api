@@ -1,0 +1,21 @@
+{
+  "id": 5273,
+  "name": "StudySoup, Inc.",
+  "slug": "studysoup",
+  "website": "studysoup.com",
+  "description": "Developer of a peer-to-peer learning platform intended to share knowledge and study materials. The company's learning platform helps to sell and purchase class notes and study guides, enabling students to get relevant study content on their path to higher education.",
+  "one_liner": "Developer of a peer-to-peer learning platform intended to share knowledge and study materials. The company's learning platform helps to sell and purchase class notes and study guides, enabling students to get relevant study content on their path to higher education.",
+  "location": "United States",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/214b61a3-f83e-41d4-8de5-a39210b9dd76.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/studysoup",
+  "api": "/companies/studysoup.json"
+}

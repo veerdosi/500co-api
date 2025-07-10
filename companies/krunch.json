@@ -1,0 +1,23 @@
+{
+  "id": 5457,
+  "name": "Krunch Lab Limited",
+  "slug": "krunch",
+  "website": "krunchdata.io",
+  "description": "Developer of cloud-based marketing analytic tool catering to its clients in Hong Kong. The company's software helps its clients to do social monitoring, channel attribution, user segmentation and predictive analytics in the developer context, helping the marketing field in analyzing the rapidly growing audience.",
+  "one_liner": "Developer of cloud-based marketing analytic tool catering to its clients in Hong Kong. The company's software helps its clients to do social monitoring, channel attribution, user segmentation and predictive analytics in the developer context, helping the marketing field in analyzing the rapidly growing audience.",
+  "location": "Hong Kong",
+  "industry": "CloudTech, DevOps, Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/57bfaa54-0ca7-4dc5-9e5f-edb05b8f974d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "CloudTech",
+    "DevOps",
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/krunch",
+  "api": "/companies/krunch.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3974,
+  "name": "Farmeron, Inc.",
+  "slug": "farmeron-inc",
+  "website": "farmeron.com",
+  "description": "Provider of a cloud-based farm business management and analytics platform. The company provides a platform designed to help dairy and cattle producers manage their business operations while assisting in decision making process.",
+  "one_liner": "Provider of a cloud-based farm business management and analytics platform. The company provides a platform designed to help dairy and cattle producers manage their business operations while assisting in decision making process.",
+  "location": "United States",
+  "industry": "AgTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AgTech"
+  ],
+  "url": "https://500.co/portfolio/farmeron-inc",
+  "api": "/companies/farmeron-inc.json"
+}

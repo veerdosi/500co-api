@@ -1,0 +1,23 @@
+{
+  "id": 4428,
+  "name": "Auto Chilango, Inc.",
+  "slug": "auto-chilango-inc",
+  "website": "autochilango.com",
+  "description": "Provider of legal and bureaucracy assistance for cars. The company engages in development of a mobile phone application that provides traffic alerts, insurance management and other vital information that helps people to manage everything that is necessary with having a car in Mexico City.",
+  "one_liner": "Provider of legal and bureaucracy assistance for cars. The company engages in development of a mobile phone application that provides traffic alerts, insurance management and other vital information that helps people to manage everything that is necessary with having a car in Mexico City.",
+  "location": "United States",
+  "industry": "FinTech, InsurTech, Mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech",
+    "InsurTech",
+    "Mobile"
+  ],
+  "url": "https://500.co/portfolio/auto-chilango-inc",
+  "api": "/companies/auto-chilango-inc.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5219,
+  "name": "FIVE JACK Co. Ltd",
+  "slug": "five-jack",
+  "website": "fivejack.com",
+  "description": "Provider of an e-commerce gaming platform intended to make changes for gaming industry in terms of e-commerce. The company's e-commerce gaming platform Itemku, focuses on trading virtual game items in Indonesia, enabling gamers to buy and trade in gaming currency, as a means of strengthening their game characters and to make money.",
+  "one_liner": "Provider of an e-commerce gaming platform intended to make changes for gaming industry in terms of e-commerce. The company's e-commerce gaming platform Itemku, focuses on trading virtual game items in Indonesia, enabling gamers to buy and trade in gaming currency, as a means of strengthening their game characters and to make money.",
+  "location": "South Korea",
+  "industry": "Gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/c810bad1-b279-4380-b73d-32780be819c8.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Gaming"
+  ],
+  "url": "https://500.co/portfolio/five-jack",
+  "api": "/companies/five-jack.json"
+}

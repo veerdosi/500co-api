@@ -1,0 +1,21 @@
+{
+  "id": 4760,
+  "name": "italist, Inc",
+  "slug": "italist",
+  "website": "www.italist.com",
+  "description": "Operator of an e-commerce fashion platform intended to offer new fashion updates from luxury brands all over the world. The company's platform offers a wide range of clothing, accessories, shoes, bags, and jewelry from all luxury brands, enabling customers to purchase authentic items at a discounted price with quality services.",
+  "one_liner": "Operator of an e-commerce fashion platform intended to offer new fashion updates from luxury brands all over the world. The company's platform offers a wide range of clothing, accessories, shoes, bags, and jewelry from all luxury brands, enabling customers to purchase authentic items at a discounted price with quality services.",
+  "location": "United States",
+  "industry": "Fashion",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/fc4beb30-22e3-4501-97c6-33b85f02b332.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion"
+  ],
+  "url": "https://500.co/portfolio/italist",
+  "api": "/companies/italist.json"
+}

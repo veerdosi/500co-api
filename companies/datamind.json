@@ -1,0 +1,23 @@
+{
+  "id": 5660,
+  "name": "Data Unistream, Inc.",
+  "slug": "datamind",
+  "website": "datamind.ge",
+  "description": "Developer of data analysis platform intended to automate processes across the entire organization and between departments. The company's platform specializes in automatic reporting, BI analysis, and data unit stream by speeding up internal processes & decision-making with real-time data access, enabling businesses to save time and increase employee productivity by automating the regular report generation by preparing interactive dashboard visualization.",
+  "one_liner": "Developer of data analysis platform intended to automate processes across the entire organization and between departments. The company's platform specializes in automatic reporting, BI analysis, and data unit stream by speeding up internal processes & decision-making with real-time data access, enabling businesses to save time and increase employee productivity by automating the regular report generation by preparing interactive dashboard visualization.",
+  "location": "Georgia",
+  "industry": "Data & Analytics, FinTech, Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics",
+    "FinTech",
+    "Analytics"
+  ],
+  "url": "https://500.co/portfolio/datamind",
+  "api": "/companies/datamind.json"
+}

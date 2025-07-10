@@ -1,0 +1,22 @@
+{
+  "id": 3224,
+  "name": "Innovative Learning Kft",
+  "slug": "avatao",
+  "website": "avatao.com",
+  "description": "Developer of an online training platform designed to teach secure software building using hands-on IT security exercises and tutorials. The company's platform covers topics like web security, secure coding in Java, C/C++, incident response, threat analysis, secure API design as well and DevSecOps and offers a library of IT security exercises, enabling users to increase security awareness, enrich existing IT security training and allow self-directed learning, for continuous professional development.",
+  "one_liner": "Developer of an online training platform designed to teach secure software building using hands-on IT security exercises and tutorials. The company's platform covers topics like web security, secure coding in Java, C/C++, incident response, threat analysis, secure API design as well and DevSecOps and offers a library of IT security exercises, enabling users to increase security awareness, enrich existing IT security training and allow self-directed learning, for continuous professional development.",
+  "location": "Hungary",
+  "industry": "Cybersecurity, Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ceaec401-ce21-4ea5-903b-896a77d5d811.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Cybersecurity",
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/avatao",
+  "api": "/companies/avatao.json"
+}

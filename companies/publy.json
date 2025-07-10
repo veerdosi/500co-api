@@ -1,0 +1,21 @@
+{
+  "id": 3232,
+  "name": "PUBLY Inc",
+  "slug": "publy",
+  "website": "publy.co",
+  "description": "Developer of an online content platform designed to offer content subscription services for working people. The company's platform creates, designs, archives, stores and publishes custom content and events that can be paid for and reserved for future reference, enabling users to buy and publish content from a variety of media sources that are yet to be released.",
+  "one_liner": "Developer of an online content platform designed to offer content subscription services for working people. The company's platform creates, designs, archives, stores and publishes custom content and events that can be paid for and reserved for future reference, enabling users to buy and publish content from a variety of media sources that are yet to be released.",
+  "location": "South Korea",
+  "industry": "Consumer",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/90f6dd6a-d59d-4bdc-a05f-15a288c83c0b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Consumer"
+  ],
+  "url": "https://500.co/portfolio/publy",
+  "api": "/companies/publy.json"
+}

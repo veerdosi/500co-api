@@ -1,0 +1,22 @@
+{
+  "id": 3623,
+  "name": "LaunchGram, Inc.",
+  "slug": "launchgram-inc",
+  "website": "launchgram.com",
+  "description": "Provider of an online platform that aggregates news about products in verticals such as movies, electronics, video games and cars. The company provides product news before it's launch.",
+  "one_liner": "Provider of an online platform that aggregates news about products in verticals such as movies, electronics, video games and cars. The company provides product news before it's launch.",
+  "location": "United States",
+  "industry": "Content, Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5ff72ca4-b530-413f-adcb-24866190669f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content",
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/launchgram-inc",
+  "api": "/companies/launchgram-inc.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4244,
+  "name": "Enuma, Inc.",
+  "slug": "enuma",
+  "website": "enuma.com",
+  "description": "Developer of a game-based learning application designed to support and empower children to be independent learners. The company's application offers practice and support for preschool through second-grade math skills and a flexible learning architecture that includes a suite of mini-games, books, videos, and quizzes along with a free-reign library, enabling children to gain confidence and independence while building foundational skills.",
+  "one_liner": "Developer of a game-based learning application designed to support and empower children to be independent learners. The company's application offers practice and support for preschool through second-grade math skills and a flexible learning architecture that includes a suite of mini-games, books, videos, and quizzes along with a free-reign library, enabling children to gain confidence and independence while building foundational skills.",
+  "location": "South Korea",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/a9df487f-d54c-4720-8500-0fa3ab5d385f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/enuma",
+  "api": "/companies/enuma.json"
+}

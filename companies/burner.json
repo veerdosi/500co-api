@@ -1,0 +1,21 @@
+{
+  "id": 3819,
+  "name": "Ad Hoc Labs, Inc.",
+  "slug": "burner",
+  "website": "www.burnerapp.com",
+  "description": "Developer of a temporary phone number generator application designed to give users the power to take control of their communications and personal data. The company's application aids users to get as many numbers as they want, use each as a private line on their mobile phones and keep numbers indefinitely or burn numbers they no longer need, enabling users to obtain and manage additional phone numbers for voice, SMS and MMS communications.",
+  "one_liner": "Developer of a temporary phone number generator application designed to give users the power to take control of their communications and personal data. The company's application aids users to get as many numbers as they want, use each as a private line on their mobile phones and keep numbers indefinitely or burn numbers they no longer need, enabling users to obtain and manage additional phone numbers for voice, SMS and MMS communications.",
+  "location": "United States",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/480590ec-5f97-4da8-833c-7407ed2f131e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/burner",
+  "api": "/companies/burner.json"
+}

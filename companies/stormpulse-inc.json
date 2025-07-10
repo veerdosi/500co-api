@@ -1,0 +1,21 @@
+{
+  "id": 4254,
+  "name": "Stormpulse, Inc.",
+  "slug": "stormpulse-inc",
+  "website": "stormpulse.com",
+  "description": "Developer of subscription-based software designed to synchronize commerce and climate. The company's subscription-based software provides sophisticated weather guidance in a one-stop shop that blends objective temperature output with numerical guidance for the full spectrum of temperature probabilities up to 40 days in advance, enabling energy producers, commodity investment firms, food shippers, auto manufacturers, and retailers to avail weather updates and facilitate more efficient transactions.",
+  "one_liner": "Developer of subscription-based software designed to synchronize commerce and climate. The company's subscription-based software provides sophisticated weather guidance in a one-stop shop that blends objective temperature output with numerical guidance for the full spectrum of temperature probabilities up to 40 days in advance, enabling energy producers, commodity investment firms, food shippers, auto manufacturers, and retailers to avail weather updates and facilitate more efficient transactions.",
+  "location": "United States",
+  "industry": "Climate Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4c5e60a9-3f1d-4d5d-943c-3e4e52cbe25c.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Climate Tech"
+  ],
+  "url": "https://500.co/portfolio/stormpulse-inc",
+  "api": "/companies/stormpulse-inc.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5740,
+  "name": "Ubuntu Global Holdings, L.L.C.",
+  "slug": "ubuntu-tribe",
+  "website": "utribe.one",
+  "description": "Developer of Gold International Fungible Token (G.I.F.T.) platform intended to offer an ecosystem of digital investment backed by real assets. The company's investment platform, combined with dynamic social commerce functionalities is a digital certificate of gold ownership 100% backed by physical gold and pegged to the international spot price of gold, providing users with financial freedom and interconnected humanity.",
+  "one_liner": "Developer of Gold International Fungible Token (G.I.F.T.) platform intended to offer an ecosystem of digital investment backed by real assets. The company's investment platform, combined with dynamic social commerce functionalities is a digital certificate of gold ownership 100% backed by physical gold and pegged to the international spot price of gold, providing users with financial freedom and interconnected humanity.",
+  "location": "United States",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/9e22ed2c-3e2f-4cb9-9458-4e59e6ba2581.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/ubuntu-tribe",
+  "api": "/companies/ubuntu-tribe.json"
+}

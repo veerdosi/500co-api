@@ -1,0 +1,21 @@
+{
+  "id": 3512,
+  "name": "Otter.Ai, Inc.",
+  "slug": "otter",
+  "website": "otter.ai",
+  "description": "Developer of a team collaboration platform designed for meetings and conversations. The company's platform generates notes for meetings, interviews, lectures, and records conversations using a phone or web browser, imports or sync recordings, get real-time streaming transcripts within minutes, searchable notes with text, audio, images, speaker ID, and key phrases and also shares or export voice notes to inform others and get on the same page, enabling clients to search, play, edit, organize, and share conversations from any device.",
+  "one_liner": "Developer of a team collaboration platform designed for meetings and conversations. The company's platform generates notes for meetings, interviews, lectures, and records conversations using a phone or web browser, imports or sync recordings, get real-time streaming transcripts within minutes, searchable notes with text, audio, images, speaker ID, and key phrases and also shares or export voice notes to inform others and get on the same page, enabling clients to search, play, edit, organize, and share conversations from any device.",
+  "location": "United States",
+  "industry": "Productivity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d4004951-6f8c-47bc-97fe-39d5ed406dfd.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Productivity"
+  ],
+  "url": "https://500.co/portfolio/otter",
+  "api": "/companies/otter.json"
+}

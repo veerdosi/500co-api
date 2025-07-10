@@ -1,0 +1,21 @@
+{
+  "id": 2943,
+  "name": "Strigy Media Ltd.",
+  "slug": "strigy-media-ltd",
+  "website": "www.texel.live",
+  "description": "Provider of a virtual reality platform designed to stream VR and AR content material over existing networks. The company's data driven platform collects data points in real time to provide insights into users' viewing and engagement habits in order to provide a personalized content mix and reduce the bandwidth by more than 50 percent, enabling content providers to understand the deep consumption nature and how to leverage insights to optimize value of their content to result in higher engagement and better monetization.",
+  "one_liner": "Provider of a virtual reality platform designed to stream VR and AR content material over existing networks. The company's data driven platform collects data points in real time to provide insights into users' viewing and engagement habits in order to provide a personalized content mix and reduce the bandwidth by more than 50 percent, enabling content providers to understand the deep consumption nature and how to leverage insights to optimize value of their content to result in higher engagement and better monetization.",
+  "location": "Israel",
+  "industry": "Entertainment / Media",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Entertainment / Media"
+  ],
+  "url": "https://500.co/portfolio/strigy-media-ltd",
+  "api": "/companies/strigy-media-ltd.json"
+}

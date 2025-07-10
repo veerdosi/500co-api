@@ -1,0 +1,21 @@
+{
+  "id": 4513,
+  "name": "FounderDating, Inc.",
+  "slug": "founderdating-inc",
+  "website": "founderdating.com",
+  "description": "Provider of an online social network platform to connect entrepreneurs. The company provides an online dating platform that enables entrepreneurs to connect, share and help potential Co-Founders, advisors and professionals and skilled individuals.",
+  "one_liner": "Provider of an online social network platform to connect entrepreneurs. The company provides an online dating platform that enables entrepreneurs to connect, share and help potential Co-Founders, advisors and professionals and skilled individuals.",
+  "location": "United States",
+  "industry": "Social Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Impact"
+  ],
+  "url": "https://500.co/portfolio/founderdating-inc",
+  "api": "/companies/founderdating-inc.json"
+}

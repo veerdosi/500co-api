@@ -1,0 +1,24 @@
+{
+  "id": 5452,
+  "name": "BitPowr Technologies, Inc.",
+  "slug": "bitpowr-technologies",
+  "website": "bitpowr.com",
+  "description": "Developer of a blockchain infrastructure platform intended for businesses and developers to build and scale crypto and fintech products. The company's platform provides a modular ecosystem of critical blockchain and web3 infrastructure for businesses to build blockchain-powered products, enabling businesses and developers to a blockchain and digital assets infrastructure.",
+  "one_liner": "Developer of a blockchain infrastructure platform intended for businesses and developers to build and scale crypto and fintech products. The company's platform provides a modular ecosystem of critical blockchain and web3 infrastructure for businesses to build blockchain-powered products, enabling businesses and developers to a blockchain and digital assets infrastructure.",
+  "location": "United States",
+  "industry": "Blockchain, Crypto, FinTech, Web 3",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d9bfaa2e-b3cf-4a28-8660-f37d9f25fe06.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Blockchain",
+    "Crypto",
+    "FinTech",
+    "Web 3"
+  ],
+  "url": "https://500.co/portfolio/bitpowr-technologies",
+  "api": "/companies/bitpowr-technologies.json"
+}

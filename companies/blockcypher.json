@@ -1,0 +1,21 @@
+{
+  "id": 4929,
+  "name": "BlockCypher, Inc.",
+  "slug": "blockcypher",
+  "website": "www.blockcypher.com",
+  "description": "Developer of a cloud-optimized blockchain platform designed to easily build blockchain applications. The company's platform offers a multi-payment system with cloud infrastructure and robust data stores, enabling blockchain application developers to build only the layers of the application and cryptocurrency wallets which can be run across multiple data centers eliminating the process of rebuilding from scratch.",
+  "one_liner": "Developer of a cloud-optimized blockchain platform designed to easily build blockchain applications. The company's platform offers a multi-payment system with cloud infrastructure and robust data stores, enabling blockchain application developers to build only the layers of the application and cryptocurrency wallets which can be run across multiple data centers eliminating the process of rebuilding from scratch.",
+  "location": "United States",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/34713b62-ca08-4ae7-80da-59a910d73ce2.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/blockcypher",
+  "api": "/companies/blockcypher.json"
+}

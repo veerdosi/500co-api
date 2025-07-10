@@ -1,0 +1,21 @@
+{
+  "id": 5099,
+  "name": "Portal Educativo Inc.",
+  "slug": "wited",
+  "website": "www.wited.com",
+  "description": "Developer of an online educational network designed to deliver quality, engaging, and accessible education to students. The company's platform offers online interactive courses for kids from elementary through high school, enabling individual students to receive personalized educational assistance and thus improve their performance.",
+  "one_liner": "Developer of an online educational network designed to deliver quality, engaging, and accessible education to students. The company's platform offers online interactive courses for kids from elementary through high school, enabling individual students to receive personalized educational assistance and thus improve their performance.",
+  "location": "Chile",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/35ddae75-4ec7-4be7-86ac-f99d6a9eef36.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/wited",
+  "api": "/companies/wited.json"
+}

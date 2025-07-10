@@ -1,0 +1,21 @@
+{
+  "id": 4094,
+  "name": "Keyo AI Inc.",
+  "slug": "keyo",
+  "website": "www.keyo.com",
+  "description": "Developer of biometric identification software designed to unlock access and make in-store payments through encrypted contactless palm scanning. The company's patented hardware and software map the unique patterns of the palm and encrypt data at enrollment with the power to open doors, pay at stores, redeem tickets, and more without phones, cards, or keys, enabling people to enjoy and experience convenience of biometrics without compromising privacy and providing customers.",
+  "one_liner": "Developer of biometric identification software designed to unlock access and make in-store payments through encrypted contactless palm scanning. The company's patented hardware and software map the unique patterns of the palm and encrypt data at enrollment with the power to open doors, pay at stores, redeem tickets, and more without phones, cards, or keys, enabling people to enjoy and experience convenience of biometrics without compromising privacy and providing customers.",
+  "location": "United States",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f3f82d77-2fd1-4427-bc02-50a654632e4b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/keyo",
+  "api": "/companies/keyo.json"
+}

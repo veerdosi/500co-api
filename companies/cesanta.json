@@ -1,0 +1,21 @@
+{
+  "id": 2720,
+  "name": "Cesanta Software Limited",
+  "slug": "cesanta",
+  "website": "cesanta.com",
+  "description": "Developer of an embeddable communication technology intended to connect clients' products online. The company offers software libraries and embedded tools that enable applications, devices, and machines to connect and communicate in a reliable, secure, and scalable way, helping clients integrate thousands of commercial products into their IoT devices.",
+  "one_liner": "Developer of an embeddable communication technology intended to connect clients' products online. The company offers software libraries and embedded tools that enable applications, devices, and machines to connect and communicate in a reliable, secure, and scalable way, helping clients integrate thousands of commercial products into their IoT devices.",
+  "location": "Ireland",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f6cee392-96ed-4e3d-b041-7605ef80d1ae.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/cesanta",
+  "api": "/companies/cesanta.json"
+}

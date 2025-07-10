@@ -1,0 +1,21 @@
+{
+  "id": 5390,
+  "name": "Empathy Labs Inc.",
+  "slug": "the-ambition-app",
+  "website": "www.theambitionapp.com",
+  "description": "Developer of a personal development application intended to help in achieving dreams. The company's platform has various programs to inspire, educate and equip users with multiple life skills, enabling customers to reach their ambitions.",
+  "one_liner": "Developer of a personal development application intended to help in achieving dreams. The company's platform has various programs to inspire, educate and equip users with multiple life skills, enabling customers to reach their ambitions.",
+  "location": "United States",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7747d4fc-d40a-49b1-9a3e-16679a73f074.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/the-ambition-app",
+  "api": "/companies/the-ambition-app.json"
+}

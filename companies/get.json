@@ -1,0 +1,22 @@
+{
+  "id": 3388,
+  "name": "Get Global Holdings Pte. Ltd.",
+  "slug": "get",
+  "website": "www.useget.com",
+  "description": "Operator of a financial platform intended to assist teens in saving and using money wisely. The company's platform helps users manage money while learning financial literacy and independence at an earlier age, even shop with their personalized card and get spending notifications via mobile application, enabling users to easily send and receive money with family and friends instantly.",
+  "one_liner": "Operator of a financial platform intended to assist teens in saving and using money wisely. The company's platform helps users manage money while learning financial literacy and independence at an earlier age, even shop with their personalized card and get spending notifications via mobile application, enabling users to easily send and receive money with family and friends instantly.",
+  "location": "Singapore",
+  "industry": "Education, FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f53bddb0-4351-4fd2-9370-129c52363e95.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education",
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/get",
+  "api": "/companies/get.json"
+}

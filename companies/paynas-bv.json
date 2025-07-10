@@ -1,0 +1,21 @@
+{
+  "id": 3089,
+  "name": "Paynas B.V.",
+  "slug": "paynas-bv",
+  "website": "paynas.com",
+  "description": "Developer of a payroll enrollment platform designed to provide banking services and benefits to small-sized companies and their employees. The company's platform provides multiple HR features such as employee and payroll management, recruitment management, task management, attendance management with a time logging track system, enabling clients to provide its employees hassle-free banking, HR management, and employee benefits in one place, and in a single workflow.",
+  "one_liner": "Developer of a payroll enrollment platform designed to provide banking services and benefits to small-sized companies and their employees. The company's platform provides multiple HR features such as employee and payroll management, recruitment management, task management, attendance management with a time logging track system, enabling clients to provide its employees hassle-free banking, HR management, and employee benefits in one place, and in a single workflow.",
+  "location": "Netherlands",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5b4f5312-1d6f-43a2-8e6e-ff59eee7087d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/paynas-bv",
+  "api": "/companies/paynas-bv.json"
+}

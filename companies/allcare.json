@@ -1,0 +1,21 @@
+{
+  "id": 5607,
+  "name": "AllCare Technologies Philippines, Inc.",
+  "slug": "allcare",
+  "website": "www.allcare.ph",
+  "description": "Developer of a digital membership platform designed to offer benefits to freelancers and self-employed individuals. The company's platform offers benefits such as health, training, and transportation, enabling freelancers and self-employed individuals to get access to affordable company benefits and other perks which are enjoyed by traditional employees.",
+  "one_liner": "Developer of a digital membership platform designed to offer benefits to freelancers and self-employed individuals. The company's platform offers benefits such as health, training, and transportation, enabling freelancers and self-employed individuals to get access to affordable company benefits and other perks which are enjoyed by traditional employees.",
+  "location": "Philippines",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/324e4785-5a85-4411-929d-31baab76aa42.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/allcare",
+  "api": "/companies/allcare.json"
+}

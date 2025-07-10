@@ -1,0 +1,21 @@
+{
+  "id": 4424,
+  "name": "Y&S, Inc.",
+  "slug": "ys-inc",
+  "website": "www.reservaturno.com",
+  "description": "Developer of a beauty booking mobile application designed to discover and book shifts in beauty centers. The company's beauty booking mobile application helps users to find beauty salons, spa centers and parlours and it offers a database of available services by those salons with prices, enabling users to browse, find and book parlour slots with required services as per their preferable time.",
+  "one_liner": "Developer of a beauty booking mobile application designed to discover and book shifts in beauty centers. The company's beauty booking mobile application helps users to find beauty salons, spa centers and parlours and it offers a database of available services by those salons with prices, enabling users to browse, find and book parlour slots with required services as per their preferable time.",
+  "location": "United States",
+  "industry": "Productivity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Productivity"
+  ],
+  "url": "https://500.co/portfolio/ys-inc",
+  "api": "/companies/ys-inc.json"
+}

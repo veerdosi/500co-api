@@ -1,0 +1,21 @@
+{
+  "id": 8171,
+  "name": "Eonpass Inc",
+  "slug": "eon-pass",
+  "website": "eonpass.com",
+  "description": "Stop Counterfeits at scale for enterprises",
+  "one_liner": "Stop Counterfeits at scale for enterprises",
+  "location": "United States",
+  "industry": "Logistics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/0610df37-dd4c-46af-bcd9-6fa9412a4eb9.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Logistics"
+  ],
+  "url": "https://500.co/portfolio/eon-pass",
+  "api": "/companies/eon-pass.json"
+}

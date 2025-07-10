@@ -1,0 +1,21 @@
+{
+  "id": 5258,
+  "name": "Polyup, Inc.",
+  "slug": "lets-mod",
+  "website": "letsmod.com",
+  "description": "Developer of an online learning platform designed to empower kids to mod metaverse with a basic knowledge of mathematics. The company's platform primarily helps children to understand mathematical concepts using data science helping them to learn while playing, without teachers needing to micromanage their students, enabling users to learn mathematics interactively.",
+  "one_liner": "Developer of an online learning platform designed to empower kids to mod metaverse with a basic knowledge of mathematics. The company's platform primarily helps children to understand mathematical concepts using data science helping them to learn while playing, without teachers needing to micromanage their students, enabling users to learn mathematics interactively.",
+  "location": "United States",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/1cb117fd-4937-4e07-b1e4-f3a9fc656fd4.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/lets-mod",
+  "api": "/companies/lets-mod.json"
+}

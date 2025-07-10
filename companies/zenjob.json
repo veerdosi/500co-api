@@ -1,0 +1,21 @@
+{
+  "id": 2732,
+  "name": "Zenjob GmbH",
+  "slug": "zenjob",
+  "website": "www.zenjob.com",
+  "description": "Developer of an on-demand staffing platform intended to help students receive real-time job offers directly on their smartphones. The company's platform provides jobs in real-time via the application to address short-notice staffing challenges of companies across various sectors such as hotels, gastronomy and retail, enabling clients to fill short-term staffing needs without administrative hassle.",
+  "one_liner": "Developer of an on-demand staffing platform intended to help students receive real-time job offers directly on their smartphones. The company's platform provides jobs in real-time via the application to address short-notice staffing challenges of companies across various sectors such as hotels, gastronomy and retail, enabling clients to fill short-term staffing needs without administrative hassle.",
+  "location": "Germany",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5fafed89-1d9a-4c2e-8000-0419e26fd040.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/zenjob",
+  "api": "/companies/zenjob.json"
+}

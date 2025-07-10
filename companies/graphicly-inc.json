@@ -1,0 +1,21 @@
+{
+  "id": 3663,
+  "name": "Graphicly, Inc.",
+  "slug": "graphicly-inc",
+  "website": "graphicly.com",
+  "description": "Provider of digital content conversion and distribution services. The company provides a platform for authors and publishers that offers work flow integration, self-publishing, digital distribution, conversion and promotion for digital content.",
+  "one_liner": "Provider of digital content conversion and distribution services. The company provides a platform for authors and publishers that offers work flow integration, self-publishing, digital distribution, conversion and promotion for digital content.",
+  "location": "United States",
+  "industry": "Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/88813186-c3aa-43b3-bbf5-5cd3ac1b1c51.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/graphicly-inc",
+  "api": "/companies/graphicly-inc.json"
+}

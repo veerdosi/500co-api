@@ -1,0 +1,23 @@
+{
+  "id": 5429,
+  "name": "HAPPY FINANCES FOR ALL, LLC",
+  "slug": "gigstack",
+  "website": "gigstack.pro",
+  "description": "Developer of a financial platform designed to manage the expenses and income of the businesses. The company's platform offers payment, billing options, a self-billing portal, monitoring, and stamping invoices, helping professionals, startups, and small and medium enterprises with a simplified application programming interface that is enough to create an invoice, a payment link, or a sales receipt.",
+  "one_liner": "Developer of a financial platform designed to manage the expenses and income of the businesses. The company's platform offers payment, billing options, a self-billing portal, monitoring, and stamping invoices, helping professionals, startups, and small and medium enterprises with a simplified application programming interface that is enough to create an invoice, a payment link, or a sales receipt.",
+  "location": "Mexico",
+  "industry": "Accounting, FinTech, Payments",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/bf68979d-1cf2-488c-96b9-39360ddb4ac0.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Accounting",
+    "FinTech",
+    "Payments"
+  ],
+  "url": "https://500.co/portfolio/gigstack",
+  "api": "/companies/gigstack.json"
+}

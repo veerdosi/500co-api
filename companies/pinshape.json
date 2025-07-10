@@ -1,0 +1,21 @@
+{
+  "id": 3887,
+  "name": "Pinshape, Inc.",
+  "slug": "pinshape",
+  "website": "pinshape.com",
+  "description": "Provider of an online 3D printing platform. The company allows users to explore, share, download, and order 3D prints through their professional 3D print service.",
+  "one_liner": "Provider of an online 3D printing platform. The company allows users to explore, share, download, and order 3D prints through their professional 3D print service.",
+  "location": "United States",
+  "industry": "Ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/1b7d03ef-51f4-4410-97f4-1a9d84553803.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Ecommerce"
+  ],
+  "url": "https://500.co/portfolio/pinshape",
+  "api": "/companies/pinshape.json"
+}

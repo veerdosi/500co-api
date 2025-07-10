@@ -1,0 +1,21 @@
+{
+  "id": 5197,
+  "name": "Neuron Mobility Holdings Pte. Ltd.",
+  "slug": "neuron-mobility",
+  "website": "www.rideneuron.com",
+  "description": "Developer of a rental e-scooter platform designed to provide safe and convenient inner-city transport. The company's platform offers e-scooters that combine real-time telematics to address personal mobility in daily urban commuting, goods delivery, and tourist segments, enabling citizens to have safe, comfortable, and affordable transport for short-distance travel.",
+  "one_liner": "Developer of a rental e-scooter platform designed to provide safe and convenient inner-city transport. The company's platform offers e-scooters that combine real-time telematics to address personal mobility in daily urban commuting, goods delivery, and tourist segments, enabling citizens to have safe, comfortable, and affordable transport for short-distance travel.",
+  "location": "Singapore",
+  "industry": "Mobility",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Mobility"
+  ],
+  "url": "https://500.co/portfolio/neuron-mobility",
+  "api": "/companies/neuron-mobility.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4888,
+  "name": "Talently, Inc.",
+  "slug": "talently",
+  "website": "talently.tech",
+  "description": "Developer of an educational platform intended to accelerate the professional development of Latin American technical talents. The company's platform offers training for English language and technical issues, job and interview information, skills assessment, and mock interviews, enabling customers to get suitable jobs in software development, anywhere in the world.",
+  "one_liner": "Developer of an educational platform intended to accelerate the professional development of Latin American technical talents. The company's platform offers training for English language and technical issues, job and interview information, skills assessment, and mock interviews, enabling customers to get suitable jobs in software development, anywhere in the world.",
+  "location": "Peru",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/94df4f31-257e-4a70-af7f-3bb911911746.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/talently",
+  "api": "/companies/talently.json"
+}

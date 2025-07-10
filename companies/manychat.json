@@ -1,0 +1,21 @@
+{
+  "id": 4878,
+  "name": "ManyChat, Inc.",
+  "slug": "manychat",
+  "website": "manychat.com",
+  "description": "Developer of chatbot software designed to simplify the process of engaging an audience. The company's software offers a visual interface that implements coding-free instructions on how to create a bot within a few minutes and helps to broadcast messages to subscribers, create scheduled messages, auto-post from social media applications, and automate replies based on keywords as well as engage with interactive messages, enabling businesses to do marketing, sales and grow their ROI and revenue.",
+  "one_liner": "Developer of chatbot software designed to simplify the process of engaging an audience. The company's software offers a visual interface that implements coding-free instructions on how to create a bot within a few minutes and helps to broadcast messages to subscribers, create scheduled messages, auto-post from social media applications, and automate replies based on keywords as well as engage with interactive messages, enabling businesses to do marketing, sales and grow their ROI and revenue.",
+  "location": "United States",
+  "industry": "SaaS",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/6479b580-05c4-4404-89c3-84916a074cb1.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "SaaS"
+  ],
+  "url": "https://500.co/portfolio/manychat",
+  "api": "/companies/manychat.json"
+}

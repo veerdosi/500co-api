@@ -1,0 +1,23 @@
+{
+  "id": 5028,
+  "name": "Incompleteness Theorem Sdn Bhd",
+  "slug": "worq",
+  "website": "worq.space",
+  "description": "Provider of space-as-a-service designed for companies of all sizes from fast-growing startups to multinational corporations. The company uses its on-demand office network to offer community-based workspaces, including community events, high-speed internet, virtual office setups, and private telephone booths, enabling members to discover opportunities while sharing experiences and benefit from the one-stop business center services.",
+  "one_liner": "Provider of space-as-a-service designed for companies of all sizes from fast-growing startups to multinational corporations. The company uses its on-demand office network to offer community-based workspaces, including community events, high-speed internet, virtual office setups, and private telephone booths, enabling members to discover opportunities while sharing experiences and benefit from the one-stop business center services.",
+  "location": "Malaysia",
+  "industry": "Enterprise, Real Estate, Subscription",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/3f0928d2-f33c-445a-9123-d4cd7c13db53.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Enterprise",
+    "Real Estate",
+    "Subscription"
+  ],
+  "url": "https://500.co/portfolio/worq",
+  "api": "/companies/worq.json"
+}

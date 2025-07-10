@@ -1,0 +1,21 @@
+{
+  "id": 4282,
+  "name": "Bunch Inc.",
+  "slug": "bunch-inc",
+  "website": "joinbunch.com",
+  "description": "Provider of a topic-based platform designed to foster and encourage intellectual discussion. The company's topic-based platform helps people to engage in online conversations based on topics of common interest, enabling users to stay connected with other members and remain updated on their favorite topic.",
+  "one_liner": "Provider of a topic-based platform designed to foster and encourage intellectual discussion. The company's topic-based platform helps people to engage in online conversations based on topics of common interest, enabling users to stay connected with other members and remain updated on their favorite topic.",
+  "location": "United States",
+  "industry": "Social Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Impact"
+  ],
+  "url": "https://500.co/portfolio/bunch-inc",
+  "api": "/companies/bunch-inc.json"
+}

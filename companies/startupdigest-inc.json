@@ -1,0 +1,21 @@
+{
+  "id": 4860,
+  "name": "StartupDigest, Inc.",
+  "slug": "startupdigest-inc",
+  "website": "startupdigest.com",
+  "description": "Provider of articles and email newsletters related to local events. The company's members receive a curated email of startup events, job opportunities and educational content.",
+  "one_liner": "Provider of articles and email newsletters related to local events. The company's members receive a curated email of startup events, job opportunities and educational content.",
+  "location": "United States",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/startupdigest-inc",
+  "api": "/companies/startupdigest-inc.json"
+}

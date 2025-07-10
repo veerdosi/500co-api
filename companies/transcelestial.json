@@ -1,0 +1,22 @@
+{
+  "id": 5149,
+  "name": "Transcelestial Technologies Pte Ltd",
+  "slug": "transcelestial",
+  "website": "transcelestial.com",
+  "description": "Developer of wireless communication infrastructure designed to usher in high-speed connectivity from space. The company's wireless laser communication technology has developed a laser network to transfer and relay data for ground, satellite, and deep-space applications, enabling clients to get robust and speedy network services around the globe.",
+  "one_liner": "Developer of wireless communication infrastructure designed to usher in high-speed connectivity from space. The company's wireless laser communication technology has developed a laser network to transfer and relay data for ground, satellite, and deep-space applications, enabling clients to get robust and speedy network services around the globe.",
+  "location": "Singapore",
+  "industry": "Developer Tools, Infrastructure",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7ec190ed-e718-41aa-bd61-b0cd35c46c3c.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools",
+    "Infrastructure"
+  ],
+  "url": "https://500.co/portfolio/transcelestial",
+  "api": "/companies/transcelestial.json"
+}

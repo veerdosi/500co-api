@@ -1,0 +1,21 @@
+{
+  "id": 4372,
+  "name": "Kenz, Inc",
+  "slug": "kenz-inc",
+  "website": "kenzwoman.com",
+  "description": "Developer of an online lingerie selling platform designed to provide style and comfort to women residing in the Middle East. The company's platform offers custom fitting innerwear products ranging from bras, vests, pants, sleepwear, pajamas, socks and eye mask, enabling women to have an effortless experience of buying good fitting lingerie.",
+  "one_liner": "Developer of an online lingerie selling platform designed to provide style and comfort to women residing in the Middle East. The company's platform offers custom fitting innerwear products ranging from bras, vests, pants, sleepwear, pajamas, socks and eye mask, enabling women to have an effortless experience of buying good fitting lingerie.",
+  "location": "United States",
+  "industry": "Fashion",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/95962e3a-278a-495a-9459-d33e351b8643.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion"
+  ],
+  "url": "https://500.co/portfolio/kenz-inc",
+  "api": "/companies/kenz-inc.json"
+}

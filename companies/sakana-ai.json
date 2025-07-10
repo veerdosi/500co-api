@@ -1,0 +1,21 @@
+{
+  "id": 8077,
+  "name": "Sakana AI K.K.",
+  "slug": "sakana-ai",
+  "website": "sakana.ai",
+  "description": "Operator of an AI-enabled information technology company headquartered in Tokoyo, Japan. The company specializes in developing a generative AI model and software that can generate text, images, code, and multimedia, enabling clients to collaborate on research and development of generative AI.",
+  "one_liner": "Operator of an AI-enabled information technology company headquartered in Tokoyo, Japan. The company specializes in developing a generative AI model and software that can generate text, images, code, and multimedia, enabling clients to collaborate on research and development of generative AI.",
+  "location": "Japan",
+  "industry": "Infrastructure",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/997a377f-ce48-4c19-bcd9-509e820af814.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Infrastructure"
+  ],
+  "url": "https://500.co/portfolio/sakana-ai",
+  "api": "/companies/sakana-ai.json"
+}

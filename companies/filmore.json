@@ -1,0 +1,21 @@
+{
+  "id": 3043,
+  "name": "PT Avatar Nusa Antara",
+  "slug": "filmore",
+  "website": "filmorebody.com",
+  "description": "Provider of early-stage mentoring and funding services intended to help the economy grow. The company's services include partnering with influential corporations to roll out economic value drivers that leverage existing infrastructure and expertise, enabling independent and corporate ventures to be kick-started by bridging the gap between innovators and ideas.",
+  "one_liner": "Provider of early-stage mentoring and funding services intended to help the economy grow. The company's services include partnering with influential corporations to roll out economic value drivers that leverage existing infrastructure and expertise, enabling independent and corporate ventures to be kick-started by bridging the gap between innovators and ideas.",
+  "location": "Australia",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/filmore",
+  "api": "/companies/filmore.json"
+}

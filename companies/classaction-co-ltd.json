@@ -1,0 +1,21 @@
+{
+  "id": 2930,
+  "name": "ClassAction Co., Ltd.",
+  "slug": "classaction-co-ltd",
+  "website": "enjin-classaction.com",
+  "description": "Developer of a legal assistance platform designed to connect users with lawyers and others who have faced a similar loss for compensating their damages. The company's Web platform lets its users share cases of damage, track viewers and others who might have faced a similar kind of damage, seek legal advice and guidance by connecting to lawyers and civil engineers, enabling citizens and victims to litigate legal hassles, compensate their loss, raise funds and lodge lawsuits in real-time.",
+  "one_liner": "Developer of a legal assistance platform designed to connect users with lawyers and others who have faced a similar loss for compensating their damages. The company's Web platform lets its users share cases of damage, track viewers and others who might have faced a similar kind of damage, seek legal advice and guidance by connecting to lawyers and civil engineers, enabling citizens and victims to litigate legal hassles, compensate their loss, raise funds and lodge lawsuits in real-time.",
+  "location": "Japan",
+  "industry": "Legal",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Legal"
+  ],
+  "url": "https://500.co/portfolio/classaction-co-ltd",
+  "api": "/companies/classaction-co-ltd.json"
+}

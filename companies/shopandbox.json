@@ -1,0 +1,21 @@
+{
+  "id": 5207,
+  "name": "ShopandBox Pte Ltd",
+  "slug": "shopandbox",
+  "website": "shopandbox.com",
+  "description": "Operator of a peer-to-peer personal shopping platform designed to connect shoppers around the world. The company's platform pairs shoppers with people, based on shopping interests and geographical location, who buy the product and ship it to them, enabling consumers to connect with a group of personal shoppers to shop anywhere and anytime.",
+  "one_liner": "Operator of a peer-to-peer personal shopping platform designed to connect shoppers around the world. The company's platform pairs shoppers with people, based on shopping interests and geographical location, who buy the product and ship it to them, enabling consumers to connect with a group of personal shoppers to shop anywhere and anytime.",
+  "location": "United States",
+  "industry": "Supply Chain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Supply Chain"
+  ],
+  "url": "https://500.co/portfolio/shopandbox",
+  "api": "/companies/shopandbox.json"
+}

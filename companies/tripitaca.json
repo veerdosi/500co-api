@@ -1,0 +1,21 @@
+{
+  "id": 5556,
+  "name": "Tripitaca, Inc.",
+  "slug": "tripitaca",
+  "website": "www.tripitaca.com",
+  "description": "Operator of a digital platform intended to assist small tourism businesses in Africa. The company's platform allows hosts to create their packages and sell directly to travelers eliminating the need for agents and middlemen, enabling businesses to have a platform that notifies them when travellers are looking for properties which increases their chances of getting booked.",
+  "one_liner": "Operator of a digital platform intended to assist small tourism businesses in Africa. The company's platform allows hosts to create their packages and sell directly to travelers eliminating the need for agents and middlemen, enabling businesses to have a platform that notifies them when travellers are looking for properties which increases their chances of getting booked.",
+  "location": "Kenya",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a93e0867-f398-4383-a8b2-2b3731bb31c9.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/tripitaca",
+  "api": "/companies/tripitaca.json"
+}

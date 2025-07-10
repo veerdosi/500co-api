@@ -1,0 +1,23 @@
+{
+  "id": 5521,
+  "name": "Miso Technologies, Inc.",
+  "slug": "miso",
+  "website": "askmiso.com",
+  "description": "Developer of a search and recommendation tool designed to solve problems related to science, technology, product research, and development. The company's tool helps to learn the researcher's interests in a responsive real-time manner and delivers them a contextual feed of the research papers, news articles, blog posts, and open-source, enabling businesses to save time and avoid blind spots that would otherwise be costly to their work.",
+  "one_liner": "Developer of a search and recommendation tool designed to solve problems related to science, technology, product research, and development. The company's tool helps to learn the researcher's interests in a responsive real-time manner and delivers them a contextual feed of the research papers, news articles, blog posts, and open-source, enabling businesses to save time and avoid blind spots that would otherwise be costly to their work.",
+  "location": "United States",
+  "industry": "AdTech, Data & Analytics, Marketplace",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/9305a758-d706-4192-8a25-34650c91364a.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AdTech",
+    "Data & Analytics",
+    "Marketplace"
+  ],
+  "url": "https://500.co/portfolio/miso",
+  "api": "/companies/miso.json"
+}

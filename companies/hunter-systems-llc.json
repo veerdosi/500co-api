@@ -1,0 +1,22 @@
+{
+  "id": 4804,
+  "name": "Hunter Systems, LLC",
+  "slug": "hunter-systems-llc",
+  "website": "www.huntersystems.com",
+  "description": "Developer of administration software. The company is engaged in the development of automated means of accountability to integrate the curriculum and mission standards of private schools and non-profit organizations.",
+  "one_liner": "Developer of administration software. The company is engaged in the development of automated means of accountability to integrate the curriculum and mission standards of private schools and non-profit organizations.",
+  "location": "United States",
+  "industry": "Developer Tools, Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d23f6fdc-a9fa-4f97-bf4b-7ba5f922b30d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools",
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/hunter-systems-llc",
+  "api": "/companies/hunter-systems-llc.json"
+}

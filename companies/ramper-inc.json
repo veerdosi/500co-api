@@ -1,0 +1,19 @@
+{
+  "id": 4904,
+  "name": "Ramper, Inc",
+  "slug": "ramper-inc",
+  "website": "www.ramper.xyz",
+  "description": "Developer of the software development kit and application programming interface designed for a set of tools to create these applications. The company offers plugins to the wallet-provider interface and simple login for blockchain applications, enabling clients for making web3 friendly to the onramp.",
+  "one_liner": "Developer of the software development kit and application programming interface designed for a set of tools to create these applications. The company offers plugins to the wallet-provider interface and simple login for blockchain applications, enabling clients for making web3 friendly to the onramp.",
+  "location": "United States",
+  "industry": "",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e10786de-66da-4cda-9e54-feb0485b427e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://500.co/portfolio/ramper-inc",
+  "api": "/companies/ramper-inc.json"
+}

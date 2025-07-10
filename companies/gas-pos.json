@@ -1,0 +1,21 @@
+{
+  "id": 4969,
+  "name": "Gas POS, Inc.",
+  "slug": "gas-pos",
+  "website": "www.gaspos.co",
+  "description": "Developer of an EMV-compliant point-of-sale system designed to assist with the transition to EMV upgrades at the pump. The company's system provides payment security and point-to-point encryption to protect from fraud, hacking and fines, enabling gas station owners to avail fuel control and fleet card acceptance by upgrading to EMV-chip reading pumps and running fuel business conveniently with reduced frauds and costs.",
+  "one_liner": "Developer of an EMV-compliant point-of-sale system designed to assist with the transition to EMV upgrades at the pump. The company's system provides payment security and point-to-point encryption to protect from fraud, hacking and fines, enabling gas station owners to avail fuel control and fleet card acceptance by upgrading to EMV-chip reading pumps and running fuel business conveniently with reduced frauds and costs.",
+  "location": "United States",
+  "industry": "Payments",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Payments"
+  ],
+  "url": "https://500.co/portfolio/gas-pos",
+  "api": "/companies/gas-pos.json"
+}

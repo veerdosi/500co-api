@@ -1,0 +1,21 @@
+{
+  "id": 4115,
+  "name": "ChirpMe, Inc.",
+  "slug": "chirpme-inc",
+  "website": "chirpme.com",
+  "description": "Provider of dating platform. The company's platform matches people by hobbies and activities.",
+  "one_liner": "Provider of dating platform. The company's platform matches people by hobbies and activities.",
+  "location": "United States",
+  "industry": "Social Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Impact"
+  ],
+  "url": "https://500.co/portfolio/chirpme-inc",
+  "api": "/companies/chirpme-inc.json"
+}

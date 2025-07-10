@@ -1,0 +1,21 @@
+{
+  "id": 4140,
+  "name": "CourseGuide Inc.",
+  "slug": "courseguide-inc",
+  "website": "coursereport.com",
+  "description": "Provider of an online guide platform designed to be used for the search and discovery of Web development boot camps. The company's online guide platform provides a host of data points and student reviews, enabling coders to find schools for their needs and desired outcomes.",
+  "one_liner": "Provider of an online guide platform designed to be used for the search and discovery of Web development boot camps. The company's online guide platform provides a host of data points and student reviews, enabling coders to find schools for their needs and desired outcomes.",
+  "location": "United States",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/bbc57616-e3f9-4854-baa2-13c3e220704b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/courseguide-inc",
+  "api": "/companies/courseguide-inc.json"
+}

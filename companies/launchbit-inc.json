@@ -1,0 +1,21 @@
+{
+  "id": 3630,
+  "name": "LaunchBit, Inc.",
+  "slug": "launchbit-inc",
+  "website": "launchbit.com",
+  "description": "Provider of an advertisement platform for email. The company's model allows advertisers to identify their target demographic and bid on ad impressions in email newsletters.",
+  "one_liner": "Provider of an advertisement platform for email. The company's model allows advertisers to identify their target demographic and bid on ad impressions in email newsletters.",
+  "location": "United States",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/launchbit-inc",
+  "api": "/companies/launchbit-inc.json"
+}

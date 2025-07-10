@@ -1,0 +1,21 @@
+{
+  "id": 4345,
+  "name": "Sentisis Analytics S.L.",
+  "slug": "sentisis-analytics-sl",
+  "website": "www.sentisis.com",
+  "description": "Provider of social media analytic services designed to help businesses to monitor social networks and improve their business through social understanding. The company's services monitor, analyze and process key information from social networks, enabling businesses to assess the reputation of a brand within social networks.",
+  "one_liner": "Provider of social media analytic services designed to help businesses to monitor social networks and improve their business through social understanding. The company's services monitor, analyze and process key information from social networks, enabling businesses to assess the reputation of a brand within social networks.",
+  "location": "United States",
+  "industry": "Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/6044f471-7e73-425c-80d4-dae487ec2aab.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/sentisis-analytics-sl",
+  "api": "/companies/sentisis-analytics-sl.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3639,
+  "name": "Nabfly, Inc.",
+  "slug": "bespoke-post",
+  "website": "www.bespokepost.com",
+  "description": "Provider of subscription-based collection of lifestyle products intended to offer uniquely standalone goods for men. The company's products include a collection of lifestyle products that are limited edition products packaged together in a box driven by a specific story or theme in the areas of style, grooming, food, drink, and gear, enabling men to have a club membership and personalized mix of products based on their interests.",
+  "one_liner": "Provider of subscription-based collection of lifestyle products intended to offer uniquely standalone goods for men. The company's products include a collection of lifestyle products that are limited edition products packaged together in a box driven by a specific story or theme in the areas of style, grooming, food, drink, and gear, enabling men to have a club membership and personalized mix of products based on their interests.",
+  "location": "Slovenia",
+  "industry": "Fashion",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/8511f5a6-e710-4603-a31f-130aa8515776.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion"
+  ],
+  "url": "https://500.co/portfolio/bespoke-post",
+  "api": "/companies/bespoke-post.json"
+}

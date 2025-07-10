@@ -1,0 +1,21 @@
+{
+  "id": 3719,
+  "name": "GazeHawk, Inc.",
+  "slug": "gazehawk-inc",
+  "website": "gazehawk.com",
+  "description": "Provider of eye tracking services using ordinary Webcams. The company offers an eye tracking technology that allows Web designers and publishers to see how visitors view their Webpage, advertisement or image.",
+  "one_liner": "Provider of eye tracking services using ordinary Webcams. The company offers an eye tracking technology that allows Web designers and publishers to see how visitors view their Webpage, advertisement or image.",
+  "location": "United States",
+  "industry": "Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/gazehawk-inc",
+  "api": "/companies/gazehawk-inc.json"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 5200,
+  "name": "Don't Run Out Inc.",
+  "slug": "public-goods",
+  "website": "www.publicgoods.com",
+  "description": "Manufacturer of direct-to-consume personal products intended to promote healthy and natural household essentials. The company's products include health-focused personal care and bathroom essentials that are healthy, cruelty-free, and contain natural fragrances with no added artificial colors or chemicals, enabling customers to receive personal care products that are sustainable and non-toxic at a single subscription price.",
+  "one_liner": "Manufacturer of direct-to-consume personal products intended to promote healthy and natural household essentials. The company's products include health-focused personal care and bathroom essentials that are healthy, cruelty-free, and contain natural fragrances with no added artificial colors or chemicals, enabling customers to receive personal care products that are sustainable and non-toxic at a single subscription price.",
+  "location": "United States",
+  "industry": "Ecommerce, Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/10d9d3aa-0b4c-42c5-8e0f-250e276c7643.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Ecommerce",
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/public-goods",
+  "api": "/companies/public-goods.json"
+}

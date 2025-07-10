@@ -1,0 +1,21 @@
+{
+  "id": 4098,
+  "name": "BarkBox, Inc.",
+  "slug": "barkbox-inc",
+  "website": "www.barkbox.com",
+  "description": "Provider of subscription based platform designed to supply treat boxes for dogs. The company's treat boxes are themed boxes which includes innovative toys, all-natural treats and chews, enabling dog owners to give best treats to their dogs.",
+  "one_liner": "Provider of subscription based platform designed to supply treat boxes for dogs. The company's treat boxes are themed boxes which includes innovative toys, all-natural treats and chews, enabling dog owners to give best treats to their dogs.",
+  "location": "United States",
+  "industry": "Pet Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/8a75e903-e267-483d-b4c2-0ced399abd4d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Pet Tech"
+  ],
+  "url": "https://500.co/portfolio/barkbox-inc",
+  "api": "/companies/barkbox-inc.json"
+}

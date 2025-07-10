@@ -1,0 +1,22 @@
+{
+  "id": 2945,
+  "name": "Authlete, Inc.",
+  "slug": "authlete",
+  "website": "www.authlete.com",
+  "description": "Developer of an OpenID-certified and Financial-Grade API-compliant tool designed to support identity assurance and grant management extensions. The company offers security software that is built on open authorization and OpenID connect access delegation standards, enabling businesses to grant websites or applications access to their information without the need to reveal passwords.",
+  "one_liner": "Developer of an OpenID-certified and Financial-Grade API-compliant tool designed to support identity assurance and grant management extensions. The company offers security software that is built on open authorization and OpenID connect access delegation standards, enabling businesses to grant websites or applications access to their information without the need to reveal passwords.",
+  "location": "Japan",
+  "industry": "Cybersecurity, Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/71b80983-08a5-48ba-908b-ca0085a31960.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Cybersecurity",
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/authlete",
+  "api": "/companies/authlete.json"
+}

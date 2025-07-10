@@ -1,0 +1,22 @@
+{
+  "id": 5550,
+  "name": "GOTCHA Technology Inc.",
+  "slug": "gotcha-technology",
+  "website": "gotcha.technology",
+  "description": "Developer of a computer-vision-based technology designed to detect micro-emotions through the analysis of human facial behavior. The company's technology helps to detect hidden emotions and unmasks possible deception cases through the analysis of facial muscular actions, based on behavioral science research.",
+  "one_liner": "Developer of a computer-vision-based technology designed to detect micro-emotions through the analysis of human facial behavior. The company's technology helps to detect hidden emotions and unmasks possible deception cases through the analysis of facial muscular actions, based on behavioral science research.",
+  "location": "Armenia",
+  "industry": "AI/Machine Learning, Deep Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/82f68395-f650-4e28-b3ae-c4fbb8e8bbf4.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "Deep Tech"
+  ],
+  "url": "https://500.co/portfolio/gotcha-technology",
+  "api": "/companies/gotcha-technology.json"
+}

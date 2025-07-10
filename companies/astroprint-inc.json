@@ -1,0 +1,21 @@
+{
+  "id": 3853,
+  "name": "AstroPrint, Inc.",
+  "slug": "astroprint-inc",
+  "website": "www.astroprint.com",
+  "description": "Provider of a 3D printing software platform. The company offers a free, open, cloud platform and application marketplace designed for 3D Printing. Its cloud-based platform allows 3D Printer owners to manage their printers from anywhere around the world.",
+  "one_liner": "Provider of a 3D printing software platform. The company offers a free, open, cloud platform and application marketplace designed for 3D Printing. Its cloud-based platform allows 3D Printer owners to manage their printers from anywhere around the world.",
+  "location": "United States",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/62e5123d-b7e8-46fc-bc14-b2d160dfb5b4.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/astroprint-inc",
+  "api": "/companies/astroprint-inc.json"
+}

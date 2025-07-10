@@ -1,0 +1,21 @@
+{
+  "id": 3390,
+  "name": "Silk and Sonder, Inc.",
+  "slug": "silk-and-sonder",
+  "website": "www.silkandsonder.com",
+  "description": "Provider of subscription-based handcrafted monthly planners intended to help in mental wellness. The company provides themed monthly wellness planners and designed monthly planners, compactly sized with guided formats, empowering customers to be their convenient selves through self-reflection and self-discovery.",
+  "one_liner": "Provider of subscription-based handcrafted monthly planners intended to help in mental wellness. The company provides themed monthly wellness planners and designed monthly planners, compactly sized with guided formats, empowering customers to be their convenient selves through self-reflection and self-discovery.",
+  "location": "United States",
+  "industry": "Wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7f13bd45-9edf-4116-95ae-bd93a2137d5d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Wellness"
+  ],
+  "url": "https://500.co/portfolio/silk-and-sonder",
+  "api": "/companies/silk-and-sonder.json"
+}

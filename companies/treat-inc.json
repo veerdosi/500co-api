@@ -1,0 +1,21 @@
+{
+  "id": 3902,
+  "name": "Treat, Inc.",
+  "slug": "treat-inc",
+  "website": "treat.co",
+  "description": "Provider of an application for pet care. The company's application offers users to book for veterinary care, training and grooming of their pets.",
+  "one_liner": "Provider of an application for pet care. The company's application offers users to book for veterinary care, training and grooming of their pets.",
+  "location": "United States",
+  "industry": "Pet Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b8e37838-8126-4380-829c-6ecc2125600b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Pet Tech"
+  ],
+  "url": "https://500.co/portfolio/treat-inc",
+  "api": "/companies/treat-inc.json"
+}

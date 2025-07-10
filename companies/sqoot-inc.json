@@ -1,0 +1,22 @@
+{
+  "id": 4027,
+  "name": "Sqoot Inc",
+  "slug": "sqoot-inc",
+  "website": "sqoot.com",
+  "description": "Provider of an online source for daily deals. The company's product enables websites and applications to build with deals.",
+  "one_liner": "Provider of an online source for daily deals. The company's product enables websites and applications to build with deals.",
+  "location": "United States",
+  "industry": "Content, Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content",
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/sqoot-inc",
+  "api": "/companies/sqoot-inc.json"
+}

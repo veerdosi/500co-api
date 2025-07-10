@@ -1,0 +1,21 @@
+{
+  "id": 3402,
+  "name": "Gentem Health Incorporated",
+  "slug": "gentem-health-incorporated",
+  "website": "gentem.com",
+  "description": "Developer of a medical platform intended to help physicians with instant reimbursements. The company's offerings include connecting, processing and receiving payment for their claims, enabling medical practitioners to get their money without any administrative cost.",
+  "one_liner": "Developer of a medical platform intended to help physicians with instant reimbursements. The company's offerings include connecting, processing and receiving payment for their claims, enabling medical practitioners to get their money without any administrative cost.",
+  "location": "United States",
+  "industry": "Health Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Health Tech"
+  ],
+  "url": "https://500.co/portfolio/gentem-health-incorporated",
+  "api": "/companies/gentem-health-incorporated.json"
+}

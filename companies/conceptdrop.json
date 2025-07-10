@@ -1,0 +1,21 @@
+{
+  "id": 4164,
+  "name": "ConceptDrop Inc",
+  "slug": "conceptdrop",
+  "website": "conceptdrop.com",
+  "description": "Operator of an online marketplace platform designed to connect enterprises with the world's leading creative talents. The company's platform uses artificial intelligence to pair creative professionals and provides agency-quality marketing material, enabling enterprises to build teams, manage human capital, and predict future performance.",
+  "one_liner": "Operator of an online marketplace platform designed to connect enterprises with the world's leading creative talents. The company's platform uses artificial intelligence to pair creative professionals and provides agency-quality marketing material, enabling enterprises to build teams, manage human capital, and predict future performance.",
+  "location": "United States",
+  "industry": "Social Media",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Media"
+  ],
+  "url": "https://500.co/portfolio/conceptdrop",
+  "api": "/companies/conceptdrop.json"
+}

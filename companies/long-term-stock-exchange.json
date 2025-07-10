@@ -1,0 +1,22 @@
+{
+  "id": 3788,
+  "name": "Long-Term Stock Exchange, Inc.",
+  "slug": "long-term-stock-exchange",
+  "website": "ltse.com",
+  "description": "Operator of an SEC-regulated national securities exchange intended to align companies and long-term investors with shared goals. The company's exchange provides software tools that help companies capitalize, hire, compensate, and grow from startup to initial public offering and beyond, enabling clients to raise capital while keeping their focus on long-term instead of short-term results.",
+  "one_liner": "Operator of an SEC-regulated national securities exchange intended to align companies and long-term investors with shared goals. The company's exchange provides software tools that help companies capitalize, hire, compensate, and grow from startup to initial public offering and beyond, enabling clients to raise capital while keeping their focus on long-term instead of short-term results.",
+  "location": "United States",
+  "industry": "Credit & Lending, FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/dbff782b-0730-4f11-819d-18e2b3c8babe.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Credit & Lending",
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/long-term-stock-exchange",
+  "api": "/companies/long-term-stock-exchange.json"
+}

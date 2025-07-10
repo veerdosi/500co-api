@@ -1,0 +1,22 @@
+{
+  "id": 5557,
+  "name": "Praktika.ai Company",
+  "slug": "praktikaai-company",
+  "website": "www.praktika.ai",
+  "description": "Developer of an artificial intelligence platform designed to help people improve spoken English skills. The company's platform helps to prepare for a job interview in English, provides a robot that will role-play an interview and also maintain the dialogues as real interviews, provides a personal score and improvement tips, helps to improve speaking and listening skills, and enhances writing skills during chat interactions, enabling learners to receive AI language feedback and get AI-generated hints to improve language skills.",
+  "one_liner": "Developer of an artificial intelligence platform designed to help people improve spoken English skills. The company's platform helps to prepare for a job interview in English, provides a robot that will role-play an interview and also maintain the dialogues as real interviews, provides a personal score and improvement tips, helps to improve speaking and listening skills, and enhances writing skills during chat interactions, enabling learners to receive AI language feedback and get AI-generated hints to improve language skills.",
+  "location": "United States",
+  "industry": "AI/Machine Learning, Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/c5479223-7194-4190-937d-450d9be86882.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/praktikaai-company",
+  "api": "/companies/praktikaai-company.json"
+}

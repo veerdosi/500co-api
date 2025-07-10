@@ -1,0 +1,21 @@
+{
+  "id": 3112,
+  "name": "Aella Credit Limited",
+  "slug": "aella-credit",
+  "website": "aellaapp.com",
+  "description": "Developer of a diversified credit payments platform intended to offer a raft of financial services to underbanked users with a focus on lending. The company's debt-as-a-service model ensures that agents can have quick and easy access to funding through its partnerships with agency banks across the continent, enabling low-income underbanked households to have access to cash at competitive rates anytime.",
+  "one_liner": "Developer of a diversified credit payments platform intended to offer a raft of financial services to underbanked users with a focus on lending. The company's debt-as-a-service model ensures that agents can have quick and easy access to funding through its partnerships with agency banks across the continent, enabling low-income underbanked households to have access to cash at competitive rates anytime.",
+  "location": "Nigeria",
+  "industry": "Credit & Lending",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a2b4acee-d412-439e-aede-5b9a99813e38.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Credit & Lending"
+  ],
+  "url": "https://500.co/portfolio/aella-credit",
+  "api": "/companies/aella-credit.json"
+}

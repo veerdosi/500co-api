@@ -1,0 +1,22 @@
+{
+  "id": 8072,
+  "name": "Malivar, Inc.",
+  "slug": "ohmysynt",
+  "website": "ohmysynt.io",
+  "description": "Developer of artificial intelligence-powered tools designed for businesses and creators. The company's platform alters videos in seconds using text prompts, enabling users to create artificial intelligence-powered videos.",
+  "one_liner": "Developer of artificial intelligence-powered tools designed for businesses and creators. The company's platform alters videos in seconds using text prompts, enabling users to create artificial intelligence-powered videos.",
+  "location": "Armenia",
+  "industry": "AI/Machine Learning, AdTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/3c225220-e416-4dd5-a939-ce53f5253ebb.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "AdTech"
+  ],
+  "url": "https://500.co/portfolio/ohmysynt",
+  "api": "/companies/ohmysynt.json"
+}

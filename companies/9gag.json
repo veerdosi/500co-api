@@ -1,0 +1,22 @@
+{
+  "id": 3675,
+  "name": "9GAG, Inc",
+  "slug": "9gag",
+  "website": "9gag.com",
+  "description": "Operator of an online platform and social media website designed to share user-generated content. The company's online platform and social media website provides comical images that features user-generated videos under categories such as fail and prank, comedy, game, TV and music, providing users with an engagement platform for fun, conversation and connection.",
+  "one_liner": "Operator of an online platform and social media website designed to share user-generated content. The company's online platform and social media website provides comical images that features user-generated videos under categories such as fail and prank, comedy, game, TV and music, providing users with an engagement platform for fun, conversation and connection.",
+  "location": "Hong Kong",
+  "industry": "Entertainment / Media, Social Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5369fdb7-8cae-4278-a9f0-2c8371c757d9.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Entertainment / Media",
+    "Social Impact"
+  ],
+  "url": "https://500.co/portfolio/9gag",
+  "api": "/companies/9gag.json"
+}

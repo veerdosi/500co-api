@@ -1,0 +1,22 @@
+{
+  "id": 4776,
+  "name": "Strateos, Inc.",
+  "slug": "strateos",
+  "website": "www.strateos.com",
+  "description": "Developer of a robotic cloud lab platform designed to accelerate drug discovery and synthetic biology research. The company's platform automates chemistry, biology, and tissue analysis into closed-loop robotic labs that accelerate drug discovery programs, enabling pharmaceutical partners to rapidly and efficiently discover new drug candidates.",
+  "one_liner": "Developer of a robotic cloud lab platform designed to accelerate drug discovery and synthetic biology research. The company's platform automates chemistry, biology, and tissue analysis into closed-loop robotic labs that accelerate drug discovery programs, enabling pharmaceutical partners to rapidly and efficiently discover new drug candidates.",
+  "location": "United States",
+  "industry": "BioTech & Life Sciences, Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/159e615a-0caf-4fef-9686-aa21846737b5.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "BioTech & Life Sciences",
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/strateos",
+  "api": "/companies/strateos.json"
+}

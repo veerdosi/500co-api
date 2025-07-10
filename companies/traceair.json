@@ -1,0 +1,21 @@
+{
+  "id": 4620,
+  "name": "TraceAir Technologgies, Inc.",
+  "slug": "traceair",
+  "website": "www.traceair.net",
+  "description": "Operator of a construction site monitoring software designed to verify site work and plan sequencing decisions for builders. The company's software connects the reality of the construction site to the planned virtual design using a visual and intuitive map-based platform interface to ensure accurate and timely execution of the project, enabling companies to control the quality and costs of the project as well as complete it within budget.",
+  "one_liner": "Operator of a construction site monitoring software designed to verify site work and plan sequencing decisions for builders. The company's software connects the reality of the construction site to the planned virtual design using a visual and intuitive map-based platform interface to ensure accurate and timely execution of the project, enabling companies to control the quality and costs of the project as well as complete it within budget.",
+  "location": "United States",
+  "industry": "Construction",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/099f49fe-2fe1-4f52-8ad7-442ee64b581b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Construction"
+  ],
+  "url": "https://500.co/portfolio/traceair",
+  "api": "/companies/traceair.json"
+}

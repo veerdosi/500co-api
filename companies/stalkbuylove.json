@@ -1,0 +1,21 @@
+{
+  "id": 5215,
+  "name": "Ad Victoriam Ventures Pvt. Ltd.",
+  "slug": "stalkbuylove",
+  "website": "stalkbuylove.com",
+  "description": "Provider of an online marketplace designed to sell fashion apparel and accessories for women. The company's online marketplace stitches garments at scale with full integration into mobile distribution and supply, enabling consumers to get products of their choice at a low cost.",
+  "one_liner": "Provider of an online marketplace designed to sell fashion apparel and accessories for women. The company's online marketplace stitches garments at scale with full integration into mobile distribution and supply, enabling consumers to get products of their choice at a low cost.",
+  "location": "India",
+  "industry": "Fashion",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/31e59738-80f3-49f2-a17d-38f8d4484ab8.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion"
+  ],
+  "url": "https://500.co/portfolio/stalkbuylove",
+  "api": "/companies/stalkbuylove.json"
+}

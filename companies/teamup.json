@@ -1,0 +1,21 @@
+{
+  "id": 5138,
+  "name": "TeamUp Inc.",
+  "slug": "teamup",
+  "website": "www.fanzapp.io",
+  "description": "Developer of an online sports leagues and tournaments management application designed to track individual players' stats. The company's platform follows a multiple-tier revenue model based on subscriptions, commissions, advertising and monetization of big data, enabling customers to get a big enough pool of players, and enough data, to begin their scouting activities.",
+  "one_liner": "Developer of an online sports leagues and tournaments management application designed to track individual players' stats. The company's platform follows a multiple-tier revenue model based on subscriptions, commissions, advertising and monetization of big data, enabling customers to get a big enough pool of players, and enough data, to begin their scouting activities.",
+  "location": "Saudi Arabia",
+  "industry": "Sports",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Sports"
+  ],
+  "url": "https://500.co/portfolio/teamup",
+  "api": "/companies/teamup.json"
+}

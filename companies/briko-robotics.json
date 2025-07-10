@@ -1,0 +1,21 @@
+{
+  "id": 3018,
+  "name": "Briko Robotica, S.A.P.I. DE C.V.",
+  "slug": "briko-robotics",
+  "website": "brikorobotics.com",
+  "description": "Operator of a digital educational platform intended to offer robotics and programming language lessons for children. The company's platform provides online training courses to coach students on robotics programming and projects using practical engineering workshops and a robotics designing toolkit, enabling children and young people to learn programming in an easy and fun way.",
+  "one_liner": "Operator of a digital educational platform intended to offer robotics and programming language lessons for children. The company's platform provides online training courses to coach students on robotics programming and projects using practical engineering workshops and a robotics designing toolkit, enabling children and young people to learn programming in an easy and fun way.",
+  "location": "Mexico",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/briko-robotics",
+  "api": "/companies/briko-robotics.json"
+}

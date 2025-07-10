@@ -1,0 +1,21 @@
+{
+  "id": 5246,
+  "name": "Haulio Investment Holdings Pte. Ltd.",
+  "slug": "haulio",
+  "website": "www.haulio.io",
+  "description": "Developer of container shipping platform designed to transform ports and optimize resources more effectively. The company's platform offers a marketplace that connects users with a network of carriers and other stakeholders like freight forwarders, drivers, and port operators, enabling haulers to connect and help one another through a single trusted system, enabling logistics businesses to save time and resources while improving visibility and reliability for end customers.",
+  "one_liner": "Developer of container shipping platform designed to transform ports and optimize resources more effectively. The company's platform offers a marketplace that connects users with a network of carriers and other stakeholders like freight forwarders, drivers, and port operators, enabling haulers to connect and help one another through a single trusted system, enabling logistics businesses to save time and resources while improving visibility and reliability for end customers.",
+  "location": "Singapore",
+  "industry": "Supply Chain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/1c825a19-4a9b-4685-b94d-81544dd2d929.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Supply Chain"
+  ],
+  "url": "https://500.co/portfolio/haulio",
+  "api": "/companies/haulio.json"
+}

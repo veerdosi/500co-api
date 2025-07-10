@@ -1,0 +1,21 @@
+{
+  "id": 4832,
+  "name": "Virool, Inc.",
+  "slug": "virool-inc",
+  "website": "virool.com",
+  "description": "Developer of a social video advertising platform designed to change the advertising experience and bring brand videos to the right people at right time. The company's social video advertising platform allows video ads to reach their target audience through mobile phones and social networking sites, enabling clients to do marketing at a greater scale and reach higher audience base.",
+  "one_liner": "Developer of a social video advertising platform designed to change the advertising experience and bring brand videos to the right people at right time. The company's social video advertising platform allows video ads to reach their target audience through mobile phones and social networking sites, enabling clients to do marketing at a greater scale and reach higher audience base.",
+  "location": "United States",
+  "industry": "Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4bb7d366-37f2-4365-9b26-46b6dfabcbd4.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/virool-inc",
+  "api": "/companies/virool-inc.json"
+}

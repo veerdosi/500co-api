@@ -1,0 +1,21 @@
+{
+  "id": 5769,
+  "name": "Miri Technologies, Inc",
+  "slug": "miri",
+  "website": "www.miri.health",
+  "description": "Developer of a wellness platform designed to offer comprehensive support sourced from top health experts. The company's app helps with tailored support, expert knowledge, and high interactivity for health journeys to give actionable cutting-edge guidance using AI, enabling users to maintain a healthy lifestyle to better protect themselves against chronic illness in the future.",
+  "one_liner": "Developer of a wellness platform designed to offer comprehensive support sourced from top health experts. The company's app helps with tailored support, expert knowledge, and high interactivity for health journeys to give actionable cutting-edge guidance using AI, enabling users to maintain a healthy lifestyle to better protect themselves against chronic illness in the future.",
+  "location": "United States",
+  "industry": "Wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d0ad8dfe-527e-4837-81e4-356f88b7e2b8.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Wellness"
+  ],
+  "url": "https://500.co/portfolio/miri",
+  "api": "/companies/miri.json"
+}

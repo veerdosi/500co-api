@@ -1,0 +1,21 @@
+{
+  "id": 4583,
+  "name": "ShortPoint Inc.",
+  "slug": "shortpoint",
+  "website": "www.shortpoint.com",
+  "description": "Operator of web development platform intended to design corporate intranet systems. The company's technology facilitates department managers to build intranets with no coding from their existing content systems, such as office 365, sharepoint, and sap cloud portal, enabling businesses to build sharepoint pages easily.",
+  "one_liner": "Operator of web development platform intended to design corporate intranet systems. The company's technology facilitates department managers to build intranets with no coding from their existing content systems, such as office 365, sharepoint, and sap cloud portal, enabling businesses to build sharepoint pages easily.",
+  "location": "United Arab Emirates",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/49a3fd9a-1ede-433b-b3d6-41418d74830f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/shortpoint",
+  "api": "/companies/shortpoint.json"
+}

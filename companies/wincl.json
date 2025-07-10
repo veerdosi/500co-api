@@ -1,0 +1,23 @@
+{
+  "id": 8089,
+  "name": "WinCL, Inc.",
+  "slug": "wincl",
+  "website": "www.wincl.io",
+  "description": "Developer of climate action platform designed to offset carbon emissions. The company focuses on the environmental aspects of corporate operations, including ESG management and carbon credit purchase, marketplace, and carbon information provision, helping achieve true carbon-neutral win-win cooperation between developed and developing countries.",
+  "one_liner": "Developer of climate action platform designed to offset carbon emissions. The company focuses on the environmental aspects of corporate operations, including ESG management and carbon credit purchase, marketplace, and carbon information provision, helping achieve true carbon-neutral win-win cooperation between developed and developing countries.",
+  "location": "South Korea",
+  "industry": "Blockchain, Climate Tech, B2B Marketplaces",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/1ea815ce-ce3f-4eca-874f-ad2bd050e056.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Blockchain",
+    "Climate Tech",
+    "B2B Marketplaces"
+  ],
+  "url": "https://500.co/portfolio/wincl",
+  "api": "/companies/wincl.json"
+}

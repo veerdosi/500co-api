@@ -1,0 +1,21 @@
+{
+  "id": 4560,
+  "name": "Flywire Corporation",
+  "slug": "flywire-corporation",
+  "website": "www.flywire.com",
+  "description": "Developer of an online payment platform designed to streamline the international and domestic payment experience. The company's platform fully reconciles global payments and offers scope for global refunding while keeping all parties updated throughout the process in education, healthcare and business transactions, enabling clients to get fast, secure and convenient payments collections from all over the world and different currencies.",
+  "one_liner": "Developer of an online payment platform designed to streamline the international and domestic payment experience. The company's platform fully reconciles global payments and offers scope for global refunding while keeping all parties updated throughout the process in education, healthcare and business transactions, enabling clients to get fast, secure and convenient payments collections from all over the world and different currencies.",
+  "location": "United States",
+  "industry": "Payments",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7f17a17b-fc92-4100-93a4-424f2db5324e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Payments"
+  ],
+  "url": "https://500.co/portfolio/flywire-corporation",
+  "api": "/companies/flywire-corporation.json"
+}

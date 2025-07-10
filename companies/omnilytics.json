@@ -1,0 +1,21 @@
+{
+  "id": 5025,
+  "name": "Shoppr Labs Sdn Bhd",
+  "slug": "omnilytics",
+  "website": "omnilytics.co",
+  "description": "Developer of a data analytics platform designed to provide data to fashion brands. The company platform allows fashion businesses to manage market trends and insights, manage product demand, materials, colours and styles as well as offers real-time market intelligence data to fashion brands globally, enabling brands to find and target leads and helping in customer acquisition and retention.",
+  "one_liner": "Developer of a data analytics platform designed to provide data to fashion brands. The company platform allows fashion businesses to manage market trends and insights, manage product demand, materials, colours and styles as well as offers real-time market intelligence data to fashion brands globally, enabling brands to find and target leads and helping in customer acquisition and retention.",
+  "location": "Malaysia",
+  "industry": "Fashion",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2f3fc398-fa1a-4551-a1ce-002c7374f5de.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion"
+  ],
+  "url": "https://500.co/portfolio/omnilytics",
+  "api": "/companies/omnilytics.json"
+}

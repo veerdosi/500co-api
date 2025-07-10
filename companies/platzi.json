@@ -1,0 +1,21 @@
+{
+  "id": 3733,
+  "name": "Platzi, Inc.",
+  "slug": "platzi",
+  "website": "platzi.com",
+  "description": "Provider of online professional education services intended to teach in-demand skills. The company's services include live-streaming classes through its platform on inspiring design, marketing, business, and programming courses from professionals with real-time collaboration among pupils and industry leaders as teachers, enabling students to stay up-to-date with the current market needs.",
+  "one_liner": "Provider of online professional education services intended to teach in-demand skills. The company's services include live-streaming classes through its platform on inspiring design, marketing, business, and programming courses from professionals with real-time collaboration among pupils and industry leaders as teachers, enabling students to stay up-to-date with the current market needs.",
+  "location": "United States",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/af84463b-8824-4310-b240-e7c724ed9005.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/platzi",
+  "api": "/companies/platzi.json"
+}

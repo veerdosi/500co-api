@@ -1,0 +1,22 @@
+{
+  "id": 5738,
+  "name": "Blind Insight, Inc.",
+  "slug": "blindinsight",
+  "website": "www.blindinsight.io",
+  "description": "Developer of a data insights platform designed for preserving privacy, security, and data sovereignty. The company's platform offers sensitive data without revealing its contents and operates on and shares data for social good, business intelligence, and profit while remaining compliant and secure, enabling businesses to improve their products and services without sacrificing user privacy.",
+  "one_liner": "Developer of a data insights platform designed for preserving privacy, security, and data sovereignty. The company's platform offers sensitive data without revealing its contents and operates on and shares data for social good, business intelligence, and profit while remaining compliant and secure, enabling businesses to improve their products and services without sacrificing user privacy.",
+  "location": "United States",
+  "industry": "Cybersecurity, Infrastructure",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a4004d10-d1be-441a-bc2c-b6bc4ef5c19f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Cybersecurity",
+    "Infrastructure"
+  ],
+  "url": "https://500.co/portfolio/blindinsight",
+  "api": "/companies/blindinsight.json"
+}

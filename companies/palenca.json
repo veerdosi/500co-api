@@ -1,0 +1,21 @@
+{
+  "id": 3013,
+  "name": "Palenca Holdings Limited",
+  "slug": "palenca",
+  "website": "www.palenca.com",
+  "description": "Developer of a payroll application programming interface designed to validate income and employment information. The company's tool offers access to any worker's personal information, profile, and earnings, enabling clients to streamline background verification.",
+  "one_liner": "Developer of a payroll application programming interface designed to validate income and employment information. The company's tool offers access to any worker's personal information, profile, and earnings, enabling clients to streamline background verification.",
+  "location": "Mexico",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/cf7332bd-8675-4e15-8123-9c03cba5f503.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/palenca",
+  "api": "/companies/palenca.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5122,
+  "name": "Bonum Coaching LLC",
+  "slug": "bonum-coaching",
+  "website": "www.bonumcoaching.com",
+  "description": "Developer of a coaching platform designed for the development of leaders and companies. The company offers an executive coach, leadership evaluations that allow measuring progress towards the objectives set and coaching services that grow with the organization and adapt to all employees, enabling companies to improve results by developing employees and aligning with the values of the organization.",
+  "one_liner": "Developer of a coaching platform designed for the development of leaders and companies. The company offers an executive coach, leadership evaluations that allow measuring progress towards the objectives set and coaching services that grow with the organization and adapt to all employees, enabling companies to improve results by developing employees and aligning with the values of the organization.",
+  "location": "Mexico",
+  "industry": "SME Solution",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/a25f990e-da67-448c-ae2e-047cd37a33b8.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "SME Solution"
+  ],
+  "url": "https://500.co/portfolio/bonum-coaching",
+  "api": "/companies/bonum-coaching.json"
+}

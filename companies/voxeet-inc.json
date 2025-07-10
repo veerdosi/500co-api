@@ -1,0 +1,21 @@
+{
+  "id": 4077,
+  "name": "Voxeet, Inc.",
+  "slug": "voxeet-inc",
+  "website": "voxeet.com",
+  "description": "Developer of real-time collaboration platform (cPaaS) designed to help businesses build better voice communication applications. The company's proprietary platform offers highly secure, crystal clear 3D surround-sound, audio, video experience, screen sharing, presentation mode, broadcasting, call recording, translation, messaging, scheduling and more, providing businesses with the building blocks to build great user experiences with clear audio.",
+  "one_liner": "Developer of real-time collaboration platform (cPaaS) designed to help businesses build better voice communication applications. The company's proprietary platform offers highly secure, crystal clear 3D surround-sound, audio, video experience, screen sharing, presentation mode, broadcasting, call recording, translation, messaging, scheduling and more, providing businesses with the building blocks to build great user experiences with clear audio.",
+  "location": "United States",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2b433e62-1281-4ad2-970d-c2cdbde93bc1.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/voxeet-inc",
+  "api": "/companies/voxeet-inc.json"
+}

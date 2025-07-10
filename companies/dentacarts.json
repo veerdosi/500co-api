@@ -1,0 +1,23 @@
+{
+  "id": 3333,
+  "name": "Dentacarts Ltd",
+  "slug": "dentacarts",
+  "website": "dentacarts.com",
+  "description": "Developer of an online dental marketplace platform designed to sell dental supplies and materials. The company's platform offers a wide variety of dental tools and equipment from trusted vendors and agents, enabling dentists and dental clinic managers to access all dental supplies, equipment, and services online.",
+  "one_liner": "Developer of an online dental marketplace platform designed to sell dental supplies and materials. The company's platform offers a wide variety of dental tools and equipment from trusted vendors and agents, enabling dentists and dental clinic managers to access all dental supplies, equipment, and services online.",
+  "location": "Egypt",
+  "industry": "Health Tech, Healthcare, B2B Marketplaces",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/8c22e211-9ce0-4c5e-9c74-f86f72e6db34.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Health Tech",
+    "Healthcare",
+    "B2B Marketplaces"
+  ],
+  "url": "https://500.co/portfolio/dentacarts",
+  "api": "/companies/dentacarts.json"
+}

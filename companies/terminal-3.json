@@ -1,0 +1,23 @@
+{
+  "id": 5644,
+  "name": "Terminal 3 HK Limited",
+  "slug": "terminal-3",
+  "website": "www.terminal3.io",
+  "description": "Provider of Web3 data solutions intended to protect users' privacy information. The company leverages decentralized storage and zero-knowledge proofs to allow secure information access, enabling clients to securely store their data, control its access permissions and use across applications and websites.",
+  "one_liner": "Provider of Web3 data solutions intended to protect users' privacy information. The company leverages decentralized storage and zero-knowledge proofs to allow secure information access, enabling clients to securely store their data, control its access permissions and use across applications and websites.",
+  "location": "Hong Kong",
+  "industry": "Blockchain, Data & Analytics, Web 3",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/1fdf9868-e925-444e-8178-e30ed32a8a6d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Blockchain",
+    "Data & Analytics",
+    "Web 3"
+  ],
+  "url": "https://500.co/portfolio/terminal-3",
+  "api": "/companies/terminal-3.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4215,
+  "name": "Sightly Enterprises, Inc.",
+  "slug": "sightly",
+  "website": "www.sightly.com",
+  "description": "Developer of a video campaign analyzing platform designed to maximize the reach and effectiveness of video advertising. The company's platform offers software tools for audience targeting, campaign workflow, advertisement personalization, campaign automation, and an intelligent optimization engine, enabling clients to ensure fraud protection that helps them to reach their precise audience, as well as customers outside their current target.",
+  "one_liner": "Developer of a video campaign analyzing platform designed to maximize the reach and effectiveness of video advertising. The company's platform offers software tools for audience targeting, campaign workflow, advertisement personalization, campaign automation, and an intelligent optimization engine, enabling clients to ensure fraud protection that helps them to reach their precise audience, as well as customers outside their current target.",
+  "location": "United States",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ff1849b5-d040-4547-a4fd-5320cf16bd7e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/sightly",
+  "api": "/companies/sightly.json"
+}

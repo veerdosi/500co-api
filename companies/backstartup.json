@@ -1,0 +1,21 @@
+{
+  "id": 3005,
+  "name": "Backstartup S.A.P.I. de C.V.",
+  "slug": "backstartup",
+  "website": "www.backstartup.com",
+  "description": "Developer of accounting and legal automation platform designed to aid in the management of business activities. The company's platform offers the processing of documents and generating financial statements while liquidating national and municipal taxes in time and also provides legal advice and monthly payroll calculation of employees, enabling businesses to focus on the core activities of the company while maintaining productivity.",
+  "one_liner": "Developer of accounting and legal automation platform designed to aid in the management of business activities. The company's platform offers the processing of documents and generating financial statements while liquidating national and municipal taxes in time and also provides legal advice and monthly payroll calculation of employees, enabling businesses to focus on the core activities of the company while maintaining productivity.",
+  "location": "Colombia",
+  "industry": "SME Solution",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d535ced1-7368-4fd3-9548-ba6a8cd99027.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "SME Solution"
+  ],
+  "url": "https://500.co/portfolio/backstartup",
+  "api": "/companies/backstartup.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5108,
+  "name": "Magical Tome Inc.",
+  "slug": "tome",
+  "website": "beta.tome.app",
+  "description": "Developer of a storytelling tool designed to reduce the time required for creating slides. ",
+  "one_liner": "Developer of a storytelling tool designed to reduce the time required for creating slides. ",
+  "location": "United States",
+  "industry": "AI/Machine Learning",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4055f50b-614a-4b89-94c5-35555fa0dad5.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning"
+  ],
+  "url": "https://500.co/portfolio/tome",
+  "api": "/companies/tome.json"
+}

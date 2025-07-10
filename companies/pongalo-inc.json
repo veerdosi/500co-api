@@ -1,0 +1,21 @@
+{
+  "id": 4269,
+  "name": "Pongalo Inc.",
+  "slug": "pongalo-inc",
+  "website": "www.pongalo.com",
+  "description": "Provider of digital media services. The company engages into the operation of Spanish-language digital rights of television and feature film content management.",
+  "one_liner": "Provider of digital media services. The company engages into the operation of Spanish-language digital rights of television and feature film content management.",
+  "location": "United States",
+  "industry": "Entertainment / Media",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/8993478c-1599-4cb8-a3c7-3c6892e014bc.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Entertainment / Media"
+  ],
+  "url": "https://500.co/portfolio/pongalo-inc",
+  "api": "/companies/pongalo-inc.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4082,
+  "name": "Estately Inc.",
+  "slug": "estately-inc",
+  "website": "estately.com",
+  "description": "Operator of a real estate property search website designed to find houses for sale in the United States. The company's real estate property search website offers real estate property listing services where people can search for information on houses for sale on a map and view detailed descriptions, enabling users to choose their perfect home for buying.",
+  "one_liner": "Operator of a real estate property search website designed to find houses for sale in the United States. The company's real estate property search website offers real estate property listing services where people can search for information on houses for sale on a map and view detailed descriptions, enabling users to choose their perfect home for buying.",
+  "location": "United States",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/83f46c92-7ae2-460e-a1a8-0fad531de430.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/estately-inc",
+  "api": "/companies/estately-inc.json"
+}

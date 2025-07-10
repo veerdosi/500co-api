@@ -1,0 +1,21 @@
+{
+  "id": 3055,
+  "name": "Fox-Tech Technology Co.",
+  "slug": "fox-tech",
+  "website": "www.fox-tech.co",
+  "description": "Developer of a data analytics IoT platform designed to monitor, track and improve the operation of farming, logistics, cold chain and manufacturing businesses. The company's software combines real-time data, easy-to-use applications with secure, low power, and high accuracy sensors of temperature and humidity, helping business owners mitigate crises across the value chain in over 24 countries worldwide.",
+  "one_liner": "Developer of a data analytics IoT platform designed to monitor, track and improve the operation of farming, logistics, cold chain and manufacturing businesses. The company's software combines real-time data, easy-to-use applications with secure, low power, and high accuracy sensors of temperature and humidity, helping business owners mitigate crises across the value chain in over 24 countries worldwide.",
+  "location": "Taiwan",
+  "industry": "Infrastructure",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f7e26f9e-8cad-4ea2-9b57-456eabe874a9.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Infrastructure"
+  ],
+  "url": "https://500.co/portfolio/fox-tech",
+  "api": "/companies/fox-tech.json"
+}

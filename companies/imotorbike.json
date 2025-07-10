@@ -1,0 +1,21 @@
+{
+  "id": 5020,
+  "name": "iMotorbike Pte. Ltd.",
+  "slug": "imotorbike",
+  "website": "imotorbike.com",
+  "description": "Operator of a motorcycle marketplace intended to transform motorcycle sales in Southeast Asia. The company's marketplace offers a wide selection of motorcycles from a variety of brands and models and also provides a search engine that makes it easy to find motorcycles by make, model and location, enabling motorbike owners and two-wheeler enthusiasts to have a comprehensive motorcycle database that provides information about the same and find the suitable motorcycle for their needs.",
+  "one_liner": "Operator of a motorcycle marketplace intended to transform motorcycle sales in Southeast Asia. The company's marketplace offers a wide selection of motorcycles from a variety of brands and models and also provides a search engine that makes it easy to find motorcycles by make, model and location, enabling motorbike owners and two-wheeler enthusiasts to have a comprehensive motorcycle database that provides information about the same and find the suitable motorcycle for their needs.",
+  "location": "Malaysia",
+  "industry": "Automotive",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a66d435b-e13b-4a8f-bdbf-bcda9bd9d785.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Automotive"
+  ],
+  "url": "https://500.co/portfolio/imotorbike",
+  "api": "/companies/imotorbike.json"
+}

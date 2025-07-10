@@ -1,0 +1,21 @@
+{
+  "id": 3783,
+  "name": "OPTIMIZE SYSTEMS INC.",
+  "slug": "optimize-health",
+  "website": "optimize.health",
+  "description": "Developer of a medical tracking and engagement platform designed to facilitate remote patient monitoring. The company's platform automatically tracks doses and sends reminders when users forget, by syncing the user's smartphone or tablet using Bluetooth-smart and taking control of their health, enabling patients to get timely reminders of their medications.",
+  "one_liner": "Developer of a medical tracking and engagement platform designed to facilitate remote patient monitoring. The company's platform automatically tracks doses and sends reminders when users forget, by syncing the user's smartphone or tablet using Bluetooth-smart and taking control of their health, enabling patients to get timely reminders of their medications.",
+  "location": "United States",
+  "industry": "Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/394ea749-966c-4547-a360-b948eccb82c6.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/optimize-health",
+  "api": "/companies/optimize-health.json"
+}

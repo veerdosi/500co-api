@@ -1,0 +1,21 @@
+{
+  "id": 4673,
+  "name": "Genomelink, Inc.",
+  "slug": "genomelink",
+  "website": "genomelink.io",
+  "description": "Developer of a personal DNA cloud data upload application designed to make people connect DNA data with insights, products, and research. The company's platform allows members to upload their raw DNA data files and discover their DNA identities and traits through intuitive visualization and scientific-educational content, enabling members to learn about their DNA data while ensuring ultimate transparency.",
+  "one_liner": "Developer of a personal DNA cloud data upload application designed to make people connect DNA data with insights, products, and research. The company's platform allows members to upload their raw DNA data files and discover their DNA identities and traits through intuitive visualization and scientific-educational content, enabling members to learn about their DNA data while ensuring ultimate transparency.",
+  "location": "Japan",
+  "industry": "BioTech & Life Sciences",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "BioTech & Life Sciences"
+  ],
+  "url": "https://500.co/portfolio/genomelink",
+  "api": "/companies/genomelink.json"
+}

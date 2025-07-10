@@ -1,0 +1,21 @@
+{
+  "id": 5621,
+  "name": "Postex Pte. Ltd.",
+  "slug": "postex",
+  "website": "www.postex.pk",
+  "description": "Developer of fintech and logistics platform designed to offer cash on delivery and online payment options to online retailers. The company's platform features payment acceptance solutions from customers and an upfront payment collection for all cash-on-delivery orders. enabling businesses to monitor the status of their deliveries, retailers to track the shipment of the dispatched products, and accept payments.",
+  "one_liner": "Developer of fintech and logistics platform designed to offer cash on delivery and online payment options to online retailers. The company's platform features payment acceptance solutions from customers and an upfront payment collection for all cash-on-delivery orders. enabling businesses to monitor the status of their deliveries, retailers to track the shipment of the dispatched products, and accept payments.",
+  "location": "Pakistan",
+  "industry": "Payments",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Payments"
+  ],
+  "url": "https://500.co/portfolio/postex",
+  "api": "/companies/postex.json"
+}

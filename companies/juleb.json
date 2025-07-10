@@ -1,0 +1,21 @@
+{
+  "id": 5133,
+  "name": "Juleb Inc.",
+  "slug": "juleb",
+  "website": "juleb.com",
+  "description": "The company develops and provides integrated cloud platforms specifically designed for the healthcare sector, aiming to enhance efficiency and innovation. The company's platform features pharmacies and their interactions with connected entities, focusing on ease of use, cost-effectiveness, and adherence to local and international standards specific to each regional healthcare landscape, enabling pharmacies to optimize their performance and deliver improved value within the broader healthcare ecosystem.",
+  "one_liner": "The company develops and provides integrated cloud platforms specifically designed for the healthcare sector, aiming to enhance efficiency and innovation. The company's platform features pharmacies and their interactions with connected entities, focusing on ease of use, cost-effectiveness, and adherence to local and international standards specific to each regional healthcare landscape, enabling pharmacies to optimize their performance and deliver improved value within the broader healthcare ecosystem.",
+  "location": "Saudi Arabia",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e8dee003-1334-4e8f-944e-8035236e836e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/juleb",
+  "api": "/companies/juleb.json"
+}

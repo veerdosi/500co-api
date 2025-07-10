@@ -1,0 +1,21 @@
+{
+  "id": 5035,
+  "name": "Neuroware, Inc.",
+  "slug": "neurowareio",
+  "website": "neuroware.io",
+  "description": "Developer of blockchain applications designed to properly leverage the benefits of distributed ledger technologies. The company's applications develop a range of specialized non-financial protocols for the blockchains and open-source e-wallet technology that runs entirely in the browser and can be embedded into anything that supports local storage, as well as the services, combine on-chain data storage, decentralized identity, and authentication and public key logistics, enabling clients to get training, education, and awareness for exploring blockchain technology.",
+  "one_liner": "Developer of blockchain applications designed to properly leverage the benefits of distributed ledger technologies. The company's applications develop a range of specialized non-financial protocols for the blockchains and open-source e-wallet technology that runs entirely in the browser and can be embedded into anything that supports local storage, as well as the services, combine on-chain data storage, decentralized identity, and authentication and public key logistics, enabling clients to get training, education, and awareness for exploring blockchain technology.",
+  "location": "Malaysia",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/neurowareio",
+  "api": "/companies/neurowareio.json"
+}

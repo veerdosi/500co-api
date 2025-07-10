@@ -1,0 +1,23 @@
+{
+  "id": 3476,
+  "name": "Caffeinated Labs, Inc.",
+  "slug": "caffeinated-labs-inc",
+  "website": "craftcoffee.com",
+  "description": "Developer of an online coffee delivery platform designed to offer coffee of different blends to their customers. The company's platform offers a subscription based interface, as well as delivers the pack of coffee at a person's doorstep, enabling customers to taste dozens of coffees from different parts of the country.",
+  "one_liner": "Developer of an online coffee delivery platform designed to offer coffee of different blends to their customers. The company's platform offers a subscription based interface, as well as delivers the pack of coffee at a person's doorstep, enabling customers to taste dozens of coffees from different parts of the country.",
+  "location": "United States",
+  "industry": "Direct to Consumer, Subscription, Consumer",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/eb11720e-a767-4241-88c8-1f709713fcb1.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Direct to Consumer",
+    "Subscription",
+    "Consumer"
+  ],
+  "url": "https://500.co/portfolio/caffeinated-labs-inc",
+  "api": "/companies/caffeinated-labs-inc.json"
+}

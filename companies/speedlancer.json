@@ -1,0 +1,21 @@
+{
+  "id": 5270,
+  "name": "Speedlancer Inc",
+  "slug": "speedlancer",
+  "website": "speedlancer.com",
+  "description": "Developer of a freelance job connectivity platform designed to hire skilled professionals. The company's web-based platform helps job seekers deliver allotted tasks within the specified period of time, enabling startup founders, digital agencies, SMBs, marketers and enterprises to get their work done and freelancers to get quality working experience.",
+  "one_liner": "Developer of a freelance job connectivity platform designed to hire skilled professionals. The company's web-based platform helps job seekers deliver allotted tasks within the specified period of time, enabling startup founders, digital agencies, SMBs, marketers and enterprises to get their work done and freelancers to get quality working experience.",
+  "location": "Australia",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/16999998-007a-4b9b-8e3a-99a5e3e69a79.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/speedlancer",
+  "api": "/companies/speedlancer.json"
+}

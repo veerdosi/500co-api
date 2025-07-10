@@ -1,0 +1,23 @@
+{
+  "id": 5547,
+  "name": "Liveboard, Inc.",
+  "slug": "liveboard",
+  "website": "www.liveboard.online",
+  "description": "Developer of a tutoring platform designed to teach and manage tutoring businesses online. The company's platform offer feature such as recordings, whiteboards, teaching materials, interactive quizzes, video calls, students' contacts, and more, thereby enabling remote tutors to teach online and manage daily routines.",
+  "one_liner": "Developer of a tutoring platform designed to teach and manage tutoring businesses online. The company's platform offer feature such as recordings, whiteboards, teaching materials, interactive quizzes, video calls, students' contacts, and more, thereby enabling remote tutors to teach online and manage daily routines.",
+  "location": "Armenia",
+  "industry": "Education, SaaS, Social Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/aa11a516-5ab7-46b7-8517-a227e6ec7417.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education",
+    "SaaS",
+    "Social Impact"
+  ],
+  "url": "https://500.co/portfolio/liveboard",
+  "api": "/companies/liveboard.json"
+}

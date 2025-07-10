@@ -1,0 +1,23 @@
+{
+  "id": 3943,
+  "name": "Unwind Me, Inc.",
+  "slug": "unwind-me-inc",
+  "website": "unwind.me",
+  "description": "Provider of massage therapy services. The company provides massage and wellness services to the customers at their own convenience.",
+  "one_liner": "Provider of massage therapy services. The company provides massage and wellness services to the customers at their own convenience.",
+  "location": "United States",
+  "industry": "Health Tech, Wellness, Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Health Tech",
+    "Wellness",
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/unwind-me-inc",
+  "api": "/companies/unwind-me-inc.json"
+}

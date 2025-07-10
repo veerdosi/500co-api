@@ -1,0 +1,21 @@
+{
+  "id": 4482,
+  "name": "Mashvisor, Inc.",
+  "slug": "mashvisor",
+  "website": "www.mashvisor.com",
+  "description": "Developer of investment analytics software designed to identify secure investment market potentials for traditional and short-term lodging properties. The company's platform delivers neighborhood data and analytics such as cash flow, cash on cash return, cap rate, GRM, vacancy rates and rental market strength indicators as well as provides aggregate real estate investment data, enabling clients to make profitable real estate investments and rental strategy decisions.",
+  "one_liner": "Developer of investment analytics software designed to identify secure investment market potentials for traditional and short-term lodging properties. The company's platform delivers neighborhood data and analytics such as cash flow, cash on cash return, cap rate, GRM, vacancy rates and rental market strength indicators as well as provides aggregate real estate investment data, enabling clients to make profitable real estate investments and rental strategy decisions.",
+  "location": "United States",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/30e6dd6d-1961-48fd-a028-d16d0e443841.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/mashvisor",
+  "api": "/companies/mashvisor.json"
+}

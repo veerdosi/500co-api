@@ -1,0 +1,21 @@
+{
+  "id": 4704,
+  "name": "Oasis Labs, Inc.",
+  "slug": "oasis-labs",
+  "website": "www.oasislabs.com",
+  "description": "Developer of a cloud computing platform designed to build smart contract applications. The company's platform permits privacy-preserving contracts, performance, and scalability for real-world complex applications and governs how data is moved and used across businesses, enabling companies to overcome performance, security, and privacy limitations that may have hampered blockchain adoption.",
+  "one_liner": "Developer of a cloud computing platform designed to build smart contract applications. The company's platform permits privacy-preserving contracts, performance, and scalability for real-world complex applications and governs how data is moved and used across businesses, enabling companies to overcome performance, security, and privacy limitations that may have hampered blockchain adoption.",
+  "location": "United States",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d41b09da-1992-4496-9360-5900b6a16bdd.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/oasis-labs",
+  "api": "/companies/oasis-labs.json"
+}

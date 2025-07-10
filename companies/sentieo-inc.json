@@ -1,0 +1,21 @@
+{
+  "id": 5310,
+  "name": "Sentieo, Inc.",
+  "slug": "sentieo-inc",
+  "website": "sentieo.com",
+  "description": "Provider of a financial data platform intended to facilitate research on equity and investment portfolios for making investment decisions. The company's platform tracks financial documents including SEC filings and global filings, organizes equity research process, shares financial information and documents with colleagues, generates financial reports on hedge funds, mutual funds and family offices, enabling analysts and investors to surf across financial databases and predict future investment trends.",
+  "one_liner": "Provider of a financial data platform intended to facilitate research on equity and investment portfolios for making investment decisions. The company's platform tracks financial documents including SEC filings and global filings, organizes equity research process, shares financial information and documents with colleagues, generates financial reports on hedge funds, mutual funds and family offices, enabling analysts and investors to surf across financial databases and predict future investment trends.",
+  "location": "United States",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/51f39c8a-ed7a-4143-9c13-6c195f1399a1.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/sentieo-inc",
+  "api": "/companies/sentieo-inc.json"
+}

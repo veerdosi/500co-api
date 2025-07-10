@@ -1,0 +1,21 @@
+{
+  "id": 4886,
+  "name": "Ryu Technologies, Inc.",
+  "slug": "ryu",
+  "website": "ryu.games",
+  "description": "Developer of an online gaming platform designed to facilitate real-money tournaments in online video game matches of skill. The company's platform uses blockchain to store tournament results, handle payments, and encrypt sensitive user data, enabling game developers to quickly craft games the way they want them to.",
+  "one_liner": "Developer of an online gaming platform designed to facilitate real-money tournaments in online video game matches of skill. The company's platform uses blockchain to store tournament results, handle payments, and encrypt sensitive user data, enabling game developers to quickly craft games the way they want them to.",
+  "location": "United States",
+  "industry": "Gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/c1605a18-b973-4546-ab75-03535e7a1c61.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Gaming"
+  ],
+  "url": "https://500.co/portfolio/ryu",
+  "api": "/companies/ryu.json"
+}

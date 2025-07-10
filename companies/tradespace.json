@@ -1,0 +1,22 @@
+{
+  "id": 3466,
+  "name": "Tradespace Inc.",
+  "slug": "tradespace",
+  "website": "www.tradespace.io",
+  "description": "Developer of intellectual property (IP) software intended to buy, sell and license IP. The company's software uses predictive analytics to connect IP generators with partners that are looking for technology, enabling companies to make good IP strategy decisions without relying on expensive consultants, brokers, and lawyers.",
+  "one_liner": "Developer of intellectual property (IP) software intended to buy, sell and license IP. The company's software uses predictive analytics to connect IP generators with partners that are looking for technology, enabling companies to make good IP strategy decisions without relying on expensive consultants, brokers, and lawyers.",
+  "location": "United States",
+  "industry": "AI/Machine Learning, Legal",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/fba8f2af-a23a-481e-9bee-2614ed5ec76f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "Legal"
+  ],
+  "url": "https://500.co/portfolio/tradespace",
+  "api": "/companies/tradespace.json"
+}

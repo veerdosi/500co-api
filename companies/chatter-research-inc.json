@@ -1,0 +1,21 @@
+{
+  "id": 2703,
+  "name": "Chatter Research Inc.",
+  "slug": "chatter-research-inc",
+  "website": "chatterresearch.com",
+  "description": "Developer of an online market research platform designed to engage customers in conversational surveys over text message. The company's platform offers online customer feedback about a brand, product or company by using artificial intelligence and chatbots, as well as helps users to have a text message conversation with customers right after they have interacted with their brand and get immediate feedback, enabling businesses and brands to engage their customers in a conversational survey and get real time data to run their business.",
+  "one_liner": "Developer of an online market research platform designed to engage customers in conversational surveys over text message. The company's platform offers online customer feedback about a brand, product or company by using artificial intelligence and chatbots, as well as helps users to have a text message conversation with customers right after they have interacted with their brand and get immediate feedback, enabling businesses and brands to engage their customers in a conversational survey and get real time data to run their business.",
+  "location": "Canada",
+  "industry": "Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/chatter-research-inc",
+  "api": "/companies/chatter-research-inc.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4374,
+  "name": "Meitre Inc",
+  "slug": "meitre",
+  "website": "meitre.com",
+  "description": "Developer of a guest reservation management platform designed to offer restaurant table booking services to clients. The company's platform leverages technology to book tables based on demand trends rotate tables efficiently, introduce dynamic pricing techniques, and host events, enabling clients to eliminate no-shows, lower cancellation rates, and allocate demand efficiently.",
+  "one_liner": "Developer of a guest reservation management platform designed to offer restaurant table booking services to clients. The company's platform leverages technology to book tables based on demand trends rotate tables efficiently, introduce dynamic pricing techniques, and host events, enabling clients to eliminate no-shows, lower cancellation rates, and allocate demand efficiently.",
+  "location": "Uruguay",
+  "industry": "SME Solution",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/438f0452-0f28-41b8-a08e-7e298fd414f3.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "SME Solution"
+  ],
+  "url": "https://500.co/portfolio/meitre",
+  "api": "/companies/meitre.json"
+}

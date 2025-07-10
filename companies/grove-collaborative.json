@@ -1,0 +1,21 @@
+{
+  "id": 4666,
+  "name": "Grove Collaborative Inc.",
+  "slug": "grove-collaborative",
+  "website": "www.grove.co",
+  "description": "Grove Collaborative Holdings Inc is engaged in providing consumer products. It offers Cleaning accessories, Home and Pantry, Personal care products, Pets supplements and Other products.",
+  "one_liner": "Grove Collaborative Holdings Inc is engaged in providing consumer products. It offers Cleaning accessories, Home and Pantry, Personal care products, Pets supplements and Other products.",
+  "location": "United States",
+  "industry": "Ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f83406c7-0197-4772-831c-94c5be0c3cf4.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Ecommerce"
+  ],
+  "url": "https://500.co/portfolio/grove-collaborative",
+  "api": "/companies/grove-collaborative.json"
+}

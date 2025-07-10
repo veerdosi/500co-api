@@ -1,0 +1,21 @@
+{
+  "id": 4517,
+  "name": "Ayenda Ltd.",
+  "slug": "ayenda",
+  "website": "ayenda.com",
+  "description": "Operator of a hotel accommodation platform intended to offer standardized rooms at low prices. The company's platform offers a network of hotel rooms at prices falling under a reasonable budget segment which can be booked through a platform along with services like free WiFi and clean sheets, enabling customers to access quality amenities and experiences while traveling.",
+  "one_liner": "Operator of a hotel accommodation platform intended to offer standardized rooms at low prices. The company's platform offers a network of hotel rooms at prices falling under a reasonable budget segment which can be booked through a platform along with services like free WiFi and clean sheets, enabling customers to access quality amenities and experiences while traveling.",
+  "location": "Colombia",
+  "industry": "Travel & Tourism",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/92391bce-138e-4361-9ef9-9319c4a0df55.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Travel & Tourism"
+  ],
+  "url": "https://500.co/portfolio/ayenda",
+  "api": "/companies/ayenda.json"
+}

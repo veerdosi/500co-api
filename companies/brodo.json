@@ -1,0 +1,21 @@
+{
+  "id": 2929,
+  "name": "PT. BRODO GANESHA INDONESIA",
+  "slug": "brodo",
+  "website": "bro.do",
+  "description": "Manufacturer of men's fashion and footwear products intended to provide stylish, well-made, and affordable footwear. The company offers a wide range of products, from formal and casual shoes, as well as sneakers and boots, enabling buyers to get better quality shoes from both online and retail stores.",
+  "one_liner": "Manufacturer of men's fashion and footwear products intended to provide stylish, well-made, and affordable footwear. The company offers a wide range of products, from formal and casual shoes, as well as sneakers and boots, enabling buyers to get better quality shoes from both online and retail stores.",
+  "location": "Kuwait",
+  "industry": "Fashion",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion"
+  ],
+  "url": "https://500.co/portfolio/brodo",
+  "api": "/companies/brodo.json"
+}

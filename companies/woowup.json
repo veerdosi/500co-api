@@ -1,0 +1,21 @@
+{
+  "id": 5006,
+  "name": "Woowup INC.",
+  "slug": "woowup",
+  "website": "www.woowup.com",
+  "description": "Developer of a cloud-based online marketing platform designed for automating customer retention campaigns and leveraging existing customer data. The company's platform converts the fans of a company into customers using a loyalty program on the website of the company or the Facebook fan page, allows integration with any sales channel, identifies the user as a single channel, and manages all point purchase and redemption interactions, enabling retailers to retain customers using automated marketing tools and artificial intelligence to predict purchases.",
+  "one_liner": "Developer of a cloud-based online marketing platform designed for automating customer retention campaigns and leveraging existing customer data. The company's platform converts the fans of a company into customers using a loyalty program on the website of the company or the Facebook fan page, allows integration with any sales channel, identifies the user as a single channel, and manages all point purchase and redemption interactions, enabling retailers to retain customers using automated marketing tools and artificial intelligence to predict purchases.",
+  "location": "Argentina",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/woowup",
+  "api": "/companies/woowup.json"
+}

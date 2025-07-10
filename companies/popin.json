@@ -1,0 +1,22 @@
+{
+  "id": 3903,
+  "name": "Smiletime Inc.",
+  "slug": "popin",
+  "website": "pop.in",
+  "description": "Developer of an online gaming platform designed to empower human connection through the gaming experience. The company's platform offers users to play live games, discover new people or collaborate and play without leaving home, enabling people to socialize in an intimate setting or larger group setting with others globally.",
+  "one_liner": "Developer of an online gaming platform designed to empower human connection through the gaming experience. The company's platform offers users to play live games, discover new people or collaborate and play without leaving home, enabling people to socialize in an intimate setting or larger group setting with others globally.",
+  "location": "United States",
+  "industry": "Entertainment / Media, Social Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b1ffcc3b-d649-469a-9637-c3d918e95588.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Entertainment / Media",
+    "Social Impact"
+  ],
+  "url": "https://500.co/portfolio/popin",
+  "api": "/companies/popin.json"
+}

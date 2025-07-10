@@ -1,0 +1,21 @@
+{
+  "id": 4962,
+  "name": "Porchlight Homes LLC",
+  "slug": "porchlight-homes",
+  "website": "porchlighthomes.com",
+  "description": "Provider of real estate services intended to build homes. The company's platform specializes in constructing buildings for residential purposes as per the customer's view and demand, helping homeowners with ideal and affordable homes in safe neighborhoods.",
+  "one_liner": "Provider of real estate services intended to build homes. The company's platform specializes in constructing buildings for residential purposes as per the customer's view and demand, helping homeowners with ideal and affordable homes in safe neighborhoods.",
+  "location": "United States",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/8638ac21-b623-449c-8da7-c057f9eb6e46.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/porchlight-homes",
+  "api": "/companies/porchlight-homes.json"
+}

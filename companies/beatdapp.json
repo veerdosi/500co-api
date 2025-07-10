@@ -1,0 +1,22 @@
+{
+  "id": 2713,
+  "name": "Beatdapp Software Inc.",
+  "slug": "beatdapp",
+  "website": "beatdapp.com",
+  "description": "Operator of a SaaS-based platform intended to help music labels and artists track their songs to collect royalties. The company's tracking system authenticates, verifies, and validates media streamed in real-time and reduces the tracking discrepancies between Digital Service Providers (DSPs) and rights holders, enabling DSPs to increase their royalty revenue for rights holders while limiting legal exposure to royalty lawsuits.",
+  "one_liner": "Operator of a SaaS-based platform intended to help music labels and artists track their songs to collect royalties. The company's tracking system authenticates, verifies, and validates media streamed in real-time and reduces the tracking discrepancies between Digital Service Providers (DSPs) and rights holders, enabling DSPs to increase their royalty revenue for rights holders while limiting legal exposure to royalty lawsuits.",
+  "location": "Canada",
+  "industry": "Entertainment / Media, Social Media",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/26583cab-74d4-4551-b45c-5542b988f172.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Entertainment / Media",
+    "Social Media"
+  ],
+  "url": "https://500.co/portfolio/beatdapp",
+  "api": "/companies/beatdapp.json"
+}

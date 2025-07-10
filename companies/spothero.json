@@ -1,0 +1,21 @@
+{
+  "id": 4781,
+  "name": "SpotHero, Inc.",
+  "slug": "spothero",
+  "website": "spothero.com",
+  "description": "Developer of a mobile parking application designed to make parking facilities future-proofed, cities more accessible and the world more connected. The company's application connects parking lots, parking garages, and valet services and exchanges data and payments, enabling customers to reserve parking spots, compare rates, and find open parking.",
+  "one_liner": "Developer of a mobile parking application designed to make parking facilities future-proofed, cities more accessible and the world more connected. The company's application connects parking lots, parking garages, and valet services and exchanges data and payments, enabling customers to reserve parking spots, compare rates, and find open parking.",
+  "location": "United States",
+  "industry": "Supply Chain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/3fe71c7e-0457-452e-b23e-c7bbde6309b5.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Supply Chain"
+  ],
+  "url": "https://500.co/portfolio/spothero",
+  "api": "/companies/spothero.json"
+}

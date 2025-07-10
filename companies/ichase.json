@@ -1,0 +1,23 @@
+{
+  "id": 5800,
+  "name": "iChase Co., Ltd.",
+  "slug": "ichase",
+  "website": "www.ichase.io",
+  "description": "Developer of an artificial intelligence poultry health monitoring system designed to provide poultry physiological monitoring and disease prevention. The company's system is a remote monitoring system using computer vision, guided laser beams, an electronic weighing machine and control software built on machine learning, enabling farmers to boost productivity by monitoring poultry birds' health and maturity.",
+  "one_liner": "Developer of an artificial intelligence poultry health monitoring system designed to provide poultry physiological monitoring and disease prevention. The company's system is a remote monitoring system using computer vision, guided laser beams, an electronic weighing machine and control software built on machine learning, enabling farmers to boost productivity by monitoring poultry birds' health and maturity.",
+  "location": "Taiwan",
+  "industry": "AI/Machine Learning, AgTech, IoT",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/bd844e2a-e088-4cb0-a802-f932ee328f90.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "AgTech",
+    "IoT"
+  ],
+  "url": "https://500.co/portfolio/ichase",
+  "api": "/companies/ichase.json"
+}

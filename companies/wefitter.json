@@ -1,0 +1,21 @@
+{
+  "id": 2883,
+  "name": "Wellness Gamification Holdings Limited",
+  "slug": "wefitter",
+  "website": "www.wefitter.com",
+  "description": "Developer of fitness gaming platform designed to turn business into an engaged and healthy community. The company's platform assists digital health developers to integrate data and improve user engagement to track their calorie count and complete fitness challenges, enabling employees to improve their health by combining activity tracker data with gamification.",
+  "one_liner": "Developer of fitness gaming platform designed to turn business into an engaged and healthy community. The company's platform assists digital health developers to integrate data and improve user engagement to track their calorie count and complete fitness challenges, enabling employees to improve their health by combining activity tracker data with gamification.",
+  "location": "Spain",
+  "industry": "Wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4d8100cb-a699-4f8a-a1e7-9f6778791501.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Wellness"
+  ],
+  "url": "https://500.co/portfolio/wefitter",
+  "api": "/companies/wefitter.json"
+}

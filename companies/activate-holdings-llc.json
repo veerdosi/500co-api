@@ -1,0 +1,21 @@
+{
+  "id": 4553,
+  "name": "Activate Holdings LLC",
+  "slug": "activate-holdings-llc",
+  "website": "sverve.com",
+  "description": "Provider of a self-service influencer marketing platform for small businesses. The company provides a technology to manage and track social media influencer campaigns all at one place. It builds deep profiles of influencers, capturing their reach, topics, demographics and retailer affinities along with our proprietary performance metrics. It also help brands connect and work with the right influencers, enable automated payments, and track cross-channel results of their campaigns.",
+  "one_liner": "Provider of a self-service influencer marketing platform for small businesses. The company provides a technology to manage and track social media influencer campaigns all at one place. It builds deep profiles of influencers, capturing their reach, topics, demographics and retailer affinities along with our proprietary performance metrics. It also help brands connect and work with the right influencers, enable automated payments, and track cross-channel results of their campaigns.",
+  "location": "United States",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/904745fd-1a42-40b2-8d72-68281cf529e3.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/activate-holdings-llc",
+  "api": "/companies/activate-holdings-llc.json"
+}

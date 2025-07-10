@@ -1,0 +1,21 @@
+{
+  "id": 5403,
+  "name": "EquityZen, Inc.",
+  "slug": "equityzen",
+  "website": "equityzen.com",
+  "description": "Developer of an investment marketplace designed to connect shareholders of private companies seeking liquidity with accredited investors seeking private market access. The company's marketplace makes buying and selling shares in private companies easy, enabling clients to have the opportunity to invest in large private firms and address liquidity and risk concerns.",
+  "one_liner": "Developer of an investment marketplace designed to connect shareholders of private companies seeking liquidity with accredited investors seeking private market access. The company's marketplace makes buying and selling shares in private companies easy, enabling clients to have the opportunity to invest in large private firms and address liquidity and risk concerns.",
+  "location": "United States",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/230897cd-7c70-498d-8e94-4098b0d8921d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/equityzen",
+  "api": "/companies/equityzen.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3572,
+  "name": "NITROS HOLDING LIMITED",
+  "slug": "nitros",
+  "website": "gonitros.com",
+  "description": "Developer of shipping software designed to manage and ship orders. The company's platform specializes in multi-carrier shipping management operations in one place to set up products and order delivery, enabling the online retailer to create and print shipping labels, automatically update customers and connect to all shipping carriers.",
+  "one_liner": "Developer of shipping software designed to manage and ship orders. The company's platform specializes in multi-carrier shipping management operations in one place to set up products and order delivery, enabling the online retailer to create and print shipping labels, automatically update customers and connect to all shipping carriers.",
+  "location": "Saudi Arabia",
+  "industry": "Logistics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d7ce0cdb-bc0f-4e95-98a4-6480799f206c.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Logistics"
+  ],
+  "url": "https://500.co/portfolio/nitros",
+  "api": "/companies/nitros.json"
+}

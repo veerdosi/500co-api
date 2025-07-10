@@ -1,0 +1,21 @@
+{
+  "id": 4440,
+  "name": "Nubity Inc.",
+  "slug": "nubity",
+  "website": "nubity.com",
+  "description": "Developer of a centralized platform designed to integrate public and private cloud services. The company's platform integrates all the clouds and servers in a single interface that facilitates to management and monitor the infrastructure, enabling companies to monitor and delegate the administration and management of information technology infrastructure.",
+  "one_liner": "Developer of a centralized platform designed to integrate public and private cloud services. The company's platform integrates all the clouds and servers in a single interface that facilitates to management and monitor the infrastructure, enabling companies to monitor and delegate the administration and management of information technology infrastructure.",
+  "location": "Argentina",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/5a52e364-57f3-4e2e-911d-f0d3062dee28.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/nubity",
+  "api": "/companies/nubity.json"
+}

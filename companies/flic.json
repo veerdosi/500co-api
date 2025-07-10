@@ -1,0 +1,21 @@
+{
+  "id": 3266,
+  "name": "Shortcut Labs AB",
+  "slug": "flic",
+  "website": "flic.io",
+  "description": "Developer of a wireless smart button intended to trigger applications, services, and mobile devices. The company's device is a physical shortcut that wirelessly connects to phones, tablets, or computers for the pre-configuring tasks on the user's phone, enabling users to access devices without moving from one place to another.",
+  "one_liner": "Developer of a wireless smart button intended to trigger applications, services, and mobile devices. The company's device is a physical shortcut that wirelessly connects to phones, tablets, or computers for the pre-configuring tasks on the user's phone, enabling users to access devices without moving from one place to another.",
+  "location": "Sweden",
+  "industry": "IoT",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e3cf8f15-26a4-44e0-906d-5acc810c7cd2.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "IoT"
+  ],
+  "url": "https://500.co/portfolio/flic",
+  "api": "/companies/flic.json"
+}

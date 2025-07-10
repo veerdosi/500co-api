@@ -1,0 +1,256 @@
+[
+  {
+    "id": 4549,
+    "name": "Buildcon, Inc",
+    "slug": "buildcon",
+    "website": "www.buildcon.org",
+    "description": "Developer of online construction management platform designed to track and monitor construction processes. The company's platform leverages technology to help engineers and architects to organize themselves, track their workflows, send orders with images and collaborate in one place, enabling clients to ensure on-time delivery of all projects with increasing efficiency.",
+    "one_liner": "Developer of online construction management platform designed to track and monitor construction processes. The company's platform leverages technology to help engineers and architects to organize themselves, track their workflows, send orders with images and collaborate in one place, enabling clients to ensure on-time delivery of all projects with increasing efficiency.",
+    "location": "Serbia",
+    "industry": "Construction",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f02f3782-de95-4cd2-963e-63a6b871b51a.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Construction"
+    ],
+    "url": "https://500.co/portfolio/buildcon",
+    "api": "/companies/buildcon.json"
+  },
+  {
+    "id": 4385,
+    "name": "Elmawkaa Inc.",
+    "slug": "elmawkaa",
+    "website": "elmawkaa.com",
+    "description": "Operator of an e-commerce marketplace intended to connect construction companies with suppliers. The company offers a mobile-based application for buying building materials in Egypt and provides engineering services and updates on the latest prices of building materials, enabling stakeholders and parties associated with the building and construction sector to find deals conveniently.",
+    "one_liner": "Operator of an e-commerce marketplace intended to connect construction companies with suppliers. The company offers a mobile-based application for buying building materials in Egypt and provides engineering services and updates on the latest prices of building materials, enabling stakeholders and parties associated with the building and construction sector to find deals conveniently.",
+    "location": "Egypt",
+    "industry": "Construction",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/4d76180c-a9eb-4199-bffe-0ec786f6d3db.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Construction"
+    ],
+    "url": "https://500.co/portfolio/elmawkaa",
+    "api": "/companies/elmawkaa.json"
+  },
+  {
+    "id": 3365,
+    "name": "SellingSolutions Scandinavia AB",
+    "slug": "icontrol",
+    "website": "icontrolapp.se",
+    "description": "Developer of a cloud-based application designed for construction management. The company designs and develops a mobile application for construction collaboration and documentation, it helps to replace paper reports with a mobile app at construction sites, enabling site personnel to create and share all project documentation created during production.",
+    "one_liner": "Developer of a cloud-based application designed for construction management. The company designs and develops a mobile application for construction collaboration and documentation, it helps to replace paper reports with a mobile app at construction sites, enabling site personnel to create and share all project documentation created during production.",
+    "location": "Sweden",
+    "industry": "Construction",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Construction"
+    ],
+    "url": "https://500.co/portfolio/icontrol",
+    "api": "/companies/icontrol.json"
+  },
+  {
+    "id": 3081,
+    "name": "Imerso AS",
+    "slug": "imerso",
+    "website": "www.imerso.com",
+    "description": "Developer of a building information modeling platform intended to monitor performance and field progress in real-time. The company's platform continuously monitors incoming field data against building plans and alerts about problematic BIM (Building Information Model) deviations using its three-dimensional scanning app, enabling constructors to keep all fieldwork well documented and detect construction errors without delays.",
+    "one_liner": "Developer of a building information modeling platform intended to monitor performance and field progress in real-time. The company's platform continuously monitors incoming field data against building plans and alerts about problematic BIM (Building Information Model) deviations using its three-dimensional scanning app, enabling constructors to keep all fieldwork well documented and detect construction errors without delays.",
+    "location": "Norway",
+    "industry": "Construction",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/51d40d47-abdc-47f5-a4ad-a33c48a86b8b.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Construction"
+    ],
+    "url": "https://500.co/portfolio/imerso",
+    "api": "/companies/imerso.json"
+  },
+  {
+    "id": 5434,
+    "name": "TEDI L.L.C",
+    "slug": "tedi",
+    "website": "tedivirtual.com",
+    "description": "Operator of an online educational platform aimed at developing and improving student's education. The company's platform provides a variety of services and educational programs that prioritize developing critical-analytical knowledge to be able to apply it in real projects, are available and recorded that can be viewed around the clock, have flexible study hours, providing the students, to grow professional their path together with teachers with great experience in the world of construction and as well as course completion certificates.",
+    "one_liner": "Operator of an online educational platform aimed at developing and improving student's education. The company's platform provides a variety of services and educational programs that prioritize developing critical-analytical knowledge to be able to apply it in real projects, are available and recorded that can be viewed around the clock, have flexible study hours, providing the students, to grow professional their path together with teachers with great experience in the world of construction and as well as course completion certificates.",
+    "location": "Peru",
+    "industry": "Construction, Education, Impact",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5418eda1-2c32-4cae-adc3-52ad9403449e.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Construction",
+      "Education",
+      "Impact"
+    ],
+    "url": "https://500.co/portfolio/tedi",
+    "api": "/companies/tedi.json"
+  },
+  {
+    "id": 4620,
+    "name": "TraceAir Technologgies, Inc.",
+    "slug": "traceair",
+    "website": "www.traceair.net",
+    "description": "Operator of a construction site monitoring software designed to verify site work and plan sequencing decisions for builders. The company's software connects the reality of the construction site to the planned virtual design using a visual and intuitive map-based platform interface to ensure accurate and timely execution of the project, enabling companies to control the quality and costs of the project as well as complete it within budget.",
+    "one_liner": "Operator of a construction site monitoring software designed to verify site work and plan sequencing decisions for builders. The company's software connects the reality of the construction site to the planned virtual design using a visual and intuitive map-based platform interface to ensure accurate and timely execution of the project, enabling companies to control the quality and costs of the project as well as complete it within budget.",
+    "location": "United States",
+    "industry": "Construction",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/099f49fe-2fe1-4f52-8ad7-442ee64b581b.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Construction"
+    ],
+    "url": "https://500.co/portfolio/traceair",
+    "api": "/companies/traceair.json"
+  },
+  {
+    "id": 4333,
+    "name": "Dverse, Inc.",
+    "slug": "dverse-inc",
+    "website": "www.symmetry-dimensions.com",
+    "description": "Developer of virtual reality production software. The company's virtual reality production software, Symmetry can be used in 360-degree video, create objects in real time and convert 3D models made by engineers into virtual reality contents, enabling users to enjoy the display in a virtual reality space.",
+    "one_liner": "Developer of virtual reality production software. The company's virtual reality production software, Symmetry can be used in 360-degree video, create objects in real time and convert 3D models made by engineers into virtual reality contents, enabling users to enjoy the display in a virtual reality space.",
+    "location": "United States",
+    "industry": "Construction",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Construction"
+    ],
+    "url": "https://500.co/portfolio/dverse-inc",
+    "api": "/companies/dverse-inc.json"
+  },
+  {
+    "id": 2866,
+    "name": "Lagoa",
+    "slug": "lagoa",
+    "website": "lagoa.com",
+    "description": "Operator of a three dimensional cloud-platform company. The company provides a three dimensional rendering platform that enables users to collaborate while rendering and finalizing three dimensional content. The platform operates on an open API, allowing developers to create their own applications via their API library.",
+    "one_liner": "Operator of a three dimensional cloud-platform company. The company provides a three dimensional rendering platform that enables users to collaborate while rendering and finalizing three dimensional content. The platform operates on an open API, allowing developers to create their own applications via their API library.",
+    "location": "Canada",
+    "industry": "Construction",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Construction"
+    ],
+    "url": "https://500.co/portfolio/lagoa",
+    "api": "/companies/lagoa.json"
+  },
+  {
+    "id": 5229,
+    "name": "PlanGrid, Inc.",
+    "slug": "plangrid-inc",
+    "website": "plangrid.com",
+    "description": "Provider of a construction application intended to offer a construction productivity tool to help teams deliver projects on time. The company's construction application provides real-time updates and seamless file synching over Wi-Fi and cellular networks, enabling owners and architects collaborate easily from their mobile devices and desktops, managing blueprints, specs, photos, RFIs and punch lists as well as to share design plans for construction projects.",
+    "one_liner": "Provider of a construction application intended to offer a construction productivity tool to help teams deliver projects on time. The company's construction application provides real-time updates and seamless file synching over Wi-Fi and cellular networks, enabling owners and architects collaborate easily from their mobile devices and desktops, managing blueprints, specs, photos, RFIs and punch lists as well as to share design plans for construction projects.",
+    "location": "United States",
+    "industry": "Construction",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/affa86fc-9c41-4cbd-bdf9-2e2e0880cb42.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Construction"
+    ],
+    "url": "https://500.co/portfolio/plangrid-inc",
+    "api": "/companies/plangrid-inc.json"
+  },
+  {
+    "id": 4519,
+    "name": "StructionSite Inc",
+    "slug": "structionsite-inc",
+    "website": "www.structionsite.com",
+    "description": "Developer of a construction site management platform designed to simplify the process of inspection, monitoring and quality control analysis of construction projects. The company's platform automatically tag photos with date, time, and user information for filtering and fast search-ability, gives photos location and direction intelligence and facilitates push photos along with tagged information, enabling project teams to communicate in the context of the jobsite anytime, from anywhere.",
+    "one_liner": "Developer of a construction site management platform designed to simplify the process of inspection, monitoring and quality control analysis of construction projects. The company's platform automatically tag photos with date, time, and user information for filtering and fast search-ability, gives photos location and direction intelligence and facilitates push photos along with tagged information, enabling project teams to communicate in the context of the jobsite anytime, from anywhere.",
+    "location": "United States",
+    "industry": "Construction",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/382c8e04-c7c8-444f-8c40-1bf8691b510d.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Construction"
+    ],
+    "url": "https://500.co/portfolio/structionsite-inc",
+    "api": "/companies/structionsite-inc.json"
+  },
+  {
+    "id": 4764,
+    "name": "SupplyHog Holdings, LLC.",
+    "slug": "supplyhog-holdings-llc",
+    "website": "supplyhog.com",
+    "description": "Provider of an online marketplace designed to sell construction supplies. The company's online marketplace offers drop shipping and contractor-level pricing services along with hardware and building supplies, enabling general contractors to procure building materials.",
+    "one_liner": "Provider of an online marketplace designed to sell construction supplies. The company's online marketplace offers drop shipping and contractor-level pricing services along with hardware and building supplies, enabling general contractors to procure building materials.",
+    "location": "United States",
+    "industry": "Construction",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f1526305-b1c6-4834-bc85-b84e5e320ae0.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Construction"
+    ],
+    "url": "https://500.co/portfolio/supplyhog-holdings-llc",
+    "api": "/companies/supplyhog-holdings-llc.json"
+  },
+  {
+    "id": 2727,
+    "name": "TrouveMoiUnPro inc.",
+    "slug": "trouvemoiunpro-inc",
+    "website": "www.smartreno.com",
+    "description": "Provider of a resource platform designed to change the way homeowners look for contractors. The company's resource platform helps to describe renovation project in one place, then receive within 24 hours, completely free of charge, several contractors who are best qualified and available to quote and execute the project, enabling users to get qualified potential clients based on their expertise and criteria, saving them on marketing efforts and spent.",
+    "one_liner": "Provider of a resource platform designed to change the way homeowners look for contractors. The company's resource platform helps to describe renovation project in one place, then receive within 24 hours, completely free of charge, several contractors who are best qualified and available to quote and execute the project, enabling users to get qualified potential clients based on their expertise and criteria, saving them on marketing efforts and spent.",
+    "location": "Canada",
+    "industry": "Construction",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/109d4972-ef4e-4616-8a08-bd74f43ec60c.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Construction"
+    ],
+    "url": "https://500.co/portfolio/trouvemoiunpro-inc",
+    "api": "/companies/trouvemoiunpro-inc.json"
+  }
+]

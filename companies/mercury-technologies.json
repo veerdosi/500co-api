@@ -1,0 +1,19 @@
+{
+  "id": 8142,
+  "name": "Mercury Technologies",
+  "slug": "mercury-technologies",
+  "website": "mercury.com",
+  "description": "Operator of a technology-enabled bank intended to offer banking services to small and medium businesses. The company's services offer bank accounts built specifically for startups by combining Federal Deposit Insurance Corp-insured checking and savings accounts with tech tools like cashflow analytics, intuitive dashboards and efficient payments, enabling tech businesses to have a practical financial stack, real-time insight into business finances and tools to maximize operational efficiency.",
+  "one_liner": "Operator of a technology-enabled bank intended to offer banking services to small and medium businesses. The company's services offer bank accounts built specifically for startups by combining Federal Deposit Insurance Corp-insured checking and savings accounts with tech tools like cashflow analytics, intuitive dashboards and efficient payments, enabling tech businesses to have a practical financial stack, real-time insight into business finances and tools to maximize operational efficiency.",
+  "location": "United States",
+  "industry": "",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://aplica-photos.s3.us-east-2.amazonaws.com/a53854e9-0f53-4d22-85db-7c5a25dc3ed0.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://500.co/portfolio/mercury-technologies",
+  "api": "/companies/mercury-technologies.json"
+}

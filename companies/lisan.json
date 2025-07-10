@@ -1,0 +1,22 @@
+{
+  "id": 5728,
+  "name": "Lisan Holdings Limited",
+  "slug": "lisan",
+  "website": "lisan.ai",
+  "description": "Developer of an AI writing platform intended to help to write in the Arabic language. The company's platform specializes in providing proofreading, grammar checking, and integrated writing assistance, enabling users to maximize their productivity, create exceptional content using AI models, and automate tasks with AI accelerators.",
+  "one_liner": "Developer of an AI writing platform intended to help to write in the Arabic language. The company's platform specializes in providing proofreading, grammar checking, and integrated writing assistance, enabling users to maximize their productivity, create exceptional content using AI models, and automate tasks with AI accelerators.",
+  "location": "United Arab Emirates",
+  "industry": "AI/Machine Learning, Deep Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/0c4f31d7-6db3-4075-94d8-d8230b410a8f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "Deep Tech"
+  ],
+  "url": "https://500.co/portfolio/lisan",
+  "api": "/companies/lisan.json"
+}

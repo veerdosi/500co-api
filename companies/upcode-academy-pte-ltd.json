@@ -1,0 +1,21 @@
+{
+  "id": 5216,
+  "name": "UpCode Academy Pte. Ltd.",
+  "slug": "upcode-academy-pte-ltd",
+  "website": "40tasks.com",
+  "description": "Provider of an application designed to make money through social content. The company's application helps to build and manage customized e-commerce website, enabling users to create branded shop to sell products to their followers.",
+  "one_liner": "Provider of an application designed to make money through social content. The company's application helps to build and manage customized e-commerce website, enabling users to create branded shop to sell products to their followers.",
+  "location": "Singapore",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/333bb1ff-bf6e-4193-bc36-7632bf4ca5b7.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/upcode-academy-pte-ltd",
+  "api": "/companies/upcode-academy-pte-ltd.json"
+}

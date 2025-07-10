@@ -1,0 +1,21 @@
+{
+  "id": 3535,
+  "name": "MFellows Holdings Limited",
+  "slug": "moneyfellows",
+  "website": "moneyfellows.com",
+  "description": "Developer of a mobile-based financial platform designed to assist individuals to access interest-free credit and better-saving achievements. The company's platform lets users save together with friends and family by creating a circle and validating it within minutes and letting them choose how much to lend based on trustworthiness, enabling individuals to contribute money to a common fund and take turns withdrawing the total amount.",
+  "one_liner": "Developer of a mobile-based financial platform designed to assist individuals to access interest-free credit and better-saving achievements. The company's platform lets users save together with friends and family by creating a circle and validating it within minutes and letting them choose how much to lend based on trustworthiness, enabling individuals to contribute money to a common fund and take turns withdrawing the total amount.",
+  "location": "Egypt",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d68bf292-45f7-4017-8e98-12a55829c718.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/moneyfellows",
+  "api": "/companies/moneyfellows.json"
+}

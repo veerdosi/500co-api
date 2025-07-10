@@ -1,0 +1,21 @@
+{
+  "id": 3854,
+  "name": "Clanbeat, Inc.",
+  "slug": "clanbeat",
+  "website": "clanbeat.com",
+  "description": "Developer of a talent development platform designed to facilitate students and adults in driving their own learning and being well-balanced human beings along that journey. The company's platform helps students build positive learning habits with regular reflection nudges, work planner, and goal-setting features and allow teachers to collect on students' mood and well-being from actionable insights and data, empowering students and teachers everywhere to take the lead in their life and learning.",
+  "one_liner": "Developer of a talent development platform designed to facilitate students and adults in driving their own learning and being well-balanced human beings along that journey. The company's platform helps students build positive learning habits with regular reflection nudges, work planner, and goal-setting features and allow teachers to collect on students' mood and well-being from actionable insights and data, empowering students and teachers everywhere to take the lead in their life and learning.",
+  "location": "Estonia",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f4936107-1d4e-4c57-b3d5-3ff9df7c6584.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/clanbeat",
+  "api": "/companies/clanbeat.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5103,
+  "name": "Contalink Inc.",
+  "slug": "contalink",
+  "website": "www.contalink.com",
+  "description": "Developer of a SaaS-based web accounting automation platform designed to provide all the financial information. The company's platform is used for accounting, finance, and administration to comply with the requirements of an office such as taxation, reducing operational costs, eliminating license costs and other related accounts, enabling accountants to reduce costs and generate new sources of income.",
+  "one_liner": "Developer of a SaaS-based web accounting automation platform designed to provide all the financial information. The company's platform is used for accounting, finance, and administration to comply with the requirements of an office such as taxation, reducing operational costs, eliminating license costs and other related accounts, enabling accountants to reduce costs and generate new sources of income.",
+  "location": "Mexico",
+  "industry": "Accounting",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/61f85451-c912-4daa-8ebf-9881a212afba.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Accounting"
+  ],
+  "url": "https://500.co/portfolio/contalink",
+  "api": "/companies/contalink.json"
+}

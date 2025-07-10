@@ -1,0 +1,21 @@
+{
+  "id": 4400,
+  "name": "Meddy, Inc.",
+  "slug": "meddy-inc",
+  "website": "www.meddy.co",
+  "description": "Developer of a healthcare service platform designed to find doctors online in Qatar. The company's healthcare service platform provides all information about a doctor instantly without calling the clinic and facilitates browsing of doctor's profile with their background information, enabling patients to search and book doctors online through their website.",
+  "one_liner": "Developer of a healthcare service platform designed to find doctors online in Qatar. The company's healthcare service platform provides all information about a doctor instantly without calling the clinic and facilitates browsing of doctor's profile with their background information, enabling patients to search and book doctors online through their website.",
+  "location": "United States",
+  "industry": "Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d6e7c5ab-e0c3-4905-9a15-dbf0a868ee3b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/meddy-inc",
+  "api": "/companies/meddy-inc.json"
+}

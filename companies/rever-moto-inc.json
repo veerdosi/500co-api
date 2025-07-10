@@ -1,0 +1,22 @@
+{
+  "id": 3796,
+  "name": "Rever Moto, Inc.",
+  "slug": "rever-moto-inc",
+  "website": "rever.co",
+  "description": "Developer of a mobile application designed to connect a global community of motorcycle enthusiasts. The company's application discovers the best places to ride, enabling motorcycle enthusiasts to record and track their rides and share their favorite roads and routes with other enthusiasts in the community easily.",
+  "one_liner": "Developer of a mobile application designed to connect a global community of motorcycle enthusiasts. The company's application discovers the best places to ride, enabling motorcycle enthusiasts to record and track their rides and share their favorite roads and routes with other enthusiasts in the community easily.",
+  "location": "United States",
+  "industry": "Mobility, Social Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/c16e555c-ea97-4796-bb4f-edb0f6766aef.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Mobility",
+    "Social Impact"
+  ],
+  "url": "https://500.co/portfolio/rever-moto-inc",
+  "api": "/companies/rever-moto-inc.json"
+}

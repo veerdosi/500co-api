@@ -1,0 +1,21 @@
+{
+  "id": 5256,
+  "name": "Prezent Inc.",
+  "slug": "prezent",
+  "website": "www.prezent.ai",
+  "description": "Operator of a presentation productivity platform intended to automate business presentations. The company's platform uses artificial intelligence to boost the presentation productivity of team members and team leaders by combining audience empathy, and business understanding, and designing well-structured, hyper-personalized and branded presentations in a short amount of time, enabling employees to save time and increase productivity.",
+  "one_liner": "Operator of a presentation productivity platform intended to automate business presentations. The company's platform uses artificial intelligence to boost the presentation productivity of team members and team leaders by combining audience empathy, and business understanding, and designing well-structured, hyper-personalized and branded presentations in a short amount of time, enabling employees to save time and increase productivity.",
+  "location": "United States",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/34e1e127-5eea-4453-804e-6fcfff6d7828.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/prezent",
+  "api": "/companies/prezent.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 8111,
+  "name": "RENO HOME HOLDINGS LIMITED",
+  "slug": "reno",
+  "website": "www.renohome.ae",
+  "description": "One-stop-shop for seamless interior design and home renovation in the UAE.",
+  "one_liner": "One-stop-shop for seamless interior design and home renovation in the UAE.",
+  "location": "United Arab Emirates",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/66bd2313-796e-4a1e-b7d5-910e2be7311a.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/reno",
+  "api": "/companies/reno.json"
+}

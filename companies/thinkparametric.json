@@ -1,0 +1,21 @@
+{
+  "id": 4455,
+  "name": "ThinkParametric Inc.",
+  "slug": "thinkparametric",
+  "website": "www.thinkparametric.com",
+  "description": "Developer of online education platform designed for the architectural, engineering, and construction industry. The company helps students and professionals learn the latest technologies and implement them in the execution of their projects to create better buildings, enabling users to learn a new way of thinking and approaching design and how to implement new skills.",
+  "one_liner": "Developer of online education platform designed for the architectural, engineering, and construction industry. The company helps students and professionals learn the latest technologies and implement them in the execution of their projects to create better buildings, enabling users to learn a new way of thinking and approaching design and how to implement new skills.",
+  "location": "Mexico",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/b247c7d0-fca9-4bab-ab2f-673a763dc933.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/thinkparametric",
+  "api": "/companies/thinkparametric.json"
+}

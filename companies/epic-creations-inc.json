@@ -1,0 +1,21 @@
+{
+  "id": 4547,
+  "name": "Epic! Creations, Inc.",
+  "slug": "epic-creations-inc",
+  "website": "www.getepic.com",
+  "description": "Provider of an online book subscription service intended to offer unlimited access to over 20,000 high-quality books. The company's online book subscription service include curated of read-to-me, audio books and educational videos, enabling children aged 12 and under to instantly discover contents of their interest, read them and share with friends.",
+  "one_liner": "Provider of an online book subscription service intended to offer unlimited access to over 20,000 high-quality books. The company's online book subscription service include curated of read-to-me, audio books and educational videos, enabling children aged 12 and under to instantly discover contents of their interest, read them and share with friends.",
+  "location": "United States",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/53ddd3eb-a559-441b-af7c-b0b5c3d56b4d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/epic-creations-inc",
+  "api": "/companies/epic-creations-inc.json"
+}

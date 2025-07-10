@@ -1,0 +1,21 @@
+{
+  "id": 2994,
+  "name": "Distinctive Education Advisor Sdn Bhd",
+  "slug": "eduadvisor",
+  "website": "eduadvisor.my",
+  "description": "Operator of an online education platform intended to help students compare colleges and courses. The company provides comprehensive information and comparison tools, translates education jargon into relevant content, provides recommendations and counseling and helps to compare courses, enabling students to make informed decisions about their college selection and obtain the right college education.",
+  "one_liner": "Operator of an online education platform intended to help students compare colleges and courses. The company provides comprehensive information and comparison tools, translates education jargon into relevant content, provides recommendations and counseling and helps to compare courses, enabling students to make informed decisions about their college selection and obtain the right college education.",
+  "location": "Malaysia",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a5fc1d33-22b8-4129-9a86-55f15b696f7f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/eduadvisor",
+  "api": "/companies/eduadvisor.json"
+}

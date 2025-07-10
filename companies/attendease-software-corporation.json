@@ -1,0 +1,21 @@
+{
+  "id": 2698,
+  "name": "Attendease Software Corporation",
+  "slug": "attendease-software-corporation",
+  "website": "attendease.com",
+  "description": "Provider of various cloud based tools intended to support event organizers in aspects of event creation. The company's various cloud based tools helps in creation of an event platform which is attached with talented developers, designers and managers, each with a multidisciplinary skill, enabling the attendees to receive a memorable event experience.",
+  "one_liner": "Provider of various cloud based tools intended to support event organizers in aspects of event creation. The company's various cloud based tools helps in creation of an event platform which is attached with talented developers, designers and managers, each with a multidisciplinary skill, enabling the attendees to receive a memorable event experience.",
+  "location": "Canada",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/644a1e0b-aac0-4acf-b093-3fca503f460c.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/attendease-software-corporation",
+  "api": "/companies/attendease-software-corporation.json"
+}

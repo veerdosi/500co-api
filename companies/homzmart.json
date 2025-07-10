@@ -1,0 +1,22 @@
+{
+  "id": 3561,
+  "name": "Homzmart LLC",
+  "slug": "homzmart",
+  "website": "homzmart.com",
+  "description": "Operator of an internet retail platform intended to sell home furnishings. The company's platform sells home furniture, décor, lighting, and supplies through a visualized community with a wide range of variety and quality products, enabling homeowners to connect with home professionals to take advice and get home supplies at a low cost.",
+  "one_liner": "Operator of an internet retail platform intended to sell home furnishings. The company's platform sells home furniture, décor, lighting, and supplies through a visualized community with a wide range of variety and quality products, enabling homeowners to connect with home professionals to take advice and get home supplies at a low cost.",
+  "location": "Egypt",
+  "industry": "Ecommerce, Housing",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5c60943f-182c-42a8-a778-46850ac51fc5.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Ecommerce",
+    "Housing"
+  ],
+  "url": "https://500.co/portfolio/homzmart",
+  "api": "/companies/homzmart.json"
+}

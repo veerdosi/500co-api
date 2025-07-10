@@ -1,0 +1,23 @@
+{
+  "id": 5512,
+  "name": "IMAN Group Ltd.",
+  "slug": "iman-invest",
+  "website": "imaninvest.com",
+  "description": "Operator of a financial technology platform intended for investors, merchants, and shoppers. The company's platform offers users a mobile application with investment and cash management services, credit payment services, and an online shopping platform, enabling users to invest and get funding ethically and in line with religious views and faith.",
+  "one_liner": "Operator of a financial technology platform intended for investors, merchants, and shoppers. The company's platform offers users a mobile application with investment and cash management services, credit payment services, and an online shopping platform, enabling users to invest and get funding ethically and in line with religious views and faith.",
+  "location": "Kazakhstan",
+  "industry": "App, Credit & Lending, FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/de0865e4-4bc4-4d37-b467-de48fa67e98f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "App",
+    "Credit & Lending",
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/iman-invest",
+  "api": "/companies/iman-invest.json"
+}

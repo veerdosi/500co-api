@@ -1,0 +1,21 @@
+{
+  "id": 2901,
+  "name": "Little Eye Software Labs Pvt Ltd",
+  "slug": "little-eye-software-labs-pvt-ltd",
+  "website": "littleeye.co",
+  "description": "Developer of analysis software for developers and testers of Android applications. The company provides a performance-analysis platform enabling developers to measure, analyze and optimize Android apps. The platform generates performance reports and does not require setup or coding - users plug their device in and begin profiling.",
+  "one_liner": "Developer of analysis software for developers and testers of Android applications. The company provides a performance-analysis platform enabling developers to measure, analyze and optimize Android apps. The platform generates performance reports and does not require setup or coding - users plug their device in and begin profiling.",
+  "location": "India",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b366530e-7ec6-44e4-948a-62c9e8d15eb8.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/little-eye-software-labs-pvt-ltd",
+  "api": "/companies/little-eye-software-labs-pvt-ltd.json"
+}

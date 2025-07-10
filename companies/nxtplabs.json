@@ -1,0 +1,19 @@
+{
+  "id": 8558,
+  "name": "NXTPLabs",
+  "slug": "nxtplabs",
+  "website": "www.nxtplabs.com",
+  "description": "",
+  "one_liner": "",
+  "location": "ARGENTINA",
+  "industry": "",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://500.co/portfolio/nxtplabs",
+  "api": "/companies/nxtplabs.json"
+}

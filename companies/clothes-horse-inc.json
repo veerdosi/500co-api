@@ -1,0 +1,21 @@
+{
+  "id": 3859,
+  "name": "Clothes Horse, Inc.",
+  "slug": "clothes-horse-inc",
+  "website": "www.clotheshor.se",
+  "description": "Provider of online data-driven platform to help consumers to shop for clothing. The company provides a data-driven recommendations tool that recommends the best fitting clothes based on a shopper's body size and favorite past purchases.",
+  "one_liner": "Provider of online data-driven platform to help consumers to shop for clothing. The company provides a data-driven recommendations tool that recommends the best fitting clothes based on a shopper's body size and favorite past purchases.",
+  "location": "United States",
+  "industry": "Fashion",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion"
+  ],
+  "url": "https://500.co/portfolio/clothes-horse-inc",
+  "api": "/companies/clothes-horse-inc.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2961,
+  "name": "Rumarocket, Inc.",
+  "slug": "rumarocket",
+  "website": "rumarocket.com",
+  "description": "Developer of a talent management platform designed to increase the efficiency of the hiring process. The company's platform uses skill-based assessments and big data analytics to improve retention, enabling businesses to identify and engage employees according to their needs.",
+  "one_liner": "Developer of a talent management platform designed to increase the efficiency of the hiring process. The company's platform uses skill-based assessments and big data analytics to improve retention, enabling businesses to identify and engage employees according to their needs.",
+  "location": "Philippines",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/0484c0bc-d730-448d-95be-20d345848cad.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/rumarocket",
+  "api": "/companies/rumarocket.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4116,
+  "name": "API Fortress Inc.",
+  "slug": "api-fortress-inc",
+  "website": "apifortress.com",
+  "description": "Provider of a visual API testing and monitoring platform. The company provides a platform that tests and monitors API, notifying users of moment flaws, and facilitates corrective action processes when vulnerabilities are found.",
+  "one_liner": "Provider of a visual API testing and monitoring platform. The company provides a platform that tests and monitors API, notifying users of moment flaws, and facilitates corrective action processes when vulnerabilities are found.",
+  "location": "United States",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/43414282-fe3d-417b-86a5-531e82afd21d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/api-fortress-inc",
+  "api": "/companies/api-fortress-inc.json"
+}

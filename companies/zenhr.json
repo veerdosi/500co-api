@@ -1,0 +1,21 @@
+{
+  "id": 5581,
+  "name": "ZenHR Inc",
+  "slug": "zenhr",
+  "website": "www.zenhr.com",
+  "description": "Developer of a human resource management software designed to help human resource departments and employees achieve peace of mind. The company's software offers various features including attendance and time tracking, onboarding or offboarding, employee data management, recruitment, payroll and reporting tools, enabling clients to enjoy a smooth experience from employee onboarding to retirement.",
+  "one_liner": "Developer of a human resource management software designed to help human resource departments and employees achieve peace of mind. The company's software offers various features including attendance and time tracking, onboarding or offboarding, employee data management, recruitment, payroll and reporting tools, enabling clients to enjoy a smooth experience from employee onboarding to retirement.",
+  "location": "Saudi Arabia",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/19051065-62cf-4399-9ac5-cae946927caa.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/zenhr",
+  "api": "/companies/zenhr.json"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 5505,
+  "name": "Myblynk Inc",
+  "slug": "mnzl",
+  "website": "mnzl.co",
+  "description": "Operator of a property tech marketplace platform intended to protect clients' property ownership, and transform it into a digital wallet. The company's platform offers a digital home registration service, home equity investment, financing at low-interest rates and a custom dashboard for the organization, enabling borrowers with online and effortless access to mortgage options.",
+  "one_liner": "Operator of a property tech marketplace platform intended to protect clients' property ownership, and transform it into a digital wallet. The company's platform offers a digital home registration service, home equity investment, financing at low-interest rates and a custom dashboard for the organization, enabling borrowers with online and effortless access to mortgage options.",
+  "location": "Egypt",
+  "industry": "FinTech, Impact, PropTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech",
+    "Impact",
+    "PropTech"
+  ],
+  "url": "https://500.co/portfolio/mnzl",
+  "api": "/companies/mnzl.json"
+}

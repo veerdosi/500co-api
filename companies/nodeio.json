@@ -1,0 +1,21 @@
+{
+  "id": 4937,
+  "name": "Node Inc.",
+  "slug": "nodeio",
+  "website": "www.node.io",
+  "description": "Developer of a networking analytics platform. The company's platform leverages proprietary artificial intelligence technology to automatically deliver relevant and timely information about people and companies to help understand who they should engage with and why enabling organizations to discover the target markets, customers and hire employees to grow their business.",
+  "one_liner": "Developer of a networking analytics platform. The company's platform leverages proprietary artificial intelligence technology to automatically deliver relevant and timely information about people and companies to help understand who they should engage with and why enabling organizations to discover the target markets, customers and hire employees to grow their business.",
+  "location": "United States",
+  "industry": "Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/nodeio",
+  "api": "/companies/nodeio.json"
+}

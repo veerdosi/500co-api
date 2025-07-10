@@ -1,0 +1,21 @@
+{
+  "id": 4940,
+  "name": "Neuron Fuel, Inc.",
+  "slug": "neuron-fuel-inc",
+  "website": "tynker.com",
+  "description": "Provider of a creative computer programming platform designed to teach children the art of coding. The company's creative computer programming platform teaches skills like developing animations, mobile games, creating music, crafting e-books and building fictional robots, enabling children to build application and games, mod Minecraft, control robots, and even learn JavaScript and Python at the age of 7.",
+  "one_liner": "Provider of a creative computer programming platform designed to teach children the art of coding. The company's creative computer programming platform teaches skills like developing animations, mobile games, creating music, crafting e-books and building fictional robots, enabling children to build application and games, mod Minecraft, control robots, and even learn JavaScript and Python at the age of 7.",
+  "location": "United States",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/19a6680d-ba92-428f-85ba-0e9077a4241c.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/neuron-fuel-inc",
+  "api": "/companies/neuron-fuel-inc.json"
+}

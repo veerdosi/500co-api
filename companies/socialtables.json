@@ -1,0 +1,21 @@
+{
+  "id": 4867,
+  "name": "Social Tables, Inc.",
+  "slug": "socialtables",
+  "website": "socialtables.com",
+  "description": "Developer of a cloud-based hospitality software designed to create successful face-to-face events. The company's software offers a collaborative platform that is used by planners and property professionals to connect with each other, enabling clients to come together online to create and manage events from any location on any device.",
+  "one_liner": "Developer of a cloud-based hospitality software designed to create successful face-to-face events. The company's software offers a collaborative platform that is used by planners and property professionals to connect with each other, enabling clients to come together online to create and manage events from any location on any device.",
+  "location": "United States",
+  "industry": "Hospitality",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b3396210-1d8a-405e-a4d1-498b3847b60e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Hospitality"
+  ],
+  "url": "https://500.co/portfolio/socialtables",
+  "api": "/companies/socialtables.json"
+}

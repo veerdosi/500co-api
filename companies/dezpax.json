@@ -1,0 +1,21 @@
+{
+  "id": 5598,
+  "name": "PACKWORKS COMPANY LIMITED",
+  "slug": "dezpax",
+  "website": "dezpax.com",
+  "description": "Operator of a food packing company intended to provide comprehensive food packing alternatives. The company allows simple customization ordering and designing for clients' packaging and printing solutions, as well as logo printing food box straps, stickers, glass sleeves and screen printing, enabling clients to provide food packing that is made with biodegradable materials.",
+  "one_liner": "Operator of a food packing company intended to provide comprehensive food packing alternatives. The company allows simple customization ordering and designing for clients' packaging and printing solutions, as well as logo printing food box straps, stickers, glass sleeves and screen printing, enabling clients to provide food packing that is made with biodegradable materials.",
+  "location": "Thailand",
+  "industry": "Supply Chain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/accc218f-5ef3-4d6b-8b60-1becf51e996a.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Supply Chain"
+  ],
+  "url": "https://500.co/portfolio/dezpax",
+  "api": "/companies/dezpax.json"
+}

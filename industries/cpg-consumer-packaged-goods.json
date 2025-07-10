@@ -1,0 +1,182 @@
+[
+  {
+    "id": 3696,
+    "name": "1Huddle, Inc.",
+    "slug": "1huddle",
+    "website": "1huddle.co",
+    "description": "Developer of a game-based workforce training platform designed to onboard, upskill, and develop employees. The company's platform converts boring training material into competitive games that are proven to improve employee engagement and performance, enabling businesses to carry out sales and service training and education programs for their employees in a fun and interactive way.",
+    "one_liner": "Developer of a game-based workforce training platform designed to onboard, upskill, and develop employees. The company's platform converts boring training material into competitive games that are proven to improve employee engagement and performance, enabling businesses to carry out sales and service training and education programs for their employees in a fun and interactive way.",
+    "location": "United States",
+    "industry": "CPG (Consumer packaged goods), Health Tech, SaaS",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/81e239f3-2fe5-45b5-8ccf-f6cea556eaff.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "CPG (Consumer packaged goods)",
+      "Health Tech",
+      "SaaS"
+    ],
+    "url": "https://500.co/portfolio/1huddle",
+    "api": "/companies/1huddle.json"
+  },
+  {
+    "id": 5407,
+    "name": "Simplemarket Inc.",
+    "slug": "betastore",
+    "website": "www.betastore.co",
+    "description": "Operator of a B2B marketplace intended to connect informal retailers directly with wholesalers and manufacturers. The company's platform helps small retailers source their inventory, and access financing, and essential insurance services, helping retailers to streamline their digital procurement and financing.",
+    "one_liner": "Operator of a B2B marketplace intended to connect informal retailers directly with wholesalers and manufacturers. The company's platform helps small retailers source their inventory, and access financing, and essential insurance services, helping retailers to streamline their digital procurement and financing.",
+    "location": "Nigeria",
+    "industry": "CPG (Consumer packaged goods), Retail, B2B Marketplaces",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "CPG (Consumer packaged goods)",
+      "Retail",
+      "B2B Marketplaces"
+    ],
+    "url": "https://500.co/portfolio/betastore",
+    "api": "/companies/betastore.json"
+  },
+  {
+    "id": 8092,
+    "name": "Enya Technologies Pte. Ltd.",
+    "slug": "enya",
+    "website": "www.enya.my",
+    "description": "",
+    "one_liner": "",
+    "location": "Singapore",
+    "industry": "CPG (Consumer packaged goods)",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f170cdaa-dbc3-46f2-bd51-4b066dc1c702.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "CPG (Consumer packaged goods)"
+    ],
+    "url": "https://500.co/portfolio/enya",
+    "api": "/companies/enya.json"
+  },
+  {
+    "id": 4692,
+    "name": "More Labs, Inc.",
+    "slug": "more-labs",
+    "website": "www.morelabs.com",
+    "description": "Provider of supplementary drinks intended to address different areas of health and wellness, including energy, focus, sleep and recovery. The company's drinks are a liquid dietary supplement that contains Dihydromyricetin (DHM) which has anti-hepatotoxic properties to help detoxify the body, enabling consumers to boost the body's natural response.",
+    "one_liner": "Provider of supplementary drinks intended to address different areas of health and wellness, including energy, focus, sleep and recovery. The company's drinks are a liquid dietary supplement that contains Dihydromyricetin (DHM) which has anti-hepatotoxic properties to help detoxify the body, enabling consumers to boost the body's natural response.",
+    "location": "United States",
+    "industry": "CPG (Consumer packaged goods), Healthcare, Consumer",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/8cbf6d85-cb72-4687-bad0-9372deeb5e8c.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "CPG (Consumer packaged goods)",
+      "Healthcare",
+      "Consumer"
+    ],
+    "url": "https://500.co/portfolio/more-labs",
+    "api": "/companies/more-labs.json"
+  },
+  {
+    "id": 3165,
+    "name": "NeoMarketing S.A. DE C. V.",
+    "slug": "mycoffeebox",
+    "website": "mycoffeebox.com",
+    "description": "Operator of an online subscription service intended to provide monthly subscription organic coffee. The company provides services to get different brands of coffee from the mountains of Chiapas, each month, helping small coffee producers who already have organic certifications and fair trade to sell their coffee to the world.",
+    "one_liner": "Operator of an online subscription service intended to provide monthly subscription organic coffee. The company provides services to get different brands of coffee from the mountains of Chiapas, each month, helping small coffee producers who already have organic certifications and fair trade to sell their coffee to the world.",
+    "location": "Mexico",
+    "industry": "CPG (Consumer packaged goods)",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/55f979b9-a98b-4169-9c25-9a6068cf429b.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "CPG (Consumer packaged goods)"
+    ],
+    "url": "https://500.co/portfolio/mycoffeebox",
+    "api": "/companies/mycoffeebox.json"
+  },
+  {
+    "id": 4476,
+    "name": "Meeting of Minds Inc.",
+    "slug": "raw-apothecary",
+    "website": "rawapothecary.mx",
+    "description": "Manufacturer of natural skincare products intended to rediscover beauty without stereotypes. The company's products are formulated using materials that are developed from extracted plants, seeds, and flowers without preservatives, fragrances, or harmful chemicals, enabling women and men to look good and feel confident with beauty products made out of authentic natural touch.",
+    "one_liner": "Manufacturer of natural skincare products intended to rediscover beauty without stereotypes. The company's products are formulated using materials that are developed from extracted plants, seeds, and flowers without preservatives, fragrances, or harmful chemicals, enabling women and men to look good and feel confident with beauty products made out of authentic natural touch.",
+    "location": "Mexico",
+    "industry": "CPG (Consumer packaged goods)",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5bae7054-46c8-4d75-a337-fd8ac431e975.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "CPG (Consumer packaged goods)"
+    ],
+    "url": "https://500.co/portfolio/raw-apothecary",
+    "api": "/companies/raw-apothecary.json"
+  },
+  {
+    "id": 3376,
+    "name": "SAIB & Co. Inc.",
+    "slug": "saib",
+    "website": "www.saibnco.com",
+    "description": "Manufacturer of intimate cosmetics intended to tackle the entrenched cultural taboos around female sexuality. The company's offerings include sexual wellness products like a condom made from plant latex without unnecessary additives and artificial pigments designed from the perspective of women, enabling women to feel comfortable and proud to carry them without any shame or stigma.",
+    "one_liner": "Manufacturer of intimate cosmetics intended to tackle the entrenched cultural taboos around female sexuality. The company's offerings include sexual wellness products like a condom made from plant latex without unnecessary additives and artificial pigments designed from the perspective of women, enabling women to feel comfortable and proud to carry them without any shame or stigma.",
+    "location": "South Korea",
+    "industry": "Beauty, CPG (Consumer packaged goods), FemTech (women's health), Wellness, Social Impact",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/aa41037f-b3a6-4509-b80e-1059c84de6b8.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Beauty",
+      "CPG (Consumer packaged goods)",
+      "FemTech (women's health)",
+      "Wellness",
+      "Social Impact"
+    ],
+    "url": "https://500.co/portfolio/saib",
+    "api": "/companies/saib.json"
+  },
+  {
+    "id": 3703,
+    "name": "72Lux Inc.",
+    "slug": "shoppable",
+    "website": "shoppable.com",
+    "description": "Developer of a distributed shopping platform intended to reduce the marketing budget. The company's platform revolutionizes affiliate marketing, integrates shopping experiences into paid search, display and social media and turnkey embeddable commerce options are available for websites, allows maximum flexibility on desktop and mobile, and holds multiple patents for universal checkout, enabling advertisers, retailers and publishers to create shoppable sites, content, advertisements, mobile applications and other commerce experiences.",
+    "one_liner": "Developer of a distributed shopping platform intended to reduce the marketing budget. The company's platform revolutionizes affiliate marketing, integrates shopping experiences into paid search, display and social media and turnkey embeddable commerce options are available for websites, allows maximum flexibility on desktop and mobile, and holds multiple patents for universal checkout, enabling advertisers, retailers and publishers to create shoppable sites, content, advertisements, mobile applications and other commerce experiences.",
+    "location": "United States",
+    "industry": "AdTech, CPG (Consumer packaged goods), Ecommerce",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/6abd0b5c-aa7f-40fa-a467-3f8d7ae0670f.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "AdTech",
+      "CPG (Consumer packaged goods)",
+      "Ecommerce"
+    ],
+    "url": "https://500.co/portfolio/shoppable",
+    "api": "/companies/shoppable.json"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "id": 5186,
+  "name": "Draycott Technology Partners Pte Ltd",
+  "slug": "shohoz",
+  "website": "www.shohoz.com",
+  "description": "Operator of an on-demand service platform intended to offer multiple services as a digital marketplace, speedy logistical support, and customer support call center to customers. The company's platform offers ride-sharing services, booking tickets for buses, movies, events, and cricket matches, and food delivery services through its mobile application, enabling customers to solve and simplify their daily needs without any hassle.",
+  "one_liner": "Operator of an on-demand service platform intended to offer multiple services as a digital marketplace, speedy logistical support, and customer support call center to customers. The company's platform offers ride-sharing services, booking tickets for buses, movies, events, and cricket matches, and food delivery services through its mobile application, enabling customers to solve and simplify their daily needs without any hassle.",
+  "location": "United States",
+  "industry": "Travel & Tourism",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f7fdeebb-586e-4725-984f-7edbb7fd0579.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Travel & Tourism"
+  ],
+  "url": "https://500.co/portfolio/shohoz",
+  "api": "/companies/shohoz.json"
+}

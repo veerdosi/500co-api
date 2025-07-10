@@ -1,0 +1,23 @@
+{
+  "id": 3582,
+  "name": "Vivosens INC.",
+  "slug": "vivoo",
+  "website": "vivoo.io",
+  "description": "Developer of a wellness application designed for personalized nutrition and lifestyle advice based on urine sample analysis. The company's application guides users to make healthier choices by tracking parameters such as vitamin C, magnesium, calcium, salinity, oxidative stress, hydration, ketones, and protein straight to their phone in seconds based on weekly at-home urine tests, enabling users to track and know their bodies and health conditions.",
+  "one_liner": "Developer of a wellness application designed for personalized nutrition and lifestyle advice based on urine sample analysis. The company's application guides users to make healthier choices by tracking parameters such as vitamin C, magnesium, calcium, salinity, oxidative stress, hydration, ketones, and protein straight to their phone in seconds based on weekly at-home urine tests, enabling users to track and know their bodies and health conditions.",
+  "location": "United States",
+  "industry": "FemTech (women's health), Health Tech, Wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/6f3cf33f-4ca1-4a18-b862-1a016da9dad1.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FemTech (women's health)",
+    "Health Tech",
+    "Wellness"
+  ],
+  "url": "https://500.co/portfolio/vivoo",
+  "api": "/companies/vivoo.json"
+}

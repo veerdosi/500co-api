@@ -1,0 +1,21 @@
+{
+  "id": 4785,
+  "name": "DoLightful, Inc.",
+  "slug": "kango",
+  "website": "kangoapp.co",
+  "description": "Operator of the ridesharing platform intended to help parents schedule rides and childcare for kids. The company offers to schedule a ride, childcare, or both and provides background-checked, fingerprinted caregivers who are trained to transport kids along with real-time updates and tracking of driver location, enabling parents and schools to book safe rides and childcare for children without hassle.",
+  "one_liner": "Operator of the ridesharing platform intended to help parents schedule rides and childcare for kids. The company offers to schedule a ride, childcare, or both and provides background-checked, fingerprinted caregivers who are trained to transport kids along with real-time updates and tracking of driver location, enabling parents and schools to book safe rides and childcare for children without hassle.",
+  "location": "United States",
+  "industry": "Mobility",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/fe40883c-1916-4b60-8f82-12cdbad3ab8f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Mobility"
+  ],
+  "url": "https://500.co/portfolio/kango",
+  "api": "/companies/kango.json"
+}

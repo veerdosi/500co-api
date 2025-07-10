@@ -1,0 +1,23 @@
+{
+  "id": 4511,
+  "name": "Sira Medical, Inc.",
+  "slug": "sira-medical",
+  "website": "siramedical.com",
+  "description": "Developer of augmented reality software designed to help clinicians with pre-surgical planning, training, and education. The company's software helps clinicians display imaging to patients in a way that is clear and understandable, enabling healthcare professionals to view human anatomy in a completely new way.",
+  "one_liner": "Developer of augmented reality software designed to help clinicians with pre-surgical planning, training, and education. The company's software helps clinicians display imaging to patients in a way that is clear and understandable, enabling healthcare professionals to view human anatomy in a completely new way.",
+  "location": "United States",
+  "industry": "Health Tech, Healthcare, Augmented Reality / Virtual Reality",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/376f9f1d-74f7-466f-8f8f-e5b9e5554dae.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Health Tech",
+    "Healthcare",
+    "Augmented Reality / Virtual Reality"
+  ],
+  "url": "https://500.co/portfolio/sira-medical",
+  "api": "/companies/sira-medical.json"
+}

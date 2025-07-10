@@ -1,0 +1,21 @@
+{
+  "id": 3845,
+  "name": "TrueCare24, Inc.",
+  "slug": "truecare24",
+  "website": "www.truecare24.com",
+  "description": "Developer of an on-demand mobile platform designed for finding and managing reliable and affordable caregivers directly, as well as other services for seniors. The company's platform offers access to on-demand doctors with phone or video, in-home in person, or at-work consultation availability in a short span of time, enabling users to book and avail of home-based care at their convenience.",
+  "one_liner": "Developer of an on-demand mobile platform designed for finding and managing reliable and affordable caregivers directly, as well as other services for seniors. The company's platform offers access to on-demand doctors with phone or video, in-home in person, or at-work consultation availability in a short span of time, enabling users to book and avail of home-based care at their convenience.",
+  "location": "United States",
+  "industry": "Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/42b0053b-1e03-4f2c-9ad0-c59edeb88034.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/truecare24",
+  "api": "/companies/truecare24.json"
+}

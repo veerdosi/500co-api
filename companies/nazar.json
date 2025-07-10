@@ -1,0 +1,22 @@
+{
+  "id": 4356,
+  "name": "Nazar, Inc.",
+  "slug": "nazar",
+  "website": "nazar.ai",
+  "description": "Developer of a cloud-based application designed to help in database performance monitoring. The company's cloud-based application specializes in agentless database performance monitoring to keep applications running fast and reduce infrastructure costs, enabling businesses to perform database analysis and quality monitoring for all tasks.",
+  "one_liner": "Developer of a cloud-based application designed to help in database performance monitoring. The company's cloud-based application specializes in agentless database performance monitoring to keep applications running fast and reduce infrastructure costs, enabling businesses to perform database analysis and quality monitoring for all tasks.",
+  "location": "Brazil",
+  "industry": "Data & Analytics, Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5b561f93-3c4b-40fb-992f-a22f3ab32f3b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics",
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/nazar",
+  "api": "/companies/nazar.json"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 4922,
+  "name": "OfficeLuv, Inc.",
+  "slug": "office-luv",
+  "website": "officeluv.com",
+  "description": "Developer of office management software designed to centralize office ordering through one platform. The company's platform provides supplies, coffee and tea, food and beverage items, tech equipment, and all remote employee needs, enabling companies to save companies time and money through part and full-time office management support.",
+  "one_liner": "Developer of office management software designed to centralize office ordering through one platform. The company's platform provides supplies, coffee and tea, food and beverage items, tech equipment, and all remote employee needs, enabling companies to save companies time and money through part and full-time office management support.",
+  "location": "United States",
+  "industry": "FinTech, Infrastructure",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/aec00e98-8377-4718-95c5-ade3fbeade74.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech",
+    "Infrastructure"
+  ],
+  "url": "https://500.co/portfolio/office-luv",
+  "api": "/companies/office-luv.json"
+}

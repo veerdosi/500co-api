@@ -1,0 +1,21 @@
+{
+  "id": 5749,
+  "name": "Bilimber Pte. Ltd.",
+  "slug": "bilimber",
+  "website": "bilimber.com",
+  "description": "Developer of social learning application designed to offer solutions for the exams. The company's platform allows to practice, prepare, and connect students to top tutors instantly through a one-on-one live video call.",
+  "one_liner": "Developer of social learning application designed to offer solutions for the exams. The company's platform allows to practice, prepare, and connect students to top tutors instantly through a one-on-one live video call.",
+  "location": "Kazakhstan",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/778b07fe-45e0-41e3-88ce-da3095fcee58.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/bilimber",
+  "api": "/companies/bilimber.json"
+}

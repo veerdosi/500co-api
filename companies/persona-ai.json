@@ -1,0 +1,22 @@
+{
+  "id": 5773,
+  "name": "Persona AI Pte. Ltd.",
+  "slug": "persona-ai",
+  "website": "personastudios.ai",
+  "description": "Developer of artificial intelligence assistants and personas designed to solve complex life challenges, enhance everyday routines, and just have fun. The company provides a suite of assistants that help with a variety of tasks, such as booking appointments, ordering groceries, making travel arrangements, and many more, enabling users to simplify their lives and get more done.",
+  "one_liner": "Developer of artificial intelligence assistants and personas designed to solve complex life challenges, enhance everyday routines, and just have fun. The company provides a suite of assistants that help with a variety of tasks, such as booking appointments, ordering groceries, making travel arrangements, and many more, enabling users to simplify their lives and get more done.",
+  "location": "Singapore",
+  "industry": "AI/Machine Learning, Productivity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/eb6f91ad-1075-42a7-a3d4-c85b05487f79.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "Productivity"
+  ],
+  "url": "https://500.co/portfolio/persona-ai",
+  "api": "/companies/persona-ai.json"
+}

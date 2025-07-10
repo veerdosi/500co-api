@@ -1,0 +1,21 @@
+{
+  "id": 5002,
+  "name": "Nibras.com Inc",
+  "slug": "nibras",
+  "website": "www.nibras.com",
+  "description": "Developer of an e-learning portal designed to offer an effective and modern approach to training. The company's portal focuses on assisting corporate to enhance the functional, behavioral, and communication skills and competencies of employees, through a series of short video sessions, enabling businesses to avail themselves of powerful administration and reporting tools.",
+  "one_liner": "Developer of an e-learning portal designed to offer an effective and modern approach to training. The company's portal focuses on assisting corporate to enhance the functional, behavioral, and communication skills and competencies of employees, through a series of short video sessions, enabling businesses to avail themselves of powerful administration and reporting tools.",
+  "location": "United Arab Emirates",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/add241fb-9c1b-486d-9f31-0bbbd022cdf1.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/nibras",
+  "api": "/companies/nibras.json"
+}

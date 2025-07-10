@@ -1,0 +1,22 @@
+{
+  "id": 4741,
+  "name": "CapLinked, Inc.",
+  "slug": "caplinked",
+  "website": "www.caplinked.com",
+  "description": "Developer of enterprise software designed to assist businesses in information sharing and collaboration. The company's software makes it faster, safer, and easier to manage business transactions in the cloud and offers businesses easy-to-use tools for capital raises, asset sales, mergers and acquisitions, real estate deals, and board reporting, enabling businesses to securely share, track and audit all of their files and other communications inside and outside their organization.",
+  "one_liner": "Developer of enterprise software designed to assist businesses in information sharing and collaboration. The company's software makes it faster, safer, and easier to manage business transactions in the cloud and offers businesses easy-to-use tools for capital raises, asset sales, mergers and acquisitions, real estate deals, and board reporting, enabling businesses to securely share, track and audit all of their files and other communications inside and outside their organization.",
+  "location": "United States",
+  "industry": "Developer Tools, FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4c8e0a8c-2a22-41f2-8875-b1f3418421a1.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools",
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/caplinked",
+  "api": "/companies/caplinked.json"
+}

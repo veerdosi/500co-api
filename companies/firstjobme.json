@@ -1,0 +1,21 @@
+{
+  "id": 4433,
+  "name": "FJ Global, Inc.",
+  "slug": "firstjobme",
+  "website": "firstjob.me",
+  "description": "We connect students and recent graduates with the best companies to work for in Latin America",
+  "one_liner": "We connect students and recent graduates with the best companies to work for in Latin America",
+  "location": "Mexico",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f7838fe2-b504-4bdf-9ed8-77f7817452dc.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/firstjobme",
+  "api": "/companies/firstjobme.json"
+}

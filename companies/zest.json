@@ -1,0 +1,22 @@
+{
+  "id": 4995,
+  "name": "Zest Inc.",
+  "slug": "zest",
+  "website": "zest.jp",
+  "description": "Developer of resource scheduling software intended to help manage nursing visits and long-term and medical care visits. The company's platform specializes in automatically generating an optimal visit route to reduce travel and creates an optimized schedule to increase calls in vacant time, enabling caregivers to reduce the work time and travel time required for visits and at the same time lead to an increase in sales by increasing the number of visits.",
+  "one_liner": "Developer of resource scheduling software intended to help manage nursing visits and long-term and medical care visits. The company's platform specializes in automatically generating an optimal visit route to reduce travel and creates an optimized schedule to increase calls in vacant time, enabling caregivers to reduce the work time and travel time required for visits and at the same time lead to an increase in sales by increasing the number of visits.",
+  "location": "Japan",
+  "industry": "Supply Chain, HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/54ebbc66-2ccf-440d-afd3-5ef1aa81ba0f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Supply Chain",
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/zest",
+  "api": "/companies/zest.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3815,
+  "name": "Iris AI AS",
+  "slug": "iris-ai",
+  "website": "iris.ai",
+  "description": "Operator of a product company intended to apply AI services for scientific text to make corporate research and development more efficient and innovative. The company aims to solve the issue of factuality tracking by AI and provides tools in the field of large language models with a need to make them more factual with unique competence, technology, and data sets, enabling research teams to conduct secondary scientific research with the assistance provided by a search engine that deploys natural language processing algorithms.",
+  "one_liner": "Operator of a product company intended to apply AI services for scientific text to make corporate research and development more efficient and innovative. The company aims to solve the issue of factuality tracking by AI and provides tools in the field of large language models with a need to make them more factual with unique competence, technology, and data sets, enabling research teams to conduct secondary scientific research with the assistance provided by a search engine that deploys natural language processing algorithms.",
+  "location": "Norway",
+  "industry": "AI/Machine Learning",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/96936f41-84ca-4af7-9f29-662f35b9807f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning"
+  ],
+  "url": "https://500.co/portfolio/iris-ai",
+  "api": "/companies/iris-ai.json"
+}

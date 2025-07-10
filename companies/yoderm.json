@@ -1,0 +1,21 @@
+{
+  "id": 5337,
+  "name": "YoDerm, Inc.",
+  "slug": "yoderm",
+  "website": "yoderm.com",
+  "description": "Developer of an online platform for connecting patients with dermatologists. The company develops a platform that enables users to get online acne consultation from dermatologists.",
+  "one_liner": "Developer of an online platform for connecting patients with dermatologists. The company develops a platform that enables users to get online acne consultation from dermatologists.",
+  "location": "United States",
+  "industry": "Health Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2140feb7-6ffe-4429-a49a-0cef8dc96433.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Health Tech"
+  ],
+  "url": "https://500.co/portfolio/yoderm",
+  "api": "/companies/yoderm.json"
+}

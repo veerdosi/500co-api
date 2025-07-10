@@ -1,0 +1,21 @@
+{
+  "id": 5155,
+  "name": "Curlec Sdn. Bhd",
+  "slug": "curlec-sdn-bhd",
+  "website": "www.curlec.com",
+  "description": "Developer of a digital financial platform intended to facilitate the collection of recurring payments. The company's platform conducts transactions and gathers cash receipts by intermediating between buyers, sellers, and their banks, enabling businesses to avail secure process of administering bank-to-bank payments.",
+  "one_liner": "Developer of a digital financial platform intended to facilitate the collection of recurring payments. The company's platform conducts transactions and gathers cash receipts by intermediating between buyers, sellers, and their banks, enabling businesses to avail secure process of administering bank-to-bank payments.",
+  "location": "Malaysia",
+  "industry": "Payments",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/41a68ad8-28c7-4e15-a214-df99fced83d4.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Payments"
+  ],
+  "url": "https://500.co/portfolio/curlec-sdn-bhd",
+  "api": "/companies/curlec-sdn-bhd.json"
+}

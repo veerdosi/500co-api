@@ -1,0 +1,23 @@
+{
+  "id": 2796,
+  "name": "Melltoo Holdings Limited",
+  "slug": "melltoo-holdings-limited",
+  "website": "melltoo.com",
+  "description": "TAKADAO offers a platform for halal takaful powered by the blockchain, creating an insurance alternative for the new, global age. For the first time, this allows Muslims from all over the world to access value aligned, transparent insurance at a never-before-possible scale.",
+  "one_liner": "TAKADAO offers a platform for halal takaful powered by the blockchain, creating an insurance alternative for the new, global age. For the first time, this allows Muslims from all over the world to access value aligned, transparent insurance at a never-before-possible scale.",
+  "location": "British Virgin Islands",
+  "industry": "Blockchain, FinTech, InsurTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/670fbc92-0d54-4872-8f31-8c00ab34121c.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Blockchain",
+    "FinTech",
+    "InsurTech"
+  ],
+  "url": "https://500.co/portfolio/melltoo-holdings-limited",
+  "api": "/companies/melltoo-holdings-limited.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4663,
+  "name": "Enter, Inc.",
+  "slug": "enter-health",
+  "website": "www.enter.health",
+  "description": "Operator of a revenue cycle management platform intended to get doctors paid from insurance while delighting their patients. The company's platform offers a fast, accurate and transparent revenue cycle management in healthcare, giving complete, real-time transparency into patients' billing operations, enabling users to get increased payer reimbursements, reducing HIPAA risk and getting industry-standard transparency.",
+  "one_liner": "Operator of a revenue cycle management platform intended to get doctors paid from insurance while delighting their patients. The company's platform offers a fast, accurate and transparent revenue cycle management in healthcare, giving complete, real-time transparency into patients' billing operations, enabling users to get increased payer reimbursements, reducing HIPAA risk and getting industry-standard transparency.",
+  "location": "United States",
+  "industry": "Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/1e7d2e63-1d4b-45b7-8eba-3451832fef82.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/enter-health",
+  "api": "/companies/enter-health.json"
+}

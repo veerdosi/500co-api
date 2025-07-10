@@ -1,0 +1,22 @@
+{
+  "id": 3480,
+  "name": "FitzyTV, Inc.",
+  "slug": "fitzytv",
+  "website": "www.fitzytv.com",
+  "description": "Operator of an open internet TV platform designed to watch and record internet TV channel that supports online streaming in a single user interface on Smart TV device. The company's web crawler scans the internet for the best channels, enabling users to unlock paid content with their subscription services and enjoy a selection of free internet television.",
+  "one_liner": "Operator of an open internet TV platform designed to watch and record internet TV channel that supports online streaming in a single user interface on Smart TV device. The company's web crawler scans the internet for the best channels, enabling users to unlock paid content with their subscription services and enjoy a selection of free internet television.",
+  "location": "United States",
+  "industry": "Entertainment / Media, Social Media",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Entertainment / Media",
+    "Social Media"
+  ],
+  "url": "https://500.co/portfolio/fitzytv",
+  "api": "/companies/fitzytv.json"
+}

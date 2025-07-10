@@ -1,0 +1,21 @@
+{
+  "id": 5588,
+  "name": "Splab Inc.",
+  "slug": "splab",
+  "website": "www.sendtime.io",
+  "description": "Developer of a scheduling automation tool designed to quickly and easily propose and coordinate team-level schedules. The company's tool offers an intuitive interface that allows users to check multiple schedules created by users in real time on one screen, enabling corporate sales and human resources teams to save a lot of time when setting up meetings with clients or interviews with candidates.",
+  "one_liner": "Developer of a scheduling automation tool designed to quickly and easily propose and coordinate team-level schedules. The company's tool offers an intuitive interface that allows users to check multiple schedules created by users in real time on one screen, enabling corporate sales and human resources teams to save a lot of time when setting up meetings with clients or interviews with candidates.",
+  "location": "South Korea",
+  "industry": "Productivity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/ea000bdc-fd0e-419b-9dc5-e40c573a728c.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Productivity"
+  ],
+  "url": "https://500.co/portfolio/splab",
+  "api": "/companies/splab.json"
+}

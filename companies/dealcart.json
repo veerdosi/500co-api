@@ -1,0 +1,24 @@
+{
+  "id": 5506,
+  "name": "Local Tech Holdings Limited",
+  "slug": "dealcart",
+  "website": "https://dealcart.io",
+  "description": "Developer of a group-buying social commerce application designed to reduce the cost of living for its customers and promote community connections. The platform facilitates users in purchasing products collectively, leading to cost savings while encouraging the sharing of deals among the community, focusing on affordable products presented in a fun and interactive manner, enabling the users to enjoy group buying and deal-sharing experiences, while offering free delivery services.",
+  "one_liner": "Developer of a group-buying social commerce application designed to reduce the cost of living for its customers and promote community connections. The platform facilitates users in purchasing products collectively, leading to cost savings while encouraging the sharing of deals among the community, focusing on affordable products presented in a fun and interactive manner, enabling the users to enjoy group buying and deal-sharing experiences, while offering free delivery services.",
+  "location": "Pakistan",
+  "industry": "Ecommerce, FinTech, Marketplace, Retail",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/246cebfd-95e0-4462-8c08-2ac3763721ee.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Ecommerce",
+    "FinTech",
+    "Marketplace",
+    "Retail"
+  ],
+  "url": "https://500.co/portfolio/dealcart",
+  "api": "/companies/dealcart.json"
+}

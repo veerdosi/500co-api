@@ -1,0 +1,21 @@
+{
+  "id": 4846,
+  "name": "BurstIQ, Inc.",
+  "slug": "burstiq",
+  "website": "burstiq.com",
+  "description": "Developer of enterprise-level healthcare blockchain data platform designed to transact through a network of marketplaces for personalized products and services. The company's platform offers a HIPAA-compliant database that seamlessly leverages blockchain, advanced security, big data capabilities, and machine intelligence, enabling healthcare businesses and individuals to access, understand, and control their health data.",
+  "one_liner": "Developer of enterprise-level healthcare blockchain data platform designed to transact through a network of marketplaces for personalized products and services. The company's platform offers a HIPAA-compliant database that seamlessly leverages blockchain, advanced security, big data capabilities, and machine intelligence, enabling healthcare businesses and individuals to access, understand, and control their health data.",
+  "location": "United States",
+  "industry": "Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/eb0f1288-091f-4815-87cd-94045df4729a.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/burstiq",
+  "api": "/companies/burstiq.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5345,
+  "name": "Erply Limited",
+  "slug": "erply-limited",
+  "website": "erply.com",
+  "description": "Provider of cloud-based point of sale and inventory management software designed to help retailers to focus more on business and less on IT. The company's point of sale and inventory management software handles data across physical shops, online stores and offices along with real-time dashboards with relevant data, enabling clients to use a cost effective and technologically superior way for handing centralized management experience.",
+  "one_liner": "Provider of cloud-based point of sale and inventory management software designed to help retailers to focus more on business and less on IT. The company's point of sale and inventory management software handles data across physical shops, online stores and offices along with real-time dashboards with relevant data, enabling clients to use a cost effective and technologically superior way for handing centralized management experience.",
+  "location": "United Kingdom",
+  "industry": "Supply Chain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7225904b-18c3-471f-9499-8749cf82e26d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Supply Chain"
+  ],
+  "url": "https://500.co/portfolio/erply-limited",
+  "api": "/companies/erply-limited.json"
+}

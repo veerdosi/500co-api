@@ -1,0 +1,21 @@
+{
+  "id": 2907,
+  "name": "freeD Group Limited",
+  "slug": "freed-group-tech",
+  "website": "freedgrouptech.com",
+  "description": "Developer of an AI-enabled platform designed to offer comprehensive digital solutions. The company's platform helps companies manage their sales and marketing using Artificial intelligence (AI), Big Data, and Machine Learning technologies, providing customers with comprehensive digital solutions.",
+  "one_liner": "Developer of an AI-enabled platform designed to offer comprehensive digital solutions. The company's platform helps companies manage their sales and marketing using Artificial intelligence (AI), Big Data, and Machine Learning technologies, providing customers with comprehensive digital solutions.",
+  "location": "Hong Kong",
+  "industry": "Travel & Tourism",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Travel & Tourism"
+  ],
+  "url": "https://500.co/portfolio/freed-group-tech",
+  "api": "/companies/freed-group-tech.json"
+}

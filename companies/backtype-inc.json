@@ -1,0 +1,21 @@
+{
+  "id": 4534,
+  "name": "BackType, Inc.",
+  "slug": "backtype-inc",
+  "website": "backtype.com",
+  "description": "Operator of a search engine that enables the users to find, follow, and share comments from blogs and social news sites on the Web. The company also enables to search query results by RSS feeds and emails.",
+  "one_liner": "Operator of a search engine that enables the users to find, follow, and share comments from blogs and social news sites on the Web. The company also enables to search query results by RSS feeds and emails.",
+  "location": "United States",
+  "industry": "Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/backtype-inc",
+  "api": "/companies/backtype-inc.json"
+}

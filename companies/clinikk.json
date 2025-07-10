@@ -1,0 +1,23 @@
+{
+  "id": 5146,
+  "name": "Ohealer Healthcare Services Pvt. Ltd.",
+  "slug": "clinikk",
+  "website": "www.clinikk.com",
+  "description": "Developer of a digital healthcare platform designed to make quality medical care accessible and affordable to neo-middle-class Indians. The company's platform including services like consultation, diagnostics tests, and EMR with doctors available around the clock and affordable health plans, enabling customers to get affordable and accessible services on demand.",
+  "one_liner": "Developer of a digital healthcare platform designed to make quality medical care accessible and affordable to neo-middle-class Indians. The company's platform including services like consultation, diagnostics tests, and EMR with doctors available around the clock and affordable health plans, enabling customers to get affordable and accessible services on demand.",
+  "location": "India",
+  "industry": "Health Tech, Wellness, Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Health Tech",
+    "Wellness",
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/clinikk",
+  "api": "/companies/clinikk.json"
+}

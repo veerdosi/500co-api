@@ -1,0 +1,21 @@
+{
+  "id": 5114,
+  "name": "Stitch Money Corporation",
+  "slug": "stitch",
+  "website": "stitch.money",
+  "description": "Operator of a financial API platform intended to securely link bank accounts with a lightweight single sign-on experience. The company's platform connects directly to the existing infrastructure of banks for seamless integration with compliance, enabling clients to have a seamless user experience, one-click, fraud-free bank payments and easy access to financial data.",
+  "one_liner": "Operator of a financial API platform intended to securely link bank accounts with a lightweight single sign-on experience. The company's platform connects directly to the existing infrastructure of banks for seamless integration with compliance, enabling clients to have a seamless user experience, one-click, fraud-free bank payments and easy access to financial data.",
+  "location": "South Africa",
+  "industry": "Payments",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/17e308c7-6f7e-4180-83d5-26b41cf341ec.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Payments"
+  ],
+  "url": "https://500.co/portfolio/stitch",
+  "api": "/companies/stitch.json"
+}

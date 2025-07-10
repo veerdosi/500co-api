@@ -1,0 +1,19 @@
+{
+  "id": 8378,
+  "name": "WISECRICKET HOLDING KY",
+  "slug": "wisecricket",
+  "website": "https://www.wisecricket.ai",
+  "description": "Smart, real-time financial controller.",
+  "one_liner": "Smart, real-time financial controller.",
+  "location": "Mexico",
+  "industry": "",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/d818c4ee-efae-4aba-8625-6bdd58ec6289.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://500.co/portfolio/wisecricket",
+  "api": "/companies/wisecricket.json"
+}

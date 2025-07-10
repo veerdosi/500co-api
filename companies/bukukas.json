@@ -1,0 +1,21 @@
+{
+  "id": 5194,
+  "name": "Tulp Street Pte. Ltd.",
+  "slug": "bukukas",
+  "website": "bukukas.co.id",
+  "description": "Developer of a financial application designed to assist micro and small businesses in their cash management. The company's application digitizes the physical record-keeping books by assisting enterprises to record their financial statements and profit management automatically, enabling businesses to easily track overall business performance and better monitor and manage cash flows.",
+  "one_liner": "Developer of a financial application designed to assist micro and small businesses in their cash management. The company's application digitizes the physical record-keeping books by assisting enterprises to record their financial statements and profit management automatically, enabling businesses to easily track overall business performance and better monitor and manage cash flows.",
+  "location": "United States",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/bukukas",
+  "api": "/companies/bukukas.json"
+}

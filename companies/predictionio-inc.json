@@ -1,0 +1,21 @@
+{
+  "id": 3840,
+  "name": "PredictionIO, Inc.",
+  "slug": "predictionio-inc",
+  "website": "prediction.io",
+  "description": "Developer of an open-source, machine-learning server. The company offers a machine learning platform for software developers and data engineers to create predictive features, such as personalization, recommendation and content discovery.",
+  "one_liner": "Developer of an open-source, machine-learning server. The company offers a machine learning platform for software developers and data engineers to create predictive features, such as personalization, recommendation and content discovery.",
+  "location": "United States",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/10874c1e-1551-4c65-9213-1503724bcaf2.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/predictionio-inc",
+  "api": "/companies/predictionio-inc.json"
+}

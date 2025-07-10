@@ -1,0 +1,23 @@
+{
+  "id": 5756,
+  "name": "Conteller Inc.",
+  "slug": "conteller",
+  "website": "www.conteller.com",
+  "description": "Developer of a digital strategy and content platform designed to help capture content from their own customers. The company's platform offers creative support sessions and a variable payment scheme to creators based on results, visibility, traceability and compliance monitoring in matters of intellectual property and protection of personal data, enabling brands to publish briefs, capture, store and pay for authentic content directly from their clients and non-celebrity creators.",
+  "one_liner": "Developer of a digital strategy and content platform designed to help capture content from their own customers. The company's platform offers creative support sessions and a variable payment scheme to creators based on results, visibility, traceability and compliance monitoring in matters of intellectual property and protection of personal data, enabling brands to publish briefs, capture, store and pay for authentic content directly from their clients and non-celebrity creators.",
+  "location": "Mexico",
+  "industry": "AI/Machine Learning, Marketplace, Creator Economy",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/58d5ddb9-ac41-468f-adcf-efec5855f84e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "Marketplace",
+    "Creator Economy"
+  ],
+  "url": "https://500.co/portfolio/conteller",
+  "api": "/companies/conteller.json"
+}

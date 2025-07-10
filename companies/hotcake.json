@@ -1,0 +1,23 @@
+{
+  "id": 5470,
+  "name": "Hunger Co., Ltd.",
+  "slug": "hotcake",
+  "website": "hotcakeapp.com",
+  "description": "Developer of merchant SaaS systems used in nail, eyelash, hairdressing and beauty industries. The company's products can be built with a dedicated reservation, membership and POS system, and integrates with user social media accounts, enabling users build fast access to live operations.",
+  "one_liner": "Developer of merchant SaaS systems used in nail, eyelash, hairdressing and beauty industries. The company's products can be built with a dedicated reservation, membership and POS system, and integrates with user social media accounts, enabling users build fast access to live operations.",
+  "location": "Taiwan",
+  "industry": "Direct to Consumer, Ecommerce, SaaS",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/84b8a40a-6c5e-40a2-a902-a0083bb70897.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Direct to Consumer",
+    "Ecommerce",
+    "SaaS"
+  ],
+  "url": "https://500.co/portfolio/hotcake",
+  "api": "/companies/hotcake.json"
+}

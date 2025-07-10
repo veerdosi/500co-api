@@ -1,0 +1,21 @@
+{
+  "id": 3510,
+  "name": "Northstar Intelligence, Inc.",
+  "slug": "trace",
+  "website": "www.tracehq.com",
+  "description": "Developer of a financial management platform designed to improve the financial health of businesses. The company's platform provides collaborative workflows and analytics for companies to better manage financial services like budgeting, spending, and hiring, enabling finance teams to get real-time spend visibility, close their books in less time and empower their employees while reducing risk.",
+  "one_liner": "Developer of a financial management platform designed to improve the financial health of businesses. The company's platform provides collaborative workflows and analytics for companies to better manage financial services like budgeting, spending, and hiring, enabling finance teams to get real-time spend visibility, close their books in less time and empower their employees while reducing risk.",
+  "location": "United States",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f64b5f26-4555-4410-a6bf-12e5537ee5bb.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/trace",
+  "api": "/companies/trace.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3865,
+  "name": "Tallyfy, Inc.",
+  "slug": "tallyfy",
+  "website": "tallyfy.com",
+  "description": "Developer of a cloud-based workflow automation software designed to track and improve recurring workflows in real-time. The company's software specializes in client onboarding, customer success, business process management, workflow, process improvement, and compliance, enabling businesses to prevent human errors and streamline their processes.",
+  "one_liner": "Developer of a cloud-based workflow automation software designed to track and improve recurring workflows in real-time. The company's software specializes in client onboarding, customer success, business process management, workflow, process improvement, and compliance, enabling businesses to prevent human errors and streamline their processes.",
+  "location": "United States",
+  "industry": "Productivity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/bbb070f4-4a45-4ca5-9e29-5ae69a2c8987.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Productivity"
+  ],
+  "url": "https://500.co/portfolio/tallyfy",
+  "api": "/companies/tallyfy.json"
+}

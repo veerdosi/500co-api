@@ -1,0 +1,21 @@
+{
+  "id": 5652,
+  "name": "Blassa Inc.",
+  "slug": "blassa",
+  "website": "www.blassa.io",
+  "description": "Blassa optimizes the collection of user delivery information to help eCommerce players eliminate delivery failures and increase conversion rates.",
+  "one_liner": "Blassa optimizes the collection of user delivery information to help eCommerce players eliminate delivery failures and increase conversion rates.",
+  "location": "United States",
+  "industry": "Supply Chain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/340671cd-bf17-4b58-971e-fde8bbdbdab2.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Supply Chain"
+  ],
+  "url": "https://500.co/portfolio/blassa",
+  "api": "/companies/blassa.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5561,
+  "name": "Jmem Technology Co, Ltd.",
+  "slug": "jmem",
+  "website": "jmemtek.com",
+  "description": "Developer of One time programmable Memory (OTP) technology, designed to provide high-security usage such as data storage and function activation. The company's new multi-state memory is designed to address the shortcomings of existing disposable memory, such as inadequate security and large size, which takes advantage of polysilicon and High-K and different component structures that can be easily stacked and at low cost, providing users with security solutions in the IoT industry, automotive and electronic products.",
+  "one_liner": "Developer of One time programmable Memory (OTP) technology, designed to provide high-security usage such as data storage and function activation. The company's new multi-state memory is designed to address the shortcomings of existing disposable memory, such as inadequate security and large size, which takes advantage of polysilicon and High-K and different component structures that can be easily stacked and at low cost, providing users with security solutions in the IoT industry, automotive and electronic products.",
+  "location": "Taiwan",
+  "industry": "Cybersecurity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b5eccc0c-81ad-40fc-91d0-75ce3209f641.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Cybersecurity"
+  ],
+  "url": "https://500.co/portfolio/jmem",
+  "api": "/companies/jmem.json"
+}

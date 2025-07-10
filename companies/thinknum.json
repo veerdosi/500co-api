@@ -1,0 +1,21 @@
+{
+  "id": 5402,
+  "name": "Thinknum, Inc.",
+  "slug": "thinknum",
+  "website": "www.thinknum.com",
+  "description": "Developer of a financial analysis platform designed to help junior bankers to read and analyze corporate financial data. The company's platform aggregates data from the web that provides insights into business drivers and offers pre-configured maps, charts, word clouds, and visualizations to understand the data, enabling investors with critical data points.",
+  "one_liner": "Developer of a financial analysis platform designed to help junior bankers to read and analyze corporate financial data. The company's platform aggregates data from the web that provides insights into business drivers and offers pre-configured maps, charts, word clouds, and visualizations to understand the data, enabling investors with critical data points.",
+  "location": "United States",
+  "industry": "Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f4b6527a-8045-46a2-8f0c-60b619eae1d3.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/thinknum",
+  "api": "/companies/thinknum.json"
+}

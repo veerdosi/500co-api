@@ -1,0 +1,22 @@
+{
+  "id": 5631,
+  "name": "Cabify, Inc.",
+  "slug": "cabify",
+  "website": "https://cabify.com",
+  "description": "Provider of on-demand transportation services intended to promote mobility in cities. The company's services offer clean, modern cars with added features including a choice of music, magazines, and water, among others, driven by hand-picked and specially trained drivers, enabling commuters with affordable, safe, and reliable rides wherever required.",
+  "one_liner": "Provider of on-demand transportation services intended to promote mobility in cities. The company's services offer clean, modern cars with added features including a choice of music, magazines, and water, among others, driven by hand-picked and specially trained drivers, enabling commuters with affordable, safe, and reliable rides wherever required.",
+  "location": "Mexico",
+  "industry": "Travel & Tourism, Mobility",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/a85ad69e-97ee-48ab-bd44-476629f3b7ce.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Travel & Tourism",
+    "Mobility"
+  ],
+  "url": "https://500.co/portfolio/cabify",
+  "api": "/companies/cabify.json"
+}

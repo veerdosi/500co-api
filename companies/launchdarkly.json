@@ -1,0 +1,21 @@
+{
+  "id": 3625,
+  "name": "Catamorphic, Co.",
+  "slug": "launchdarkly",
+  "website": "launchdarkly.com",
+  "description": "Developer of a feature management platform intended to bridge the divide between developers and the business. The company's platform allows the team to schedule code changes in advance, assign an approver for those changes, and automatically disable the changes if they cause issues in production, enabling clients to separate logic from code and use flag management programs to control the quality and manage the life-cycle from launch to sun-setting at scale.",
+  "one_liner": "Developer of a feature management platform intended to bridge the divide between developers and the business. The company's platform allows the team to schedule code changes in advance, assign an approver for those changes, and automatically disable the changes if they cause issues in production, enabling clients to separate logic from code and use flag management programs to control the quality and manage the life-cycle from launch to sun-setting at scale.",
+  "location": "United States",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f6a62f65-d160-4c83-a886-ef12817c6da5.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/launchdarkly",
+  "api": "/companies/launchdarkly.json"
+}

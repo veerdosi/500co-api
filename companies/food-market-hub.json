@@ -1,0 +1,22 @@
+{
+  "id": 5166,
+  "name": "FMH Holding Pte. Ltd.",
+  "slug": "food-market-hub",
+  "website": "www.foodmarkethub.com",
+  "description": "Operator of a procurement and inventory management platform intended to help restaurants to control purchasing. The company's platform offers features like central kitchen management, integration with accounting and POS, notification via various mediums, and inventory management, enabling clients to easily integrate the entire value chain from the farm to the restaurant.",
+  "one_liner": "Operator of a procurement and inventory management platform intended to help restaurants to control purchasing. The company's platform offers features like central kitchen management, integration with accounting and POS, notification via various mediums, and inventory management, enabling clients to easily integrate the entire value chain from the farm to the restaurant.",
+  "location": "Malaysia",
+  "industry": "Supply Chain, Infrastructure",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/c7d9af12-4607-4f3e-a164-20e180ec8cb2.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Supply Chain",
+    "Infrastructure"
+  ],
+  "url": "https://500.co/portfolio/food-market-hub",
+  "api": "/companies/food-market-hub.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4955,
+  "name": "Aircall.io, Inc.",
+  "slug": "aircall",
+  "website": "aircall.io",
+  "description": "Developer of a cloud-based call center and phone system designed to facilitate remote communication between the customers. The company's voice platform integrates seamlessly with popular productivity tools as well as monitors individual and team metrics in real-time to start making measurable improvements, enabling businesses to be better on customer support along with sales engagement.",
+  "one_liner": "Developer of a cloud-based call center and phone system designed to facilitate remote communication between the customers. The company's voice platform integrates seamlessly with popular productivity tools as well as monitors individual and team metrics in real-time to start making measurable improvements, enabling businesses to be better on customer support along with sales engagement.",
+  "location": "United States",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/3331c43d-3a53-4f8c-aec1-bc6803d63aa3.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/aircall",
+  "api": "/companies/aircall.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3322,
+  "name": "MENA Wellness Corp",
+  "slug": "dawsat",
+  "website": "dawsat.com",
+  "description": "Operator of a leading Arabic-first digital platform intended to improve wellness, health, and productivity. The company's platform provides a wellness program based on an easy-to-follow points system and offers a healthy diet plan without depriving them of traditional Arab dishes, enabling users to find a path to wellness and healthy living without giving up the foods they love and making changes in their lifestyle.",
+  "one_liner": "Operator of a leading Arabic-first digital platform intended to improve wellness, health, and productivity. The company's platform provides a wellness program based on an easy-to-follow points system and offers a healthy diet plan without depriving them of traditional Arab dishes, enabling users to find a path to wellness and healthy living without giving up the foods they love and making changes in their lifestyle.",
+  "location": "Palestine",
+  "industry": "Consumer",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/30e7e36d-37c7-4322-a108-61a7f7030828.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Consumer"
+  ],
+  "url": "https://500.co/portfolio/dawsat",
+  "api": "/companies/dawsat.json"
+}

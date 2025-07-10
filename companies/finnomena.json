@@ -1,0 +1,22 @@
+{
+  "id": 3321,
+  "name": "Finnomena Co., Ltd.",
+  "slug": "finnomena",
+  "website": "www.finnomena.com",
+  "description": "Developer of an investment and portfolio management application designed to help users invest and manage financial goals. The company's application recommends an automated portfolio of stocks based on the risk that investors choose, along with tracking down their investment situations and adjusting their investment plans to their needs, enabling financial investors to research, analyze data and receive real-time analysis of market and funds.",
+  "one_liner": "Developer of an investment and portfolio management application designed to help users invest and manage financial goals. The company's application recommends an automated portfolio of stocks based on the risk that investors choose, along with tracking down their investment situations and adjusting their investment plans to their needs, enabling financial investors to research, analyze data and receive real-time analysis of market and funds.",
+  "location": "Thailand",
+  "industry": "FinTech, Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7038b4d4-41cc-40ce-9680-95ba6492c168.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech",
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/finnomena",
+  "api": "/companies/finnomena.json"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 3980,
+  "name": "Vessel Group, Inc.",
+  "slug": "vessel-group-inc",
+  "website": "vessel.io",
+  "description": "Provider of an online real time monitoring tool for applications. The company provides a developer platform that allows developers to beta distribute mobile applications, collect real time crash reports and enable in application desk for their mobile applications.",
+  "one_liner": "Provider of an online real time monitoring tool for applications. The company provides a developer platform that allows developers to beta distribute mobile applications, collect real time crash reports and enable in application desk for their mobile applications.",
+  "location": "United States",
+  "industry": "Data & Analytics, Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics",
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/vessel-group-inc",
+  "api": "/companies/vessel-group-inc.json"
+}

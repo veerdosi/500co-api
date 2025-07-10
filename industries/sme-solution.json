@@ -1,0 +1,241 @@
+[
+  {
+    "id": 5136,
+    "name": "Avify LLC",
+    "slug": "avify",
+    "website": "avify.com",
+    "description": "Developer of an inventory management platform designed to manage inventories and orders from all the sales channels. The company's platform helps to manage all the products in one place and replicates inventory across all sales channels, connects the delivery services, collects orders through social networks, and allows to connect card payment processors or receive payments by bank transfer by attaching receipts, enabling clients to automate the business supply chain.",
+    "one_liner": "Developer of an inventory management platform designed to manage inventories and orders from all the sales channels. The company's platform helps to manage all the products in one place and replicates inventory across all sales channels, connects the delivery services, collects orders through social networks, and allows to connect card payment processors or receive payments by bank transfer by attaching receipts, enabling clients to automate the business supply chain.",
+    "location": "Costa Rica",
+    "industry": "SME Solution",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/d6262638-1148-4ca6-bd9b-13c46834df5e.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "SME Solution"
+    ],
+    "url": "https://500.co/portfolio/avify",
+    "api": "/companies/avify.json"
+  },
+  {
+    "id": 3005,
+    "name": "Backstartup S.A.P.I. de C.V.",
+    "slug": "backstartup",
+    "website": "www.backstartup.com",
+    "description": "Developer of accounting and legal automation platform designed to aid in the management of business activities. The company's platform offers the processing of documents and generating financial statements while liquidating national and municipal taxes in time and also provides legal advice and monthly payroll calculation of employees, enabling businesses to focus on the core activities of the company while maintaining productivity.",
+    "one_liner": "Developer of accounting and legal automation platform designed to aid in the management of business activities. The company's platform offers the processing of documents and generating financial statements while liquidating national and municipal taxes in time and also provides legal advice and monthly payroll calculation of employees, enabling businesses to focus on the core activities of the company while maintaining productivity.",
+    "location": "Colombia",
+    "industry": "SME Solution",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d535ced1-7368-4fd3-9548-ba6a8cd99027.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "SME Solution"
+    ],
+    "url": "https://500.co/portfolio/backstartup",
+    "api": "/companies/backstartup.json"
+  },
+  {
+    "id": 5122,
+    "name": "Bonum Coaching LLC",
+    "slug": "bonum-coaching",
+    "website": "www.bonumcoaching.com",
+    "description": "Developer of a coaching platform designed for the development of leaders and companies. The company offers an executive coach, leadership evaluations that allow measuring progress towards the objectives set and coaching services that grow with the organization and adapt to all employees, enabling companies to improve results by developing employees and aligning with the values of the organization.",
+    "one_liner": "Developer of a coaching platform designed for the development of leaders and companies. The company offers an executive coach, leadership evaluations that allow measuring progress towards the objectives set and coaching services that grow with the organization and adapt to all employees, enabling companies to improve results by developing employees and aligning with the values of the organization.",
+    "location": "Mexico",
+    "industry": "SME Solution",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/a25f990e-da67-448c-ae2e-047cd37a33b8.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "SME Solution"
+    ],
+    "url": "https://500.co/portfolio/bonum-coaching",
+    "api": "/companies/bonum-coaching.json"
+  },
+  {
+    "id": 5144,
+    "name": "Ejen2u International Sdn Bhd",
+    "slug": "ejen2u",
+    "website": "ejen2u.com",
+    "description": "Developer of a reseller ecosystem platform intended to help business owners manage resellers like stockists, agents, and dropships. The company's platform is integrated, digitalized, and data-driven and offers systematic product ordering, detailed reporting, commissions, reward systems, databases, and performance monitoring among others, enabling businesses to improve productivity and profitability.",
+    "one_liner": "Developer of a reseller ecosystem platform intended to help business owners manage resellers like stockists, agents, and dropships. The company's platform is integrated, digitalized, and data-driven and offers systematic product ordering, detailed reporting, commissions, reward systems, databases, and performance monitoring among others, enabling businesses to improve productivity and profitability.",
+    "location": "Malaysia",
+    "industry": "Enterprise, SME Solution, Creator Economy",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/6f5db2bf-72e7-4ded-b122-c169469fba6a.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Enterprise",
+      "SME Solution",
+      "Creator Economy"
+    ],
+    "url": "https://500.co/portfolio/ejen2u",
+    "api": "/companies/ejen2u.json"
+  },
+  {
+    "id": 4458,
+    "name": "Gestarcoop, Inc.",
+    "slug": "gestarcoop",
+    "website": "gestarcoop.com",
+    "description": "Developer of billing management system intended for cooperatives. The company's software is a comprehensive management solution that allows it to speed up the daily work and automates accounting processes, enabling clients to manage finances, administration, and client information through a single platform.",
+    "one_liner": "Developer of billing management system intended for cooperatives. The company's software is a comprehensive management solution that allows it to speed up the daily work and automates accounting processes, enabling clients to manage finances, administration, and client information through a single platform.",
+    "location": "Peru",
+    "industry": "SME Solution",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/88250029-61fe-45dd-997f-bbbd463a9bf4.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "SME Solution"
+    ],
+    "url": "https://500.co/portfolio/gestarcoop",
+    "api": "/companies/gestarcoop.json"
+  },
+  {
+    "id": 4414,
+    "name": "Get On Board Holding Corp.",
+    "slug": "get-on-board",
+    "website": "getonbrd.com",
+    "description": "Operator of an online job portal intended to connect the startups and tech companies of the world with fresh talents around the globe. The company's platform filters and curates jobs in the fields of sales, designing, human resources, cybersecurity, and many more in several locations, enabling job seekers to find jobs as per their requirements efficiently.",
+    "one_liner": "Operator of an online job portal intended to connect the startups and tech companies of the world with fresh talents around the globe. The company's platform filters and curates jobs in the fields of sales, designing, human resources, cybersecurity, and many more in several locations, enabling job seekers to find jobs as per their requirements efficiently.",
+    "location": "Chile",
+    "industry": "SME Solution",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/333f9359-b452-4ffd-bcc4-a95827faa0af.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "SME Solution"
+    ],
+    "url": "https://500.co/portfolio/get-on-board",
+    "api": "/companies/get-on-board.json"
+  },
+  {
+    "id": 5632,
+    "name": "PT Kampung Marketerindo Berdaya",
+    "slug": "komerce",
+    "website": "komerce.id",
+    "description": "Operator of an end-to-end e-commerce platform designed for effective and integrated online business development. The company platform provides e-commerce talents and helps improve sales performance by providing trained talent support, order delivery platforms, and warehouse management, enabling small and medium enterprises to recruit for their internet commerce operations.",
+    "one_liner": "Operator of an end-to-end e-commerce platform designed for effective and integrated online business development. The company platform provides e-commerce talents and helps improve sales performance by providing trained talent support, order delivery platforms, and warehouse management, enabling small and medium enterprises to recruit for their internet commerce operations.",
+    "location": "Indonesia",
+    "industry": "SME Solution",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/a54eef39-c264-4bdc-a58d-296506906a78.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "SME Solution"
+    ],
+    "url": "https://500.co/portfolio/komerce",
+    "api": "/companies/komerce.json"
+  },
+  {
+    "id": 4374,
+    "name": "Meitre Inc",
+    "slug": "meitre",
+    "website": "meitre.com",
+    "description": "Developer of a guest reservation management platform designed to offer restaurant table booking services to clients. The company's platform leverages technology to book tables based on demand trends rotate tables efficiently, introduce dynamic pricing techniques, and host events, enabling clients to eliminate no-shows, lower cancellation rates, and allocate demand efficiently.",
+    "one_liner": "Developer of a guest reservation management platform designed to offer restaurant table booking services to clients. The company's platform leverages technology to book tables based on demand trends rotate tables efficiently, introduce dynamic pricing techniques, and host events, enabling clients to eliminate no-shows, lower cancellation rates, and allocate demand efficiently.",
+    "location": "Uruguay",
+    "industry": "SME Solution",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/438f0452-0f28-41b8-a08e-7e298fd414f3.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "SME Solution"
+    ],
+    "url": "https://500.co/portfolio/meitre",
+    "api": "/companies/meitre.json"
+  },
+  {
+    "id": 3481,
+    "name": "Ovation Up Inc.",
+    "slug": "ovation",
+    "website": "ovationup.com",
+    "description": "Developer of an actionable guest feedback platform designed to drive revenue for multi-unit restaurants. The company's platform tracks and figures out the enterprise's loyal customers and assists them in leaving positive online reviews, as well as provides customer feedback and increases social media following, enabling businesses to monitor and measure their web presence and engage increased customers by improving their online marketing strategies.",
+    "one_liner": "Developer of an actionable guest feedback platform designed to drive revenue for multi-unit restaurants. The company's platform tracks and figures out the enterprise's loyal customers and assists them in leaving positive online reviews, as well as provides customer feedback and increases social media following, enabling businesses to monitor and measure their web presence and engage increased customers by improving their online marketing strategies.",
+    "location": "United States",
+    "industry": "SME Solution, CRM, Hospitality",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/0f8cecac-875f-4d82-8194-9fa76ec2ad97.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "SME Solution",
+      "CRM",
+      "Hospitality"
+    ],
+    "url": "https://500.co/portfolio/ovation",
+    "api": "/companies/ovation.json"
+  },
+  {
+    "id": 5185,
+    "name": "Pay With Split Pte. Ltd.",
+    "slug": "replyr",
+    "website": "replyr.ai",
+    "description": "Developer of a buy now pay later platform designed to change the way people finance their purchases. The company's platform integrates with websites or applications to give people the ability to split their costs and manage them through installment payments, enabling businesses to offer their customers the choice of paying in interest-free installments.",
+    "one_liner": "Developer of a buy now pay later platform designed to change the way people finance their purchases. The company's platform integrates with websites or applications to give people the ability to split their costs and manage them through installment payments, enabling businesses to offer their customers the choice of paying in interest-free installments.",
+    "location": "Singapore",
+    "industry": "AI/Machine Learning, Ecommerce, SME Solution",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/bd698887-abf2-47ad-af4d-49f0cb3a3db6.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "AI/Machine Learning",
+      "Ecommerce",
+      "SME Solution"
+    ],
+    "url": "https://500.co/portfolio/replyr",
+    "api": "/companies/replyr.json"
+  },
+  {
+    "id": 5854,
+    "name": "Suplait LLC",
+    "slug": "rukaai",
+    "website": "www.ruka.ai",
+    "description": "AI agents automating SMBs",
+    "one_liner": "AI agents automating SMBs",
+    "location": "Chile",
+    "industry": "AI/Machine Learning, Data & Analytics, SME Solution",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/8e4a5ac0-419e-4721-86bf-c8a265a3e4c0.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "AI/Machine Learning",
+      "Data & Analytics",
+      "SME Solution"
+    ],
+    "url": "https://500.co/portfolio/rukaai",
+    "api": "/companies/rukaai.json"
+  }
+]

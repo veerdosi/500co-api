@@ -1,0 +1,21 @@
+{
+  "id": 4210,
+  "name": "OLSET, Inc.",
+  "slug": "olset-inc",
+  "website": "olset.com",
+  "description": "Provider of Information as a Service (IaaS) based hotel reservation software designed to offer new and innovative hotel booking technologies. The company's hotel reservation software uses technology to expedite the booking process and increase conversions for travel industry partners by analyzing millions of reviews and tailoring results based on a consumer's interests, enabling clients to avail increased profits.",
+  "one_liner": "Provider of Information as a Service (IaaS) based hotel reservation software designed to offer new and innovative hotel booking technologies. The company's hotel reservation software uses technology to expedite the booking process and increase conversions for travel industry partners by analyzing millions of reviews and tailoring results based on a consumer's interests, enabling clients to avail increased profits.",
+  "location": "United States",
+  "industry": "Travel & Tourism",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/363ca448-50c0-4e62-b7f9-f5c836c974fe.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Travel & Tourism"
+  ],
+  "url": "https://500.co/portfolio/olset-inc",
+  "api": "/companies/olset-inc.json"
+}

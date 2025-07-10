@@ -1,0 +1,21 @@
+{
+  "id": 4417,
+  "name": "Group Caresner S. de RL de CV",
+  "slug": "mexicodestinos",
+  "website": "www.mexicodestinos.com",
+  "description": "Operator of an online travel agency intended to offer temporary retreat options. The company provides online booking and information regarding excursions and vacation destinations across the country as well as customizes tour packages as per budget and preferences, enabling travelers to explore and enjoy their leisure time visiting new places.",
+  "one_liner": "Operator of an online travel agency intended to offer temporary retreat options. The company provides online booking and information regarding excursions and vacation destinations across the country as well as customizes tour packages as per budget and preferences, enabling travelers to explore and enjoy their leisure time visiting new places.",
+  "location": "Mexico",
+  "industry": "Travel & Tourism",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/01ba1bf5-5a66-437b-a026-4ac1827cbe98.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Travel & Tourism"
+  ],
+  "url": "https://500.co/portfolio/mexicodestinos",
+  "api": "/companies/mexicodestinos.json"
+}

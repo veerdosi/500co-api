@@ -1,0 +1,21 @@
+{
+  "id": 5595,
+  "name": "AMUSED Co",
+  "slug": "amused-co",
+  "website": "www.amusedco.com",
+  "description": "Developer of an online shopping platform intended to connect buyers and sellers looking for authenticated preowned luxury fashion. The company's platform is for preloved luxury fashion with a conscience where they provide an inventory of unique pieces; including handbags, shoes, accessories, and jewelry, with rare, discontinued, or limited edition pieces, enabling shoppers to access limited exclusive luxury items at a competitive cost.",
+  "one_liner": "Developer of an online shopping platform intended to connect buyers and sellers looking for authenticated preowned luxury fashion. The company's platform is for preloved luxury fashion with a conscience where they provide an inventory of unique pieces; including handbags, shoes, accessories, and jewelry, with rare, discontinued, or limited edition pieces, enabling shoppers to access limited exclusive luxury items at a competitive cost.",
+  "location": "Saudi Arabia",
+  "industry": "Fashion",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/fea13834-3865-42f7-9bc6-9819c2936df6.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion"
+  ],
+  "url": "https://500.co/portfolio/amused-co",
+  "api": "/companies/amused-co.json"
+}

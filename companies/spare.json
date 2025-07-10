@@ -1,0 +1,21 @@
+{
+  "id": 5841,
+  "name": "Spare Technologies Holding Limited",
+  "slug": "spare",
+  "website": "www.tryspare.com",
+  "description": "Developer of account information and payment initiation tools designed to develop financial products. The company's tools accesses transactions and personal data like account names and balances for each account from financial institutions, through the company's open banking technology, enabling developers to build their own checkout experiences.",
+  "one_liner": "Developer of account information and payment initiation tools designed to develop financial products. The company's tools accesses transactions and personal data like account names and balances for each account from financial institutions, through the company's open banking technology, enabling developers to build their own checkout experiences.",
+  "location": "Saudi Arabia",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/spare",
+  "api": "/companies/spare.json"
+}

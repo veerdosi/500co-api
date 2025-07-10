@@ -1,0 +1,21 @@
+{
+  "id": 4012,
+  "name": "Boxbee, Inc.",
+  "slug": "boxbee-inc",
+  "website": "boxbee.com",
+  "description": "Developer of an on-demand storage box delivery software designed to oversee logistically complex operations. The company's on-demand storage box delivery software helps customers to manage and retrieve their boxes online, enabling full service storage companies up and running.",
+  "one_liner": "Developer of an on-demand storage box delivery software designed to oversee logistically complex operations. The company's on-demand storage box delivery software helps customers to manage and retrieve their boxes online, enabling full service storage companies up and running.",
+  "location": "United States",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/223ec66f-8e2f-48bb-8adb-98b5dc7e1b8c.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/boxbee-inc",
+  "api": "/companies/boxbee-inc.json"
+}

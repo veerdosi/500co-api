@@ -1,0 +1,23 @@
+{
+  "id": 3332,
+  "name": "Retailo Group Holding Limited",
+  "slug": "retailo",
+  "website": "retailo.co",
+  "description": "Developer of an online marketplace platform designed to address issues within the informal retail market. The company's platform provides access to a list of suppliers and products to order along with delivery services, enabling retailers, manufacturers, distributors, and wholesalers to save money and improve their working capital requirements and inventory management.",
+  "one_liner": "Developer of an online marketplace platform designed to address issues within the informal retail market. The company's platform provides access to a list of suppliers and products to order along with delivery services, enabling retailers, manufacturers, distributors, and wholesalers to save money and improve their working capital requirements and inventory management.",
+  "location": "Saudi Arabia",
+  "industry": "Ecommerce, Food, Retail",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/599eadfd-71d9-4513-b7b4-f24244620c8e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Ecommerce",
+    "Food",
+    "Retail"
+  ],
+  "url": "https://500.co/portfolio/retailo",
+  "api": "/companies/retailo.json"
+}

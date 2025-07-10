@@ -1,0 +1,21 @@
+{
+  "id": 5241,
+  "name": "Stockbit Private Limited",
+  "slug": "stockbit",
+  "website": "stockbit.com",
+  "description": "Operator of an investment platform intended to share stock-related ideas, news and other financial information in real-time. The company's platform monitors stock price charting platforms to show stock valuation and offer complete financial data and also permits investors to share information and ideas that are focused solely on the Indonesian market and individual stocks, enabling individuals and investors to discuss, analyze and make informed investment decisions.",
+  "one_liner": "Operator of an investment platform intended to share stock-related ideas, news and other financial information in real-time. The company's platform monitors stock price charting platforms to show stock valuation and offer complete financial data and also permits investors to share information and ideas that are focused solely on the Indonesian market and individual stocks, enabling individuals and investors to discuss, analyze and make informed investment decisions.",
+  "location": "Indonesia",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a63c54f2-e01a-47cf-a79f-608be09d77e4.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/stockbit",
+  "api": "/companies/stockbit.json"
+}

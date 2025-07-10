@@ -1,0 +1,24 @@
+{
+  "id": 3338,
+  "name": "Payment24 Group Proprietary Limited",
+  "slug": "payment24-group-proprietary-limited",
+  "website": "payment24.co",
+  "description": "Provider of a fuel payment and fleet management system created for fleet management. The company's fleet management system integrates into gas stations and vehicles, enabling fleet owners and managers to reduce fraud and increase efficiencies.",
+  "one_liner": "Provider of a fuel payment and fleet management system created for fleet management. The company's fleet management system integrates into gas stations and vehicles, enabling fleet owners and managers to reduce fraud and increase efficiencies.",
+  "location": "South Africa",
+  "industry": "CloudTech, FinTech, Payments, Mobility",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/dbd6c214-6046-421a-a0aa-a2459f5cbaf0.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "CloudTech",
+    "FinTech",
+    "Payments",
+    "Mobility"
+  ],
+  "url": "https://500.co/portfolio/payment24-group-proprietary-limited",
+  "api": "/companies/payment24-group-proprietary-limited.json"
+}

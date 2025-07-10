@@ -1,0 +1,24 @@
+{
+  "id": 5442,
+  "name": "Detoure Inc",
+  "slug": "detoure",
+  "website": "detoure.co",
+  "description": "Developer of resale marketplace intended to source highly curated clothing from influencers and tastemakers, giving customers access to the most coveted closets in the world at thrift prices. The company helps to create a place to shop second-hand clothes directly from the style icons influencers and to provide a way for influencers to quickly capitalize on their most valuable asset their closet, enabling customers to sell their closet without spending valuable time building and maintaining a shop on other platforms.",
+  "one_liner": "Developer of resale marketplace intended to source highly curated clothing from influencers and tastemakers, giving customers access to the most coveted closets in the world at thrift prices. The company helps to create a place to shop second-hand clothes directly from the style icons influencers and to provide a way for influencers to quickly capitalize on their most valuable asset their closet, enabling customers to sell their closet without spending valuable time building and maintaining a shop on other platforms.",
+  "location": "United States",
+  "industry": "Ecommerce, Fashion, Marketplace, Creator Economy",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/361267f9-a3dc-469a-b238-4a1869cd8f51.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Ecommerce",
+    "Fashion",
+    "Marketplace",
+    "Creator Economy"
+  ],
+  "url": "https://500.co/portfolio/detoure",
+  "api": "/companies/detoure.json"
+}

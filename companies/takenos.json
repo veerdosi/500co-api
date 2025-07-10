@@ -1,0 +1,23 @@
+{
+  "id": 5535,
+  "name": "Takenos Inc.",
+  "slug": "takenos",
+  "website": "takenos.com",
+  "description": "Operator of a blockchain-based payment platform designed to offer cross-border workers to access their earnings instantly in cash or crypto. The company offers an international digital wallet to receive income from anywhere in the world and dispose of it as per preference, enabling users to receive payment from the company or platform they are working at.",
+  "one_liner": "Operator of a blockchain-based payment platform designed to offer cross-border workers to access their earnings instantly in cash or crypto. The company offers an international digital wallet to receive income from anywhere in the world and dispose of it as per preference, enabling users to receive payment from the company or platform they are working at.",
+  "location": "Argentina",
+  "industry": "Crypto, FinTech, Work",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/f5024668-704a-42af-befa-5a3c4f029ec3.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Crypto",
+    "FinTech",
+    "Work"
+  ],
+  "url": "https://500.co/portfolio/takenos",
+  "api": "/companies/takenos.json"
+}

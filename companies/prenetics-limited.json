@@ -1,0 +1,21 @@
+{
+  "id": 3031,
+  "name": "Prenetics Limited",
+  "slug": "prenetics-limited",
+  "website": "www.prenetics.com",
+  "description": "Developer of a pharmacogenomics platform designed to offer personalized, predictive and preventive treatments. The company's pharmacogenomics platform offers a health-coaching application that provides individuals with a DNA profile in order to facilitate optimal diet, fitness and response to drugs and enables them to understand their genetic risk of common health conditions such as Type 2 Diabetes, High Blood Pressure and High Cholesterol, enabling physicians to help patients identify the right drug, right dosage and to list out potential adverse drug effects (ADEs), based on one's genetic profile platform.",
+  "one_liner": "Developer of a pharmacogenomics platform designed to offer personalized, predictive and preventive treatments. The company's pharmacogenomics platform offers a health-coaching application that provides individuals with a DNA profile in order to facilitate optimal diet, fitness and response to drugs and enables them to understand their genetic risk of common health conditions such as Type 2 Diabetes, High Blood Pressure and High Cholesterol, enabling physicians to help patients identify the right drug, right dosage and to list out potential adverse drug effects (ADEs), based on one's genetic profile platform.",
+  "location": "Hong Kong",
+  "industry": "BioTech & Life Sciences",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e17a1a96-4df4-4a60-a633-e41e847d4427.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "BioTech & Life Sciences"
+  ],
+  "url": "https://500.co/portfolio/prenetics-limited",
+  "api": "/companies/prenetics-limited.json"
+}

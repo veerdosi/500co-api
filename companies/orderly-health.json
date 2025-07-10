@@ -1,0 +1,23 @@
+{
+  "id": 5344,
+  "name": "Orderly Health, Inc.",
+  "slug": "orderly-health",
+  "website": "orderlyhealth.com",
+  "description": "Developer of data management software designed to improve the accuracy of healthcare data. The company's software is a machine learning product that automatically identifies and repairs inaccuracies in healthcare provider directories, enabling all patients to have access to up-to-date, accurate information and reducing the cost and time burden on payers, plans, and administrators.",
+  "one_liner": "Developer of data management software designed to improve the accuracy of healthcare data. The company's software is a machine learning product that automatically identifies and repairs inaccuracies in healthcare provider directories, enabling all patients to have access to up-to-date, accurate information and reducing the cost and time burden on payers, plans, and administrators.",
+  "location": "United States",
+  "industry": "AI/Machine Learning, Data & Analytics, Health Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/37000fa4-ad2e-4ba2-9647-37bac6883eb0.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "Data & Analytics",
+    "Health Tech"
+  ],
+  "url": "https://500.co/portfolio/orderly-health",
+  "api": "/companies/orderly-health.json"
+}

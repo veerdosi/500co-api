@@ -1,0 +1,21 @@
+{
+  "id": 3435,
+  "name": "Jiko Group, Inc.",
+  "slug": "jiko",
+  "website": "jiko.io",
+  "description": "Developer of a trading platform designed to keep, control, and spend money wisely. The company's platform allows investing in treasury bills and keeps track of the investment and at the same time acts as a financial portal to send, receive, and spend money digitally, enabling users to control and benefit from their money.",
+  "one_liner": "Developer of a trading platform designed to keep, control, and spend money wisely. The company's platform allows investing in treasury bills and keeps track of the investment and at the same time acts as a financial portal to send, receive, and spend money digitally, enabling users to control and benefit from their money.",
+  "location": "United States",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ba2a5b61-bf3a-418f-ad21-e1c91261f0c7.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/jiko",
+  "api": "/companies/jiko.json"
+}

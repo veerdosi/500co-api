@@ -1,0 +1,21 @@
+{
+  "id": 3878,
+  "name": "OpenSponsorship, Corp.",
+  "slug": "opensponsorship",
+  "website": "opensponsorship.com",
+  "description": "Developer of a digital marketplace designed to offer assistance in finding sponsorship for professional sports. The company's platform connects corporate brands with athletes, events, and teams, using their partnership packages, enabling clients to make their events successful by getting connected with interested sponsors.",
+  "one_liner": "Developer of a digital marketplace designed to offer assistance in finding sponsorship for professional sports. The company's platform connects corporate brands with athletes, events, and teams, using their partnership packages, enabling clients to make their events successful by getting connected with interested sponsors.",
+  "location": "United States",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/c19d9f14-e130-43c1-a2db-ec3424f2b374.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/opensponsorship",
+  "api": "/companies/opensponsorship.json"
+}

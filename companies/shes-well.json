@@ -1,0 +1,21 @@
+{
+  "id": 4952,
+  "name": "28 Labs, Inc.",
+  "slug": "shes-well",
+  "website": "sheswell.co",
+  "description": "Provider of fertility management services intended to offer a subscription model to fertility, to help women to have children. The company's services include offering financial plans to help women, men, and couples to have children with fertility testing, IVF, egg freezing, and sperm freezing and also offer customers a subscription plan that covers all their health care costs, enabling women and couples to preserve their fertility and has children when they're ready.",
+  "one_liner": "Provider of fertility management services intended to offer a subscription model to fertility, to help women to have children. The company's services include offering financial plans to help women, men, and couples to have children with fertility testing, IVF, egg freezing, and sperm freezing and also offer customers a subscription plan that covers all their health care costs, enabling women and couples to preserve their fertility and has children when they're ready.",
+  "location": "United States",
+  "industry": "Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/af2117f2-1b7f-4896-abbb-2f75250e128e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/shes-well",
+  "api": "/companies/shes-well.json"
+}

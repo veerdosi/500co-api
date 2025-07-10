@@ -1,0 +1,21 @@
+{
+  "id": 4842,
+  "name": "BiddRocket, Inc.",
+  "slug": "alpharank",
+  "website": "www.alpharank.ai",
+  "description": "Developer of a behavioral commerce platform designed to map customer data. The company's platform identifies as well as ranks customers' profiles, provides detailed event tracking information through intricate technology, and detects customer influences and preferences as per their purchasing patterns, enabling banks and credit unions to influence and retain their customers.",
+  "one_liner": "Developer of a behavioral commerce platform designed to map customer data. The company's platform identifies as well as ranks customers' profiles, provides detailed event tracking information through intricate technology, and detects customer influences and preferences as per their purchasing patterns, enabling banks and credit unions to influence and retain their customers.",
+  "location": "United States",
+  "industry": "Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/c3986058-655e-49b8-b2d3-99f26539ddd8.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/alpharank",
+  "api": "/companies/alpharank.json"
+}

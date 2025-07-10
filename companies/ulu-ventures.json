@@ -1,0 +1,19 @@
+{
+  "id": 8502,
+  "name": "Ulu Ventures Fund II, L.P.",
+  "slug": "ulu-ventures",
+  "website": "www.uluventures.com",
+  "description": "Ulu Ventures is a seed stage venture capital firm that seeks to make investments in the enterprise IT, big data, financial services and technology enabled service sectors. The firm was founded in 2008 and is based in Palo Alto, California.",
+  "one_liner": "Ulu Ventures is a seed stage venture capital firm that seeks to make investments in the enterprise IT, big data, financial services and technology enabled service sectors. The firm was founded in 2008 and is based in Palo Alto, California.",
+  "location": "UNITED STATES",
+  "industry": "",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/6ee4d265-f058-4874-8f71-033843911742.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://500.co/portfolio/ulu-ventures",
+  "api": "/companies/ulu-ventures.json"
+}

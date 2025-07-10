@@ -1,0 +1,23 @@
+{
+  "id": 2801,
+  "name": "Enhance Holdings Ltd",
+  "slug": "enhance",
+  "website": "www.enhance.online",
+  "description": "Provider of business development services intended to build vertical marketplaces. The company's services include building businesses from the ground up, with the local market and consumers' needs in mind, and introducing mature models invested in by strategic global venture capital partners, enabling entrepreneurs from the Middle East and Africa to build mobile-enabled businesses.",
+  "one_liner": "Provider of business development services intended to build vertical marketplaces. The company's services include building businesses from the ground up, with the local market and consumers' needs in mind, and introducing mature models invested in by strategic global venture capital partners, enabling entrepreneurs from the Middle East and Africa to build mobile-enabled businesses.",
+  "location": "United Arab Emirates",
+  "industry": "Ecommerce, Logistics, Supply Chain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f91c87ec-f793-439d-ac15-1bb1c715bc39.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Ecommerce",
+    "Logistics",
+    "Supply Chain"
+  ],
+  "url": "https://500.co/portfolio/enhance",
+  "api": "/companies/enhance.json"
+}

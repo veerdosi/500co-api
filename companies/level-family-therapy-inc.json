@@ -1,0 +1,21 @@
+{
+  "id": 3973,
+  "name": "Level Family Therapy, Inc.",
+  "slug": "level-family-therapy-inc",
+  "website": "trylevel.com",
+  "description": "Developer of a medical application that provides patients with treatment tools. The company's telehealth platform provides the infrastructure necessary to deliver effective behavioral healthcare.",
+  "one_liner": "Developer of a medical application that provides patients with treatment tools. The company's telehealth platform provides the infrastructure necessary to deliver effective behavioral healthcare.",
+  "location": "United States",
+  "industry": "Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/level-family-therapy-inc",
+  "api": "/companies/level-family-therapy-inc.json"
+}

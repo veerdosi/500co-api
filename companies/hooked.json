@@ -1,0 +1,21 @@
+{
+  "id": 5354,
+  "name": "Telepathic, Inc.",
+  "slug": "hooked",
+  "website": "hooked.co",
+  "description": "Developer of a mobile media company intended to provide movies and shows to consumers. The company's proprietary technology uses artificial intelligence to predict hits based on billions of data points that are tracked at each step of the content development funnel, enabling viewers to get trending content.",
+  "one_liner": "Developer of a mobile media company intended to provide movies and shows to consumers. The company's proprietary technology uses artificial intelligence to predict hits based on billions of data points that are tracked at each step of the content development funnel, enabling viewers to get trending content.",
+  "location": "United States",
+  "industry": "Social Media",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/26cb1676-7638-44fe-8ebc-0ffd0a139046.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Media"
+  ],
+  "url": "https://500.co/portfolio/hooked",
+  "api": "/companies/hooked.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3082,
+  "name": "Filmgrail AS",
+  "slug": "filmgrail",
+  "website": "www.filmgrail.com",
+  "description": "Developer of a cinema marketing and analytics platform designed to help exhibitors sell tickets and engage with moviegoers. The company's platform assists brands in engaging with movie enthusiasts by automating content creation, audience engagement and marketing and provides exhibitors with insights into their audience, such as their demographics, interests and purchase behaviour, enabling cinemas and movie studios to engage their audiences, target their marketing, and grow their brands.",
+  "one_liner": "Developer of a cinema marketing and analytics platform designed to help exhibitors sell tickets and engage with moviegoers. The company's platform assists brands in engaging with movie enthusiasts by automating content creation, audience engagement and marketing and provides exhibitors with insights into their audience, such as their demographics, interests and purchase behaviour, enabling cinemas and movie studios to engage their audiences, target their marketing, and grow their brands.",
+  "location": "United States",
+  "industry": "Entertainment / Media",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ca01401a-08c1-43fd-af43-86447801c9a6.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Entertainment / Media"
+  ],
+  "url": "https://500.co/portfolio/filmgrail",
+  "api": "/companies/filmgrail.json"
+}

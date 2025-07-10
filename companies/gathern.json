@@ -1,0 +1,21 @@
+{
+  "id": 3325,
+  "name": "Gathern Holding Ltd",
+  "slug": "gathern",
+  "website": "gathern.co",
+  "description": "Operator of a vacation rental marketplace intended for travelers and adventure seekers to plan, formulate, and schedule travel accommodations. The company's platform allows individuals to book villas, apartments, farms, caravans, chalets, desert cottages, and campsites, directly from an individual owner, helping owners to list properties for rent through a website and application without having to obtain a rental license.",
+  "one_liner": "Operator of a vacation rental marketplace intended for travelers and adventure seekers to plan, formulate, and schedule travel accommodations. The company's platform allows individuals to book villas, apartments, farms, caravans, chalets, desert cottages, and campsites, directly from an individual owner, helping owners to list properties for rent through a website and application without having to obtain a rental license.",
+  "location": "Saudi Arabia",
+  "industry": "Travel & Tourism",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/09e458c0-04d6-4176-a900-072ca050788b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Travel & Tourism"
+  ],
+  "url": "https://500.co/portfolio/gathern",
+  "api": "/companies/gathern.json"
+}

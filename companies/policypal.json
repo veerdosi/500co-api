@@ -1,0 +1,21 @@
+{
+  "id": 3139,
+  "name": "PolicyPal Pte Ltd",
+  "slug": "policypal",
+  "website": "www.policypal.com",
+  "description": "Operator of an insurance brokerage platform intended to rebuild the user insurance experience through a digitalized approach. The company enables users to start their financial journey through gamified reward-based learning and offers travel, pet, term life and motor insurance along with offering policy management, financial portfolio management, purchase of policies and bite-sized information, thereby empowering customers to make the right choice for their financial and protection needs, with affordable financial products.",
+  "one_liner": "Operator of an insurance brokerage platform intended to rebuild the user insurance experience through a digitalized approach. The company enables users to start their financial journey through gamified reward-based learning and offers travel, pet, term life and motor insurance along with offering policy management, financial portfolio management, purchase of policies and bite-sized information, thereby empowering customers to make the right choice for their financial and protection needs, with affordable financial products.",
+  "location": "Singapore",
+  "industry": "InsurTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "InsurTech"
+  ],
+  "url": "https://500.co/portfolio/policypal",
+  "api": "/companies/policypal.json"
+}

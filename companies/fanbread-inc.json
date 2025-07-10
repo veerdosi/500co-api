@@ -1,0 +1,21 @@
+{
+  "id": 4637,
+  "name": "Fanbread, Inc.",
+  "slug": "fanbread-inc",
+  "website": "fanbread.com",
+  "description": "Provider of an advertising automation platform for creators and independent publishers. The company provides a platform for media brands to enable content creation, distribution and monetization.",
+  "one_liner": "Provider of an advertising automation platform for creators and independent publishers. The company provides a platform for media brands to enable content creation, distribution and monetization.",
+  "location": "United States",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/28874c6c-47df-459a-9cc8-329efe6af565.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/fanbread-inc",
+  "api": "/companies/fanbread-inc.json"
+}

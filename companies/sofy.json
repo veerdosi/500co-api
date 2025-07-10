@@ -1,0 +1,21 @@
+{
+  "id": 4766,
+  "name": "Quantyzd, Inc.",
+  "slug": "sofy",
+  "website": "sofy.ai",
+  "description": "Developer of a no-code testing software designed to facilitate dashboard functionality testing for mobile application development. The company's software uses artificial intelligence-based trainable robots to focus on iterative application development, manages a portfolio of applications and understands how to stack up against the competition, enabling mobile application developers to test, deploy and monitor performance, reliability, functionality and user experience.",
+  "one_liner": "Developer of a no-code testing software designed to facilitate dashboard functionality testing for mobile application development. The company's software uses artificial intelligence-based trainable robots to focus on iterative application development, manages a portfolio of applications and understands how to stack up against the competition, enabling mobile application developers to test, deploy and monitor performance, reliability, functionality and user experience.",
+  "location": "United States",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/9bb53c90-e9fd-4c07-a902-4e09cadbf2d4.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/sofy",
+  "api": "/companies/sofy.json"
+}

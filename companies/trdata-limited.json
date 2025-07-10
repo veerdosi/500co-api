@@ -1,0 +1,21 @@
+{
+  "id": 4843,
+  "name": "TRdata Limited",
+  "slug": "trdata-limited",
+  "website": "trdata.com",
+  "description": "Provider of global institutional investment network. The company collects market information from remote places from scattered and illiquid markets and presents that information to the customer in an accessible platform.",
+  "one_liner": "Provider of global institutional investment network. The company collects market information from remote places from scattered and illiquid markets and presents that information to the customer in an accessible platform.",
+  "location": "United Kingdom",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/6485fc53-8348-492e-87e7-4dae1fa69b66.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/trdata-limited",
+  "api": "/companies/trdata-limited.json"
+}

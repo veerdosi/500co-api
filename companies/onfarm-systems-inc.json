@@ -1,0 +1,21 @@
+{
+  "id": 4608,
+  "name": "OnFarm Systems, Inc.",
+  "slug": "onfarm-systems-inc",
+  "website": "onfarm.com",
+  "description": "Developer of an agriculture management software designed to integrate data into a customizable dashboard with forecasts and recommendations. The company's software offers a data management platform that collates statistics about the weather conditions, irrigation and soil moisture data from the sensors to map fields to optimize the costs for irrigation, enabling farmers to make better and more informed decisions resulting in immediate impact on farm inputs, productivity and profitability.",
+  "one_liner": "Developer of an agriculture management software designed to integrate data into a customizable dashboard with forecasts and recommendations. The company's software offers a data management platform that collates statistics about the weather conditions, irrigation and soil moisture data from the sensors to map fields to optimize the costs for irrigation, enabling farmers to make better and more informed decisions resulting in immediate impact on farm inputs, productivity and profitability.",
+  "location": "United States",
+  "industry": "AgTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AgTech"
+  ],
+  "url": "https://500.co/portfolio/onfarm-systems-inc",
+  "api": "/companies/onfarm-systems-inc.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5050,
+  "name": "Jones",
+  "slug": "jones",
+  "website": "getjones.com",
+  "description": "Developer of an automated insurance compliance software designed to give the freedom and flexibility of real estate insurance certificates. The company's software streamlines the certificate management process to overcome the hurdle of liability insurance by offering project-based coverage, enabling independent contractors to win any contract and get to work as quickly as possible.",
+  "one_liner": "Developer of an automated insurance compliance software designed to give the freedom and flexibility of real estate insurance certificates. The company's software streamlines the certificate management process to overcome the hurdle of liability insurance by offering project-based coverage, enabling independent contractors to win any contract and get to work as quickly as possible.",
+  "location": "United States",
+  "industry": "InsurTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/c8bc43cc-591b-48df-9b28-0e471c123427.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "InsurTech"
+  ],
+  "url": "https://500.co/portfolio/jones",
+  "api": "/companies/jones.json"
+}

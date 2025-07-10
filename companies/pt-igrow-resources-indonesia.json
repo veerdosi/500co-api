@@ -1,0 +1,21 @@
+{
+  "id": 2941,
+  "name": "PT iGrow Resources Indonesia",
+  "slug": "pt-igrow-resources-indonesia",
+  "website": "igrow.asia",
+  "description": "Provider of an online agricultural management platform intended to help farmers to produce high quality organic food. The company's platform connects sponsors, farmers, land owners and crop buyers, enabling farmers to stay updated easily.",
+  "one_liner": "Provider of an online agricultural management platform intended to help farmers to produce high quality organic food. The company's platform connects sponsors, farmers, land owners and crop buyers, enabling farmers to stay updated easily.",
+  "location": "Indonesia",
+  "industry": "AgTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/3df3e537-067f-414a-9cda-0f009dcc5d14.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AgTech"
+  ],
+  "url": "https://500.co/portfolio/pt-igrow-resources-indonesia",
+  "api": "/companies/pt-igrow-resources-indonesia.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4366,
+  "name": "Makerdo Inc",
+  "slug": "payform",
+  "website": "payform.me",
+  "description": "Developer of an online payment tool intended to create forms that accept recurring and single payments. The company's platform includes customization, multi-currency support, and secure integration with payment gateways as well as offers a free subscription that involves a per-transaction commission and a monthly paid subscription with no commission, enabling entrepreneurs and businesses to sell services and digital content online easily.",
+  "one_liner": "Developer of an online payment tool intended to create forms that accept recurring and single payments. The company's platform includes customization, multi-currency support, and secure integration with payment gateways as well as offers a free subscription that involves a per-transaction commission and a monthly paid subscription with no commission, enabling entrepreneurs and businesses to sell services and digital content online easily.",
+  "location": "Chile",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/17498708-b311-4d34-962d-fff34d9127e7.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/payform",
+  "api": "/companies/payform.json"
+}

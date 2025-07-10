@@ -1,0 +1,21 @@
+{
+  "id": 4197,
+  "name": "Serious Fox Corp",
+  "slug": "serious-fox-corp",
+  "website": "userfox.com",
+  "description": "Provider of a user retention as a service for startups. The provides a service that provides startups to integrate drip, inactivity and trigger emails.",
+  "one_liner": "Provider of a user retention as a service for startups. The provides a service that provides startups to integrate drip, inactivity and trigger emails.",
+  "location": "United States",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/serious-fox-corp",
+  "api": "/companies/serious-fox-corp.json"
+}

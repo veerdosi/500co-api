@@ -1,0 +1,22 @@
+{
+  "id": 5727,
+  "name": "FasTest Neuro Solutions Inc.",
+  "slug": "emonomy",
+  "website": "emonomy.xyz",
+  "description": "Provider of web service intended to increase the speed of marketing research. The company utilizes artificial intelligence which analyzes consumer brain reactions and makes marketing research fast, fully automated, and remoted, enabling brands to test and spot Ad creatives with the highest commercial potential.",
+  "one_liner": "Provider of web service intended to increase the speed of marketing research. The company utilizes artificial intelligence which analyzes consumer brain reactions and makes marketing research fast, fully automated, and remoted, enabling brands to test and spot Ad creatives with the highest commercial potential.",
+  "location": "Armenia",
+  "industry": "AI/Machine Learning, AdTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/d704f88c-1e29-433c-85c2-e578a28d377e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "AdTech"
+  ],
+  "url": "https://500.co/portfolio/emonomy",
+  "api": "/companies/emonomy.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3421,
+  "name": "Amixr, Inc.",
+  "slug": "amixr-inc",
+  "website": "amixr.io",
+  "description": "Developer of IT incident management system intended to help engineering teams all around the world to stop hassling with IT operations, adopt new DevOps best practices and focus on making new products.",
+  "one_liner": "Developer of IT incident management system intended to help engineering teams all around the world to stop hassling with IT operations, adopt new DevOps best practices and focus on making new products.",
+  "location": "United States",
+  "industry": "DevOps",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/6b5c3a2f-90e9-4b83-b342-cb5a4b72ce66.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "DevOps"
+  ],
+  "url": "https://500.co/portfolio/amixr-inc",
+  "api": "/companies/amixr-inc.json"
+}

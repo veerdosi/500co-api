@@ -1,0 +1,21 @@
+{
+  "id": 4672,
+  "name": "Calo Inc.",
+  "slug": "calo",
+  "website": "www.calo.app",
+  "description": "Operator of a food-tech platform intended to provide nutritious meals. The company's platform provides a wide range of personalized meal plans as per diet requirements through nutritionist-approved algorithms, enabling users to get healthy food delivered to their doorstep with the help of an application.",
+  "one_liner": "Operator of a food-tech platform intended to provide nutritious meals. The company's platform provides a wide range of personalized meal plans as per diet requirements through nutritionist-approved algorithms, enabling users to get healthy food delivered to their doorstep with the help of an application.",
+  "location": "Bahrain",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/932d4f57-06e8-47a9-aa34-7a133d0a7ea5.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/calo",
+  "api": "/companies/calo.json"
+}

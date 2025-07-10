@@ -1,0 +1,22 @@
+{
+  "id": 5555,
+  "name": "Oen Tech Co",
+  "slug": "oen",
+  "website": "www.oen.tw",
+  "description": "Developer of a unified payment platform designed for nonprofits, campaigns, and organizations. The company's platform features include payments, fundraising, engagement, and compliance such as donations, e-commerce, ticketing, and subscriptions, easily setting up hosted fundraising websites and customizing call-to-actions, gaining insights into the target audience, and creating meaningful engagement based on the dynamic supporter database, enabling organizations to abide local laws and regulations.",
+  "one_liner": "Developer of a unified payment platform designed for nonprofits, campaigns, and organizations. The company's platform features include payments, fundraising, engagement, and compliance such as donations, e-commerce, ticketing, and subscriptions, easily setting up hosted fundraising websites and customizing call-to-actions, gaining insights into the target audience, and creating meaningful engagement based on the dynamic supporter database, enabling organizations to abide local laws and regulations.",
+  "location": "Taiwan",
+  "industry": "FinTech, Payments",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/9fafec5c-7b48-4a8a-8463-3001a7e2f7e3.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech",
+    "Payments"
+  ],
+  "url": "https://500.co/portfolio/oen",
+  "api": "/companies/oen.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 8395,
+  "name": "Beaubble",
+  "slug": "beaubble-korea",
+  "website": "https://beaubble.com/home",
+  "description": "Beauty brand incubator enabling celebrities and creators to monetize their IP by launching and distributing authentic beauty brands. The platform streamlines brand development, product creation, and distribution, reducing barriers such as high upfront costs and long time to market while ensuring scalability.",
+  "one_liner": "Beauty brand incubator enabling celebrities and creators to monetize their IP by launching and distributing authentic beauty brands. The platform streamlines brand development, product creation, and distribution, reducing barriers such as high upfront costs and long time to market while ensuring scalability.",
+  "location": "KOREA, REPUBLIC OF",
+  "industry": "Beauty",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/f1f4e454-2363-4e96-a8c6-38ddb490a7a5.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Beauty"
+  ],
+  "url": "https://500.co/portfolio/beaubble-korea",
+  "api": "/companies/beaubble-korea.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4418,
+  "name": "Justo, Inc",
+  "slug": "jsto",
+  "website": "justo.mx",
+  "description": "Operator of an online supermarket platform intended to provide doorstep delivery of food and other dairy products. The company's platform offers a wide range of fruits, vegetables, meat products, beauty products and house supplies, enabling customers to purchase healthy and fresh food products at affordable prices.",
+  "one_liner": "Operator of an online supermarket platform intended to provide doorstep delivery of food and other dairy products. The company's platform offers a wide range of fruits, vegetables, meat products, beauty products and house supplies, enabling customers to purchase healthy and fresh food products at affordable prices.",
+  "location": "Mexico",
+  "industry": "Ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/a45ac6eb-ef4e-421f-90f6-441c6e210322.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Ecommerce"
+  ],
+  "url": "https://500.co/portfolio/jsto",
+  "api": "/companies/jsto.json"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 3309,
+  "name": "Tamatem, Inc.",
+  "slug": "tamatem",
+  "website": "tamatem.co",
+  "description": "Developer of localized versions of mobile games designed to serve games tailored to the language and culture of the region. The company's mobile games are published with partners from international studios and developers taking their games and making them culturally relevant for the Arabic gamer, enabling users to optimize and monetize their games.",
+  "one_liner": "Developer of localized versions of mobile games designed to serve games tailored to the language and culture of the region. The company's mobile games are published with partners from international studios and developers taking their games and making them culturally relevant for the Arabic gamer, enabling users to optimize and monetize their games.",
+  "location": "Jordan",
+  "industry": "FinTech, Gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d0216c13-60bb-420e-ac92-dfc3ffb5f844.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech",
+    "Gaming"
+  ],
+  "url": "https://500.co/portfolio/tamatem",
+  "api": "/companies/tamatem.json"
+}

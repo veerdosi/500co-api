@@ -1,0 +1,21 @@
+{
+  "id": 3081,
+  "name": "Imerso AS",
+  "slug": "imerso",
+  "website": "www.imerso.com",
+  "description": "Developer of a building information modeling platform intended to monitor performance and field progress in real-time. The company's platform continuously monitors incoming field data against building plans and alerts about problematic BIM (Building Information Model) deviations using its three-dimensional scanning app, enabling constructors to keep all fieldwork well documented and detect construction errors without delays.",
+  "one_liner": "Developer of a building information modeling platform intended to monitor performance and field progress in real-time. The company's platform continuously monitors incoming field data against building plans and alerts about problematic BIM (Building Information Model) deviations using its three-dimensional scanning app, enabling constructors to keep all fieldwork well documented and detect construction errors without delays.",
+  "location": "Norway",
+  "industry": "Construction",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/51d40d47-abdc-47f5-a4ad-a33c48a86b8b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Construction"
+  ],
+  "url": "https://500.co/portfolio/imerso",
+  "api": "/companies/imerso.json"
+}

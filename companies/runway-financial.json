@@ -1,0 +1,21 @@
+{
+  "id": 3504,
+  "name": "Runway Financial, Inc.",
+  "slug": "runway-financial",
+  "website": "runway.com",
+  "description": "Developer of business financial software designed to reinvent how business financials are presented through modern design and engineering. The company's application offers to bring clarity, power, and speed to financial data, enabling teams of companies to get aligned on the entire business, so they can collaborate to make better decisions quickly.",
+  "one_liner": "Developer of business financial software designed to reinvent how business financials are presented through modern design and engineering. The company's application offers to bring clarity, power, and speed to financial data, enabling teams of companies to get aligned on the entire business, so they can collaborate to make better decisions quickly.",
+  "location": "United States",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d73dc536-d63d-4897-ae52-9cc50a0585a6.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/runway-financial",
+  "api": "/companies/runway-financial.json"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 5434,
+  "name": "TEDI L.L.C",
+  "slug": "tedi",
+  "website": "tedivirtual.com",
+  "description": "Operator of an online educational platform aimed at developing and improving student's education. The company's platform provides a variety of services and educational programs that prioritize developing critical-analytical knowledge to be able to apply it in real projects, are available and recorded that can be viewed around the clock, have flexible study hours, providing the students, to grow professional their path together with teachers with great experience in the world of construction and as well as course completion certificates.",
+  "one_liner": "Operator of an online educational platform aimed at developing and improving student's education. The company's platform provides a variety of services and educational programs that prioritize developing critical-analytical knowledge to be able to apply it in real projects, are available and recorded that can be viewed around the clock, have flexible study hours, providing the students, to grow professional their path together with teachers with great experience in the world of construction and as well as course completion certificates.",
+  "location": "Peru",
+  "industry": "Construction, Education, Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5418eda1-2c32-4cae-adc3-52ad9403449e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Construction",
+    "Education",
+    "Impact"
+  ],
+  "url": "https://500.co/portfolio/tedi",
+  "api": "/companies/tedi.json"
+}

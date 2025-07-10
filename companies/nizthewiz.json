@@ -1,0 +1,21 @@
+{
+  "id": 2933,
+  "name": "Nizthewiz Technology Sdn Bhd",
+  "slug": "nizthewiz",
+  "website": "www.nizthewiz.com",
+  "description": "Developer of a delivery application designed to offer same day logistics and courier services. The company's application provides crowd-sourced courier fleet providing full transparency of the last mile delivery cycle which empowers users with live GPS tracking for all deliveries every step, enabling e-commerce and logistics industry to directly communicate their requirements and manage their own outcomes.",
+  "one_liner": "Developer of a delivery application designed to offer same day logistics and courier services. The company's application provides crowd-sourced courier fleet providing full transparency of the last mile delivery cycle which empowers users with live GPS tracking for all deliveries every step, enabling e-commerce and logistics industry to directly communicate their requirements and manage their own outcomes.",
+  "location": "Malaysia",
+  "industry": "Supply Chain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Supply Chain"
+  ],
+  "url": "https://500.co/portfolio/nizthewiz",
+  "api": "/companies/nizthewiz.json"
+}

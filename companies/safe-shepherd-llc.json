@@ -1,0 +1,21 @@
+{
+  "id": 5033,
+  "name": "Safe Shepherd, LLC.",
+  "slug": "safe-shepherd-llc",
+  "website": "safeshepherd.com",
+  "description": "Provider of services for people to protect their privacy. The company's website enables users to see, remove and protect their personal information from the Internet.",
+  "one_liner": "Provider of services for people to protect their privacy. The company's website enables users to see, remove and protect their personal information from the Internet.",
+  "location": "United States",
+  "industry": "Cybersecurity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4508139c-9637-4bd5-8e81-cc7dbc750f97.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Cybersecurity"
+  ],
+  "url": "https://500.co/portfolio/safe-shepherd-llc",
+  "api": "/companies/safe-shepherd-llc.json"
+}

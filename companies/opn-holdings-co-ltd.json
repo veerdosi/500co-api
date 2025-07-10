@@ -1,0 +1,22 @@
+{
+  "id": 5334,
+  "name": "OPN Holdings Co., Ltd.",
+  "slug": "opn-holdings-co-ltd",
+  "website": "www.opn.ooo",
+  "description": "Operator of full-featured payment management platform designed to connect millions of customers across the world. The company's payment management platform is easy to setup and works seamlessly across multiple devices, providing fraud detection, data privacy and highly secured transactions, enabling users to manage their funds whenever they want.",
+  "one_liner": "Operator of full-featured payment management platform designed to connect millions of customers across the world. The company's payment management platform is easy to setup and works seamlessly across multiple devices, providing fraud detection, data privacy and highly secured transactions, enabling users to manage their funds whenever they want.",
+  "location": "Japan",
+  "industry": "FinTech, Payments",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/78865fd6-3d80-4138-8bdd-916ebb5fb8b3.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech",
+    "Payments"
+  ],
+  "url": "https://500.co/portfolio/opn-holdings-co-ltd",
+  "api": "/companies/opn-holdings-co-ltd.json"
+}

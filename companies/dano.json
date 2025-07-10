@@ -1,0 +1,21 @@
+{
+  "id": 3235,
+  "name": "Dano, Inc.",
+  "slug": "dano",
+  "website": "corp.dano.me",
+  "description": "Provider of diet products and fitness coaching services intended to aid women stay fit and healthy. The company's products include healthy diet food and supplements and offers a habit-forming program and a women's professional offline studio, enabling women to live healthy lives and achieve their desired fitness goals.",
+  "one_liner": "Provider of diet products and fitness coaching services intended to aid women stay fit and healthy. The company's products include healthy diet food and supplements and offers a habit-forming program and a women's professional offline studio, enabling women to live healthy lives and achieve their desired fitness goals.",
+  "location": "South Korea",
+  "industry": "Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/c4c07f0e-82bd-436a-8a79-db6f66711d5c.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/dano",
+  "api": "/companies/dano.json"
+}

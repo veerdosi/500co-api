@@ -1,0 +1,21 @@
+{
+  "id": 4552,
+  "name": "CTY Inc",
+  "slug": "numina",
+  "website": "numina.co",
+  "description": "Developer of a computer vision sensing platform designed to empower cities with data to become responsive and equitable. The company's platform measures and predicts volume counts, paths, speeds, interactions, and other behaviors of pedestrians, bicycles, vehicles, wheelchairs, travelers, and objects in streets, enabling businesses to plan and invest in infrastructure in the public right of way to prevent the collection of personally identifiable information and to provide intelligence without surveillance.",
+  "one_liner": "Developer of a computer vision sensing platform designed to empower cities with data to become responsive and equitable. The company's platform measures and predicts volume counts, paths, speeds, interactions, and other behaviors of pedestrians, bicycles, vehicles, wheelchairs, travelers, and objects in streets, enabling businesses to plan and invest in infrastructure in the public right of way to prevent the collection of personally identifiable information and to provide intelligence without surveillance.",
+  "location": "United Arab Emirates",
+  "industry": "Government",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Government"
+  ],
+  "url": "https://500.co/portfolio/numina",
+  "api": "/companies/numina.json"
+}

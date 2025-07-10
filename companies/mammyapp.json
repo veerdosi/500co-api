@@ -1,0 +1,21 @@
+{
+  "id": 4896,
+  "name": "Readymums, Inc.",
+  "slug": "mammyapp",
+  "website": "mammy.app",
+  "description": "Developer of a mobile application for new mothers designed for educating them about their pregnancy and motherhood journeys. The company offers all medical and non-medical services and products that they would need to look after themselves as well as their babies, enabling mothers to provide them with everything she needs during this period and to be the best partner in this arduous journey.",
+  "one_liner": "Developer of a mobile application for new mothers designed for educating them about their pregnancy and motherhood journeys. The company offers all medical and non-medical services and products that they would need to look after themselves as well as their babies, enabling mothers to provide them with everything she needs during this period and to be the best partner in this arduous journey.",
+  "location": "Egypt",
+  "industry": "Wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/3b4025a1-da73-4c9f-9cdb-16676f51637d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Wellness"
+  ],
+  "url": "https://500.co/portfolio/mammyapp",
+  "api": "/companies/mammyapp.json"
+}

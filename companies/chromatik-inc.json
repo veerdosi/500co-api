@@ -1,0 +1,21 @@
+{
+  "id": 4732,
+  "name": "Chromatik, Inc.",
+  "slug": "chromatik-inc",
+  "website": "chromatik.com",
+  "description": "Provider of digital music learning platform designed to help users to play along with sheet music. The company's Chromatik platform offers its users to practice, perform and learn music while they can also upload and download music from website, enabling users to play music and access reference tracks, annotation tools and recording features.",
+  "one_liner": "Provider of digital music learning platform designed to help users to play along with sheet music. The company's Chromatik platform offers its users to practice, perform and learn music while they can also upload and download music from website, enabling users to play music and access reference tracks, annotation tools and recording features.",
+  "location": "United States",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/chromatik-inc",
+  "api": "/companies/chromatik-inc.json"
+}

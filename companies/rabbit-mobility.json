@@ -1,0 +1,21 @@
+{
+  "id": 5585,
+  "name": "Rabbit Mobility",
+  "slug": "rabbit-mobility",
+  "website": "https://rabbit-app.com/",
+  "description": "Developer of an application designed to create a proper urban living for Egyptians by providing eco-friendly alternatives for short-distance transportation. The company's application offers e-scooter, standard bicycles, a day-rental option and flexible leasing timelines, enabling users to rent scooters by the minute and to commute from one place to another.",
+  "one_liner": "Developer of an application designed to create a proper urban living for Egyptians by providing eco-friendly alternatives for short-distance transportation. The company's application offers e-scooter, standard bicycles, a day-rental option and flexible leasing timelines, enabling users to rent scooters by the minute and to commute from one place to another.",
+  "location": "Egypt",
+  "industry": "Mobility",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/ac6f2e5c-687a-431a-9777-3a54aa03f41e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Mobility"
+  ],
+  "url": "https://500.co/portfolio/rabbit-mobility",
+  "api": "/companies/rabbit-mobility.json"
+}

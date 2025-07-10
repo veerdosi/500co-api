@@ -1,0 +1,22 @@
+{
+  "id": 4737,
+  "name": "Veluga Brewery Inc.",
+  "slug": "veluga-brewery",
+  "website": "business.veluga.kr",
+  "description": "Provider of beverage subscription services intended to serve handcrafted beer. The company's services include craft beer curation and subscription where members are delivered a themed box of hand-selected craft beers and food pairings every month, enabling members to enjoy their beverage drinks.",
+  "one_liner": "Provider of beverage subscription services intended to serve handcrafted beer. The company's services include craft beer curation and subscription where members are delivered a themed box of hand-selected craft beers and food pairings every month, enabling members to enjoy their beverage drinks.",
+  "location": "South Korea",
+  "industry": "Logistics, Consumer",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/24cfec07-8ffc-4f83-bea6-a61a5e6ac042.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Logistics",
+    "Consumer"
+  ],
+  "url": "https://500.co/portfolio/veluga-brewery",
+  "api": "/companies/veluga-brewery.json"
+}

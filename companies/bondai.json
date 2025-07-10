@@ -1,0 +1,22 @@
+{
+  "id": 3590,
+  "name": "Bondai Inc.",
+  "slug": "bondai",
+  "website": "bondai.io",
+  "description": "Provider of travel arrangement services intended to connect multiple service providers and enhance the tourism ecosystem. The company's services allow users to create a group, choose a destination, invite friends, explore accommodations, as well as find and compare flights, enabling consumers to better manage their trips through frequent and faster bookings, while providing a variety of options for the experience-seeking customer.",
+  "one_liner": "Provider of travel arrangement services intended to connect multiple service providers and enhance the tourism ecosystem. The company's services allow users to create a group, choose a destination, invite friends, explore accommodations, as well as find and compare flights, enabling consumers to better manage their trips through frequent and faster bookings, while providing a variety of options for the experience-seeking customer.",
+  "location": "Saudi Arabia",
+  "industry": "Travel & Tourism, Social Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e4c66ab3-a0c4-4884-acbb-09adeca8cc5e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Travel & Tourism",
+    "Social Impact"
+  ],
+  "url": "https://500.co/portfolio/bondai",
+  "api": "/companies/bondai.json"
+}

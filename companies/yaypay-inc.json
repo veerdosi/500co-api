@@ -1,0 +1,21 @@
+{
+  "id": 3428,
+  "name": "YayPay, Inc.",
+  "slug": "yaypay-inc",
+  "website": "yaypay.com",
+  "description": "Developer of a SaaS-based predictive AR workflow software designed to accelerate cash flow and automate accounts receivables. The company's predictive AR workflow software is a finance workflow software that automates payment work flows for invoice collection process, leverages data and automatic payment communications, through big data and machine learning algorithms in order to measures credit risk and historical payment behavior of debtors, enabling back-office finance teams to accelerate collections, improve customer relationships and predict cash flow.",
+  "one_liner": "Developer of a SaaS-based predictive AR workflow software designed to accelerate cash flow and automate accounts receivables. The company's predictive AR workflow software is a finance workflow software that automates payment work flows for invoice collection process, leverages data and automatic payment communications, through big data and machine learning algorithms in order to measures credit risk and historical payment behavior of debtors, enabling back-office finance teams to accelerate collections, improve customer relationships and predict cash flow.",
+  "location": "United States",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/1fabae39-7135-4844-b1ae-1fd09999889d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/yaypay-inc",
+  "api": "/companies/yaypay-inc.json"
+}

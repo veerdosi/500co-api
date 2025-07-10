@@ -1,0 +1,22 @@
+{
+  "id": 4791,
+  "name": "TravelJoy, Inc.",
+  "slug": "traveljoy",
+  "website": "traveljoy.com",
+  "description": "Operator of a travel management platform intended to help tourism industries book ideal clients faster, with less legwork. The company's platform offers simple tools with a modern and digital trip planning experience, enabling businesses to book clients and run their travel business effectively with simple invoicing and secure payments.",
+  "one_liner": "Operator of a travel management platform intended to help tourism industries book ideal clients faster, with less legwork. The company's platform offers simple tools with a modern and digital trip planning experience, enabling businesses to book clients and run their travel business effectively with simple invoicing and secure payments.",
+  "location": "United States",
+  "industry": "Marketplace, Travel & Tourism",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/384b8b86-9130-489f-bed2-8bc169a681de.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Marketplace",
+    "Travel & Tourism"
+  ],
+  "url": "https://500.co/portfolio/traveljoy",
+  "api": "/companies/traveljoy.json"
+}

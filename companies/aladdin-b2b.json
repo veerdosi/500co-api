@@ -1,0 +1,21 @@
+{
+  "id": 2817,
+  "name": "AladdinB2B, Inc.",
+  "slug": "aladdin-b2b",
+  "website": "aladdinb2b.com",
+  "description": "Developer of a business-to-business matchmaking and meetings platform designed to facilitate global trade through technology. The company's platform identifies the right suppliers or buyers to meet and close deals that focus on sourcing products and services from the world to the MENA region, enabling business clients to save money and time by going directly to business and trade without the long channel of intermediaries and brokers.",
+  "one_liner": "Developer of a business-to-business matchmaking and meetings platform designed to facilitate global trade through technology. The company's platform identifies the right suppliers or buyers to meet and close deals that focus on sourcing products and services from the world to the MENA region, enabling business clients to save money and time by going directly to business and trade without the long channel of intermediaries and brokers.",
+  "location": "United Arab Emirates",
+  "industry": "Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4fdff0f1-fcf5-40f4-8782-242929fb71f3.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/aladdin-b2b",
+  "api": "/companies/aladdin-b2b.json"
+}

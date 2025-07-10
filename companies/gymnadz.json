@@ -1,0 +1,21 @@
+{
+  "id": 2936,
+  "name": "GymNadz Ltd.",
+  "slug": "gymnadz",
+  "website": "gymnadz.com",
+  "description": "Developer of a fitness application designed to help users get in shape, eat clean and stay on track. The company's application offers short real-time workouts that require very little equipment, clean easy-to-make recipes, and the guidance of a fitness professional, enabling women to monitor their progress and achieve specific fitness goals.",
+  "one_liner": "Developer of a fitness application designed to help users get in shape, eat clean and stay on track. The company's application offers short real-time workouts that require very little equipment, clean easy-to-make recipes, and the guidance of a fitness professional, enabling women to monitor their progress and achieve specific fitness goals.",
+  "location": "Kuwait",
+  "industry": "Wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2a2a9fa5-05fa-445a-9169-03bd93474044.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Wellness"
+  ],
+  "url": "https://500.co/portfolio/gymnadz",
+  "api": "/companies/gymnadz.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3219,
+  "name": "Mubitoperaciones S.A.P.I de C.V.",
+  "slug": "mubit",
+  "website": "mubit.co",
+  "description": "Provider of a storage service intended to store valuables and goods securely. The company allows users to store furniture, files, boxes, and anything they want in macro-warehouses with a single click, enabling individuals to ensure the benefit from hassle-less, economic, and intelligent storage.",
+  "one_liner": "Provider of a storage service intended to store valuables and goods securely. The company allows users to store furniture, files, boxes, and anything they want in macro-warehouses with a single click, enabling individuals to ensure the benefit from hassle-less, economic, and intelligent storage.",
+  "location": "Mexico",
+  "industry": "PropTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/032e6ab4-9825-4c57-b09a-60c3439b4541.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "PropTech"
+  ],
+  "url": "https://500.co/portfolio/mubit",
+  "api": "/companies/mubit.json"
+}

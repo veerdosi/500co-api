@@ -1,0 +1,21 @@
+{
+  "id": 4573,
+  "name": "EMTECH SOLUTIONS INC.",
+  "slug": "emtech",
+  "website": "emtech.com",
+  "description": "Developer of cloud-based software designed to provide central banks with scalable and resilient digital infrastructure. The company offers digital regulatory sandboxes for multi-party collaborative workflows, digital cash, and digital currency integrators for cross-border integration among others, enabling central banks to modernize operations and improve efficiency.",
+  "one_liner": "Developer of cloud-based software designed to provide central banks with scalable and resilient digital infrastructure. The company offers digital regulatory sandboxes for multi-party collaborative workflows, digital cash, and digital currency integrators for cross-border integration among others, enabling central banks to modernize operations and improve efficiency.",
+  "location": "Malaysia",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/feab4579-310d-4a97-8303-33bb98f976f2.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/emtech",
+  "api": "/companies/emtech.json"
+}

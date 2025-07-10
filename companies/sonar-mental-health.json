@@ -1,0 +1,21 @@
+{
+  "id": 5672,
+  "name": "Get Sonar, Inc.",
+  "slug": "sonar-mental-health",
+  "website": "sonarmentalhealth.com",
+  "description": "Developer of digital health technology platform designed to catalyze the world's transition to precise, effective, and preventative mental healthcare. The company's platform identifies when youth are suffering in silence, notifies the adolescent and their parents/caregivers, counselor, or friends based on breadcrumbs left from online activity to facilitate support before a mental health crisis happens, allowing users to proactively measure, identify, and support youth mental health.",
+  "one_liner": "Developer of digital health technology platform designed to catalyze the world's transition to precise, effective, and preventative mental healthcare. The company's platform identifies when youth are suffering in silence, notifies the adolescent and their parents/caregivers, counselor, or friends based on breadcrumbs left from online activity to facilitate support before a mental health crisis happens, allowing users to proactively measure, identify, and support youth mental health.",
+  "location": "United States",
+  "industry": "Health Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/1369a018-b480-4056-8dc7-a1af05395cbc.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Health Tech"
+  ],
+  "url": "https://500.co/portfolio/sonar-mental-health",
+  "api": "/companies/sonar-mental-health.json"
+}

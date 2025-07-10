@@ -1,0 +1,196 @@
+[
+  {
+    "id": 4871,
+    "name": "Avision, Inc.",
+    "slug": "avision",
+    "website": "avision.io",
+    "description": "Developer of an unmanned aerial navigation platform designed to control the communication and navigation of robots and drones. The company's platform is comprised of air traffic control software, drone built-in hardware components, and an integration API that automatically regulates traffic for all UAVs connected to it, enabling aerial industries to manage any number of drones with business applications ranging from entertainment to enterprise logistics.",
+    "one_liner": "Developer of an unmanned aerial navigation platform designed to control the communication and navigation of robots and drones. The company's platform is comprised of air traffic control software, drone built-in hardware components, and an integration API that automatically regulates traffic for all UAVs connected to it, enabling aerial industries to manage any number of drones with business applications ranging from entertainment to enterprise logistics.",
+    "location": "United States",
+    "industry": "Aviation, Robotics, Mobility",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/cfee657d-5952-47c2-8752-7c4eeabcfb51.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Aviation",
+      "Robotics",
+      "Mobility"
+    ],
+    "url": "https://500.co/portfolio/avision",
+    "api": "/companies/avision.json"
+  },
+  {
+    "id": 3207,
+    "name": "Connected Robotics Inc.",
+    "slug": "connected-robotics",
+    "website": "connected-robotics.com",
+    "description": "Developer of cooking robots designed to solve the shortage of labor faced by the Japanese restaurant industry. The company uses artificial intelligence image processing and robot control technologies to bring back happiness to workers by using deep learning to make intelligent robots in the kitchen, enabling clients in restaurants, shopping malls, stations, service areas, amusement centers, and large-scale events to provide fun and healthy meals to consumers and contribute to creating a better society.",
+    "one_liner": "Developer of cooking robots designed to solve the shortage of labor faced by the Japanese restaurant industry. The company uses artificial intelligence image processing and robot control technologies to bring back happiness to workers by using deep learning to make intelligent robots in the kitchen, enabling clients in restaurants, shopping malls, stations, service areas, amusement centers, and large-scale events to provide fun and healthy meals to consumers and contribute to creating a better society.",
+    "location": "Japan",
+    "industry": "Robotics",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/3f3eef51-ff55-4d65-91f1-506e9d2303dd.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Robotics"
+    ],
+    "url": "https://500.co/portfolio/connected-robotics",
+    "api": "/companies/connected-robotics.json"
+  },
+  {
+    "id": 4328,
+    "name": "GITAI USA Inc.",
+    "slug": "gitai",
+    "website": "gitai.tech",
+    "description": "Operator of a space robotics startup intended to conduct tasks in all realms of space development. The company's remote-controlled robots feature low-latency communication and NAT traversal system as well as provide an alternative to human astronauts for long-time work in low earth orbit space stations, enabling space development organizations to reduce the burden on astronauts, shorten the time it takes to perform work in space and reduce costs.",
+    "one_liner": "Operator of a space robotics startup intended to conduct tasks in all realms of space development. The company's remote-controlled robots feature low-latency communication and NAT traversal system as well as provide an alternative to human astronauts for long-time work in low earth orbit space stations, enabling space development organizations to reduce the burden on astronauts, shorten the time it takes to perform work in space and reduce costs.",
+    "location": "Japan",
+    "industry": "Aviation, Robotics",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b18c545d-49d5-4e7f-ab1a-1b582ed44f33.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Aviation",
+      "Robotics"
+    ],
+    "url": "https://500.co/portfolio/gitai",
+    "api": "/companies/gitai.json"
+  },
+  {
+    "id": 5582,
+    "name": "Imajin Technologies Pte Ltd",
+    "slug": "imajin",
+    "website": "imajin.id",
+    "description": "Operator of a manufacturing marketplace intended to build a manufacturing ecosystem in Indonesia. The company specializes in making molds, dies, and parts for CNC machine rental by connecting designers, machine facilities, 3D Printing, and manufacturer expert, enabling founders to create their own products from one single piece to mass production.",
+    "one_liner": "Operator of a manufacturing marketplace intended to build a manufacturing ecosystem in Indonesia. The company specializes in making molds, dies, and parts for CNC machine rental by connecting designers, machine facilities, 3D Printing, and manufacturer expert, enabling founders to create their own products from one single piece to mass production.",
+    "location": "Indonesia",
+    "industry": "Robotics",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/05a93482-3253-44d7-93d7-bc5359ba51fb.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Robotics"
+    ],
+    "url": "https://500.co/portfolio/imajin",
+    "api": "/companies/imajin.json"
+  },
+  {
+    "id": 3202,
+    "name": "Koska, Inc.",
+    "slug": "koska",
+    "website": "www.koska.jp",
+    "description": "Developer of an accounting platform designed to fully visualize invisible costs. The company's platform has a unique ability to visualize the site required for production control and to offer real-time cost accounting calculations, enabling the manufacturing industry to monitor operations as well as the cost of production of their fixed assets which leads to the identification and improvement of profitability.",
+    "one_liner": "Developer of an accounting platform designed to fully visualize invisible costs. The company's platform has a unique ability to visualize the site required for production control and to offer real-time cost accounting calculations, enabling the manufacturing industry to monitor operations as well as the cost of production of their fixed assets which leads to the identification and improvement of profitability.",
+    "location": "Japan",
+    "industry": "Robotics",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/8ae1d6c9-0a48-4b50-95b5-1af54a19d63e.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Robotics"
+    ],
+    "url": "https://500.co/portfolio/koska",
+    "api": "/companies/koska.json"
+  },
+  {
+    "id": 4883,
+    "name": "Mogassam LLC",
+    "slug": "mogassam",
+    "website": "www.mogassam.com",
+    "description": "Manufacturer of automatic digital light processing (DLP) 3D printers designed to bring convenient reliable 3D printing for creative dentists. The company designs manufacture and market DLP 3D printers that help to self-customize and produce their 3D products with affordable price and quality and also offers automated dental CAM software, enabling dentists to demolish all barriers and get a seamless dental 3D printing experience.",
+    "one_liner": "Manufacturer of automatic digital light processing (DLP) 3D printers designed to bring convenient reliable 3D printing for creative dentists. The company designs manufacture and market DLP 3D printers that help to self-customize and produce their 3D products with affordable price and quality and also offers automated dental CAM software, enabling dentists to demolish all barriers and get a seamless dental 3D printing experience.",
+    "location": "Egypt",
+    "industry": "Robotics",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/1740298a-eed7-4b99-a344-60415f2fd746.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Robotics"
+    ],
+    "url": "https://500.co/portfolio/mogassam",
+    "api": "/companies/mogassam.json"
+  },
+  {
+    "id": 5245,
+    "name": "Movel AI Pte Ltd",
+    "slug": "movel-ai",
+    "website": "movel.ai",
+    "description": "Operator of a robotic deployment software solution company intended to simplify the deployment and usage of robots for both hardware companies and end users. The company's platform helps to deploy robots better in a sleek, accurate, and user-friendly manner with advanced deployment solutions to cut down on deployment time and cost, thereby enabling users to get robots up and running quickly, efficiently, and with minimal training.",
+    "one_liner": "Operator of a robotic deployment software solution company intended to simplify the deployment and usage of robots for both hardware companies and end users. The company's platform helps to deploy robots better in a sleek, accurate, and user-friendly manner with advanced deployment solutions to cut down on deployment time and cost, thereby enabling users to get robots up and running quickly, efficiently, and with minimal training.",
+    "location": "Singapore",
+    "industry": "AI/Machine Learning, Logistics, Robotics",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/cf2e7034-1204-4364-8767-4c571e68fc32.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "AI/Machine Learning",
+      "Logistics",
+      "Robotics"
+    ],
+    "url": "https://500.co/portfolio/movel-ai",
+    "api": "/companies/movel-ai.json"
+  },
+  {
+    "id": 3336,
+    "name": "Mycotech Pte. Ltd.",
+    "slug": "mycotech",
+    "website": "mycl.bio",
+    "description": "Producer of mycelium-based composites intended to deliver sustainable materials from renewable resources. The company's composites are affordable, environment-friendly, and recyclable materials from agricultural waste, bound together with mushroom mycelia to form custom shapes such as panels, tiles, cabinetry, and interiors, enabling customers to get durable and lightweight products made from strong and organic fibers.",
+    "one_liner": "Producer of mycelium-based composites intended to deliver sustainable materials from renewable resources. The company's composites are affordable, environment-friendly, and recyclable materials from agricultural waste, bound together with mushroom mycelia to form custom shapes such as panels, tiles, cabinetry, and interiors, enabling customers to get durable and lightweight products made from strong and organic fibers.",
+    "location": "Indonesia",
+    "industry": "Robotics",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/01a40d7d-3692-4c2e-bcd9-0799cffe3779.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Robotics"
+    ],
+    "url": "https://500.co/portfolio/mycotech",
+    "api": "/companies/mycotech.json"
+  },
+  {
+    "id": 2822,
+    "name": "Simplex For Industrial Solutions Limited",
+    "slug": "simplex",
+    "website": "simplexarabia.com",
+    "description": "Manufacturer of computer numerical control machines designed to provide automated cutting and engraving of wooden and marble works. The company's machines are of different features to satisfy the customer's needs, which can reduce waste, frequency of errors, and the time the finished product takes to get to market, enabling clients to save time and increase productivity of their business.",
+    "one_liner": "Manufacturer of computer numerical control machines designed to provide automated cutting and engraving of wooden and marble works. The company's machines are of different features to satisfy the customer's needs, which can reduce waste, frequency of errors, and the time the finished product takes to get to market, enabling clients to save time and increase productivity of their business.",
+    "location": "Egypt",
+    "industry": "Robotics",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/71de0623-9d53-4154-9222-b88112eaf674.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Robotics"
+    ],
+    "url": "https://500.co/portfolio/simplex",
+    "api": "/companies/simplex.json"
+  }
+]

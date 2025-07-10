@@ -1,0 +1,21 @@
+{
+  "id": 2824,
+  "name": "Voo Services Ltd.",
+  "slug": "sideup",
+  "website": "sa.sideup.co",
+  "description": "Provider of e-commerce middleman shipping services intended to connect business owners with the best match of couriers. The company manages and follows the last-mile delivery with courier companies and offers different payment options, a dashboard to extract data and numbers to analyze and compare profits and revenue on a given date, pickups, and insurance options for the products, enabling small and medium enterprises to cut costs, find preferred couriers and increase the delivery success rate.",
+  "one_liner": "Provider of e-commerce middleman shipping services intended to connect business owners with the best match of couriers. The company manages and follows the last-mile delivery with courier companies and offers different payment options, a dashboard to extract data and numbers to analyze and compare profits and revenue on a given date, pickups, and insurance options for the products, enabling small and medium enterprises to cut costs, find preferred couriers and increase the delivery success rate.",
+  "location": "Egypt",
+  "industry": "Supply Chain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d010eb67-157a-4343-b099-b2e07f663cb5.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Supply Chain"
+  ],
+  "url": "https://500.co/portfolio/sideup",
+  "api": "/companies/sideup.json"
+}

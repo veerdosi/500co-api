@@ -1,0 +1,21 @@
+{
+  "id": 3810,
+  "name": "VR Motion Corp.",
+  "slug": "vr-motion",
+  "website": "vrmotioncorp.com",
+  "description": "Developer of VR enterprise software and hardware designed to improve driver training. The company's platform provides ultra-realistic virtual reality driver training systems to companies in the public, commercial, and private sectors for logistics controlling, enabling transportation and distribution industry clients to reduce the cost and risk to hire and retain employees.",
+  "one_liner": "Developer of VR enterprise software and hardware designed to improve driver training. The company's platform provides ultra-realistic virtual reality driver training systems to companies in the public, commercial, and private sectors for logistics controlling, enabling transportation and distribution industry clients to reduce the cost and risk to hire and retain employees.",
+  "location": "United States",
+  "industry": "Automotive",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/14109e31-8761-4832-b491-c8cf3be5e682.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Automotive"
+  ],
+  "url": "https://500.co/portfolio/vr-motion",
+  "api": "/companies/vr-motion.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5336,
+  "name": "214 Technologies Inc.",
+  "slug": "214-technologies-inc",
+  "website": "trueface.ai",
+  "description": "Provider of computer vision solutions that augment any existing camera feed into intelligent, actionable data capable of identifying persons of interest, objects and more.",
+  "one_liner": "Provider of computer vision solutions that augment any existing camera feed into intelligent, actionable data capable of identifying persons of interest, objects and more.",
+  "location": "United States",
+  "industry": "AI/Machine Learning",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/1a4487ff-6ace-433f-b711-7d0a3906875b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning"
+  ],
+  "url": "https://500.co/portfolio/214-technologies-inc",
+  "api": "/companies/214-technologies-inc.json"
+}

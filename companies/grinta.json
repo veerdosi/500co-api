@@ -1,0 +1,21 @@
+{
+  "id": 5572,
+  "name": "Grinta Inc",
+  "slug": "grinta",
+  "website": "grinta.ai",
+  "description": "Operator of a marketplace platform intended to modernize the pharmaceutical supply chain. The company works with all stakeholders including manufacturers, distributors, wholesalers, and pharmacies across the pharmaceutical value chain to build a data-driven, reliable, and efficient pharmaceutical supply chain by integrating artificial intelligence and machine learning technologies on its platform, enabling customers with a user-friendly experience and giving access to the full spectrum of traceable and trackable pharmaceutical and medical products from multiple vendors.",
+  "one_liner": "Operator of a marketplace platform intended to modernize the pharmaceutical supply chain. The company works with all stakeholders including manufacturers, distributors, wholesalers, and pharmacies across the pharmaceutical value chain to build a data-driven, reliable, and efficient pharmaceutical supply chain by integrating artificial intelligence and machine learning technologies on its platform, enabling customers with a user-friendly experience and giving access to the full spectrum of traceable and trackable pharmaceutical and medical products from multiple vendors.",
+  "location": "Egypt",
+  "industry": "Wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/34e95e1b-9a1b-47f4-af4e-fc7924cd259a.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Wellness"
+  ],
+  "url": "https://500.co/portfolio/grinta",
+  "api": "/companies/grinta.json"
+}

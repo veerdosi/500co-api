@@ -1,0 +1,162 @@
+[
+  {
+    "id": 5562,
+    "name": "TECH FOR GOOD, LLC",
+    "slug": "blau-corp",
+    "website": "www.blaucorp.com",
+    "description": "Developer of a digital waste management platform designed to achieve a systemic change. The company's platform helps to democratize technology for the entire waste management sector with innovative, accessible, and easy-to-use technology, enabling collection companies to monitor their operation, automatically know the kilos they collect, and analyze their data so that they can optimize their business and reduce their costs.",
+    "one_liner": "Developer of a digital waste management platform designed to achieve a systemic change. The company's platform helps to democratize technology for the entire waste management sector with innovative, accessible, and easy-to-use technology, enabling collection companies to monitor their operation, automatically know the kilos they collect, and analyze their data so that they can optimize their business and reduce their costs.",
+    "location": "Mexico",
+    "industry": "AI/Machine Learning, CleanTech, B2B Marketplaces",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/4b040099-007a-4463-b566-0b7a4ea2f02d.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "AI/Machine Learning",
+      "CleanTech",
+      "B2B Marketplaces"
+    ],
+    "url": "https://500.co/portfolio/blau-corp",
+    "api": "/companies/blau-corp.json"
+  },
+  {
+    "id": 8369,
+    "name": "FairPay Ltd.",
+    "slug": "carbonsifr",
+    "website": "www.carbonsifr.com",
+    "description": "CarbonSifr is Shopify for decarbonization",
+    "one_liner": "CarbonSifr is Shopify for decarbonization",
+    "location": "United Arab Emirates",
+    "industry": "AI/Machine Learning, CleanTech, Climate Tech",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/7083c301-941e-407a-953e-d24005d9a37d.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "AI/Machine Learning",
+      "CleanTech",
+      "Climate Tech"
+    ],
+    "url": "https://500.co/portfolio/carbonsifr",
+    "api": "/companies/carbonsifr.json"
+  },
+  {
+    "id": 8388,
+    "name": "GeoGrid",
+    "slug": "geogrid",
+    "website": "www.egeogrid.com",
+    "description": "Provider of water infrastructure technology, offering building-wide purification and predictive analytics through proprietary pipeline coating and monitoring solutions.",
+    "one_liner": "Provider of water infrastructure technology, offering building-wide purification and predictive analytics through proprietary pipeline coating and monitoring solutions.",
+    "location": "KOREA, REPUBLIC OF",
+    "industry": "CleanTech, Hardware",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/ec3ea967-6e47-4e6b-925d-ef71c4b8fd62.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "CleanTech",
+      "Hardware"
+    ],
+    "url": "https://500.co/portfolio/geogrid",
+    "api": "/companies/geogrid.json"
+  },
+  {
+    "id": 5176,
+    "name": "Krosslinker Pte. Ltd.",
+    "slug": "krosslinker",
+    "website": "www.krosslinker.com",
+    "description": "Developer of a thermal insulation material designed to tackle the demanding challenges of cold-chain bio-pharmaceutical packaging. The company's material offers enhanced insulation performance, durability, and moisture resistance, and is eco-friendly, enabling clients to have a safe handling of bio-pharma products.",
+    "one_liner": "Developer of a thermal insulation material designed to tackle the demanding challenges of cold-chain bio-pharmaceutical packaging. The company's material offers enhanced insulation performance, durability, and moisture resistance, and is eco-friendly, enabling clients to have a safe handling of bio-pharma products.",
+    "location": "Singapore",
+    "industry": "CleanTech, Energy, Sustainability",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/790bd09e-e6cf-4f0d-8760-beb726d5e561.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "CleanTech",
+      "Energy",
+      "Sustainability"
+    ],
+    "url": "https://500.co/portfolio/krosslinker",
+    "api": "/companies/krosslinker.json"
+  },
+  {
+    "id": 3093,
+    "name": "Seppure Pte. Ltd.",
+    "slug": "seppure",
+    "website": "seppure.com",
+    "description": "Developer of a nano-filtration technology designed to revolutionize chemical separation and purification in multiple industries. The company's technology provides a sustainable package for industrial chemical separations by replacing the current distillation process with chemical-resistant nano-filtration membranes, enabling clients to lower global energy use, emissions, and pollution substantially.",
+    "one_liner": "Developer of a nano-filtration technology designed to revolutionize chemical separation and purification in multiple industries. The company's technology provides a sustainable package for industrial chemical separations by replacing the current distillation process with chemical-resistant nano-filtration membranes, enabling clients to lower global energy use, emissions, and pollution substantially.",
+    "location": "Singapore",
+    "industry": "CleanTech, Climate Tech, Manufacturing",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/8f712650-bda7-44c2-a761-c2f76e6d34b5.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "CleanTech",
+      "Climate Tech",
+      "Manufacturing"
+    ],
+    "url": "https://500.co/portfolio/seppure",
+    "api": "/companies/seppure.json"
+  },
+  {
+    "id": 5409,
+    "name": "SUSTAINFI INC.",
+    "slug": "sustainfi",
+    "website": "www.sustainfi.com",
+    "description": "Developer of carbon project finance platform designed to connect investors who want to invest sustainably with the products and services. The company's platform makes environmental, social, and governance (ESG) and sustainable investing simple to understand, enabling investors to find investments that will do well in the climate transition, and companies with strong environmental, social, or governance scores",
+    "one_liner": "Developer of carbon project finance platform designed to connect investors who want to invest sustainably with the products and services. The company's platform makes environmental, social, and governance (ESG) and sustainable investing simple to understand, enabling investors to find investments that will do well in the climate transition, and companies with strong environmental, social, or governance scores",
+    "location": "United States",
+    "industry": "CleanTech, Climate Tech, FinTech",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7145eef3-77a0-487f-b7ea-6cd57dcf0d3a.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "CleanTech",
+      "Climate Tech",
+      "FinTech"
+    ],
+    "url": "https://500.co/portfolio/sustainfi",
+    "api": "/companies/sustainfi.json"
+  },
+  {
+    "id": 5474,
+    "name": "Sweater Holding Ltd",
+    "slug": "sweater",
+    "website": "sweater.sa",
+    "description": "Developer of booking platform intended to provide car washing services. The company allows users to book appointments through its application and provides easy and convenient services, helping customers to get the car washing service at the right time and place at a competitive price.",
+    "one_liner": "Developer of booking platform intended to provide car washing services. The company allows users to book appointments through its application and provides easy and convenient services, helping customers to get the car washing service at the right time and place at a competitive price.",
+    "location": "Saudi Arabia",
+    "industry": "CleanTech, SaaS, Consumer",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/cc976877-3ec8-424b-a941-7f388d721c18.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "CleanTech",
+      "SaaS",
+      "Consumer"
+    ],
+    "url": "https://500.co/portfolio/sweater",
+    "api": "/companies/sweater.json"
+  }
+]

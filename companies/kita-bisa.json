@@ -1,0 +1,21 @@
+{
+  "id": 5204,
+  "name": "PT Kita Bisa Indonesia",
+  "slug": "kita-bisa",
+  "website": "kitabisa.com",
+  "description": "Operator of an online fundraising and donation platform intended to facilitate crowdfunding. The company's platform connects fundraisers with donors and offers transparent and accountable fundraising, enabling users to launch crowdfunding campaigns or donate to social causes online.",
+  "one_liner": "Operator of an online fundraising and donation platform intended to facilitate crowdfunding. The company's platform connects fundraisers with donors and offers transparent and accountable fundraising, enabling users to launch crowdfunding campaigns or donate to social causes online.",
+  "location": "Indonesia",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7b3dbe7c-1f26-4707-9c96-a672d21ea3d6.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/kita-bisa",
+  "api": "/companies/kita-bisa.json"
+}

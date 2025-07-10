@@ -1,0 +1,21 @@
+{
+  "id": 4091,
+  "name": "Divshot, Inc.",
+  "slug": "divshot-inc",
+  "website": "divshot.com",
+  "description": "Provider of a browser-based, front-end development platform for responsive web applications. The company has developed a web application interface for designing webpages and exporting them to HTML5/CSS3.",
+  "one_liner": "Provider of a browser-based, front-end development platform for responsive web applications. The company has developed a web application interface for designing webpages and exporting them to HTML5/CSS3.",
+  "location": "United States",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7bbc410b-b599-405b-944b-5359f92a7214.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/divshot-inc",
+  "api": "/companies/divshot-inc.json"
+}

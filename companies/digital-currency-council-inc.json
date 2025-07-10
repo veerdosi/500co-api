@@ -1,0 +1,21 @@
+{
+  "id": 3997,
+  "name": "Digital Currency Council, Inc.",
+  "slug": "digital-currency-council-inc",
+  "website": "sabr.io",
+  "description": "Developer of a software designed to monitors multiple blockchains to identify and locate criminal activity. The company's software aims to ensure that bitcoin and other digital currencies are not utilized for illicit purposes, enabling law enforcement agencies to identify and locate criminal activities.",
+  "one_liner": "Developer of a software designed to monitors multiple blockchains to identify and locate criminal activity. The company's software aims to ensure that bitcoin and other digital currencies are not utilized for illicit purposes, enabling law enforcement agencies to identify and locate criminal activities.",
+  "location": "United States",
+  "industry": "Government",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Government"
+  ],
+  "url": "https://500.co/portfolio/digital-currency-council-inc",
+  "api": "/companies/digital-currency-council-inc.json"
+}

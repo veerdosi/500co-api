@@ -1,0 +1,21 @@
+{
+  "id": 3210,
+  "name": "LECO COMERCIO, S.A.P.I. DE C.V.",
+  "slug": "leco",
+  "website": "www.leco.mx",
+  "description": "Operator of an on-demand optical prescription platform intended to make eyewear accessible. The company's platform offers eye checkups, home eye tests, and various types of eyeglasses, and contact lenses, enabling individuals to get visual health checkups without going to the doctor.",
+  "one_liner": "Operator of an on-demand optical prescription platform intended to make eyewear accessible. The company's platform offers eye checkups, home eye tests, and various types of eyeglasses, and contact lenses, enabling individuals to get visual health checkups without going to the doctor.",
+  "location": "Mexico",
+  "industry": "Ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/38b32be4-4e6c-447b-985b-f4f9e2fd459b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Ecommerce"
+  ],
+  "url": "https://500.co/portfolio/leco",
+  "api": "/companies/leco.json"
+}

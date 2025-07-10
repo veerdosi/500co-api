@@ -1,0 +1,21 @@
+{
+  "id": 3727,
+  "name": "MogoTix, Inc.",
+  "slug": "mogotix-inc",
+  "website": "mogotix.com",
+  "description": "Provider of a mobile ticketing service for events. The company's services are used to send event tickets to attendees' cell phones through text messages for parties, fundraisers and conferences.",
+  "one_liner": "Provider of a mobile ticketing service for events. The company's services are used to send event tickets to attendees' cell phones through text messages for parties, fundraisers and conferences.",
+  "location": "United States",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/mogotix-inc",
+  "api": "/companies/mogotix-inc.json"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 5735,
+  "name": "Arena Games Platform Inc.",
+  "slug": "arenavs",
+  "website": "arenavs.com",
+  "description": "ArenaVS is an AI-native Web3 marketplace for launching, trading, and managing tokenized digital assets",
+  "one_liner": "ArenaVS is an AI-native Web3 marketplace for launching, trading, and managing tokenized digital assets",
+  "location": "Georgia",
+  "industry": "AI/Machine Learning, Blockchain, Web 3",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/b0067a47-0579-49f1-ba25-ed0e2fc49daf.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "Blockchain",
+    "Web 3"
+  ],
+  "url": "https://500.co/portfolio/arenavs",
+  "api": "/companies/arenavs.json"
+}

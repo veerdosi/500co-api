@@ -1,0 +1,21 @@
+{
+  "id": 4177,
+  "name": "MeUndies, Inc.",
+  "slug": "meundies",
+  "website": "www.meundies.com",
+  "description": "Manufacturer of underwear and loungewear for men and women. The company offers bralettes, socks, swimwear, hoodies, robes, headbands and buddy bands, thereby enabling customers with comfortable and fast-trend undies and apparel at an affordable rate.",
+  "one_liner": "Manufacturer of underwear and loungewear for men and women. The company offers bralettes, socks, swimwear, hoodies, robes, headbands and buddy bands, thereby enabling customers with comfortable and fast-trend undies and apparel at an affordable rate.",
+  "location": "United States",
+  "industry": "Fashion",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/79309f37-f636-459b-9ff2-617373f6f89a.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion"
+  ],
+  "url": "https://500.co/portfolio/meundies",
+  "api": "/companies/meundies.json"
+}

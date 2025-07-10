@@ -1,0 +1,22 @@
+{
+  "id": 5083,
+  "name": "Shuttle Central Inc.",
+  "slug": "shuttle-central",
+  "website": "shuttlecentral.com",
+  "description": "Operator of an online mobility and transportation platform intended to help travel companies boost revenue by offering add-ons to their customers starting with airport rides. The company's platform connects local transportation services into one place and provides them with the necessary technology, enabling travelers to move easily around the world.",
+  "one_liner": "Operator of an online mobility and transportation platform intended to help travel companies boost revenue by offering add-ons to their customers starting with airport rides. The company's platform connects local transportation services into one place and provides them with the necessary technology, enabling travelers to move easily around the world.",
+  "location": "Mexico",
+  "industry": "Logistics, Travel & Tourism",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/23f83518-aba5-4a6f-8a66-c2b9f781cca3.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Logistics",
+    "Travel & Tourism"
+  ],
+  "url": "https://500.co/portfolio/shuttle-central",
+  "api": "/companies/shuttle-central.json"
+}

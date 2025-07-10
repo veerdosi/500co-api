@@ -1,0 +1,21 @@
+{
+  "id": 3355,
+  "name": "Xoai Technologies Pte. Ltd.",
+  "slug": "papaya",
+  "website": "www.papaya.asia",
+  "description": "Provider of insurance services intended to provide personalized healthcare choices and make the insurance process easy. The company offers an administration portal for corporate to manage all employee benefits aspects with an application, it also provides car accident insurance and motorcycle insurance, enabling businesses to simplify benefits administration.",
+  "one_liner": "Provider of insurance services intended to provide personalized healthcare choices and make the insurance process easy. The company offers an administration portal for corporate to manage all employee benefits aspects with an application, it also provides car accident insurance and motorcycle insurance, enabling businesses to simplify benefits administration.",
+  "location": "Vietnam",
+  "industry": "InsurTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "InsurTech"
+  ],
+  "url": "https://500.co/portfolio/papaya",
+  "api": "/companies/papaya.json"
+}

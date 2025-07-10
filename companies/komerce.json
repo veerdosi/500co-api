@@ -1,0 +1,21 @@
+{
+  "id": 5632,
+  "name": "PT Kampung Marketerindo Berdaya",
+  "slug": "komerce",
+  "website": "komerce.id",
+  "description": "Operator of an end-to-end e-commerce platform designed for effective and integrated online business development. The company platform provides e-commerce talents and helps improve sales performance by providing trained talent support, order delivery platforms, and warehouse management, enabling small and medium enterprises to recruit for their internet commerce operations.",
+  "one_liner": "Operator of an end-to-end e-commerce platform designed for effective and integrated online business development. The company platform provides e-commerce talents and helps improve sales performance by providing trained talent support, order delivery platforms, and warehouse management, enabling small and medium enterprises to recruit for their internet commerce operations.",
+  "location": "Indonesia",
+  "industry": "SME Solution",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/a54eef39-c264-4bdc-a58d-296506906a78.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "SME Solution"
+  ],
+  "url": "https://500.co/portfolio/komerce",
+  "api": "/companies/komerce.json"
+}

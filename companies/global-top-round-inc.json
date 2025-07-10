@@ -1,0 +1,21 @@
+{
+  "id": 3408,
+  "name": "GXC, Inc.",
+  "slug": "global-top-round-inc",
+  "website": "globaltopround.com",
+  "description": "Operator of an acceleration and incubation program intended to support small studios from all over the world with development, publishing, and fundraising. The company's program offers funding, game development and support, global publisher exposure, fundraising assistance, and an extensive global network of professionals to give them the feedback they need to establish their studios and projects, enabling mobile game developers to get financial support for their game development publishing.",
+  "one_liner": "Operator of an acceleration and incubation program intended to support small studios from all over the world with development, publishing, and fundraising. The company's program offers funding, game development and support, global publisher exposure, fundraising assistance, and an extensive global network of professionals to give them the feedback they need to establish their studios and projects, enabling mobile game developers to get financial support for their game development publishing.",
+  "location": "United States",
+  "industry": "Gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/4e741c72-ad44-4259-a7ca-bf6ab9d47b04.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Gaming"
+  ],
+  "url": "https://500.co/portfolio/global-top-round-inc",
+  "api": "/companies/global-top-round-inc.json"
+}

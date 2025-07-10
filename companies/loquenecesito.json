@@ -1,0 +1,21 @@
+{
+  "id": 4448,
+  "name": "LQN Technologies, Inc",
+  "slug": "loquenecesito",
+  "website": "loquenecesito.co",
+  "description": "Developer of a property search engine designed to choose housing credit options. The company's platform accompanies and advises the buyer and seller throughout their search and negotiation process and provides a list of property details and accompanies buyers in the process of acquiring credit and reducing the time from the request to its disbursement, enabling buyers and sellers to save time, and money and increase the effectiveness of closing businesses.",
+  "one_liner": "Developer of a property search engine designed to choose housing credit options. The company's platform accompanies and advises the buyer and seller throughout their search and negotiation process and provides a list of property details and accompanies buyers in the process of acquiring credit and reducing the time from the request to its disbursement, enabling buyers and sellers to save time, and money and increase the effectiveness of closing businesses.",
+  "location": "Colombia",
+  "industry": "PropTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/21f937c9-dae9-4e68-9384-ab516826341d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "PropTech"
+  ],
+  "url": "https://500.co/portfolio/loquenecesito",
+  "api": "/companies/loquenecesito.json"
+}

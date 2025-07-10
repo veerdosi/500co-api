@@ -1,0 +1,21 @@
+{
+  "id": 3829,
+  "name": "Statsbot, Inc.",
+  "slug": "cube-dev",
+  "website": "cube.dev",
+  "description": "Developer of an analytical application platform designed to build internal business intelligence tools and add customer-facing analytics to existing applications. The company's platform effectively handles data volumes up to trillions of data points and provides built-in security and scales to thousands of customers, enabling clients to fetch data instead of pre-built visualizations.",
+  "one_liner": "Developer of an analytical application platform designed to build internal business intelligence tools and add customer-facing analytics to existing applications. The company's platform effectively handles data volumes up to trillions of data points and provides built-in security and scales to thousands of customers, enabling clients to fetch data instead of pre-built visualizations.",
+  "location": "Hong Kong",
+  "industry": "Productivity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d99c1226-84b5-409c-a316-9d2d65330156.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Productivity"
+  ],
+  "url": "https://500.co/portfolio/cube-dev",
+  "api": "/companies/cube-dev.json"
+}

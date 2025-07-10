@@ -1,0 +1,24 @@
+{
+  "id": 2875,
+  "name": "Alphaus Inc.",
+  "slug": "alphaus-cloud-",
+  "website": "alphaus.cloud",
+  "description": "Developer of a software-as-a-service platform designed to seamlessly automate the daily operations of cloud lifecycle management. The company's platform helps AWS (Amazon Web Services), Azure & Google Cloud partners, and user enterprises to understand complicated cloud spend, allocate it to each client or business unit with accuracy, and optimize it with a better way of procurement, enabling businesses to optimize their cloud costs via accounts, tags, products or departments.",
+  "one_liner": "Developer of a software-as-a-service platform designed to seamlessly automate the daily operations of cloud lifecycle management. The company's platform helps AWS (Amazon Web Services), Azure & Google Cloud partners, and user enterprises to understand complicated cloud spend, allocate it to each client or business unit with accuracy, and optimize it with a better way of procurement, enabling businesses to optimize their cloud costs via accounts, tags, products or departments.",
+  "location": "Japan",
+  "industry": "CloudTech, DevOps, Developer Tools, FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/fcca0e85-0e0f-42ad-9eb7-a8614797e6a0.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "CloudTech",
+    "DevOps",
+    "Developer Tools",
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/alphaus-cloud-",
+  "api": "/companies/alphaus-cloud-.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4234,
+  "name": "Speek, Inc.",
+  "slug": "speek-inc",
+  "website": "speek.com",
+  "description": "Provider of an alternative service to conference calls for both web and mobile users. The company provides a conference calling services with a visual interface, which uses a personal and business link instead of a phone number for conference calls.",
+  "one_liner": "Provider of an alternative service to conference calls for both web and mobile users. The company provides a conference calling services with a visual interface, which uses a personal and business link instead of a phone number for conference calls.",
+  "location": "United States",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/speek-inc",
+  "api": "/companies/speek-inc.json"
+}

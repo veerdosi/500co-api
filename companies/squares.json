@@ -1,0 +1,21 @@
+{
+  "id": 5744,
+  "name": "Squares App, Inc.",
+  "slug": "squares",
+  "website": "squares.kz",
+  "description": "Squares transforms the process of event hosting and workspace flexibility with a platform that gives you access to 2000+ locations where you can work, meet and create.",
+  "one_liner": "Squares transforms the process of event hosting and workspace flexibility with a platform that gives you access to 2000+ locations where you can work, meet and create.",
+  "location": "Kazakhstan",
+  "industry": "Ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d512a896-3467-4e4a-9e27-9f566075f85a.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Ecommerce"
+  ],
+  "url": "https://500.co/portfolio/squares",
+  "api": "/companies/squares.json"
+}

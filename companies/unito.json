@@ -1,0 +1,22 @@
+{
+  "id": 2865,
+  "name": "Unito Inc.",
+  "slug": "unito",
+  "website": "unito.io",
+  "description": "Developer of a project management platform designed to integrate disparate SaaS applications and to synchronize projects, tasks, and conversations between different applications. The company's platform helps to work seamlessly without switching applications all the time, choose what to sync between tools, and copy a few tasks or entire projects from multiple tools, enabling businesses to be productive and have enhanced team collaboration.",
+  "one_liner": "Developer of a project management platform designed to integrate disparate SaaS applications and to synchronize projects, tasks, and conversations between different applications. The company's platform helps to work seamlessly without switching applications all the time, choose what to sync between tools, and copy a few tasks or entire projects from multiple tools, enabling businesses to be productive and have enhanced team collaboration.",
+  "location": "Canada",
+  "industry": "Productivity, Work",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/42ae4b51-8524-4494-aa3b-c31e01f000e1.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Productivity",
+    "Work"
+  ],
+  "url": "https://500.co/portfolio/unito",
+  "api": "/companies/unito.json"
+}

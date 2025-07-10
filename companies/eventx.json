@@ -1,0 +1,21 @@
+{
+  "id": 5261,
+  "name": "EventXtra Limited",
+  "slug": "eventx",
+  "website": "www.eventx.io",
+  "description": "Developer of virtual event platform designed to help enterprises manage big events online. The company's platform allows enterprises to have their exhibitions, job fairs and trade shows online, provides real time registration, event management services and event organizing services that helps event organizers with guest check-ins and walk-in on-site registration, providing a one-stop platform for event management and organization.",
+  "one_liner": "Developer of virtual event platform designed to help enterprises manage big events online. The company's platform allows enterprises to have their exhibitions, job fairs and trade shows online, provides real time registration, event management services and event organizing services that helps event organizers with guest check-ins and walk-in on-site registration, providing a one-stop platform for event management and organization.",
+  "location": "Hong Kong",
+  "industry": "Entertainment / Media",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/fb63e997-ad51-43dc-9360-3d78394c89f5.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Entertainment / Media"
+  ],
+  "url": "https://500.co/portfolio/eventx",
+  "api": "/companies/eventx.json"
+}

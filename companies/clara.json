@@ -1,0 +1,21 @@
+{
+  "id": 2820,
+  "name": "Lex Labs Holdings, Inc",
+  "slug": "clara",
+  "website": "clara.co",
+  "description": "Developer of a legal operating platform designed to digitize and automate startup legal expertise. The company's platform automates repetitive tasks including drafting agreements, educating founders on key legal topics, creating cap tables and due diligence summaries, and also builds data rooms to present a startup's entire legal structure in a single visual, enabling clients to execute agreements, manage stakeholders and make more informed decisions, all from a single platform.",
+  "one_liner": "Developer of a legal operating platform designed to digitize and automate startup legal expertise. The company's platform automates repetitive tasks including drafting agreements, educating founders on key legal topics, creating cap tables and due diligence summaries, and also builds data rooms to present a startup's entire legal structure in a single visual, enabling clients to execute agreements, manage stakeholders and make more informed decisions, all from a single platform.",
+  "location": "United Arab Emirates",
+  "industry": "Legal",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/9e5520ba-625c-4074-af7a-440fad25374d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Legal"
+  ],
+  "url": "https://500.co/portfolio/clara",
+  "api": "/companies/clara.json"
+}

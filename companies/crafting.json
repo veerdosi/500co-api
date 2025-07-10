@@ -1,0 +1,21 @@
+{
+  "id": 5260,
+  "name": "Crafting, Inc.",
+  "slug": "crafting",
+  "website": "www.crafting.dev",
+  "description": "Developer of a fully managed cloud development environment platform designed to provide a full-fledged developer environment on the cloud for multi-service apps. The company's platform offers production-like development environments on cloud, up and running with one click to code, run, test, debug and preview their end-to-end product instantly and interactively on cloud, enabling customers to develop and test applications in a production-like environment, without having to worry about managing and maintaining infrastructure.",
+  "one_liner": "Developer of a fully managed cloud development environment platform designed to provide a full-fledged developer environment on the cloud for multi-service apps. The company's platform offers production-like development environments on cloud, up and running with one click to code, run, test, debug and preview their end-to-end product instantly and interactively on cloud, enabling customers to develop and test applications in a production-like environment, without having to worry about managing and maintaining infrastructure.",
+  "location": "United States",
+  "industry": "CloudTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/e1b51ff9-a2a6-4d01-b357-3a813ed7302e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "CloudTech"
+  ],
+  "url": "https://500.co/portfolio/crafting",
+  "api": "/companies/crafting.json"
+}

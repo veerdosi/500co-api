@@ -1,0 +1,21 @@
+{
+  "id": 5208,
+  "name": "SlideRule Labs, Inc.",
+  "slug": "springboard",
+  "website": "www.springboard.com",
+  "description": "Developer of an educational platform designed to make quality education accessible to everyone. The company's workforce upskilling platform offers online courses with one-to-one mentorship and job placement support, enabling people to break into in-demand tech careers in data science, UX design, and software engineering.",
+  "one_liner": "Developer of an educational platform designed to make quality education accessible to everyone. The company's workforce upskilling platform offers online courses with one-to-one mentorship and job placement support, enabling people to break into in-demand tech careers in data science, UX design, and software engineering.",
+  "location": "United States",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/3b2807bc-64f5-4131-9b0c-d37a43ee5555.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/springboard",
+  "api": "/companies/springboard.json"
+}

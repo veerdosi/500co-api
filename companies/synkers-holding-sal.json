@@ -1,0 +1,21 @@
+{
+  "id": 2987,
+  "name": "Synkers (Holding) SAL",
+  "slug": "synkers-holding-sal",
+  "website": "synkers.com",
+  "description": "Developer of a mobile-based tutoring platform intended to connect students seeking help in a specific course to private tutors. The company's tutoring platform connects students to tutors based on their preferences such as location, rating, availability, and other related factors, enabling students to enhance their academic performance.",
+  "one_liner": "Developer of a mobile-based tutoring platform intended to connect students seeking help in a specific course to private tutors. The company's tutoring platform connects students to tutors based on their preferences such as location, rating, availability, and other related factors, enabling students to enhance their academic performance.",
+  "location": "Lebanon",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/synkers-holding-sal",
+  "api": "/companies/synkers-holding-sal.json"
+}

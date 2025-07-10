@@ -1,0 +1,21 @@
+{
+  "id": 3036,
+  "name": "Cocos Expedition Corp",
+  "slug": "combo",
+  "website": "combonetwork.io",
+  "description": "Developer of a decentralized gaming and digital assets development platform designed to support multiple blockchain systems. The company's platform creates an integrated multi-platform runtime environment which brings a whole new gaming experience, and an unprecedented gaming status wherein all the assets obtained in the games are wholly owned by the gamers, thus providing developers with the convenience and completeness of game development.",
+  "one_liner": "Developer of a decentralized gaming and digital assets development platform designed to support multiple blockchain systems. The company's platform creates an integrated multi-platform runtime environment which brings a whole new gaming experience, and an unprecedented gaming status wherein all the assets obtained in the games are wholly owned by the gamers, thus providing developers with the convenience and completeness of game development.",
+  "location": "China",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/314ffe0d-7cad-4f9a-a1cd-cd0f11cb3eb1.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/combo",
+  "api": "/companies/combo.json"
+}

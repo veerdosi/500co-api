@@ -1,0 +1,21 @@
+{
+  "id": 4623,
+  "name": "Oddup, Inc.",
+  "slug": "oddup",
+  "website": "www.oddup.com",
+  "description": "Developer of a data-driven research platform designed to provide analytical information on startups. The company's platform offers analysis of startups, investors and ecosystems, enabling investors to make informed investment decision with data, rating and a viewpoint.",
+  "one_liner": "Developer of a data-driven research platform designed to provide analytical information on startups. The company's platform offers analysis of startups, investors and ecosystems, enabling investors to make informed investment decision with data, rating and a viewpoint.",
+  "location": "Hong Kong",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e08c5574-e1a0-4237-a64c-f33e80243869.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/oddup",
+  "api": "/companies/oddup.json"
+}

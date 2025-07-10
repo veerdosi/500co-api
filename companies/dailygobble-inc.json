@@ -1,0 +1,21 @@
+{
+  "id": 4802,
+  "name": "DailyGobble, Inc.",
+  "slug": "dailygobble-inc",
+  "website": "relevantmobile.com",
+  "description": "Developer of customized loyalty applications designed to connect customers to the brands. The company's holistic technology platform provides a customized mobile applications that offer loyalty, guest feedback, ordering, mobile payment and gift cards which are integrated into the point-of-sale for a seamless in-store execution, enabling brands to better understand and engage with their customers.",
+  "one_liner": "Developer of customized loyalty applications designed to connect customers to the brands. The company's holistic technology platform provides a customized mobile applications that offer loyalty, guest feedback, ordering, mobile payment and gift cards which are integrated into the point-of-sale for a seamless in-store execution, enabling brands to better understand and engage with their customers.",
+  "location": "United States",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/fc69b0d0-1172-4e4a-a899-c5c7ac907f34.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/dailygobble-inc",
+  "api": "/companies/dailygobble-inc.json"
+}

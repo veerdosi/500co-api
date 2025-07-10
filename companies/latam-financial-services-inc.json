@@ -1,0 +1,23 @@
+{
+  "id": 5311,
+  "name": "LATAM FINANCIAL SERVICES, INC.",
+  "slug": "latam-financial-services-inc",
+  "website": "rebajatuscuentas.com",
+  "description": "Developer of a mortgage purchase software designed to provide financial advisory services for mortgage debts. The company's software provides a form for basic information about the current mortgage credit, helps in finding good bidders with the financial institution to close the terms of the transfer of the mortgage, enabling users to avail mortgage debt purchase without any hassle.",
+  "one_liner": "Developer of a mortgage purchase software designed to provide financial advisory services for mortgage debts. The company's software provides a form for basic information about the current mortgage credit, helps in finding good bidders with the financial institution to close the terms of the transfer of the mortgage, enabling users to avail mortgage debt purchase without any hassle.",
+  "location": "United States",
+  "industry": "Credit & Lending, FinTech, Consumer",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/3a433923-6059-4e38-9d1a-1c4710fb1007.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Credit & Lending",
+    "FinTech",
+    "Consumer"
+  ],
+  "url": "https://500.co/portfolio/latam-financial-services-inc",
+  "api": "/companies/latam-financial-services-inc.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4999,
+  "name": "Visually, Inc.",
+  "slug": "visually-inc",
+  "website": "visual.ly",
+  "description": "Provider of a platform that connects creators of infographic content with audiences and publishers. The company's platform connects designers, journalists, animators and developers with clients, featuring cloud-based collaboration tools to enable content delivery.",
+  "one_liner": "Provider of a platform that connects creators of infographic content with audiences and publishers. The company's platform connects designers, journalists, animators and developers with clients, featuring cloud-based collaboration tools to enable content delivery.",
+  "location": "United States",
+  "industry": "Social Media",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/67fe0900-39d4-4029-85ca-ed61f045a8e3.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Media"
+  ],
+  "url": "https://500.co/portfolio/visually-inc",
+  "api": "/companies/visually-inc.json"
+}

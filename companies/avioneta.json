@@ -1,0 +1,27 @@
+{
+  "id": 5466,
+  "name": "AVIONETA Global LLC",
+  "slug": "avioneta",
+  "website": "avioneta.org",
+  "description": "Provider of healthcare services intended to help patients get rid of their alcohol addiction. The company offers a monthly subscription program that accompanies the consumer or their loved one through different services, as they progress with the program, they are able to have a healthier relationship with alcohol under measurable success criteria, providing patients with information based on science and medicine in a fresh, dignified and respectful way to control their alcohol addiction.",
+  "one_liner": "Provider of healthcare services intended to help patients get rid of their alcohol addiction. The company offers a monthly subscription program that accompanies the consumer or their loved one through different services, as they progress with the program, they are able to have a healthier relationship with alcohol under measurable success criteria, providing patients with information based on science and medicine in a fresh, dignified and respectful way to control their alcohol addiction.",
+  "location": "Mexico",
+  "industry": "App, Health Tech, Impact, Subscription, Wellness, Healthcare, Social Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/58026ae8-48b5-497d-a37e-898da8670708.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "App",
+    "Health Tech",
+    "Impact",
+    "Subscription",
+    "Wellness",
+    "Healthcare",
+    "Social Impact"
+  ],
+  "url": "https://500.co/portfolio/avioneta",
+  "api": "/companies/avioneta.json"
+}

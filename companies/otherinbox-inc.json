@@ -1,0 +1,21 @@
+{
+  "id": 3881,
+  "name": "OtherInbox, Inc.",
+  "slug": "otherinbox-inc",
+  "website": "otherinbox.com",
+  "description": "Provider of domain name services to Web users. The company provides email account hosting services to consumers. Additionally, it offers newsletters, social networking updates, and online purchase receipts and coupons organizing services.",
+  "one_liner": "Provider of domain name services to Web users. The company provides email account hosting services to consumers. Additionally, it offers newsletters, social networking updates, and online purchase receipts and coupons organizing services.",
+  "location": "United States",
+  "industry": "Productivity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Productivity"
+  ],
+  "url": "https://500.co/portfolio/otherinbox-inc",
+  "api": "/companies/otherinbox-inc.json"
+}

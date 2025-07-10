@@ -1,0 +1,21 @@
+{
+  "id": 4551,
+  "name": "Lighthouse Lead Holdings LLC",
+  "slug": "cuponomia",
+  "website": "www.cuponomia.com.br",
+  "description": "Operator of an online marketplace intended to discover and share coupon codes. The company's platform gathers coupons that can be used during online shopping, helps to save money and gains benefits every time one makes a purchase over the Internet, enabling shoppers to avail desired discounts and cashbacks on their favorite products.",
+  "one_liner": "Operator of an online marketplace intended to discover and share coupon codes. The company's platform gathers coupons that can be used during online shopping, helps to save money and gains benefits every time one makes a purchase over the Internet, enabling shoppers to avail desired discounts and cashbacks on their favorite products.",
+  "location": "Brazil",
+  "industry": "Ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e5f7544a-02d3-4562-9196-63ec3fea947b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Ecommerce"
+  ],
+  "url": "https://500.co/portfolio/cuponomia",
+  "api": "/companies/cuponomia.json"
+}

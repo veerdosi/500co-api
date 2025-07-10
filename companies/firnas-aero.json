@@ -1,0 +1,23 @@
+{
+  "id": 5097,
+  "name": "Firnas Aero Inc.",
+  "slug": "firnas-aero",
+  "website": "firnas.aero",
+  "description": "Provider of a Drones-as-a-Service platform intended to offer inspection services using our unmanned aerial systems. The company's platform leverages artificial intelligence and utilizes aviation technology in the form of unmanned aviation vehicles for providing inspection services using their own proprietary aerial systems to overcome the risks and challenges of traditional inspection processes, enabling businesses and governments to get more accurate results and eliminate the risks associated with dangerous inspections.",
+  "one_liner": "Provider of a Drones-as-a-Service platform intended to offer inspection services using our unmanned aerial systems. The company's platform leverages artificial intelligence and utilizes aviation technology in the form of unmanned aviation vehicles for providing inspection services using their own proprietary aerial systems to overcome the risks and challenges of traditional inspection processes, enabling businesses and governments to get more accurate results and eliminate the risks associated with dangerous inspections.",
+  "location": "Saudi Arabia",
+  "industry": "AI/Machine Learning, Aviation, Hardware",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/7bd7aa68-1e13-4cbf-aaf7-bf45ebbf6036.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "Aviation",
+    "Hardware"
+  ],
+  "url": "https://500.co/portfolio/firnas-aero",
+  "api": "/companies/firnas-aero.json"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 5308,
+  "name": "Villoid AS",
+  "slug": "villoid-as",
+  "website": "villoid.com",
+  "description": "Operator of fashion social platform. The company's online platform is a dressing up box, where you can express your unique style, follow inspiring people and get updates from your favorite brands providing customers about latest trends in dressing sense and brands.",
+  "one_liner": "Operator of fashion social platform. The company's online platform is a dressing up box, where you can express your unique style, follow inspiring people and get updates from your favorite brands providing customers about latest trends in dressing sense and brands.",
+  "location": "Norway",
+  "industry": "Fashion, Social Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7f9545ce-e49d-4b3b-9559-88996ebbc885.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion",
+    "Social Impact"
+  ],
+  "url": "https://500.co/portfolio/villoid-as",
+  "api": "/companies/villoid-as.json"
+}

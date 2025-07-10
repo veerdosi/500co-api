@@ -1,0 +1,21 @@
+{
+  "id": 3404,
+  "name": "Anduin Transactions, Inc.",
+  "slug": "anduin-transactions",
+  "website": "anduintransact.com",
+  "description": "Developer of modular and interoperable tools designed to revolutionize the investor onboarding experience in the alternative and private markets. The company's platform engages limited partners with marketing-focused data rooms and provides a secure and collaborative environment to navigate the complex subscription process, enabling clients to connect with limited partners and general partners efficiently.",
+  "one_liner": "Developer of modular and interoperable tools designed to revolutionize the investor onboarding experience in the alternative and private markets. The company's platform engages limited partners with marketing-focused data rooms and provides a secure and collaborative environment to navigate the complex subscription process, enabling clients to connect with limited partners and general partners efficiently.",
+  "location": "Canada",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a81eeecd-1ff8-4895-b045-d3a19d6b29aa.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/anduin-transactions",
+  "api": "/companies/anduin-transactions.json"
+}

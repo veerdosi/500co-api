@@ -1,0 +1,21 @@
+{
+  "id": 5134,
+  "name": "Sioma LLC",
+  "slug": "sioma",
+  "website": "sioma.store",
+  "description": "Developer of a precision agriculture system designed to help farmers increase their productivity. The company's system helps to know and increase the area traveled by workers in the field, and helps to carry the inventory of bunches automatically, offers an integrated control system that allows organizing the exact boxes that are going to export in such a way that they are not overweight, enabling users to improve the internal processes of their crops.",
+  "one_liner": "Developer of a precision agriculture system designed to help farmers increase their productivity. The company's system helps to know and increase the area traveled by workers in the field, and helps to carry the inventory of bunches automatically, offers an integrated control system that allows organizing the exact boxes that are going to export in such a way that they are not overweight, enabling users to improve the internal processes of their crops.",
+  "location": "Colombia",
+  "industry": "AgTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/5b095fd9-ee0d-43ea-aa80-20c8107ac463.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AgTech"
+  ],
+  "url": "https://500.co/portfolio/sioma",
+  "api": "/companies/sioma.json"
+}

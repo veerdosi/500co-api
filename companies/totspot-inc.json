@@ -1,0 +1,21 @@
+{
+  "id": 3968,
+  "name": "TotSpot, Inc.",
+  "slug": "totspot-inc",
+  "website": "totspot.me",
+  "description": "Provider of a peer-to-peer mobile marketplace designed to sell children's fashion clothing. The company's peer-to-peer mobile marketplace features an intuitive and sleek interface that provides fast, easy and safe parent-to-parent transactions, while offering an outlet for family focused communities to inspire and learn from one another, enabling users to shop and sell clothes for kids.",
+  "one_liner": "Provider of a peer-to-peer mobile marketplace designed to sell children's fashion clothing. The company's peer-to-peer mobile marketplace features an intuitive and sleek interface that provides fast, easy and safe parent-to-parent transactions, while offering an outlet for family focused communities to inspire and learn from one another, enabling users to shop and sell clothes for kids.",
+  "location": "United States",
+  "industry": "Fashion",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4bffddf7-f166-4fdc-9aaf-695dee489c36.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion"
+  ],
+  "url": "https://500.co/portfolio/totspot-inc",
+  "api": "/companies/totspot-inc.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3016,
+  "name": "Net Worth Consulting Wealth Management, S.A.P.I. DE C.V.",
+  "slug": "networth",
+  "website": "www.networth.mx",
+  "description": "Operator of a financial platform intended to help professionals in managing their investments. The company's platform facilitates trading in stocks and funds and has advisors who provide financial planning services, promote the stock market, and guide towards a responsible credit culture, enabling clients to meet their goals and maintain financial security.",
+  "one_liner": "Operator of a financial platform intended to help professionals in managing their investments. The company's platform facilitates trading in stocks and funds and has advisors who provide financial planning services, promote the stock market, and guide towards a responsible credit culture, enabling clients to meet their goals and maintain financial security.",
+  "location": "Mexico",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/2a990215-678f-4654-bce6-b71540aae327.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/networth",
+  "api": "/companies/networth.json"
+}

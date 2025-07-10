@@ -1,0 +1,21 @@
+{
+  "id": 4207,
+  "name": "Valor Water Analytics, Inc.",
+  "slug": "valor-water-analytics-inc",
+  "website": "valorwater.com",
+  "description": "Developer of interactive tools and dashboards designed to help utilities conserve water while increasing revenue and cost savings. The company's flagship product offers revenue loss detection by analyzing a utility's data to help identify eight apparent loss categories including meter accuracy and data errors.",
+  "one_liner": "Developer of interactive tools and dashboards designed to help utilities conserve water while increasing revenue and cost savings. The company's flagship product offers revenue loss detection by analyzing a utility's data to help identify eight apparent loss categories including meter accuracy and data errors.",
+  "location": "United States",
+  "industry": "Climate Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/6e2b3aac-23b6-4733-996c-121bd97c3f93.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Climate Tech"
+  ],
+  "url": "https://500.co/portfolio/valor-water-analytics-inc",
+  "api": "/companies/valor-water-analytics-inc.json"
+}

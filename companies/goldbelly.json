@@ -1,0 +1,21 @@
+{
+  "id": 4761,
+  "name": "Goldbelly, Inc.",
+  "slug": "goldbelly",
+  "website": "www.goldbelly.com",
+  "description": "Operator of a specialty food online marketplace intended to make local, artisan products available to anyone and anywhere. The company offers logistics, providing the boxes and cold packs for shipping orders and helping restaurants ship directly from their premises, with tools for ordering and doorstep delivery, enabling small businesses to reach new customers and grow their revenue.",
+  "one_liner": "Operator of a specialty food online marketplace intended to make local, artisan products available to anyone and anywhere. The company offers logistics, providing the boxes and cold packs for shipping orders and helping restaurants ship directly from their premises, with tools for ordering and doorstep delivery, enabling small businesses to reach new customers and grow their revenue.",
+  "location": "United States",
+  "industry": "Mobility",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f8283862-dc9f-44f1-bcfd-12c3f15104b3.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Mobility"
+  ],
+  "url": "https://500.co/portfolio/goldbelly",
+  "api": "/companies/goldbelly.json"
+}

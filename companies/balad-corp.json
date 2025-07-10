@@ -1,0 +1,19 @@
+{
+  "id": 8337,
+  "name": "BALAD CORP",
+  "slug": "balad-corp",
+  "website": "balad.me",
+  "description": "Developer of a FinTech platform intended to provide prepaid card solutions for underbanked family members of Egyptian migrants abroad. The company's platform simplifies digital remittance and offers additional financial services to migrants and beneficiaries with the aim of reducing fees, enabling migrants to get the instantaneous receipt of income for families with the introduction of further financial products in the future.",
+  "one_liner": "Developer of a FinTech platform intended to provide prepaid card solutions for underbanked family members of Egyptian migrants abroad. The company's platform simplifies digital remittance and offers additional financial services to migrants and beneficiaries with the aim of reducing fees, enabling migrants to get the instantaneous receipt of income for families with the introduction of further financial products in the future.",
+  "location": "UNITED STATES",
+  "industry": "",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://500.co/portfolio/balad-corp",
+  "api": "/companies/balad-corp.json"
+}

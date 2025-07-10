@@ -1,0 +1,22 @@
+{
+  "id": 4930,
+  "name": "Rank Science Inc.",
+  "slug": "rank-science",
+  "website": "www.rankscience.com",
+  "description": "Developer of an automated search engine optimization platform intended to improve a website's SEO through A/B testing and data science. The company's platform automates the process of running thousands of A/B tests in order to identify the changes that will improve the Google ranking of customer web pages in organic search results, enabling customers to optimize the delivery of web pages.",
+  "one_liner": "Developer of an automated search engine optimization platform intended to improve a website's SEO through A/B testing and data science. The company's platform automates the process of running thousands of A/B tests in order to identify the changes that will improve the Google ranking of customer web pages in organic search results, enabling customers to optimize the delivery of web pages.",
+  "location": "United States",
+  "industry": "Data & Analytics, Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/48c64409-42d7-48ea-b100-0a98796d03c9.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics",
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/rank-science",
+  "api": "/companies/rank-science.json"
+}

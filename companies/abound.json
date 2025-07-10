@@ -1,0 +1,21 @@
+{
+  "id": 3503,
+  "name": "Track Technologies, Inc.",
+  "slug": "abound",
+  "website": "www.withabound.com",
+  "description": "Developer of a tax filing and management API platform designed to assist independent workers in the payment and filing of taxes. The company's platform uses artificial intelligence and machine learning to estimate, withhold, and pay self-employment taxes on time and automatically calculates how much people owe in taxes whenever it sees them earn new business income in their linked bank account and automatically set aside taxes to be paid to tax authorities, enabling self-employed professionals to handle taxes in an easier, safer and rewarding way.",
+  "one_liner": "Developer of a tax filing and management API platform designed to assist independent workers in the payment and filing of taxes. The company's platform uses artificial intelligence and machine learning to estimate, withhold, and pay self-employment taxes on time and automatically calculates how much people owe in taxes whenever it sees them earn new business income in their linked bank account and automatically set aside taxes to be paid to tax authorities, enabling self-employed professionals to handle taxes in an easier, safer and rewarding way.",
+  "location": "United States",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/78320e59-df15-4ca9-8055-66190760128e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/abound",
+  "api": "/companies/abound.json"
+}

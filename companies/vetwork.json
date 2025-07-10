@@ -1,0 +1,21 @@
+{
+  "id": 4335,
+  "name": "Vetwork Inc.",
+  "slug": "vetwork",
+  "website": "vetwork.app",
+  "description": "Operator of an on-demand veterinary services marketplace intended to make pet-care services more accessible, timely, and convenient. The company's application offers pet grooming, deworming, vaccination, medical, and many more pet care services, enabling pet owners to access reliable and affordable pet care services and book them online.",
+  "one_liner": "Operator of an on-demand veterinary services marketplace intended to make pet-care services more accessible, timely, and convenient. The company's application offers pet grooming, deworming, vaccination, medical, and many more pet care services, enabling pet owners to access reliable and affordable pet care services and book them online.",
+  "location": "Egypt",
+  "industry": "Pet Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/ad12abb7-e87b-4006-829d-00cafd774c68.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Pet Tech"
+  ],
+  "url": "https://500.co/portfolio/vetwork",
+  "api": "/companies/vetwork.json"
+}

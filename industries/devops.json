@@ -1,0 +1,139 @@
+[
+  {
+    "id": 2875,
+    "name": "Alphaus Inc.",
+    "slug": "alphaus-cloud-",
+    "website": "alphaus.cloud",
+    "description": "Developer of a software-as-a-service platform designed to seamlessly automate the daily operations of cloud lifecycle management. The company's platform helps AWS (Amazon Web Services), Azure & Google Cloud partners, and user enterprises to understand complicated cloud spend, allocate it to each client or business unit with accuracy, and optimize it with a better way of procurement, enabling businesses to optimize their cloud costs via accounts, tags, products or departments.",
+    "one_liner": "Developer of a software-as-a-service platform designed to seamlessly automate the daily operations of cloud lifecycle management. The company's platform helps AWS (Amazon Web Services), Azure & Google Cloud partners, and user enterprises to understand complicated cloud spend, allocate it to each client or business unit with accuracy, and optimize it with a better way of procurement, enabling businesses to optimize their cloud costs via accounts, tags, products or departments.",
+    "location": "Japan",
+    "industry": "CloudTech, DevOps, Developer Tools, FinTech",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/fcca0e85-0e0f-42ad-9eb7-a8614797e6a0.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "CloudTech",
+      "DevOps",
+      "Developer Tools",
+      "FinTech"
+    ],
+    "url": "https://500.co/portfolio/alphaus-cloud-",
+    "api": "/companies/alphaus-cloud-.json"
+  },
+  {
+    "id": 5527,
+    "name": "Dapta Inc",
+    "slug": "dapta",
+    "website": "daptatech.com",
+    "description": "Operator of a no-code platform intended to empower businesses to build, manage and deliver content. The company's platform offers a headless CMS to connect multiple data sources and expose API endpoints, a no-code tool to build API and allows for custom workflows to be developed on top of their platform, enabling SMBs to develop software faster and prevent them from reinventing the wheel.",
+    "one_liner": "Operator of a no-code platform intended to empower businesses to build, manage and deliver content. The company's platform offers a headless CMS to connect multiple data sources and expose API endpoints, a no-code tool to build API and allows for custom workflows to be developed on top of their platform, enabling SMBs to develop software faster and prevent them from reinventing the wheel.",
+    "location": "Colombia",
+    "industry": "DevOps, Developer Tools, SaaS",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/894da5ae-f868-44fc-abde-cebb37b541a8.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "DevOps",
+      "Developer Tools",
+      "SaaS"
+    ],
+    "url": "https://500.co/portfolio/dapta",
+    "api": "/companies/dapta.json"
+  },
+  {
+    "id": 5457,
+    "name": "Krunch Lab Limited",
+    "slug": "krunch",
+    "website": "krunchdata.io",
+    "description": "Developer of cloud-based marketing analytic tool catering to its clients in Hong Kong. The company's software helps its clients to do social monitoring, channel attribution, user segmentation and predictive analytics in the developer context, helping the marketing field in analyzing the rapidly growing audience.",
+    "one_liner": "Developer of cloud-based marketing analytic tool catering to its clients in Hong Kong. The company's software helps its clients to do social monitoring, channel attribution, user segmentation and predictive analytics in the developer context, helping the marketing field in analyzing the rapidly growing audience.",
+    "location": "Hong Kong",
+    "industry": "CloudTech, DevOps, Developer Tools",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/57bfaa54-0ca7-4dc5-9e5f-edb05b8f974d.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "CloudTech",
+      "DevOps",
+      "Developer Tools"
+    ],
+    "url": "https://500.co/portfolio/krunch",
+    "api": "/companies/krunch.json"
+  },
+  {
+    "id": 5759,
+    "name": "UNCODIE, CORP.",
+    "slug": "uncodie-corp",
+    "website": "www.uncodie.com",
+    "description": "Developer of AI-based no-code platform designed to create technology and access capital. The company's platform connects apps to custom databases or third-party tools, uses AI to generate clean and reusable code from components and screens and select a variety of frameworks and languages, enabling clients to help build web applications.",
+    "one_liner": "Developer of AI-based no-code platform designed to create technology and access capital. The company's platform connects apps to custom databases or third-party tools, uses AI to generate clean and reusable code from components and screens and select a variety of frameworks and languages, enabling clients to help build web applications.",
+    "location": "Mexico",
+    "industry": "CloudTech, DevOps, Developer Tools",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/c7a506b8-1e02-4407-adf7-c4f83a4c6035.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "CloudTech",
+      "DevOps",
+      "Developer Tools"
+    ],
+    "url": "https://500.co/portfolio/uncodie-corp",
+    "api": "/companies/uncodie-corp.json"
+  },
+  {
+    "id": 3421,
+    "name": "Amixr, Inc.",
+    "slug": "amixr-inc",
+    "website": "amixr.io",
+    "description": "Developer of IT incident management system intended to help engineering teams all around the world to stop hassling with IT operations, adopt new DevOps best practices and focus on making new products.",
+    "one_liner": "Developer of IT incident management system intended to help engineering teams all around the world to stop hassling with IT operations, adopt new DevOps best practices and focus on making new products.",
+    "location": "United States",
+    "industry": "DevOps",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/6b5c3a2f-90e9-4b83-b342-cb5a4b72ce66.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "DevOps"
+    ],
+    "url": "https://500.co/portfolio/amixr-inc",
+    "api": "/companies/amixr-inc.json"
+  },
+  {
+    "id": 3617,
+    "name": "WhoAPI Inc.",
+    "slug": "whoapi-inc",
+    "website": "whoapi.com",
+    "description": "Provider of domain data via the API. The company provides domain availability and advanced WHOIS data output.",
+    "one_liner": "Provider of domain data via the API. The company provides domain availability and advanced WHOIS data output.",
+    "location": "United States",
+    "industry": "Cybersecurity, DevOps, SaaS",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/bf5ffdc1-0982-4688-ad8c-9aad890b8e83.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Cybersecurity",
+      "DevOps",
+      "SaaS"
+    ],
+    "url": "https://500.co/portfolio/whoapi-inc",
+    "api": "/companies/whoapi-inc.json"
+  }
+]

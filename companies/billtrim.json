@@ -1,0 +1,21 @@
+{
+  "id": 3861,
+  "name": "BillTrim Inc.",
+  "slug": "billtrim",
+  "website": "www.billtrim.com",
+  "description": "Operator of a bill management platform intended to help consumers lower their monthly bills. The company's platform provides bill-trimming services for cable, cell phone, electricity, internet, auto insurance, home security, and others by negotiation to reduce the bills on behalf of the user, enabling consumers to save money on bills.",
+  "one_liner": "Operator of a bill management platform intended to help consumers lower their monthly bills. The company's platform provides bill-trimming services for cable, cell phone, electricity, internet, auto insurance, home security, and others by negotiation to reduce the bills on behalf of the user, enabling consumers to save money on bills.",
+  "location": "United States",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4a05cc39-e8bf-4008-988a-ea46f7f4216c.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/billtrim",
+  "api": "/companies/billtrim.json"
+}

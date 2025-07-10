@@ -1,0 +1,21 @@
+{
+  "id": 4894,
+  "name": "The BLVD, Inc.",
+  "slug": "block",
+  "website": "blockblock.io",
+  "description": "Developer of a blockchain lab platform designed to make non-fungible tokens (NFTs) and Decentralized Autonomous organizations (DAOs). The company offers a vehicle for funding innovative projects that will develop the ecosystem, simple documents, signed with crypto wallets, optional Twitter and Discord handles, guestbooks, and even contracts with partners and freelancers, allowing users to play games and earn NFTs for using their products.",
+  "one_liner": "Developer of a blockchain lab platform designed to make non-fungible tokens (NFTs) and Decentralized Autonomous organizations (DAOs). The company offers a vehicle for funding innovative projects that will develop the ecosystem, simple documents, signed with crypto wallets, optional Twitter and Discord handles, guestbooks, and even contracts with partners and freelancers, allowing users to play games and earn NFTs for using their products.",
+  "location": "United States",
+  "industry": "Crypto",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/90429c7c-d9b6-4301-9bc7-707b3c688929.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Crypto"
+  ],
+  "url": "https://500.co/portfolio/block",
+  "api": "/companies/block.json"
+}

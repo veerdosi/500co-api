@@ -1,0 +1,21 @@
+{
+  "id": 3657,
+  "name": "AppZen, Inc.",
+  "slug": "appzen",
+  "website": "www.appzen.com",
+  "description": "Developer of spend-to-pay software designed to automate manual processes, uncover problems, and optimize decision-making for modern finance teams. The company's platform combines patented deep learning, computer vision, and semantic analysis with intelligence from thousands of online data sources to understand financial transactions in a business context and make decisions before those transactions happen, enabling clients to reduce spending, comply with the policy, and streamline the process.",
+  "one_liner": "Developer of spend-to-pay software designed to automate manual processes, uncover problems, and optimize decision-making for modern finance teams. The company's platform combines patented deep learning, computer vision, and semantic analysis with intelligence from thousands of online data sources to understand financial transactions in a business context and make decisions before those transactions happen, enabling clients to reduce spending, comply with the policy, and streamline the process.",
+  "location": "United States",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/298e18d5-aff6-459a-a0ae-ab3163282bc7.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/appzen",
+  "api": "/companies/appzen.json"
+}

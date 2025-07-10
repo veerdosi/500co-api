@@ -1,0 +1,21 @@
+{
+  "id": 2944,
+  "name": "PT Urban Solusi Digital",
+  "slug": "xwork",
+  "website": "xwork.co",
+  "description": "Operator of an online workspace search platform intended to find and rent a room according to users' needs. The company's platform allows users to book meeting rooms, event spaces, coworking spaces, office rooms, and virtual offices among others, enabling users to use and benefit from the spaces that meet their requirements.",
+  "one_liner": "Operator of an online workspace search platform intended to find and rent a room according to users' needs. The company's platform allows users to book meeting rooms, event spaces, coworking spaces, office rooms, and virtual offices among others, enabling users to use and benefit from the spaces that meet their requirements.",
+  "location": "Indonesia",
+  "industry": "Work",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/fd0df0a6-05f1-461b-a6f8-86393c0e2821.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Work"
+  ],
+  "url": "https://500.co/portfolio/xwork",
+  "api": "/companies/xwork.json"
+}

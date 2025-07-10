@@ -1,0 +1,23 @@
+{
+  "id": 5245,
+  "name": "Movel AI Pte Ltd",
+  "slug": "movel-ai",
+  "website": "movel.ai",
+  "description": "Operator of a robotic deployment software solution company intended to simplify the deployment and usage of robots for both hardware companies and end users. The company's platform helps to deploy robots better in a sleek, accurate, and user-friendly manner with advanced deployment solutions to cut down on deployment time and cost, thereby enabling users to get robots up and running quickly, efficiently, and with minimal training.",
+  "one_liner": "Operator of a robotic deployment software solution company intended to simplify the deployment and usage of robots for both hardware companies and end users. The company's platform helps to deploy robots better in a sleek, accurate, and user-friendly manner with advanced deployment solutions to cut down on deployment time and cost, thereby enabling users to get robots up and running quickly, efficiently, and with minimal training.",
+  "location": "Singapore",
+  "industry": "AI/Machine Learning, Logistics, Robotics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/cf2e7034-1204-4364-8767-4c571e68fc32.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "Logistics",
+    "Robotics"
+  ],
+  "url": "https://500.co/portfolio/movel-ai",
+  "api": "/companies/movel-ai.json"
+}

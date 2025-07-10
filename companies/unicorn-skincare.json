@@ -1,0 +1,21 @@
+{
+  "id": 2765,
+  "name": "Unicorn Skincare Holdings Limited",
+  "slug": "unicorn-skincare",
+  "website": "bffect.com",
+  "description": "Operator of an online men's body care products platform intended to retail a variety of men's care products. The company's platform markets body care products including face cleansers, body lotion, body gels, and male hip film series body care products, providing male customers with good quality products.",
+  "one_liner": "Operator of an online men's body care products platform intended to retail a variety of men's care products. The company's platform markets body care products including face cleansers, body lotion, body gels, and male hip film series body care products, providing male customers with good quality products.",
+  "location": "Taiwan",
+  "industry": "Fashion",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a8a8fb2d-3760-4e76-b2cc-e055a8861222.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion"
+  ],
+  "url": "https://500.co/portfolio/unicorn-skincare",
+  "api": "/companies/unicorn-skincare.json"
+}

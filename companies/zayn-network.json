@@ -1,0 +1,23 @@
+{
+  "id": 5536,
+  "name": "Zayn Tech Pte. Ltd.",
+  "slug": "zayn-network",
+  "website": "zayn.fi",
+  "description": "Zayn Network is a cutting-edge modular Layer 2 ZK Sovereign Rollup uniting Bitcoin and Ethereum's strengths, offering trustless interoperability and optimized efficiency, scalability, and security, while targeting $2.8T RWA opportunities in MENAP and Southeast Asia, supported by prominent investors like 500 Global and Cur8 Capital.",
+  "one_liner": "Zayn Network is a cutting-edge modular Layer 2 ZK Sovereign Rollup uniting Bitcoin and Ethereum's strengths, offering trustless interoperability and optimized efficiency, scalability, and security, while targeting $2.8T RWA opportunities in MENAP and Southeast Asia, supported by prominent investors like 500 Global and Cur8 Capital.",
+  "location": "Singapore",
+  "industry": "Blockchain, Crypto, FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/6e1831bd-454b-455e-9042-dc463280bfd6.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Blockchain",
+    "Crypto",
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/zayn-network",
+  "api": "/companies/zayn-network.json"
+}

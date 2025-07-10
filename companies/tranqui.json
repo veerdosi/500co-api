@@ -1,0 +1,21 @@
+{
+  "id": 4474,
+  "name": "Tranqui, Inc",
+  "slug": "tranqui",
+  "website": "tranquifinanzas.com",
+  "description": "Operator of a financial welfare platform intended to help employees improve their finances through education and technology. The company's platform accompanies workers in their planning of personal finances, offers financial education, and manages indicators of work stress, enabling organizations to help their workers control their finances.",
+  "one_liner": "Operator of a financial welfare platform intended to help employees improve their finances through education and technology. The company's platform accompanies workers in their planning of personal finances, offers financial education, and manages indicators of work stress, enabling organizations to help their workers control their finances.",
+  "location": "Mexico",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f7da88d6-0fa9-4207-80ed-ccecb32f8ddb.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/tranqui",
+  "api": "/companies/tranqui.json"
+}

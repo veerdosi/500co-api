@@ -1,0 +1,21 @@
+{
+  "id": 8139,
+  "name": "Pont INC.",
+  "slug": "pontrx",
+  "website": "www.pontrx.com",
+  "description": "PontRx enables provider-patient channel communication to save physician time and streamline access to care",
+  "one_liner": "PontRx enables provider-patient channel communication to save physician time and streamline access to care",
+  "location": "United States",
+  "industry": "Health Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ab283a48-5be7-48b4-8edc-feb293566018.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Health Tech"
+  ],
+  "url": "https://500.co/portfolio/pontrx",
+  "api": "/companies/pontrx.json"
+}

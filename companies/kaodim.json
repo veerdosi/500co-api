@@ -1,0 +1,22 @@
+{
+  "id": 5203,
+  "name": "Kaodim Group Pte. Ltd.",
+  "slug": "kaodim",
+  "website": "kaodim.kyte.site",
+  "description": "Operator of a home service platform intended to help users to find out the right vendor for their job requests. The company's platform depending on the service required by the users sends the quotes or assigns them to a vendor at a fixed price for house cleaning, plumbing, air conditioner servicing, and other related services, enabling customers to find a service provider according to their everyday needs.",
+  "one_liner": "Operator of a home service platform intended to help users to find out the right vendor for their job requests. The company's platform depending on the service required by the users sends the quotes or assigns them to a vendor at a fixed price for house cleaning, plumbing, air conditioner servicing, and other related services, enabling customers to find a service provider according to their everyday needs.",
+  "location": "Malaysia",
+  "industry": "AI/Machine Learning, Ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2653dae3-985e-4033-92b9-f9bb4761c618.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "Ecommerce"
+  ],
+  "url": "https://500.co/portfolio/kaodim",
+  "api": "/companies/kaodim.json"
+}

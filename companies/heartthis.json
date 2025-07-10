@@ -1,0 +1,22 @@
+{
+  "id": 4806,
+  "name": "HeartThis, Inc.",
+  "slug": "heartthis",
+  "website": "heartthis.com",
+  "description": "Provider of an online shopping platform. The company provides users with an online platform to purchase goods and accessories of various brands, with home delivery.",
+  "one_liner": "Provider of an online shopping platform. The company provides users with an online platform to purchase goods and accessories of various brands, with home delivery.",
+  "location": "United States",
+  "industry": "Fashion, Commerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/1004ce23-a537-40ce-ac00-eb899af65dc5.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion",
+    "Commerce"
+  ],
+  "url": "https://500.co/portfolio/heartthis",
+  "api": "/companies/heartthis.json"
+}

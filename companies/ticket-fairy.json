@@ -1,0 +1,32 @@
+{
+  "id": 4953,
+  "name": "The Ticket Fairy, Inc.",
+  "slug": "ticket-fairy",
+  "website": "www.ticketfairy.com",
+  "description": "Ticket Fairy is Salesforce meets Eventbrite - AI-enabled vertical SaaS for events and venues that skyrockets their revenues and accelerates their path to profitability!",
+  "one_liner": "Ticket Fairy is Salesforce meets Eventbrite - AI-enabled vertical SaaS for events and venues that skyrockets their revenues and accelerates their path to profitability!",
+  "location": "United States",
+  "industry": "AI/Machine Learning, Blockchain, Leisure & Entretainment, Marketplace, SaaS, Ticketing, Web 3, CRM, Entertainment / Media, Social Media, B2B Marketplaces, Commerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/c67aed51-7eae-4dd4-ab61-26f16f18a0b7.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "Blockchain",
+    "Leisure & Entretainment",
+    "Marketplace",
+    "SaaS",
+    "Ticketing",
+    "Web 3",
+    "CRM",
+    "Entertainment / Media",
+    "Social Media",
+    "B2B Marketplaces",
+    "Commerce"
+  ],
+  "url": "https://500.co/portfolio/ticket-fairy",
+  "api": "/companies/ticket-fairy.json"
+}

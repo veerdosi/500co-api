@@ -1,0 +1,21 @@
+{
+  "id": 4420,
+  "name": "PayClip, Inc.",
+  "slug": "clip",
+  "website": "clip.mx",
+  "description": "Developer of a digital payment platform designed to help businesses increase sales and grow their business. The company's platform offers an application that lets businesses accept payments with all credit and debit cards, contactless technology and Samsung Pay without complicated paperwork, monthly fees or minimal sales, enabling customers to pay anytime at their fingertips and businesses to accept payments easily.",
+  "one_liner": "Developer of a digital payment platform designed to help businesses increase sales and grow their business. The company's platform offers an application that lets businesses accept payments with all credit and debit cards, contactless technology and Samsung Pay without complicated paperwork, monthly fees or minimal sales, enabling customers to pay anytime at their fingertips and businesses to accept payments easily.",
+  "location": "Mexico",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/e17de717-adac-4847-925d-8c9a4eaa287a.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/clip",
+  "api": "/companies/clip.json"
+}

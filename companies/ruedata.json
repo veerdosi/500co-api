@@ -1,0 +1,22 @@
+{
+  "id": 4454,
+  "name": "Ruedata, Inc.",
+  "slug": "ruedata",
+  "website": "ruedata.com",
+  "description": "Developer of fleet management software designed to manage and optimize the savings of the tires. The company's software uses data analysis technology and automated learning algorithms to offer maintenance, compliance planning, and abnormal wear and cost overrun data, enabling clients to increase the profitability of their transport fleet by having updated information online.",
+  "one_liner": "Developer of fleet management software designed to manage and optimize the savings of the tires. The company's software uses data analysis technology and automated learning algorithms to offer maintenance, compliance planning, and abnormal wear and cost overrun data, enabling clients to increase the profitability of their transport fleet by having updated information online.",
+  "location": "Colombia",
+  "industry": "Logistics, Supply Chain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/7224b7ac-9330-44a2-b6a0-f22b49774a18.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Logistics",
+    "Supply Chain"
+  ],
+  "url": "https://500.co/portfolio/ruedata",
+  "api": "/companies/ruedata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4470,
+  "name": "Tarefa, Inc.",
+  "slug": "tarefa",
+  "website": "www.tarefa.co",
+  "description": "Operator of a digital educational platform designed to help students to improve their learning skills. The company's platform offers courses on a subscription basis, connects students with professional teachers in order to teach, solve and provide answers to users' math exercises, enabling students to post their difficult queries to be solved online in an efficient manner.",
+  "one_liner": "Operator of a digital educational platform designed to help students to improve their learning skills. The company's platform offers courses on a subscription basis, connects students with professional teachers in order to teach, solve and provide answers to users' math exercises, enabling students to post their difficult queries to be solved online in an efficient manner.",
+  "location": "Colombia",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/d422feb9-8cca-4377-8e9b-a8a2f2534bc5.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/tarefa",
+  "api": "/companies/tarefa.json"
+}

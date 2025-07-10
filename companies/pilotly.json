@@ -1,0 +1,21 @@
+{
+  "id": 4839,
+  "name": "Pilotly, Inc.",
+  "slug": "pilotly",
+  "website": "www.pilot.ly",
+  "description": "Developer of a consumer insight research platform designed to create meaningful engagements between content creators and global audiences. The company's platform offers its customers a quality video viewing service and offers an insight dashboard, enabling content creators to make business decisions by getting real-time data and reports about customer preferences.",
+  "one_liner": "Developer of a consumer insight research platform designed to create meaningful engagements between content creators and global audiences. The company's platform offers its customers a quality video viewing service and offers an insight dashboard, enabling content creators to make business decisions by getting real-time data and reports about customer preferences.",
+  "location": "United States",
+  "industry": "Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d60fa0b2-7360-4eb9-8a1d-478a8c2ac649.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/pilotly",
+  "api": "/companies/pilotly.json"
+}

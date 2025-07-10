@@ -1,0 +1,21 @@
+{
+  "id": 3284,
+  "name": "Drinki Limited",
+  "slug": "dusk",
+  "website": "dusk.app",
+  "description": "Operator of a nightlife platform designed to offer exclusive offers, access, and free drinks. The company's platform permits users to find their nearest bar and show the screen to the bartender to get free drinks and exclusive discounts, enabling them to save money while enjoying too and partner venues to increase their revenues through unique offers.",
+  "one_liner": "Operator of a nightlife platform designed to offer exclusive offers, access, and free drinks. The company's platform permits users to find their nearest bar and show the screen to the bartender to get free drinks and exclusive discounts, enabling them to save money while enjoying too and partner venues to increase their revenues through unique offers.",
+  "location": "United Kingdom",
+  "industry": "Entertainment / Media",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Entertainment / Media"
+  ],
+  "url": "https://500.co/portfolio/dusk",
+  "api": "/companies/dusk.json"
+}

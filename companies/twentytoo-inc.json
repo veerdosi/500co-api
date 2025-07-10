@@ -1,0 +1,19 @@
+{
+  "id": 8424,
+  "name": "TwentyToo Inc.",
+  "slug": "twentytoo-inc",
+  "website": "",
+  "description": "",
+  "one_liner": "",
+  "location": "UNITED STATES",
+  "industry": "",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://500.co/portfolio/twentytoo-inc",
+  "api": "/companies/twentytoo-inc.json"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 5523,
+  "name": "Elevarm Technologies Pte Ltd",
+  "slug": "elevarm",
+  "website": "elevarm.com",
+  "description": "Developer of an agricultural trading platform designed to offer sustainable agriculture assistance. The company's product offers the digitization of farmlands and provides supply services that also focus on the upstream side of farming, enabling business customers and farmers to maximize production and revenue.",
+  "one_liner": "Developer of an agricultural trading platform designed to offer sustainable agriculture assistance. The company's product offers the digitization of farmlands and provides supply services that also focus on the upstream side of farming, enabling business customers and farmers to maximize production and revenue.",
+  "location": "Indonesia",
+  "industry": "AgTech, Impact, Social Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5e7b5046-4ce7-4408-9601-df158f099854.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AgTech",
+    "Impact",
+    "Social Impact"
+  ],
+  "url": "https://500.co/portfolio/elevarm",
+  "api": "/companies/elevarm.json"
+}

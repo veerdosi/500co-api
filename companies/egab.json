@@ -1,0 +1,21 @@
+{
+  "id": 5670,
+  "name": "Egab Holdings Limited",
+  "slug": "egab",
+  "website": "egab.co",
+  "description": "Operator of a digital media platform intended to empower local journalists. The company platform creates profiles, publishes news, articles and stories in regional and international media outlets, enabling local journalists and media outlets to publish inspiring stories for global audiences.",
+  "one_liner": "Operator of a digital media platform intended to empower local journalists. The company platform creates profiles, publishes news, articles and stories in regional and international media outlets, enabling local journalists and media outlets to publish inspiring stories for global audiences.",
+  "location": "Egypt",
+  "industry": "Social Media",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/796d3a0e-9c96-4c35-8103-e404d89cec44.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Media"
+  ],
+  "url": "https://500.co/portfolio/egab",
+  "api": "/companies/egab.json"
+}

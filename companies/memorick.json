@@ -1,0 +1,21 @@
+{
+  "id": 3021,
+  "name": "MEMORICK S.A.P.I. DE C.V.",
+  "slug": "memorick",
+  "website": "memorick.com",
+  "description": "Operator of a photographer booking platform intended to connect travelers and local photographers. The company's platform offers vacation photo-shoot services, connecting tourists with local photographers at affordable prices, enabling tourists to ensure that they get their good pictures clicked and turn those memories into a souvenir.",
+  "one_liner": "Operator of a photographer booking platform intended to connect travelers and local photographers. The company's platform offers vacation photo-shoot services, connecting tourists with local photographers at affordable prices, enabling tourists to ensure that they get their good pictures clicked and turn those memories into a souvenir.",
+  "location": "Mexico",
+  "industry": "Crowdfunding",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/57ebf1cb-5cbf-48ec-8f71-d16effe8b313.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Crowdfunding"
+  ],
+  "url": "https://500.co/portfolio/memorick",
+  "api": "/companies/memorick.json"
+}

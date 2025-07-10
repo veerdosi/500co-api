@@ -1,0 +1,22 @@
+{
+  "id": 8152,
+  "name": "Stylebit, Inc.",
+  "slug": "stylebit",
+  "website": "usetrag.com",
+  "description": "Design system automation platform intended to help companies track and analyze and measure the adoption of design by front-end engineers within a company.",
+  "one_liner": "Design system automation platform intended to help companies track and analyze and measure the adoption of design by front-end engineers within a company.",
+  "location": "Georgia",
+  "industry": "Developer Tools, Productivity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a47852bb-44fb-49ab-ae94-f52921e0259b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools",
+    "Productivity"
+  ],
+  "url": "https://500.co/portfolio/stylebit",
+  "api": "/companies/stylebit.json"
+}

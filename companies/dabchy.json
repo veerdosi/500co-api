@@ -1,0 +1,21 @@
+{
+  "id": 2968,
+  "name": "Dabchy Groupe",
+  "slug": "dabchy",
+  "website": "www.dabchy.com",
+  "description": "Operator of a peer-to-peer fashion marketplace intended to connect buyers and sellers for online shopping. The company offers a marketplace that is a mix of a social network and a forum where people like and comment on the articles posted and give each other fashion tips, enabling customers to buy, sell, exchange, and review new and used fashion items with ease.",
+  "one_liner": "Operator of a peer-to-peer fashion marketplace intended to connect buyers and sellers for online shopping. The company offers a marketplace that is a mix of a social network and a forum where people like and comment on the articles posted and give each other fashion tips, enabling customers to buy, sell, exchange, and review new and used fashion items with ease.",
+  "location": "Tunisia",
+  "industry": "Fashion",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/daa26223-a8b8-445f-8cb2-05032aaa2c69.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion"
+  ],
+  "url": "https://500.co/portfolio/dabchy",
+  "api": "/companies/dabchy.json"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 5487,
+  "name": "Good Morning Ser Pte. Ltd.",
+  "slug": "konser",
+  "website": "app.sermorpheus.com",
+  "description": "Operator of a metaverse integrated platform intended to facilitate non-fungible token trading. The company's platform assists creators in launching customized non-fungible tokens to connect and engage with their fanbase and community in real-time, enabling content creators to have an easy and cost-effective medium of connecting fans.",
+  "one_liner": "Operator of a metaverse integrated platform intended to facilitate non-fungible token trading. The company's platform assists creators in launching customized non-fungible tokens to connect and engage with their fanbase and community in real-time, enabling content creators to have an easy and cost-effective medium of connecting fans.",
+  "location": "Indonesia",
+  "industry": "CloudTech, Crypto, Web 3",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4765fdd1-53d5-4d9e-a50d-850ab798c9fe.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "CloudTech",
+    "Crypto",
+    "Web 3"
+  ],
+  "url": "https://500.co/portfolio/konser",
+  "api": "/companies/konser.json"
+}

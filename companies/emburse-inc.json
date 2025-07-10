@@ -1,0 +1,21 @@
+{
+  "id": 4721,
+  "name": "Emburse Inc.",
+  "slug": "emburse-inc",
+  "website": "www.emburse.com",
+  "description": "Provider of an expense tracking and management platform. The company's platform helps in controlling business expenses by issuing virtual prepaid corporate debit cards that can either be used one time or are refillable.",
+  "one_liner": "Provider of an expense tracking and management platform. The company's platform helps in controlling business expenses by issuing virtual prepaid corporate debit cards that can either be used one time or are refillable.",
+  "location": "United States",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d8da4da1-98f8-4833-b1cd-920fd3837733.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/emburse-inc",
+  "api": "/companies/emburse-inc.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4783,
+  "name": "Le Tote, Inc.",
+  "slug": "le-tote-inc",
+  "website": "letote.com",
+  "description": "Operator of an online clothing rental platform designed to help in borrowing everyday clothing. The company's clothing rental platform focuses on replicating the offline behavior of swapping and sharing clothes, enabling consumers to borrow clothing and accessories through an online portal.",
+  "one_liner": "Operator of an online clothing rental platform designed to help in borrowing everyday clothing. The company's clothing rental platform focuses on replicating the offline behavior of swapping and sharing clothes, enabling consumers to borrow clothing and accessories through an online portal.",
+  "location": "United States",
+  "industry": "Fashion",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/80134900-9de3-4f5e-b5ea-9a4a3097107a.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion"
+  ],
+  "url": "https://500.co/portfolio/le-tote-inc",
+  "api": "/companies/le-tote-inc.json"
+}

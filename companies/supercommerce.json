@@ -1,0 +1,23 @@
+{
+  "id": 5070,
+  "name": "El-Dokan, Inc.",
+  "slug": "supercommerce",
+  "website": "el-dokan.com",
+  "description": "Operator of an information technology consulting company intended to develop enterprise e-commerce software designed for large and growing retail stores. The company's expertise involves end-to-end software development and web application development for e-commerce businesses, enabling clients to focus more on their core businesses.",
+  "one_liner": "Operator of an information technology consulting company intended to develop enterprise e-commerce software designed for large and growing retail stores. The company's expertise involves end-to-end software development and web application development for e-commerce businesses, enabling clients to focus more on their core businesses.",
+  "location": "Saudi Arabia",
+  "industry": "Developer Tools, Ecommerce, No Code",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/0eb82de6-7986-4881-bb69-16ce1d2ef6c7.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools",
+    "Ecommerce",
+    "No Code"
+  ],
+  "url": "https://500.co/portfolio/supercommerce",
+  "api": "/companies/supercommerce.json"
+}

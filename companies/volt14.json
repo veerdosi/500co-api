@@ -1,0 +1,23 @@
+{
+  "id": 5191,
+  "name": "Volt14 Solutions Pte. Ltd.",
+  "slug": "volt14",
+  "website": "volt14.com",
+  "description": "Operator of an anode manufacturing company intended to develop ultra-high performance materials for Li-ion batteries. The company's products are built using a wet chemistry approach and mainly include lithium anodes which can be used in any Li-ion battery for 3C applications, automobiles and systems, or defense and space, enabling energy industry manufacturers to use their existing product line of applications with these alternative battery anodes, without any manufacturing bottlenecks.",
+  "one_liner": "Operator of an anode manufacturing company intended to develop ultra-high performance materials for Li-ion batteries. The company's products are built using a wet chemistry approach and mainly include lithium anodes which can be used in any Li-ion battery for 3C applications, automobiles and systems, or defense and space, enabling energy industry manufacturers to use their existing product line of applications with these alternative battery anodes, without any manufacturing bottlenecks.",
+  "location": "Singapore",
+  "industry": "Energy, SaaS, Utilities (energy, water, waste)",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/51281f08-777c-4db8-a5e0-e5fb735c1415.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Energy",
+    "SaaS",
+    "Utilities (energy, water, waste)"
+  ],
+  "url": "https://500.co/portfolio/volt14",
+  "api": "/companies/volt14.json"
+}

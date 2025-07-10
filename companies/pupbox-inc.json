@@ -1,0 +1,21 @@
+{
+  "id": 3710,
+  "name": "PupBox, Inc.",
+  "slug": "pupbox-inc",
+  "website": "pupbox.com",
+  "description": "Provider of a monthly subscription box created to deliver educational material, treats, toys and accessories for dogs. The company's subscription box offers puppy safe products personalized by puppy age and physical characteristics and educational material with each box to help through the many training steps and developmental changes, enabling new puppy owners to train and pamper their puppy throughout puppyhood.",
+  "one_liner": "Provider of a monthly subscription box created to deliver educational material, treats, toys and accessories for dogs. The company's subscription box offers puppy safe products personalized by puppy age and physical characteristics and educational material with each box to help through the many training steps and developmental changes, enabling new puppy owners to train and pamper their puppy throughout puppyhood.",
+  "location": "United States",
+  "industry": "Pet Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/81f3082f-57f8-4497-b1f0-3d3f6f8a47ab.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Pet Tech"
+  ],
+  "url": "https://500.co/portfolio/pupbox-inc",
+  "api": "/companies/pupbox-inc.json"
+}

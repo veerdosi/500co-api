@@ -1,0 +1,21 @@
+{
+  "id": 5284,
+  "name": "DeepLinq A.I Pte. Ltd.",
+  "slug": "credilinqai",
+  "website": "www.credilinq.ai",
+  "description": "Developer of a technology infrastructure company designed to offer white-labeled embedded finance to its customers. The company's B2B (business-to-business) platforms and marketplaces seamlessly assimilate data digitally into the client's self-help application to help and understand their customers' businesses better and create unique credit scores for each of their borrowers, thereby enabling SMEs (Small and Medium Enterprises) to have hassle-free and fair access to capital and business growth.",
+  "one_liner": "Developer of a technology infrastructure company designed to offer white-labeled embedded finance to its customers. The company's B2B (business-to-business) platforms and marketplaces seamlessly assimilate data digitally into the client's self-help application to help and understand their customers' businesses better and create unique credit scores for each of their borrowers, thereby enabling SMEs (Small and Medium Enterprises) to have hassle-free and fair access to capital and business growth.",
+  "location": "Singapore",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f4a94718-8239-469a-8f5f-9ceacd6e86e3.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/credilinqai",
+  "api": "/companies/credilinqai.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5343,
+  "name": "Niramai Health Analytix Private Limited",
+  "slug": "niramai",
+  "website": "www.niramai.com",
+  "description": "Developer of a medical device designed to detect breast cancer at a much earlier stage than traditional methods or self-examination. The company's device uses an imaging method that is radiation-free, non-touch, not painful, works for women of all ages, and employs artificial intelligence and machine learning algorithms for early and accurate breast cancer screening, enabling healthcare practitioners to detect breast cancer for screening in rural and semi-urban areas.",
+  "one_liner": "Developer of a medical device designed to detect breast cancer at a much earlier stage than traditional methods or self-examination. The company's device uses an imaging method that is radiation-free, non-touch, not painful, works for women of all ages, and employs artificial intelligence and machine learning algorithms for early and accurate breast cancer screening, enabling healthcare practitioners to detect breast cancer for screening in rural and semi-urban areas.",
+  "location": "India",
+  "industry": "Health Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7b8245c3-be77-427e-bf26-cbe4fe52de82.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Health Tech"
+  ],
+  "url": "https://500.co/portfolio/niramai",
+  "api": "/companies/niramai.json"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 4793,
+  "name": "Wildfire Interactive, Inc.",
+  "slug": "wildfire-interactive-inc",
+  "website": "wildfireapp.com",
+  "description": "Developer of social media marketing software. The company helps corporations, small businesses, marketing agencies, bloggers and non-profits to create their own branded interactive promotions, such as sweepstakes, contests, give-aways and incentive-based surveys, as well as to simultaneously publish them in various social networks and on their website.",
+  "one_liner": "Developer of social media marketing software. The company helps corporations, small businesses, marketing agencies, bloggers and non-profits to create their own branded interactive promotions, such as sweepstakes, contests, give-aways and incentive-based surveys, as well as to simultaneously publish them in various social networks and on their website.",
+  "location": "United States",
+  "industry": "Content, Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d29f3005-65d2-4a3e-bd1f-8c473eda0d63.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content",
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/wildfire-interactive-inc",
+  "api": "/companies/wildfire-interactive-inc.json"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 5798,
+  "name": "PurismEV Inc.",
+  "slug": "purismev",
+  "website": "www.purism-ev.com",
+  "description": "Operator of an AI energy efficiency company intended to improve motor and battery efficiency based on driving patterns. The company offers various services such as reducing environmental impact, increasing vehicle lifetime, reducing battery size, improving range performance, increasing energy efficiency, and improving acceleration, providing users with real-time vehicle monitoring.",
+  "one_liner": "Operator of an AI energy efficiency company intended to improve motor and battery efficiency based on driving patterns. The company offers various services such as reducing environmental impact, increasing vehicle lifetime, reducing battery size, improving range performance, increasing energy efficiency, and improving acceleration, providing users with real-time vehicle monitoring.",
+  "location": "Taiwan",
+  "industry": "Automotive, Energy, IoT",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/f7c7c742-9a0d-4273-8c42-1364f783906b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Automotive",
+    "Energy",
+    "IoT"
+  ],
+  "url": "https://500.co/portfolio/purismev",
+  "api": "/companies/purismev.json"
+}

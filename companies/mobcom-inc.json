@@ -1,0 +1,22 @@
+{
+  "id": 4214,
+  "name": "MobCom, Inc.",
+  "slug": "mobcom-inc",
+  "website": "sendsonar.com",
+  "description": "Developer enterprise-grade customer engagement designed to offer alternative way to reach customers. The company's customer engagement tool sends automated messages based on customer actions, enabling businesses to communicate with customers and vice versa over mobile messaging channels.",
+  "one_liner": "Developer enterprise-grade customer engagement designed to offer alternative way to reach customers. The company's customer engagement tool sends automated messages based on customer actions, enabling businesses to communicate with customers and vice versa over mobile messaging channels.",
+  "location": "United States",
+  "industry": "Content, Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/79300064-bd2d-489f-949c-176149b431bd.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content",
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/mobcom-inc",
+  "api": "/companies/mobcom-inc.json"
+}

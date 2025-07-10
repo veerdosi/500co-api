@@ -1,0 +1,21 @@
+{
+  "id": 3216,
+  "name": "GreenQ Ltd",
+  "slug": "greenq",
+  "website": "greenq.gq",
+  "description": "Developer of a waste management technology designed to offer connected garbage collection for municipalities. The company's technology uses a hardware-enabled garbage waste tracking device that is installed on all garbage trucks which collects real-time data on the waste pickup process, without any need for manual activation, enabling garbage collection vendors, system integrators, and municipalities to weigh incoming waste and predict the garbage production rate as well as reduce expenses and emissions while also providing improved services to their citizens.",
+  "one_liner": "Developer of a waste management technology designed to offer connected garbage collection for municipalities. The company's technology uses a hardware-enabled garbage waste tracking device that is installed on all garbage trucks which collects real-time data on the waste pickup process, without any need for manual activation, enabling garbage collection vendors, system integrators, and municipalities to weigh incoming waste and predict the garbage production rate as well as reduce expenses and emissions while also providing improved services to their citizens.",
+  "location": "Brazil",
+  "industry": "Climate Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/bb7f5b88-6536-4f69-87f9-80d1928be833.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Climate Tech"
+  ],
+  "url": "https://500.co/portfolio/greenq",
+  "api": "/companies/greenq.json"
+}

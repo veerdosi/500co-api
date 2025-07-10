@@ -1,0 +1,21 @@
+{
+  "id": 5350,
+  "name": "PURA MENTE MEDITATION, INC.",
+  "slug": "pura-mente",
+  "website": "puramente.app",
+  "description": "Developer of a wellness application designed to learn how to meditate and maintain a healthy life balance. The company's platform teaches how to meditate as well as offers free guided sessions, and intermediate and advanced courses, and also offers company-based plans for employees, enabling corporate clients and users to reduce stress levels, and anxiety and increase productivity.",
+  "one_liner": "Developer of a wellness application designed to learn how to meditate and maintain a healthy life balance. The company's platform teaches how to meditate as well as offers free guided sessions, and intermediate and advanced courses, and also offers company-based plans for employees, enabling corporate clients and users to reduce stress levels, and anxiety and increase productivity.",
+  "location": "Argentina",
+  "industry": "Wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/d4a00b6b-627a-429c-9390-07ed917ed60b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Wellness"
+  ],
+  "url": "https://500.co/portfolio/pura-mente",
+  "api": "/companies/pura-mente.json"
+}

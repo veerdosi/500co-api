@@ -1,0 +1,21 @@
+{
+  "id": 5590,
+  "name": "GLOBISH ACADEMIA (THAILAND) COMPANY LIMITED",
+  "slug": "globish",
+  "website": "www.globish.co.th",
+  "description": "Developer of an online learning platform designed to teach English. The company's platform offers online English courses, one-on-one coaching classes, e-learning programs, workshops, and language tests, enabling individuals and working professionals to speak, interact, and learn the English language at home.",
+  "one_liner": "Developer of an online learning platform designed to teach English. The company's platform offers online English courses, one-on-one coaching classes, e-learning programs, workshops, and language tests, enabling individuals and working professionals to speak, interact, and learn the English language at home.",
+  "location": "Thailand",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/756f9605-e741-4ae9-ae27-f5ea1146e969.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/globish",
+  "api": "/companies/globish.json"
+}

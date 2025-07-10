@@ -1,0 +1,23 @@
+{
+  "id": 5399,
+  "name": "Sanad Cash, Inc.",
+  "slug": "sanad-cash",
+  "website": "sanadcash.com",
+  "description": "Developer of an all-in-one spending management platform intended to track all spending from one single dashboard. The company's platform tracks all business transactions with instant corporate card issuing to control spending and instantly issue multi-currencies corporate cards for employees, enabling startups, small and medium enterprises and corporates to reduce fraud and save time collecting expense receipts.",
+  "one_liner": "Developer of an all-in-one spending management platform intended to track all spending from one single dashboard. The company's platform tracks all business transactions with instant corporate card issuing to control spending and instantly issue multi-currencies corporate cards for employees, enabling startups, small and medium enterprises and corporates to reduce fraud and save time collecting expense receipts.",
+  "location": "Saudi Arabia",
+  "industry": "App, Payments, SaaS",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/44502c2c-a300-41a2-86a0-c377f829c6f8.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "App",
+    "Payments",
+    "SaaS"
+  ],
+  "url": "https://500.co/portfolio/sanad-cash",
+  "api": "/companies/sanad-cash.json"
+}

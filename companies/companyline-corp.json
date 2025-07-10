@@ -1,0 +1,21 @@
+{
+  "id": 3705,
+  "name": "CompanyLine Corp.",
+  "slug": "companyline-corp",
+  "website": "hall.com",
+  "description": "Provider of a cross-platform, cross-device messaging service to businesses. The company's platform provides SMS-like messaging services that run across all mobile devices in real-time.",
+  "one_liner": "Provider of a cross-platform, cross-device messaging service to businesses. The company's platform provides SMS-like messaging services that run across all mobile devices in real-time.",
+  "location": "United States",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/companyline-corp",
+  "api": "/companies/companyline-corp.json"
+}

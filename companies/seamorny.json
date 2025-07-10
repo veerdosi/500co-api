@@ -1,0 +1,21 @@
+{
+  "id": 5844,
+  "name": "Seamorny Holdings Pte. Ltd.",
+  "slug": "seamorny",
+  "website": "",
+  "description": "The company is currently operating in Stealth mode.",
+  "one_liner": "The company is currently operating in Stealth mode.",
+  "location": "Singapore",
+  "industry": "AgTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AgTech"
+  ],
+  "url": "https://500.co/portfolio/seamorny",
+  "api": "/companies/seamorny.json"
+}

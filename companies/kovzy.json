@@ -1,0 +1,23 @@
+{
+  "id": 5549,
+  "name": "Kovzy Co.",
+  "slug": "kovzy",
+  "website": "kovzy.com",
+  "description": "Developer of restaurant tech platform designed to offer direct digital ordering, payment and delivery upports to restaurants. The company offers different delivery methods, manage the delivery radius around the branch and design templates of all online restaurants, enabling restaurant owners to set up their online restaurant and QR menu in less time and receive direct orders from your loyal customers.",
+  "one_liner": "Developer of restaurant tech platform designed to offer direct digital ordering, payment and delivery upports to restaurants. The company offers different delivery methods, manage the delivery radius around the branch and design templates of all online restaurants, enabling restaurant owners to set up their online restaurant and QR menu in less time and receive direct orders from your loyal customers.",
+  "location": "Georgia",
+  "industry": "Food, No Code, SaaS",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/cc089611-aa97-4532-ba0d-38d95204c8e1.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Food",
+    "No Code",
+    "SaaS"
+  ],
+  "url": "https://500.co/portfolio/kovzy",
+  "api": "/companies/kovzy.json"
+}

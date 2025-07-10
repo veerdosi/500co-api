@@ -1,0 +1,21 @@
+{
+  "id": 3111,
+  "name": "YesBoss Group Indonesia PT",
+  "slug": "kataai",
+  "website": "kata.ai",
+  "description": "Developer of a conversational artificial intelligence development platform designed to help increase customer engagement through an understanding of human conversations. The company's natural language processing technology powers intelligent chatbots across different kinds of industries that can be leveraged for automated intelligent conversations in commonly used messaging channels, enabling clients to build their own chatbots on any messaging platform and help improve brand-audience customer engagement.",
+  "one_liner": "Developer of a conversational artificial intelligence development platform designed to help increase customer engagement through an understanding of human conversations. The company's natural language processing technology powers intelligent chatbots across different kinds of industries that can be leveraged for automated intelligent conversations in commonly used messaging channels, enabling clients to build their own chatbots on any messaging platform and help improve brand-audience customer engagement.",
+  "location": "Indonesia",
+  "industry": "Talent Management",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b925bf31-9cc8-481d-b165-3ee11ad9893a.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Talent Management"
+  ],
+  "url": "https://500.co/portfolio/kataai",
+  "api": "/companies/kataai.json"
+}

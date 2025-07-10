@@ -1,0 +1,21 @@
+{
+  "id": 4671,
+  "name": "Recurly, Inc.",
+  "slug": "recurly-inc",
+  "website": "recurly.com",
+  "description": "Provider of a subscription billing services platform designed to deliver recurring billing automation. The company's pay-as-you-go subscription billing platform Recurly, offers professional billing, customizable hosted billing pages, account management and helps companies to eliminate cost and complexity required to manage subscription billing operations enabling customers to properly account for their subscription revenue and close the books quickly and accurately each month.",
+  "one_liner": "Provider of a subscription billing services platform designed to deliver recurring billing automation. The company's pay-as-you-go subscription billing platform Recurly, offers professional billing, customizable hosted billing pages, account management and helps companies to eliminate cost and complexity required to manage subscription billing operations enabling customers to properly account for their subscription revenue and close the books quickly and accurately each month.",
+  "location": "United States",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/0ca6c98e-6a0e-4a99-9de7-b8f181c53c1b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/recurly-inc",
+  "api": "/companies/recurly-inc.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3772,
+  "name": "Convoy, Inc",
+  "slug": "techmate",
+  "website": "www.techmate.com",
+  "description": "g Provider of in-home technology support and training services. The company's platform helps users to set up their devices, solve computer problems and learn how to use technology in their own home or office.",
+  "one_liner": "g Provider of in-home technology support and training services. The company's platform helps users to set up their devices, solve computer problems and learn how to use technology in their own home or office.",
+  "location": "United States",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/325d76d9-e7f0-4110-a2d2-9bfdf0590d4a.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/techmate",
+  "api": "/companies/techmate.json"
+}

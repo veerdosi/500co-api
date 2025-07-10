@@ -1,0 +1,21 @@
+{
+  "id": 4507,
+  "name": "StreamLoan, Inc.",
+  "slug": "streamloan-inc",
+  "website": "streamloan.io",
+  "description": "Provider of a mortgage lending platform intended to make the loan (purchase & refinance) process simple, efficient, and digital for both the lender and customer. The company's mortgage lending platform enables property buyers to collaborate with banks and financial institutions to secure home and property loans by keeping borrowers at the center of the home buying experience by giving them complete control of who sees what data, enabling them to significantly reduce transaction time by speeding all the steps in the lending process.",
+  "one_liner": "Provider of a mortgage lending platform intended to make the loan (purchase & refinance) process simple, efficient, and digital for both the lender and customer. The company's mortgage lending platform enables property buyers to collaborate with banks and financial institutions to secure home and property loans by keeping borrowers at the center of the home buying experience by giving them complete control of who sees what data, enabling them to significantly reduce transaction time by speeding all the steps in the lending process.",
+  "location": "United States",
+  "industry": "Credit & Lending",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/666014b5-be8f-4388-9a4f-7cab05774c6f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Credit & Lending"
+  ],
+  "url": "https://500.co/portfolio/streamloan-inc",
+  "api": "/companies/streamloan-inc.json"
+}

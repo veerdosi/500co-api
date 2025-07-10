@@ -1,0 +1,21 @@
+{
+  "id": 3377,
+  "name": "Drivemate Company Limited",
+  "slug": "drivemate",
+  "website": "www.drivemate.asia",
+  "description": "Developer of an online car rental platform designed to reduce the wastage of fuel and positively impact sustainable development. The company's platform is a peer-to-peer car-sharing marketplace that connects vehicle owners with renters who can choose cars based on features like car variety and easy pick-up, without any hidden charges, enabling car owners to generate income from unlimited car rentals and renters to find cars nearby from where they live to travel conveniently.",
+  "one_liner": "Developer of an online car rental platform designed to reduce the wastage of fuel and positively impact sustainable development. The company's platform is a peer-to-peer car-sharing marketplace that connects vehicle owners with renters who can choose cars based on features like car variety and easy pick-up, without any hidden charges, enabling car owners to generate income from unlimited car rentals and renters to find cars nearby from where they live to travel conveniently.",
+  "location": "Thailand",
+  "industry": "Mobility",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/cf076613-ab6c-4410-ab15-4fc0e6cdf002.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Mobility"
+  ],
+  "url": "https://500.co/portfolio/drivemate",
+  "api": "/companies/drivemate.json"
+}

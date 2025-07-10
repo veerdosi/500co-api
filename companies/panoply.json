@@ -1,0 +1,21 @@
+{
+  "id": 3217,
+  "name": "Panoply Ltd",
+  "slug": "panoply",
+  "website": "panoply.io",
+  "description": "Developer of an online data warehousing platform designed to keep all the data and business intelligence tools in one place. The company's platform automates manual data-storage processes including modeling, scaling, performance and storage optimization, enabling organizations to free up their data engineering facilities and create value for their customers easily.",
+  "one_liner": "Developer of an online data warehousing platform designed to keep all the data and business intelligence tools in one place. The company's platform automates manual data-storage processes including modeling, scaling, performance and storage optimization, enabling organizations to free up their data engineering facilities and create value for their customers easily.",
+  "location": "Israel",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a5d2e0dd-4418-4313-b99e-c472aab5f46d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/panoply",
+  "api": "/companies/panoply.json"
+}

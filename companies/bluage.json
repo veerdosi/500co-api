@@ -1,0 +1,21 @@
+{
+  "id": 2927,
+  "name": "Canary Inc.",
+  "slug": "bluage",
+  "website": "bluage.co.jp",
+  "description": "Developer of an online real estate platform designed to help customers search for a property using the Internet. The company's platform matches agents with customers, enabling buyers to interact with agencies and get access to the property rapidly and cost-effectively.",
+  "one_liner": "Developer of an online real estate platform designed to help customers search for a property using the Internet. The company's platform matches agents with customers, enabling buyers to interact with agencies and get access to the property rapidly and cost-effectively.",
+  "location": "Japan",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e38c5924-3c7f-4b6b-be8f-de3378cd1824.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/bluage",
+  "api": "/companies/bluage.json"
+}

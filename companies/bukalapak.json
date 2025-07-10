@@ -1,0 +1,23 @@
+{
+  "id": 5195,
+  "name": "PT Bukalapak.com Tbk",
+  "slug": "bukalapak",
+  "website": "www.bukalapak.com",
+  "description": "PT Bukalapak.com Tbk is a trusted online shopping site in Indonesia that sells a variety of products that are needed by Indonesian people. It offers electronic, cosmetic, apparel and various other products.",
+  "one_liner": "PT Bukalapak.com Tbk is a trusted online shopping site in Indonesia that sells a variety of products that are needed by Indonesian people. It offers electronic, cosmetic, apparel and various other products.",
+  "location": "Indonesia",
+  "industry": "FinTech, Social Impact, Consumer",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/24ec0043-9e40-4d11-8310-12e25b3a4733.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech",
+    "Social Impact",
+    "Consumer"
+  ],
+  "url": "https://500.co/portfolio/bukalapak",
+  "api": "/companies/bukalapak.json"
+}

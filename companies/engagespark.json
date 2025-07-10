@@ -1,0 +1,21 @@
+{
+  "id": 4813,
+  "name": "engageSPARK Limited",
+  "slug": "engagespark",
+  "website": "www.engagespark.com",
+  "description": "Developer of a mobile engagement platform designed to leverage the power of automation and workflows via phone calls, messaging and chat. The company's mobile engagement platform helps to create phone surveys, pre-recorded messages, interactive telephone services, automatic replies in audio or text and more, enabling companies to reach their clients and audiences through phone and SMS campaigns.",
+  "one_liner": "Developer of a mobile engagement platform designed to leverage the power of automation and workflows via phone calls, messaging and chat. The company's mobile engagement platform helps to create phone surveys, pre-recorded messages, interactive telephone services, automatic replies in audio or text and more, enabling companies to reach their clients and audiences through phone and SMS campaigns.",
+  "location": "Philippines",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/6668d3fc-591b-4b17-b81f-8b618be3d73d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/engagespark",
+  "api": "/companies/engagespark.json"
+}

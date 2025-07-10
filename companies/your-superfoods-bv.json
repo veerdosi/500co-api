@@ -1,0 +1,21 @@
+{
+  "id": 3033,
+  "name": "Your Superfoods BV",
+  "slug": "your-superfoods-bv",
+  "website": "yoursuper.com",
+  "description": "Provider of an online marketplace intended to provide organic food powder mixes. The company's marketplace offers organic oats containing antioxidants and vegan protein, enabling customers to get a nutritious boost in smoothies, juices, yogurt, muesli and snacks.",
+  "one_liner": "Provider of an online marketplace intended to provide organic food powder mixes. The company's marketplace offers organic oats containing antioxidants and vegan protein, enabling customers to get a nutritious boost in smoothies, juices, yogurt, muesli and snacks.",
+  "location": "Germany",
+  "industry": "Wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/0337fca6-ae8d-4f3f-8797-910ed4226a39.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Wellness"
+  ],
+  "url": "https://500.co/portfolio/your-superfoods-bv",
+  "api": "/companies/your-superfoods-bv.json"
+}

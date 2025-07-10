@@ -1,0 +1,21 @@
+{
+  "id": 3686,
+  "name": "Produce Pay, Inc.",
+  "slug": "produce-pay",
+  "website": "producepay.com",
+  "description": "Developer of a financing and trading platform designed to facilitate a sustainable way to provide the agricultural industry with financial resources. The company's platforms provide farmers with immediate access to liquidity and financing in addition to real-time data for pricing transparency and connections to other key players in the field, enabling farmers to access custom-made cash flow services and expand their businesses.",
+  "one_liner": "Developer of a financing and trading platform designed to facilitate a sustainable way to provide the agricultural industry with financial resources. The company's platforms provide farmers with immediate access to liquidity and financing in addition to real-time data for pricing transparency and connections to other key players in the field, enabling farmers to access custom-made cash flow services and expand their businesses.",
+  "location": "United States",
+  "industry": "Payments",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/003e7027-dfac-4381-9c03-5d6a7a336811.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Payments"
+  ],
+  "url": "https://500.co/portfolio/produce-pay",
+  "api": "/companies/produce-pay.json"
+}

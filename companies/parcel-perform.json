@@ -1,0 +1,21 @@
+{
+  "id": 5184,
+  "name": "Parcel Perform Pte Ltd",
+  "slug": "parcel-perform",
+  "website": "www.parcelperform.com",
+  "description": "Developer of a carrier-independent delivery management platform designed to improve the e-commerce customer checkout experience. The company's logistics management platform is an easy-to-use self-service tracking dashboard and also provides a B2C-based free tracking service for end-consumers, enabling merchants to track their global and local carriers and offering them the opportunity to send shoppers continuous updates about the status of their shipments in real time.",
+  "one_liner": "Developer of a carrier-independent delivery management platform designed to improve the e-commerce customer checkout experience. The company's logistics management platform is an easy-to-use self-service tracking dashboard and also provides a B2C-based free tracking service for end-consumers, enabling merchants to track their global and local carriers and offering them the opportunity to send shoppers continuous updates about the status of their shipments in real time.",
+  "location": "Singapore",
+  "industry": "Supply Chain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f4445089-5a91-4139-a7d3-bc5092864819.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Supply Chain"
+  ],
+  "url": "https://500.co/portfolio/parcel-perform",
+  "api": "/companies/parcel-perform.json"
+}

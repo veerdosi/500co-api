@@ -1,0 +1,21 @@
+{
+  "id": 5604,
+  "name": "Autopass Inc.",
+  "slug": "autopass",
+  "website": "en.autopass.xyz",
+  "description": "Provider of a cloud-based fintech SaaS (Software as a service) platform designed to offer end-to-end solutions for operators such as parking lots, gas stations, and charging spots. The company's platform integrates license plate recognition technology (LPR) to provide cashless payment options in all roadside parking spaces to build a broader ecosystem, thereby enabling drivers to complete transactions quickly and efficiently without the need to get out of their cars.",
+  "one_liner": "Provider of a cloud-based fintech SaaS (Software as a service) platform designed to offer end-to-end solutions for operators such as parking lots, gas stations, and charging spots. The company's platform integrates license plate recognition technology (LPR) to provide cashless payment options in all roadside parking spaces to build a broader ecosystem, thereby enabling drivers to complete transactions quickly and efficiently without the need to get out of their cars.",
+  "location": "Taiwan",
+  "industry": "Payments",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Payments"
+  ],
+  "url": "https://500.co/portfolio/autopass",
+  "api": "/companies/autopass.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4972,
+  "name": "Omate, Inc.",
+  "slug": "omate",
+  "website": "www.omate.com",
+  "description": "Developer of smart wearables designed to track and monitor vital signs. The company leverages technology to design and manufacture smart watches which monitor temperature, heart rate, sleep monitoring, GPS for kids watches, and fitness tracking, and also provides enterprise IoT solutions, enabling customers to better track and monitor their health.",
+  "one_liner": "Developer of smart wearables designed to track and monitor vital signs. The company leverages technology to design and manufacture smart watches which monitor temperature, heart rate, sleep monitoring, GPS for kids watches, and fitness tracking, and also provides enterprise IoT solutions, enabling customers to better track and monitor their health.",
+  "location": "China",
+  "industry": "Fashion",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/1ee3e1c4-cf05-4786-9766-59df24c94add.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion"
+  ],
+  "url": "https://500.co/portfolio/omate",
+  "api": "/companies/omate.json"
+}

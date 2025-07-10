@@ -1,0 +1,21 @@
+{
+  "id": 4899,
+  "name": "Agora Labs, INC",
+  "slug": "agoraio",
+  "website": "www.agora.io",
+  "description": "Agora Inc provides real-time communication solutions. The company offers real-time video calling, voice calling, live audio and video streaming, recording, and real-time messaging. It serves the gaming, retail, and education industries. The company operates in the People's Republic of China and the United States of America and the majority of its revenue is derived from the People's Republic of China.",
+  "one_liner": "Agora Inc provides real-time communication solutions. The company offers real-time video calling, voice calling, live audio and video streaming, recording, and real-time messaging. It serves the gaming, retail, and education industries. The company operates in the People's Republic of China and the United States of America and the majority of its revenue is derived from the People's Republic of China.",
+  "location": "United States",
+  "industry": "Telecommunications",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/14c7e64b-2917-45af-8922-95f0a2b728c2.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Telecommunications"
+  ],
+  "url": "https://500.co/portfolio/agoraio",
+  "api": "/companies/agoraio.json"
+}

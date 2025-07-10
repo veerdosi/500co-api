@@ -1,0 +1,22 @@
+{
+  "id": 3488,
+  "name": "StoryTree, Inc.",
+  "slug": "storytree-inc",
+  "website": "getsimpleprints.com",
+  "description": "Developer of an app designed to make it easy to create photo books. The company's app allows users to pick photos from their mobile phones, cloud storage, and social media and place them in the desired format for printing, helping users create beautiful photo gifts, keepsakes, and custom scrapbooks in minutes.",
+  "one_liner": "Developer of an app designed to make it easy to create photo books. The company's app allows users to pick photos from their mobile phones, cloud storage, and social media and place them in the desired format for printing, helping users create beautiful photo gifts, keepsakes, and custom scrapbooks in minutes.",
+  "location": "United States",
+  "industry": "Social Media, Social Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Media",
+    "Social Impact"
+  ],
+  "url": "https://500.co/portfolio/storytree-inc",
+  "api": "/companies/storytree-inc.json"
+}

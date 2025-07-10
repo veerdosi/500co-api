@@ -1,0 +1,22 @@
+{
+  "id": 2699,
+  "name": "Swept Technologies, Inc.",
+  "slug": "swept",
+  "website": "www.sweptworks.com",
+  "description": "Developer of an operational cleaning management platform designed to oversee commercial cleaning businesses. The company's platform assists cleaning companies in communicating with employees and customers, completing inspections, and ordering supplies in real-time, enabling companies to increase profits and customer retention.",
+  "one_liner": "Developer of an operational cleaning management platform designed to oversee commercial cleaning businesses. The company's platform assists cleaning companies in communicating with employees and customers, completing inspections, and ordering supplies in real-time, enabling companies to increase profits and customer retention.",
+  "location": "Canada",
+  "industry": "Productivity, Supply Chain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/27b45bb7-b329-4f47-9693-d5bd4fc19f17.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Productivity",
+    "Supply Chain"
+  ],
+  "url": "https://500.co/portfolio/swept",
+  "api": "/companies/swept.json"
+}

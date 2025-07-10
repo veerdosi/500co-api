@@ -1,0 +1,21 @@
+{
+  "id": 3199,
+  "name": "Pocket Menu Co., Ltd.",
+  "slug": "pocket-menu-co-ltd",
+  "website": "pocket-concierge.jp",
+  "description": "Provider of an application platform intended to be used for booking restaurant. The company's platform provides online booking and payment service with high-end restaurants in Japan for mobile & PC browser users, enabling them to enjoy the great food culture of Japan without any stress including language and payment barrier.",
+  "one_liner": "Provider of an application platform intended to be used for booking restaurant. The company's platform provides online booking and payment service with high-end restaurants in Japan for mobile & PC browser users, enabling them to enjoy the great food culture of Japan without any stress including language and payment barrier.",
+  "location": "Japan",
+  "industry": "Travel & Tourism",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e708ef77-0d6e-4e37-a12d-0b1fe77b1bfc.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Travel & Tourism"
+  ],
+  "url": "https://500.co/portfolio/pocket-menu-co-ltd",
+  "api": "/companies/pocket-menu-co-ltd.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3211,
+  "name": "Urbanmetry Pte. Ltd.",
+  "slug": "urbanmetry",
+  "website": "www.urbanmetry.com",
+  "description": "Operator of a data aggregation firm intended to specialize in property and real estate markets. The company's firm harvests clean and analyses large amounts of city data through artificial intelligence and proprietary algorithms to extract trends and patterns in the built environment, enabling clients to get an efficient and transparent property market, improving city planning, and shaping a sustainable urban environment.",
+  "one_liner": "Operator of a data aggregation firm intended to specialize in property and real estate markets. The company's firm harvests clean and analyses large amounts of city data through artificial intelligence and proprietary algorithms to extract trends and patterns in the built environment, enabling clients to get an efficient and transparent property market, improving city planning, and shaping a sustainable urban environment.",
+  "location": "Singapore",
+  "industry": "Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/1881170d-d5da-49ca-8d64-eb9f8a47cd14.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/urbanmetry",
+  "api": "/companies/urbanmetry.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4528,
+  "name": "Tealet, Inc.",
+  "slug": "tealet",
+  "website": "www.tealet.com",
+  "description": "Operator of an online retail platform designed to connect tea buyers directly with small family farms around the world. The company's platform uses technology and media to help people learn about a variety of teas, and offers videos from tea gardens and detailed profiles of farms, allowing customers to browse, preview, and purchase teas from individual growers.",
+  "one_liner": "Operator of an online retail platform designed to connect tea buyers directly with small family farms around the world. The company's platform uses technology and media to help people learn about a variety of teas, and offers videos from tea gardens and detailed profiles of farms, allowing customers to browse, preview, and purchase teas from individual growers.",
+  "location": "United States",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/9af8452b-30d9-4689-81bf-5bf4163f220d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/tealet",
+  "api": "/companies/tealet.json"
+}

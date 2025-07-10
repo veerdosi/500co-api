@@ -1,0 +1,21 @@
+{
+  "id": 3445,
+  "name": "Omnitron Sensors Inc.",
+  "slug": "omnitron-sensors",
+  "website": "omnitronsensors.com",
+  "description": "Developer of an automotive sensor platform designed to permit autonomous cars and drones to travel safely with high-performance and low-cost sensors. The company's sensors offer full autonomy to self-driving cars and drones with novel silicon photonics processes for sensors in safety-critical systems, it writes the script for building high-performance and low-cost sensors, enabling clients to get tools to make driverless driving safe.",
+  "one_liner": "Developer of an automotive sensor platform designed to permit autonomous cars and drones to travel safely with high-performance and low-cost sensors. The company's sensors offer full autonomy to self-driving cars and drones with novel silicon photonics processes for sensors in safety-critical systems, it writes the script for building high-performance and low-cost sensors, enabling clients to get tools to make driverless driving safe.",
+  "location": "United States",
+  "industry": "Automotive",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Automotive"
+  ],
+  "url": "https://500.co/portfolio/omnitron-sensors",
+  "api": "/companies/omnitron-sensors.json"
+}

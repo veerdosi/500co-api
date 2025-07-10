@@ -1,0 +1,21 @@
+{
+  "id": 3030,
+  "name": "DDC Enterprise Limited",
+  "slug": "daydaycook",
+  "website": "daydaycook.com",
+  "description": "DDC Enterprise Ltd is a content driven consumer brand offering easy, convenient ready-to-heat , ready-to-cook and plant-based meal products i.e. meal products consisting largely or solely of vegetables, fruits, grains and other foods derived from plant-based protein, rather than animal protein) while promoting healthier lifestyle choices to Millennial and Generation Z customer-base. It is also engaged in the provision of advertising services and the operation of experience stores to offer cooking classes.",
+  "one_liner": "DDC Enterprise Ltd is a content driven consumer brand offering easy, convenient ready-to-heat , ready-to-cook and plant-based meal products i.e. meal products consisting largely or solely of vegetables, fruits, grains and other foods derived from plant-based protein, rather than animal protein) while promoting healthier lifestyle choices to Millennial and Generation Z customer-base. It is also engaged in the provision of advertising services and the operation of experience stores to offer cooking classes.",
+  "location": "Hong Kong",
+  "industry": "Social Media",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ca3d1201-5460-4525-b745-a60eeeda7514.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Media"
+  ],
+  "url": "https://500.co/portfolio/daydaycook",
+  "api": "/companies/daydaycook.json"
+}

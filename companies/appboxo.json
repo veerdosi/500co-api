@@ -1,0 +1,21 @@
+{
+  "id": 3160,
+  "name": "Appboxo Pte. Ltd.",
+  "slug": "appboxo",
+  "website": "appboxo.com",
+  "description": "Developer of an open SaaS platform designed to help creators launch an app within apps. The company's platform allows users to launch mini-apps within an app without downloading which is loaded instantly to integrate various services, enabling developers to avail tools to make performant and customized mini-apps to increase the utility of their apps and enhance user experience.",
+  "one_liner": "Developer of an open SaaS platform designed to help creators launch an app within apps. The company's platform allows users to launch mini-apps within an app without downloading which is loaded instantly to integrate various services, enabling developers to avail tools to make performant and customized mini-apps to increase the utility of their apps and enhance user experience.",
+  "location": "Singapore",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/729bf3c3-ab26-4bf4-b7ec-13111e3c6818.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/appboxo",
+  "api": "/companies/appboxo.json"
+}

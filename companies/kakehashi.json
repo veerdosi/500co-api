@@ -1,0 +1,21 @@
+{
+  "id": 2998,
+  "name": "Kakehashi, Inc.",
+  "slug": "kakehashi",
+  "website": "www.kakehashi.life",
+  "description": "Developer of a pharmacy experience platform designed to support patient satisfaction and work style reforms in pharmacies. The company's SaaS-based platform streamlines various pharmacy operations by automatically drafting patient records and providing services that can improve the patient experience itself, enabling pharmacies to operate efficiently.",
+  "one_liner": "Developer of a pharmacy experience platform designed to support patient satisfaction and work style reforms in pharmacies. The company's SaaS-based platform streamlines various pharmacy operations by automatically drafting patient records and providing services that can improve the patient experience itself, enabling pharmacies to operate efficiently.",
+  "location": "Japan",
+  "industry": "Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a5797e0d-f7c2-4d6d-9629-0b6ec05725c0.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/kakehashi",
+  "api": "/companies/kakehashi.json"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 5436,
+  "name": "Chipax Inc.",
+  "slug": "chipax",
+  "website": "www.chipax.com",
+  "description": "Developer of a web application designed to organize finances in an efficient way. The company automates processes and carries out the operation in an orderly and transparent way, connecting sales and purchase invoices, expenses, fees, remuneration, and taxes to a checking account to keep total control, enabling businesses to manage their cash flow and other financial statements.",
+  "one_liner": "Developer of a web application designed to organize finances in an efficient way. The company automates processes and carries out the operation in an orderly and transparent way, connecting sales and purchase invoices, expenses, fees, remuneration, and taxes to a checking account to keep total control, enabling businesses to manage their cash flow and other financial statements.",
+  "location": "Chile",
+  "industry": "Accounting, SaaS, Subscription",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/40e742ad-613f-4800-b496-00593cf14a34.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Accounting",
+    "SaaS",
+    "Subscription"
+  ],
+  "url": "https://500.co/portfolio/chipax",
+  "api": "/companies/chipax.json"
+}

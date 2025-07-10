@@ -1,0 +1,21 @@
+{
+  "id": 2771,
+  "name": "Flixel Photos Inc",
+  "slug": "flixel",
+  "website": "flixel.com",
+  "description": "Developer of creative tools designed for photographers, videographers, and marketers to create living photos, cinematography, and more. The company offers creation tools and a web-sharing platform, enabling professional photographers and users to tell stories using a new visual medium, save time, and complement workflows.",
+  "one_liner": "Developer of creative tools designed for photographers, videographers, and marketers to create living photos, cinematography, and more. The company offers creation tools and a web-sharing platform, enabling professional photographers and users to tell stories using a new visual medium, save time, and complement workflows.",
+  "location": "Canada",
+  "industry": "Social Media",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/64cbb088-b0af-4622-afad-f9a8a1666cdc.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Media"
+  ],
+  "url": "https://500.co/portfolio/flixel",
+  "api": "/companies/flixel.json"
+}

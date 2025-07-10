@@ -1,0 +1,21 @@
+{
+  "id": 3288,
+  "name": "Linkdex Ltd",
+  "slug": "linkdex-ltd",
+  "website": "linkdex.com",
+  "description": "Developer of an enterprise data platform designed to improve search engine visibility. The company's activities include providing a combined search intelligence platform along with advanced tools to improve rankings, traffic and revenues online, enabling businesses, brands and agencies to grow and lead the increasingly critical SEO channel.",
+  "one_liner": "Developer of an enterprise data platform designed to improve search engine visibility. The company's activities include providing a combined search intelligence platform along with advanced tools to improve rankings, traffic and revenues online, enabling businesses, brands and agencies to grow and lead the increasingly critical SEO channel.",
+  "location": "United Kingdom",
+  "industry": "Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/linkdex-ltd",
+  "api": "/companies/linkdex-ltd.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2755,
+  "name": "Alongside, Inc.",
+  "slug": "alongside",
+  "website": "www.alongside.com",
+  "description": "Operator of a web-based hiring platform intended to help teams improve and streamline recruitment, hiring, and overall employer branding. The company's platform helps employers to post employment opportunities to multiple job boards while only having to create one posting as well as helps the job seekers to get notified about the job, enabling employers to find a fitting candidate for their vacancy at an instant and a low hiring cost.",
+  "one_liner": "Operator of a web-based hiring platform intended to help teams improve and streamline recruitment, hiring, and overall employer branding. The company's platform helps employers to post employment opportunities to multiple job boards while only having to create one posting as well as helps the job seekers to get notified about the job, enabling employers to find a fitting candidate for their vacancy at an instant and a low hiring cost.",
+  "location": "United States",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/699d3d4a-0f36-4325-8784-3d2299e8acc4.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/alongside",
+  "api": "/companies/alongside.json"
+}

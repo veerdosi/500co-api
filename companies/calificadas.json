@@ -1,0 +1,21 @@
+{
+  "id": 5665,
+  "name": "Calificadas LLC",
+  "slug": "calificadas",
+  "website": "www.calificadas.com",
+  "description": "An AI-powered communication coach for women.",
+  "one_liner": "An AI-powered communication coach for women.",
+  "location": "Argentina",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/b0e2de57-423c-4d7e-90e2-0b8693b34592.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/calificadas",
+  "api": "/companies/calificadas.json"
+}

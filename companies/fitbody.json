@@ -1,0 +1,21 @@
+{
+  "id": 3015,
+  "name": "CUERPOWER SAPI DE CV",
+  "slug": "fitbody",
+  "website": "fitbody.mx",
+  "description": "Manufacturer of sports and nutrition supplements intended to offer carb and sugar-free protein drinks. The company's supplements consist of a variety of flavors such as chocolate, matcha, vanilla, chocolate, and latte, enabling women sports enthusiasts to achieve their physical and health goals easily.",
+  "one_liner": "Manufacturer of sports and nutrition supplements intended to offer carb and sugar-free protein drinks. The company's supplements consist of a variety of flavors such as chocolate, matcha, vanilla, chocolate, and latte, enabling women sports enthusiasts to achieve their physical and health goals easily.",
+  "location": "Mexico",
+  "industry": "Ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e973a379-dbe4-48c3-a047-d5d10e1994d3.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Ecommerce"
+  ],
+  "url": "https://500.co/portfolio/fitbody",
+  "api": "/companies/fitbody.json"
+}

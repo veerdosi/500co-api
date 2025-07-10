@@ -1,0 +1,21 @@
+{
+  "id": 4520,
+  "name": "Funderful, Inc.",
+  "slug": "funderful-inc",
+  "website": "funderful.com",
+  "description": "Provider of a Web-based alumni fundraising management platform created to help universities manage and grow their annual giving programs. The company's platform displays contributions in a series of real-time infographics, allowing everyone to instantly compare results enabling fundraising organizations to structure, follow, track and analyze the donations campaigns..",
+  "one_liner": "Provider of a Web-based alumni fundraising management platform created to help universities manage and grow their annual giving programs. The company's platform displays contributions in a series of real-time infographics, allowing everyone to instantly compare results enabling fundraising organizations to structure, follow, track and analyze the donations campaigns..",
+  "location": "United States",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/funderful-inc",
+  "api": "/companies/funderful-inc.json"
+}

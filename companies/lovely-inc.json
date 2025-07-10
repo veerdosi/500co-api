@@ -1,0 +1,21 @@
+{
+  "id": 3577,
+  "name": "Lovely, Inc.",
+  "slug": "lovely-inc",
+  "website": "livelovely.com",
+  "description": "Provider of an online marketplace to find apartments. The company combine a consumer destination site for buyers of new homes with a database of photos, property descriptions, house plans and community information.",
+  "one_liner": "Provider of an online marketplace to find apartments. The company combine a consumer destination site for buyers of new homes with a database of photos, property descriptions, house plans and community information.",
+  "location": "United States",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f8d80355-23f4-4d52-96bb-ad483056b7fb.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/lovely-inc",
+  "api": "/companies/lovely-inc.json"
+}

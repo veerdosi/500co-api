@@ -1,0 +1,21 @@
+{
+  "id": 3856,
+  "name": "Beeem, Inc",
+  "slug": "beeem-inc",
+  "website": "tinypost.co",
+  "description": "Developer of mobile applications for picture sharing. The application developed by company allows users to caption the pictures. It's application lets users write over photos and turn them into stories.",
+  "one_liner": "Developer of mobile applications for picture sharing. The application developed by company allows users to caption the pictures. It's application lets users write over photos and turn them into stories.",
+  "location": "United States",
+  "industry": "Social Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Impact"
+  ],
+  "url": "https://500.co/portfolio/beeem-inc",
+  "api": "/companies/beeem-inc.json"
+}

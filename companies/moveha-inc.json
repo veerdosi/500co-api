@@ -1,0 +1,21 @@
+{
+  "id": 4873,
+  "name": "Moveha Inc.",
+  "slug": "moveha-inc",
+  "website": "moveha.com",
+  "description": "Developer of a rental website designed to offer reliable property information and reservation services. The company's rental website is integrated with a platform which helps the students to search and find off-campus housing as well as provides relocation options, sharing rooms or helps them in leasing their own properties, enabling students to find accommodations and relocate.",
+  "one_liner": "Developer of a rental website designed to offer reliable property information and reservation services. The company's rental website is integrated with a platform which helps the students to search and find off-campus housing as well as provides relocation options, sharing rooms or helps them in leasing their own properties, enabling students to find accommodations and relocate.",
+  "location": "United States",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/moveha-inc",
+  "api": "/companies/moveha-inc.json"
+}

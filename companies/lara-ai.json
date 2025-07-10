@@ -1,0 +1,22 @@
+{
+  "id": 5279,
+  "name": "SIGMA ENGAGEMENT LLC",
+  "slug": "lara-ai",
+  "website": "meetlara.ai",
+  "description": "Developer of AI personal assistant intended for employees to interact to consult on various topics. The company's platform finds employees with low engagement or at risk of departure in time, enhances the work of leaders, and automates tasks with an artificial intelligence conversational interface, enabling human resource teams to automate tasks and reduce the operational load.",
+  "one_liner": "Developer of AI personal assistant intended for employees to interact to consult on various topics. The company's platform finds employees with low engagement or at risk of departure in time, enhances the work of leaders, and automates tasks with an artificial intelligence conversational interface, enabling human resource teams to automate tasks and reduce the operational load.",
+  "location": "Argentina",
+  "industry": "SaaS, HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/63d58935-1ecb-410f-8c38-26db7708431d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "SaaS",
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/lara-ai",
+  "api": "/companies/lara-ai.json"
+}

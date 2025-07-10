@@ -1,0 +1,22 @@
+{
+  "id": 5574,
+  "name": "Pawdlers Inc",
+  "slug": "pawdlers",
+  "website": "www.pawdly.com",
+  "description": "Operator of a pet care platform intended to build trust relationships among pet owners, pet care providers and pet experts. The company connects pet owners with pet care providers, such as dog walkers, groomers and trainers, enabling pet owners to provide a variety of features that help pet owners to find reliable and trustworthy pet care providers.",
+  "one_liner": "Operator of a pet care platform intended to build trust relationships among pet owners, pet care providers and pet experts. The company connects pet owners with pet care providers, such as dog walkers, groomers and trainers, enabling pet owners to provide a variety of features that help pet owners to find reliable and trustworthy pet care providers.",
+  "location": "South Korea",
+  "industry": "Pet Tech, B2B Marketplaces",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/db4ab1c5-0b0d-4fa1-9651-d78a04f38a80.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Pet Tech",
+    "B2B Marketplaces"
+  ],
+  "url": "https://500.co/portfolio/pawdlers",
+  "api": "/companies/pawdlers.json"
+}

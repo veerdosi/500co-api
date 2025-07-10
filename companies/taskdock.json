@@ -1,0 +1,21 @@
+{
+  "id": 4544,
+  "name": "TaskDock",
+  "slug": "taskdock",
+  "website": "versly.com",
+  "description": "Developer of a solution that helps integrate applications such as Word, Excel, PowerPoint, and the web with mobile devices.",
+  "one_liner": "Developer of a solution that helps integrate applications such as Word, Excel, PowerPoint, and the web with mobile devices.",
+  "location": "United States",
+  "industry": "Productivity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/cdc7d061-d66c-4970-9259-01e7aadad4c2.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Productivity"
+  ],
+  "url": "https://500.co/portfolio/taskdock",
+  "api": "/companies/taskdock.json"
+}

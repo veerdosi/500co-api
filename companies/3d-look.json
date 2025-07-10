@@ -1,0 +1,21 @@
+{
+  "id": 3401,
+  "name": "3D Look Inc",
+  "slug": "3d-look",
+  "website": "3dlook.me",
+  "description": "Developer of an artificial intelligence-powered mobile body measuring and virtual try-on technologies designed to focus on personalization in retail. The company's virtual shopping software provides personalized and engaging user experiences, thereby helping businesses to reduce returns and apparel waste while increasing conversions and customer satisfaction.",
+  "one_liner": "Developer of an artificial intelligence-powered mobile body measuring and virtual try-on technologies designed to focus on personalization in retail. The company's virtual shopping software provides personalized and engaging user experiences, thereby helping businesses to reduce returns and apparel waste while increasing conversions and customer satisfaction.",
+  "location": "United States",
+  "industry": "Fashion",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e9b54807-b8af-4c74-93c0-c4060cbd4dfc.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion"
+  ],
+  "url": "https://500.co/portfolio/3d-look",
+  "api": "/companies/3d-look.json"
+}

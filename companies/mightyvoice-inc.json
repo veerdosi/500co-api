@@ -1,0 +1,21 @@
+{
+  "id": 3432,
+  "name": "MightyVoice, Inc.",
+  "slug": "mightyvoice-inc",
+  "website": "mightytext.net",
+  "description": "Provider of an application software intended to be used for sending and receiving text messages and phone calls. The company's software offers a platform where one can send and receive SMS and MMS from a computer or tablet, using Android phone number, enabling users to keep their messages in sync with the phone's SMS inbox and never miss notifications.",
+  "one_liner": "Provider of an application software intended to be used for sending and receiving text messages and phone calls. The company's software offers a platform where one can send and receive SMS and MMS from a computer or tablet, using Android phone number, enabling users to keep their messages in sync with the phone's SMS inbox and never miss notifications.",
+  "location": "United States",
+  "industry": "Social Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2e391152-f79a-49e0-b073-6ffc6747e2fb.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Impact"
+  ],
+  "url": "https://500.co/portfolio/mightyvoice-inc",
+  "api": "/companies/mightyvoice-inc.json"
+}

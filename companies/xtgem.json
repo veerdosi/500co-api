@@ -1,0 +1,21 @@
+{
+  "id": 3442,
+  "name": "XtGem, Inc.",
+  "slug": "xtgem",
+  "website": "xtgem.com",
+  "description": "Developer of a visual mobile site building tool designed to build and maintain mobile sites. The company's tool helps to build a fully-featured, completely-customizable mobile site in a very short period of time, enabling users to build and maintain mobile sites, even without any programming knowledge.",
+  "one_liner": "Developer of a visual mobile site building tool designed to build and maintain mobile sites. The company's tool helps to build a fully-featured, completely-customizable mobile site in a very short period of time, enabling users to build and maintain mobile sites, even without any programming knowledge.",
+  "location": "Lithuania",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/6c32c12a-d376-4e35-b9c5-3998894c8b87.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/xtgem",
+  "api": "/companies/xtgem.json"
+}

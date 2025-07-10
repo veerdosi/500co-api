@@ -1,0 +1,21 @@
+{
+  "id": 4733,
+  "name": "Monkimun Inc.",
+  "slug": "lingokids",
+  "website": "lingokids.com",
+  "description": "Developer of a language learning platform intended to break down language barriers and provide equal opportunities for all kids. The company provides a learning tool that offers educational games for children to learn vocabulary and new languages and also helps parents monitor their child's development with progress reports, enabling kids to learn english through a game-based interactive tool.",
+  "one_liner": "Developer of a language learning platform intended to break down language barriers and provide equal opportunities for all kids. The company provides a learning tool that offers educational games for children to learn vocabulary and new languages and also helps parents monitor their child's development with progress reports, enabling kids to learn english through a game-based interactive tool.",
+  "location": "Spain",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/0dacfa5f-0c84-45e1-89a5-72525fd9eb9a.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/lingokids",
+  "api": "/companies/lingokids.json"
+}

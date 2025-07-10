@@ -1,0 +1,23 @@
+{
+  "id": 5854,
+  "name": "Suplait LLC",
+  "slug": "rukaai",
+  "website": "www.ruka.ai",
+  "description": "AI agents automating SMBs",
+  "one_liner": "AI agents automating SMBs",
+  "location": "Chile",
+  "industry": "AI/Machine Learning, Data & Analytics, SME Solution",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/8e4a5ac0-419e-4721-86bf-c8a265a3e4c0.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "Data & Analytics",
+    "SME Solution"
+  ],
+  "url": "https://500.co/portfolio/rukaai",
+  "api": "/companies/rukaai.json"
+}

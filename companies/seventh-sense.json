@@ -1,0 +1,21 @@
+{
+  "id": 3383,
+  "name": "Seventh Sense Artificial Intelligence Pte Ltd",
+  "slug": "seventh-sense",
+  "website": "www.seventhsense.ai",
+  "description": "Developer of an artificial intelligence(AI) based computer vision technology designed for the defense, security, surveillance, and retail markets. The company's technology includes face verification and edge AI which allows the optimization of complex algorithms for low-cost, low-compute, low-power, edge hardware devices and detect, recognize, and compare facial images, enabling clients to help build products that help in making cities and communities smart and safe.",
+  "one_liner": "Developer of an artificial intelligence(AI) based computer vision technology designed for the defense, security, surveillance, and retail markets. The company's technology includes face verification and edge AI which allows the optimization of complex algorithms for low-cost, low-compute, low-power, edge hardware devices and detect, recognize, and compare facial images, enabling clients to help build products that help in making cities and communities smart and safe.",
+  "location": "Singapore",
+  "industry": "Cybersecurity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/92f7e2e0-95b1-4898-a8ff-0b6d0d5a3a99.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Cybersecurity"
+  ],
+  "url": "https://500.co/portfolio/seventh-sense",
+  "api": "/companies/seventh-sense.json"
+}

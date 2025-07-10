@@ -1,0 +1,21 @@
+{
+  "id": 4822,
+  "name": "Dropsuite Ltd",
+  "slug": "dropsuite-ltd",
+  "website": "dropsuite.com",
+  "description": "Provider of a cloud-based software platform designed to help businesses to backup, recover and protect their important business information. The company's cloud-based software platform offer services that include website and database backup, email backup and email archiving, enabling small and medium enterprises to restore and backup all their important data in a secured cloud storage.",
+  "one_liner": "Provider of a cloud-based software platform designed to help businesses to backup, recover and protect their important business information. The company's cloud-based software platform offer services that include website and database backup, email backup and email archiving, enabling small and medium enterprises to restore and backup all their important data in a secured cloud storage.",
+  "location": "Singapore",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/48dbe68d-7bdb-4d6b-979c-0e7fe746200b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/dropsuite-ltd",
+  "api": "/companies/dropsuite-ltd.json"
+}

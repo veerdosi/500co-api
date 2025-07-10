@@ -1,0 +1,22 @@
+{
+  "id": 5780,
+  "name": "Chaart, Inc.",
+  "slug": "chaart",
+  "website": "www.chaart.co",
+  "description": "Operator of an art asset management platform intended for collecting art in a smarter way. The company's platform manages art including original paintings, prints, art toys, posters, and goods, and tracks the value of the collection, enabling users to discover art trends through collectors' authentic collections.",
+  "one_liner": "Operator of an art asset management platform intended for collecting art in a smarter way. The company's platform manages art including original paintings, prints, art toys, posters, and goods, and tracks the value of the collection, enabling users to discover art trends through collectors' authentic collections.",
+  "location": "South Korea",
+  "industry": "App, Marketplace",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/eeb0c9e3-60cf-4447-b395-594d445395e2.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "App",
+    "Marketplace"
+  ],
+  "url": "https://500.co/portfolio/chaart",
+  "api": "/companies/chaart.json"
+}

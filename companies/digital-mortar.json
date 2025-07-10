@@ -1,0 +1,22 @@
+{
+  "id": 4961,
+  "name": "Digital Mortar, Inc.",
+  "slug": "digital-mortar",
+  "website": "digitalmortar.com",
+  "description": "Developer of an in-store customer tracking system designed to provide full path customer analytics. The company's full SaaS in-store customer tracking system includes video and camera tracking and is designed to provide robust cloud-based data collection and integration of (PoS), enabling brick-and-mortar retailers to drive store layout, merchandising, and staff optimization.",
+  "one_liner": "Developer of an in-store customer tracking system designed to provide full path customer analytics. The company's full SaaS in-store customer tracking system includes video and camera tracking and is designed to provide robust cloud-based data collection and integration of (PoS), enabling brick-and-mortar retailers to drive store layout, merchandising, and staff optimization.",
+  "location": "United States",
+  "industry": "Data & Analytics, Supply Chain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4ade07de-be36-4e9d-b2de-3fb4f66d3495.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics",
+    "Supply Chain"
+  ],
+  "url": "https://500.co/portfolio/digital-mortar",
+  "api": "/companies/digital-mortar.json"
+}

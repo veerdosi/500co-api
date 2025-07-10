@@ -1,0 +1,21 @@
+{
+  "id": 3065,
+  "name": "Interakt Digital Group Pte. Ltd.",
+  "slug": "resulticks",
+  "website": "interakt.co",
+  "description": "Interakt.co simplifies customer data analysis, marketing and interaction.",
+  "one_liner": "Interakt.co simplifies customer data analysis, marketing and interaction.",
+  "location": "India",
+  "industry": "Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d64e972f-e8dd-409e-86ed-d07e613113af.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/resulticks",
+  "api": "/companies/resulticks.json"
+}

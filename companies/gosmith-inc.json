@@ -1,0 +1,21 @@
+{
+  "id": 4271,
+  "name": "GoSmith, Inc.",
+  "slug": "gosmith-inc",
+  "website": "gosmith.com",
+  "description": "Developer of a home improvement mobile application intended to connect homeowners with professionals to get their home projects completed. The company's application offers to search for contractors and compare estimates for home improvements, remodeling and repairs, enabling users to message individual contractors and transform their living space in a hassle free way.",
+  "one_liner": "Developer of a home improvement mobile application intended to connect homeowners with professionals to get their home projects completed. The company's application offers to search for contractors and compare estimates for home improvements, remodeling and repairs, enabling users to message individual contractors and transform their living space in a hassle free way.",
+  "location": "United States",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/gosmith-inc",
+  "api": "/companies/gosmith-inc.json"
+}

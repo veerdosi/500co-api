@@ -1,0 +1,21 @@
+{
+  "id": 4058,
+  "name": "Lightbox, Inc.",
+  "slug": "lightbox-inc",
+  "website": "lightbox.com",
+  "description": "Provider of applications for Android mobile phones. The company's primary application Lightbox Photos, connect the Android camera with social networks.",
+  "one_liner": "Provider of applications for Android mobile phones. The company's primary application Lightbox Photos, connect the Android camera with social networks.",
+  "location": "United States",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7b9397e2-f8de-4c94-8896-6312851ad130.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/lightbox-inc",
+  "api": "/companies/lightbox-inc.json"
+}

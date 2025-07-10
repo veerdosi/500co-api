@@ -1,0 +1,22 @@
+{
+  "id": 5012,
+  "name": "ALETÉIA INTELIGÊNCIA EDUCACIONAL LTDA",
+  "slug": "j-entendi",
+  "website": "jaentendi.com.br",
+  "description": "Provider of educational services intended to cater to the needs of blue-collar workers. The company's services include online professional training and capacity building the company through video classes with an exclusive methodology for workers at the base of the pyramid that helps to leverage blue-collar workers transforming content like books, booklets and manuals into video lessons, enabling workers with skilled knowledge in various fields to work efficiently.",
+  "one_liner": "Provider of educational services intended to cater to the needs of blue-collar workers. The company's services include online professional training and capacity building the company through video classes with an exclusive methodology for workers at the base of the pyramid that helps to leverage blue-collar workers transforming content like books, booklets and manuals into video lessons, enabling workers with skilled knowledge in various fields to work efficiently.",
+  "location": "Brazil",
+  "industry": "Social Media, HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Media",
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/j-entendi",
+  "api": "/companies/j-entendi.json"
+}

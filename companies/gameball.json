@@ -1,0 +1,22 @@
+{
+  "id": 4329,
+  "name": "Gameball, Inc.",
+  "slug": "gameball",
+  "website": "www.gameball.co",
+  "description": "Developer of a marketing and customer relationship management platform designed to increase customer retention and improve engagements. The company's platform offers tools that use gamification to offer intelligent, customizable loyalty and rewards programs, behaviour-based notifications, and referral management systems all within a single gamified experience, enabling businesses to retain and grow their customer base by creating personal experiences tailored to their actions and interests.",
+  "one_liner": "Developer of a marketing and customer relationship management platform designed to increase customer retention and improve engagements. The company's platform offers tools that use gamification to offer intelligent, customizable loyalty and rewards programs, behaviour-based notifications, and referral management systems all within a single gamified experience, enabling businesses to retain and grow their customer base by creating personal experiences tailored to their actions and interests.",
+  "location": "Egypt",
+  "industry": "Content, Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/db6c6da7-432e-4d36-98f3-0c65a0122393.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content",
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/gameball",
+  "api": "/companies/gameball.json"
+}

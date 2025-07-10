@@ -1,0 +1,21 @@
+{
+  "id": 5792,
+  "name": "In Charge One, Inc.",
+  "slug": "in-charge-one",
+  "website": "incharge.one",
+  "description": "Developer of EV charging infrastructure intended to provide an alternative energy source. The company is currently operating in stealth mode.",
+  "one_liner": "Developer of EV charging infrastructure intended to provide an alternative energy source. The company is currently operating in stealth mode.",
+  "location": "United States",
+  "industry": "Energy",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/f9cbc3e9-4226-4a15-bef6-b9ccfdd73dfe.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Energy"
+  ],
+  "url": "https://500.co/portfolio/in-charge-one",
+  "api": "/companies/in-charge-one.json"
+}

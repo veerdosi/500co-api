@@ -1,0 +1,23 @@
+{
+  "id": 5456,
+  "name": "Stethy Health Pty Ltd",
+  "slug": "stethy",
+  "website": "stethy.co",
+  "description": "Developer of an artificial intelligence-based healthcare software designed to improve compliance and reduce resourcing. The company's software uses artificial intelligence and machine learning algorithms that help the doctor to get a list of the symptoms and a proposed diagnosis before the patient walks into their treatment room and allow them to think and prepare what to ask, it automates data-heavy workflows within healthcare and the life sciences, enabling doctors and nurses to diagnose and treat patients effectively.",
+  "one_liner": "Developer of an artificial intelligence-based healthcare software designed to improve compliance and reduce resourcing. The company's software uses artificial intelligence and machine learning algorithms that help the doctor to get a list of the symptoms and a proposed diagnosis before the patient walks into their treatment room and allow them to think and prepare what to ask, it automates data-heavy workflows within healthcare and the life sciences, enabling doctors and nurses to diagnose and treat patients effectively.",
+  "location": "Australia",
+  "industry": "Health Tech, SaaS, Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5a10fc69-7355-43cf-8baf-ca8f06d89d85.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Health Tech",
+    "SaaS",
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/stethy",
+  "api": "/companies/stethy.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5038,
+  "name": "PT Makmur Sejahtera Organik",
+  "slug": "quiks-frozen",
+  "website": "www.quiks.co.id",
+  "description": "Provider of a cold chain delivery service intended to deliver fresh food and frozen food overnight delivery using a motorcycle freezer box. The company's logistics system installs a temperature-controlled storage box on motorcycles for shipping fresh and frozen products, enabling clients to deliver at the right temperature.",
+  "one_liner": "Provider of a cold chain delivery service intended to deliver fresh food and frozen food overnight delivery using a motorcycle freezer box. The company's logistics system installs a temperature-controlled storage box on motorcycles for shipping fresh and frozen products, enabling clients to deliver at the right temperature.",
+  "location": "Indonesia",
+  "industry": "Logistics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/41a584ea-49a9-4951-b5e9-5f24129a6ccd.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Logistics"
+  ],
+  "url": "https://500.co/portfolio/quiks-frozen",
+  "api": "/companies/quiks-frozen.json"
+}

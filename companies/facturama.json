@@ -1,0 +1,21 @@
+{
+  "id": 4415,
+  "name": "Facturama, Inc.",
+  "slug": "facturama",
+  "website": "facturama.mx",
+  "description": "Developer of an electronic invoicing platform designed to manage a company's billing process. The company's product features the issuance, receipt and validation of invoices, payroll, payment complements, fee receipts, lease receipts, consignment notes, deductible donation receipts and credit notes, thereby enabling individuals and small and medium-sized enterprises to have control over their daily business.",
+  "one_liner": "Developer of an electronic invoicing platform designed to manage a company's billing process. The company's product features the issuance, receipt and validation of invoices, payroll, payment complements, fee receipts, lease receipts, consignment notes, deductible donation receipts and credit notes, thereby enabling individuals and small and medium-sized enterprises to have control over their daily business.",
+  "location": "Mexico",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/857cd288-455b-4a5c-9dda-9d18bd7eb002.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/facturama",
+  "api": "/companies/facturama.json"
+}

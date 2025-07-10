@@ -1,0 +1,21 @@
+{
+  "id": 3486,
+  "name": "General Cryo Corp",
+  "slug": "savion-aerospace",
+  "website": "www.flysavion.com",
+  "description": "Developer of natural gas-powered aircraft designed to transform the aviation industry. The company's aircraft facilitates the rapid adoption of natural gas vehicles and sources carbon-negative renewable LNG for its customers at low cost as it does not increase the cost of frequently replacing batteries or a heavier aircraft to carry them, enabling clients to avail a carbon-negative air transport system that is economically competitive.",
+  "one_liner": "Developer of natural gas-powered aircraft designed to transform the aviation industry. The company's aircraft facilitates the rapid adoption of natural gas vehicles and sources carbon-negative renewable LNG for its customers at low cost as it does not increase the cost of frequently replacing batteries or a heavier aircraft to carry them, enabling clients to avail a carbon-negative air transport system that is economically competitive.",
+  "location": "United States",
+  "industry": "Aviation",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2b239b05-ffec-4bea-8968-26cb6aa66d67.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Aviation"
+  ],
+  "url": "https://500.co/portfolio/savion-aerospace",
+  "api": "/companies/savion-aerospace.json"
+}

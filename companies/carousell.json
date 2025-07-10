@@ -1,0 +1,23 @@
+{
+  "id": 3351,
+  "name": "Carousell Pte. Ltd",
+  "slug": "carousell",
+  "website": "www.carousell.sg",
+  "description": "Operator of an online platform intended to simplify the process of buying and selling. The company's marketplace offers person-to-person buying and selling of products such as fashion items, home and living, mobile, and electronics among others simply by snapping a photo and posting a description of unused and secondhand clutter easily with free listings, enabling users to enjoy discounts and discover savings as well as save time and money.",
+  "one_liner": "Operator of an online platform intended to simplify the process of buying and selling. The company's marketplace offers person-to-person buying and selling of products such as fashion items, home and living, mobile, and electronics among others simply by snapping a photo and posting a description of unused and secondhand clutter easily with free listings, enabling users to enjoy discounts and discover savings as well as save time and money.",
+  "location": "Singapore",
+  "industry": "Ecommerce, FinTech, Marketplace",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2eb145ad-b0cf-4ba7-95b0-7d093bff0cac.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Ecommerce",
+    "FinTech",
+    "Marketplace"
+  ],
+  "url": "https://500.co/portfolio/carousell",
+  "api": "/companies/carousell.json"
+}

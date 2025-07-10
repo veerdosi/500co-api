@@ -1,0 +1,21 @@
+{
+  "id": 5324,
+  "name": "Bigfinite Inc.",
+  "slug": "aizon",
+  "website": "www.aizon.ai",
+  "description": "Developer of a data analytics and AI platform designed to improve pharma manufacturing processes. The company's platform offers acquisition, recording, visualization, and analysis of manufacturing data for the optimization of industrial processes in a simple, regulated, and traceable way, enabling pharma and other clients to discover new ways to optimize processes, reduce manufacturing quality issues, and enhance regulatory compliance.",
+  "one_liner": "Developer of a data analytics and AI platform designed to improve pharma manufacturing processes. The company's platform offers acquisition, recording, visualization, and analysis of manufacturing data for the optimization of industrial processes in a simple, regulated, and traceable way, enabling pharma and other clients to discover new ways to optimize processes, reduce manufacturing quality issues, and enhance regulatory compliance.",
+  "location": "United States",
+  "industry": "BioTech & Life Sciences",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/925c490a-af7a-45d2-b59e-da3afea9734c.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "BioTech & Life Sciences"
+  ],
+  "url": "https://500.co/portfolio/aizon",
+  "api": "/companies/aizon.json"
+}

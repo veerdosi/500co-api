@@ -1,0 +1,22 @@
+{
+  "id": 5091,
+  "name": "Alterestate Inc.",
+  "slug": "alterestate",
+  "website": "www.alterestate.com",
+  "description": "An all-in-one platform that empowers real estate agencies and developers to boost sales and enhance efficiency through data-driven CRM, marketing, and automation tools.",
+  "one_liner": "An all-in-one platform that empowers real estate agencies and developers to boost sales and enhance efficiency through data-driven CRM, marketing, and automation tools.",
+  "location": "Dominican Republic",
+  "industry": "PropTech, SaaS",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/0da94363-5650-4386-98c1-e096e071adc6.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "PropTech",
+    "SaaS"
+  ],
+  "url": "https://500.co/portfolio/alterestate",
+  "api": "/companies/alterestate.json"
+}

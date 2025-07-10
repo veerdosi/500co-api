@@ -1,0 +1,21 @@
+{
+  "id": 5127,
+  "name": "Monnai, Inc.",
+  "slug": "monnai",
+  "website": "monnai.com",
+  "description": "Developer of a financial platform designed to let individuals and businesses access financial services at an affordable rate. The company's platform offers financial data APIs to offer financial services such as real-time credit decisions, aggregated financial and digital insights, and streamlines onboarding and processes, enabling businesses to grow their assets and revenue.",
+  "one_liner": "Developer of a financial platform designed to let individuals and businesses access financial services at an affordable rate. The company's platform offers financial data APIs to offer financial services such as real-time credit decisions, aggregated financial and digital insights, and streamlines onboarding and processes, enabling businesses to grow their assets and revenue.",
+  "location": "United States",
+  "industry": "Consumer",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/115fdde2-0261-4688-bed2-6b82108c706d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Consumer"
+  ],
+  "url": "https://500.co/portfolio/monnai",
+  "api": "/companies/monnai.json"
+}

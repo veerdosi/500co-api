@@ -1,0 +1,23 @@
+{
+  "id": 3134,
+  "name": "NEO Success Pte. Ltd.",
+  "slug": "neo-money",
+  "website": "www.neomoney.com",
+  "description": "Developer of a financial coaching platform intended to help people handle money wisely and obtain financial freedom. The company's platform allows users to consolidate credit card debt, cash card and personal loans, build good credit, and plan for financial goals, thereby enabling customers to have a clear route towards financial independence.",
+  "one_liner": "Developer of a financial coaching platform intended to help people handle money wisely and obtain financial freedom. The company's platform allows users to consolidate credit card debt, cash card and personal loans, build good credit, and plan for financial goals, thereby enabling customers to have a clear route towards financial independence.",
+  "location": "Thailand",
+  "industry": "FinTech, Real Estate, Consumer",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech",
+    "Real Estate",
+    "Consumer"
+  ],
+  "url": "https://500.co/portfolio/neo-money",
+  "api": "/companies/neo-money.json"
+}

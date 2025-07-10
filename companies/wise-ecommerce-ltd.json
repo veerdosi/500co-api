@@ -1,0 +1,21 @@
+{
+  "id": 4796,
+  "name": "Wise Ecommerce Ltd",
+  "slug": "wise-ecommerce-ltd",
+  "website": "wiser.com",
+  "description": "Provider of actionable data intended to make better decisions for users. Wiser collects and analyzes online and in-store data with peed, scale and accuracy. The Wiser platform then blends these insights with advanced workflow software to drive business value for brands and retailers, including restaurants. The company's platform utilizes a combination of data science and human validation and offers integrated solutions for every aspect of retail in a centralized location.",
+  "one_liner": "Provider of actionable data intended to make better decisions for users. Wiser collects and analyzes online and in-store data with peed, scale and accuracy. The Wiser platform then blends these insights with advanced workflow software to drive business value for brands and retailers, including restaurants. The company's platform utilizes a combination of data science and human validation and offers integrated solutions for every aspect of retail in a centralized location.",
+  "location": "United States",
+  "industry": "Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/21ae7c1f-de77-4963-8695-85d520016e38.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/wise-ecommerce-ltd",
+  "api": "/companies/wise-ecommerce-ltd.json"
+}

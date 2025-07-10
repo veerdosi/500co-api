@@ -1,0 +1,21 @@
+{
+  "id": 4765,
+  "name": "Glambot, Inc.",
+  "slug": "glambot",
+  "website": "www.glambot.com",
+  "description": "Operator of an online platform intended to sell pre-owned make-up and cosmetics. The company's platform includes used makeup products that get cleaned and sanitized by experts, enabling customers to get the largest collection of rare, limited edition, and discontinued items from coveted makeup brands.",
+  "one_liner": "Operator of an online platform intended to sell pre-owned make-up and cosmetics. The company's platform includes used makeup products that get cleaned and sanitized by experts, enabling customers to get the largest collection of rare, limited edition, and discontinued items from coveted makeup brands.",
+  "location": "United States",
+  "industry": "Fashion",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ca4e368f-6a9b-42d4-9d03-f88feb506a64.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion"
+  ],
+  "url": "https://500.co/portfolio/glambot",
+  "api": "/companies/glambot.json"
+}

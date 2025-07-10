@@ -1,0 +1,22 @@
+{
+  "id": 3599,
+  "name": "MovieLaLa, Inc.",
+  "slug": "movielala-inc",
+  "website": "www.movielala.com",
+  "description": "Developer of a social network and marketing platform for upcoming movies. The company's personalized and socially designed platform for upcoming movies allows fans to follow stars, discover upcoming movies and share their favorites with friends. It also provides analytics and real-time insights for moviegoers.",
+  "one_liner": "Developer of a social network and marketing platform for upcoming movies. The company's personalized and socially designed platform for upcoming movies allows fans to follow stars, discover upcoming movies and share their favorites with friends. It also provides analytics and real-time insights for moviegoers.",
+  "location": "United States",
+  "industry": "Entertainment / Media, Social Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Entertainment / Media",
+    "Social Impact"
+  ],
+  "url": "https://500.co/portfolio/movielala-inc",
+  "api": "/companies/movielala-inc.json"
+}

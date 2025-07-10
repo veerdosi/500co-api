@@ -1,0 +1,22 @@
+{
+  "id": 5387,
+  "name": "InfuseAI Inc",
+  "slug": "recce",
+  "website": "www.infuseai.io",
+  "description": "Provider of a low-code platform intended to create machine learning models. The company's MLOps platform provides cluster-computing, one-click research environments, dataset loading, and management of various resources and access-control services for machine learning models, enabling data scientists to stay informed and focused on training and running their models. The platform gives IT leaders flexibility and administration authority to configure resources and settings for their teams.",
+  "one_liner": "Provider of a low-code platform intended to create machine learning models. The company's MLOps platform provides cluster-computing, one-click research environments, dataset loading, and management of various resources and access-control services for machine learning models, enabling data scientists to stay informed and focused on training and running their models. The platform gives IT leaders flexibility and administration authority to configure resources and settings for their teams.",
+  "location": "Taiwan",
+  "industry": "AI/Machine Learning, Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/eddd8488-3e80-4862-8df5-2a1fc2862d4c.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/recce",
+  "api": "/companies/recce.json"
+}

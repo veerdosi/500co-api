@@ -1,0 +1,21 @@
+{
+  "id": 5004,
+  "name": "SG Sway Investments PTE. LTD.",
+  "slug": "shweproperty",
+  "website": "www.shweproperty.com",
+  "description": "Operator of an online classifieds platform intended to match job demand with supply in various industries. The company's platform connects real estate buyers with sellers and job aspirants with job providers which effectively matches employers with the most suitable candidates to fill their jobs, hosting an annual calendar of career conferences and educational seminars, enabling consumers to encourage and recognize the best practices in human resource management that reduces time and save costs.",
+  "one_liner": "Operator of an online classifieds platform intended to match job demand with supply in various industries. The company's platform connects real estate buyers with sellers and job aspirants with job providers which effectively matches employers with the most suitable candidates to fill their jobs, hosting an annual calendar of career conferences and educational seminars, enabling consumers to encourage and recognize the best practices in human resource management that reduces time and save costs.",
+  "location": "Myanmar",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e094a6c4-2005-4f26-bfe3-ea7c57de5c04.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/shweproperty",
+  "api": "/companies/shweproperty.json"
+}

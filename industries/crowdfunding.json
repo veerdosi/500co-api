@@ -1,0 +1,69 @@
+[
+  {
+    "id": 5323,
+    "name": "AMWAL CORP",
+    "slug": "amwal",
+    "website": "amwal.com.eg",
+    "description": "Operator of a debt-based crowdfunding platform intended to let retail investors lend short-term loans to SMEs. The company's platform facilitates investors to invest in small and medium businesses in the form of loans, enabling small businesses and companies to raise funds for growth while allowing investors to earn returns on their investments.",
+    "one_liner": "Operator of a debt-based crowdfunding platform intended to let retail investors lend short-term loans to SMEs. The company's platform facilitates investors to invest in small and medium businesses in the form of loans, enabling small businesses and companies to raise funds for growth while allowing investors to earn returns on their investments.",
+    "location": "Egypt",
+    "industry": "Credit & Lending, Crowdfunding, FinTech, Debt",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/fe9e917d-b099-4957-856b-ecd408f4ac37.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Credit & Lending",
+      "Crowdfunding",
+      "FinTech",
+      "Debt"
+    ],
+    "url": "https://500.co/portfolio/amwal",
+    "api": "/companies/amwal.json"
+  },
+  {
+    "id": 3021,
+    "name": "MEMORICK S.A.P.I. DE C.V.",
+    "slug": "memorick",
+    "website": "memorick.com",
+    "description": "Operator of a photographer booking platform intended to connect travelers and local photographers. The company's platform offers vacation photo-shoot services, connecting tourists with local photographers at affordable prices, enabling tourists to ensure that they get their good pictures clicked and turn those memories into a souvenir.",
+    "one_liner": "Operator of a photographer booking platform intended to connect travelers and local photographers. The company's platform offers vacation photo-shoot services, connecting tourists with local photographers at affordable prices, enabling tourists to ensure that they get their good pictures clicked and turn those memories into a souvenir.",
+    "location": "Mexico",
+    "industry": "Crowdfunding",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/57ebf1cb-5cbf-48ec-8f71-d16effe8b313.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Crowdfunding"
+    ],
+    "url": "https://500.co/portfolio/memorick",
+    "api": "/companies/memorick.json"
+  },
+  {
+    "id": 5077,
+    "name": "Stonks, Inc.",
+    "slug": "sandhill-markets",
+    "website": "sandhillmarkets.com",
+    "description": "Operator of a crowdfunding platform intended to offer funds to various projects. The company's platform helps in discovering new startups, watching live pitches, asking questions, and attending deep dives all on mobile phones and other devices, enabling businesses to find the resources required to convert their ideas into a reality and raise funding.",
+    "one_liner": "Operator of a crowdfunding platform intended to offer funds to various projects. The company's platform helps in discovering new startups, watching live pitches, asking questions, and attending deep dives all on mobile phones and other devices, enabling businesses to find the resources required to convert their ideas into a reality and raise funding.",
+    "location": "United States",
+    "industry": "Crowdfunding, FinTech",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7cf1ca55-4b88-4c24-8b75-06f7853c929f.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Crowdfunding",
+      "FinTech"
+    ],
+    "url": "https://500.co/portfolio/sandhill-markets",
+    "api": "/companies/sandhill-markets.json"
+  }
+]

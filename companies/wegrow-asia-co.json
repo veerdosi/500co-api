@@ -1,0 +1,21 @@
+{
+  "id": 5803,
+  "name": "WeGrow asia CO., LTD.",
+  "slug": "wegrow-asia-co",
+  "website": "www.wegrow.asia",
+  "description": "Developer of an AI-powered greenhouse cultivation management platform designed for developing IoT sensing and control systems. The company offers necessary planting data, technical labor and sales channels, enabling young farmers to get interest in agriculture.",
+  "one_liner": "Developer of an AI-powered greenhouse cultivation management platform designed for developing IoT sensing and control systems. The company offers necessary planting data, technical labor and sales channels, enabling young farmers to get interest in agriculture.",
+  "location": "Taiwan",
+  "industry": "AgTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AgTech"
+  ],
+  "url": "https://500.co/portfolio/wegrow-asia-co",
+  "api": "/companies/wegrow-asia-co.json"
+}

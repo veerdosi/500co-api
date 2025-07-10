@@ -1,0 +1,23 @@
+{
+  "id": 5353,
+  "name": "The News Lens Co., Ltd.",
+  "slug": "tnl-media",
+  "website": "www.tnlmedia.com",
+  "description": "Developer of digital advertising, data analytics, and media platforms intended to provide original and current media content to the Asian market. The company platform provides inclusive, in-depth, diverse, and highly influential content for digital readers, it grasps user information through zero-party, first-party, and third-party databases, AI analysis, Martech, and other cross-domain core products, enabling users to get suitable reading content and to easily share, discuss and participate in topics they are interested in.",
+  "one_liner": "Developer of digital advertising, data analytics, and media platforms intended to provide original and current media content to the Asian market. The company platform provides inclusive, in-depth, diverse, and highly influential content for digital readers, it grasps user information through zero-party, first-party, and third-party databases, AI analysis, Martech, and other cross-domain core products, enabling users to get suitable reading content and to easily share, discuss and participate in topics they are interested in.",
+  "location": "Taiwan",
+  "industry": "AdTech, Big Data, Entertainment / Media",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/b8dd0499-e763-4292-8939-4b5a4878df6f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AdTech",
+    "Big Data",
+    "Entertainment / Media"
+  ],
+  "url": "https://500.co/portfolio/tnl-media",
+  "api": "/companies/tnl-media.json"
+}

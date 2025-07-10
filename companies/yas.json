@@ -1,0 +1,21 @@
+{
+  "id": 5065,
+  "name": "YAS Digital Limited",
+  "slug": "yas",
+  "website": "yas.io",
+  "description": "Operator of a mircoinsurance marketplace. The company utilizes big data and artificial intelligence to offer affordable and suitable insurance coverage to users, enabling consumers to enjoy a more user-centric insurance purchasing experience.",
+  "one_liner": "Operator of a mircoinsurance marketplace. The company utilizes big data and artificial intelligence to offer affordable and suitable insurance coverage to users, enabling consumers to enjoy a more user-centric insurance purchasing experience.",
+  "location": "Hong Kong",
+  "industry": "InsurTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/6c437ce7-0fc7-45ec-a75e-140359878046.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "InsurTech"
+  ],
+  "url": "https://500.co/portfolio/yas",
+  "api": "/companies/yas.json"
+}

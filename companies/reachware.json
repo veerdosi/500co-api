@@ -1,0 +1,22 @@
+{
+  "id": 8073,
+  "name": "REACHWARE, INC.",
+  "slug": "reachware",
+  "website": "reachware.com",
+  "description": "Operator of an integration platform as a service (IPaaS) designed for systems to talk seamlessly with each other and allows separate SaaS (software as a service) systems to function as a unified ecosystem. The company's platform offers to create an echo system by integrating all business applications with each other, adding more value to customers by automating the business processes, scaling up the business by eliminating all the system impediments and manual work, transforming the systems to be connected and on the cloud managed by reach ware API (Application Programming Interface) Gateway and providing deep insights, enabling clients to automate their business processes to be more efficient and agile.",
+  "one_liner": "Operator of an integration platform as a service (IPaaS) designed for systems to talk seamlessly with each other and allows separate SaaS (software as a service) systems to function as a unified ecosystem. The company's platform offers to create an echo system by integrating all business applications with each other, adding more value to customers by automating the business processes, scaling up the business by eliminating all the system impediments and manual work, transforming the systems to be connected and on the cloud managed by reach ware API (Application Programming Interface) Gateway and providing deep insights, enabling clients to automate their business processes to be more efficient and agile.",
+  "location": "Saudi Arabia",
+  "industry": "SaaS, Telecommunications",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/128933cf-066b-4bcf-95dd-f33c8989a56f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "SaaS",
+    "Telecommunications"
+  ],
+  "url": "https://500.co/portfolio/reachware",
+  "api": "/companies/reachware.json"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 5380,
+  "name": "Clockster Pte. Ltd.",
+  "slug": "clockster",
+  "website": "clockster.com",
+  "description": "Developer of staff management platform designed to offer a time and attendance management system for employees. The company's platform offers a cloud-based system in the form of a biometric-based clock-in device to focus on shift management, attendance, salary calculations, communications, and tasks, enabling food and beverage and retail industry enterprises to manage attendance and automate payroll, scheduling, business routines and save time.",
+  "one_liner": "Developer of staff management platform designed to offer a time and attendance management system for employees. The company's platform offers a cloud-based system in the form of a biometric-based clock-in device to focus on shift management, attendance, salary calculations, communications, and tasks, enabling food and beverage and retail industry enterprises to manage attendance and automate payroll, scheduling, business routines and save time.",
+  "location": "Singapore",
+  "industry": "Work, HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Work",
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/clockster",
+  "api": "/companies/clockster.json"
+}

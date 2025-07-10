@@ -1,0 +1,23 @@
+{
+  "id": 5409,
+  "name": "SUSTAINFI INC.",
+  "slug": "sustainfi",
+  "website": "www.sustainfi.com",
+  "description": "Developer of carbon project finance platform designed to connect investors who want to invest sustainably with the products and services. The company's platform makes environmental, social, and governance (ESG) and sustainable investing simple to understand, enabling investors to find investments that will do well in the climate transition, and companies with strong environmental, social, or governance scores",
+  "one_liner": "Developer of carbon project finance platform designed to connect investors who want to invest sustainably with the products and services. The company's platform makes environmental, social, and governance (ESG) and sustainable investing simple to understand, enabling investors to find investments that will do well in the climate transition, and companies with strong environmental, social, or governance scores",
+  "location": "United States",
+  "industry": "CleanTech, Climate Tech, FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7145eef3-77a0-487f-b7ea-6cd57dcf0d3a.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "CleanTech",
+    "Climate Tech",
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/sustainfi",
+  "api": "/companies/sustainfi.json"
+}

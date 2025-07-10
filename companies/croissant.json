@@ -1,0 +1,21 @@
+{
+  "id": 3905,
+  "name": "Croissant, Inc.",
+  "slug": "croissant",
+  "website": "www.getcroissant.com",
+  "description": "Developer of workspace search app designed to find co-working spaces. The company's application helps look for spaces for working from a mix of co-working spots, cafes, startup offices, hotels, and restaurants, enabling clients to find workspaces on the go.",
+  "one_liner": "Developer of workspace search app designed to find co-working spaces. The company's application helps look for spaces for working from a mix of co-working spots, cafes, startup offices, hotels, and restaurants, enabling clients to find workspaces on the go.",
+  "location": "United States",
+  "industry": "Work",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/463bd424-66f4-4e53-b435-f4accf24636b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Work"
+  ],
+  "url": "https://500.co/portfolio/croissant",
+  "api": "/companies/croissant.json"
+}

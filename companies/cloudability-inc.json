@@ -1,0 +1,22 @@
+{
+  "id": 3790,
+  "name": "Cloudability, Inc.",
+  "slug": "cloudability-inc",
+  "website": "cloudability.com",
+  "description": "Provider of a financial management tool for monitoring and analyzing cloud expenses. The company's platform aggregates expenditures into accessible and comprehensive reports that identify and allocate cloud costs using the most accurate, precise data in real-time thus scale efficiently and confidently with enterprise-scale analysis and machine learning which empower teams to optimize and be agile while staying accountable recommendations via SMS and email.",
+  "one_liner": "Provider of a financial management tool for monitoring and analyzing cloud expenses. The company's platform aggregates expenditures into accessible and comprehensive reports that identify and allocate cloud costs using the most accurate, precise data in real-time thus scale efficiently and confidently with enterprise-scale analysis and machine learning which empower teams to optimize and be agile while staying accountable recommendations via SMS and email.",
+  "location": "United States",
+  "industry": "Developer Tools, FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f6400742-3c0e-4da5-978f-ec3481ed7379.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools",
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/cloudability-inc",
+  "api": "/companies/cloudability-inc.json"
+}

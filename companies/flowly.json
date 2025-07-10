@@ -1,0 +1,21 @@
+{
+  "id": 5106,
+  "name": "Tamadé Inc",
+  "slug": "flowly",
+  "website": "www.flowly.world",
+  "description": "Developer of a biofeedback and virtual reality-based therapy platform designed to manage pain and anxiety. The company's platform features interactive experiences that teach users how to regulate their nervous system through training, keep track of their progress, and share it with a supportive community, enabling users to overcome pain and anxiety through virtual reality and relaxation.",
+  "one_liner": "Developer of a biofeedback and virtual reality-based therapy platform designed to manage pain and anxiety. The company's platform features interactive experiences that teach users how to regulate their nervous system through training, keep track of their progress, and share it with a supportive community, enabling users to overcome pain and anxiety through virtual reality and relaxation.",
+  "location": "United States",
+  "industry": "Productivity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/94e5ef44-7fcc-4859-b889-2eb60ee1cf3b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Productivity"
+  ],
+  "url": "https://500.co/portfolio/flowly",
+  "api": "/companies/flowly.json"
+}

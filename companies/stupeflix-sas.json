@@ -1,0 +1,21 @@
+{
+  "id": 4757,
+  "name": "Stupeflix SAS",
+  "slug": "stupeflix-sas",
+  "website": "stupeflix.com",
+  "description": "Developer of mobile-based application designed to edit videos. The company's mobile-based application offers multimedia editing platform that allows to select video clips and combine them into a single film complete with transitions and music, enabling people and developers to make travel movies, wedding videos, promo ads and property virtual tours.",
+  "one_liner": "Developer of mobile-based application designed to edit videos. The company's mobile-based application offers multimedia editing platform that allows to select video clips and combine them into a single film complete with transitions and music, enabling people and developers to make travel movies, wedding videos, promo ads and property virtual tours.",
+  "location": "France",
+  "industry": "Social Media",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Media"
+  ],
+  "url": "https://500.co/portfolio/stupeflix-sas",
+  "api": "/companies/stupeflix-sas.json"
+}

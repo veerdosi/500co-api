@@ -1,0 +1,22 @@
+{
+  "id": 2710,
+  "name": "Tasytt Inc.",
+  "slug": "tasytt-inc",
+  "website": "obie.ai",
+  "description": "Provider of a Slackbot platform created for team collaboration and on boarding. The company's platform provides a web virtual assistant to help teams collaborate and make faster decisions, enabling them to be informed of team members and save time and effort in decision making.",
+  "one_liner": "Provider of a Slackbot platform created for team collaboration and on boarding. The company's platform provides a web virtual assistant to help teams collaborate and make faster decisions, enabling them to be informed of team members and save time and effort in decision making.",
+  "location": "Canada",
+  "industry": "AI/Machine Learning, Enterprise",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/1e4034e2-6150-42eb-bf49-e371094be922.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "Enterprise"
+  ],
+  "url": "https://500.co/portfolio/tasytt-inc",
+  "api": "/companies/tasytt-inc.json"
+}

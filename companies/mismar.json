@@ -1,0 +1,21 @@
+{
+  "id": 8145,
+  "name": "MisMar",
+  "slug": "mismar",
+  "website": "mismarapp.com",
+  "description": "Connecting car owners with service providers to manage their maintenance, repairs and spare parts needs.",
+  "one_liner": "Connecting car owners with service providers to manage their maintenance, repairs and spare parts needs.",
+  "location": "Saudi Arabia",
+  "industry": "Mobility",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/3c2b3eaa-6eb2-41fd-8389-b78f3d31e469.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Mobility"
+  ],
+  "url": "https://500.co/portfolio/mismar",
+  "api": "/companies/mismar.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4902,
+  "name": "Kriya Inc",
+  "slug": "kalendar-ai",
+  "website": "kalendar.ai",
+  "description": "Developer of a WaaS-based messaging platform intended to streamline the process of workforce management. The company's platform specializes in providing instant hiring, automated vetting, paperwork, payments, ratings, and project milestones, it generates revenue on autopilot by reaching potential customers and booking meetings through live chat sessions from companies globally, enabling companies to keep their teams remote and work on demand.",
+  "one_liner": "Developer of a WaaS-based messaging platform intended to streamline the process of workforce management. The company's platform specializes in providing instant hiring, automated vetting, paperwork, payments, ratings, and project milestones, it generates revenue on autopilot by reaching potential customers and booking meetings through live chat sessions from companies globally, enabling companies to keep their teams remote and work on demand.",
+  "location": "United States",
+  "industry": "AI/Machine Learning",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/51d2e275-7975-4f23-93ad-3facc360efc1.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning"
+  ],
+  "url": "https://500.co/portfolio/kalendar-ai",
+  "api": "/companies/kalendar-ai.json"
+}

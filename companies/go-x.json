@@ -1,0 +1,21 @@
+{
+  "id": 3524,
+  "name": "Cheetah X, Inc.",
+  "slug": "go-x",
+  "website": "goxapp.com",
+  "description": "Provider of an electronic scooter-sharing service intended to help users travel within cities. The company's scooters are capable of going up to twenty-five mph and a full day on a single charge, enabling customers to travel locally in a faster, cheaper, and environmentally friendly manner.",
+  "one_liner": "Provider of an electronic scooter-sharing service intended to help users travel within cities. The company's scooters are capable of going up to twenty-five mph and a full day on a single charge, enabling customers to travel locally in a faster, cheaper, and environmentally friendly manner.",
+  "location": "United States",
+  "industry": "Mobility",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ea321712-fd0c-4833-b6b6-31ab91439ff5.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Mobility"
+  ],
+  "url": "https://500.co/portfolio/go-x",
+  "api": "/companies/go-x.json"
+}

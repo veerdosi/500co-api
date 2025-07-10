@@ -1,0 +1,21 @@
+{
+  "id": 3164,
+  "name": "INGENIOTECA, S.A.P.I. DE C.V.",
+  "slug": "bonnus",
+  "website": "bonnus.me",
+  "description": "Developer of a reward platform designed to provide real rewards for website and app usage. The company's platform features a user retention and customer satisfaction toolset for website and app developers and an incentivized ad network, enabling publishers to monetize their apps and websites through moments or actions of their users increasing engagement and interest.",
+  "one_liner": "Developer of a reward platform designed to provide real rewards for website and app usage. The company's platform features a user retention and customer satisfaction toolset for website and app developers and an incentivized ad network, enabling publishers to monetize their apps and websites through moments or actions of their users increasing engagement and interest.",
+  "location": "Mexico",
+  "industry": "AdTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/98a0fe37-4101-4b25-97c7-dbbf0b97d3e0.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AdTech"
+  ],
+  "url": "https://500.co/portfolio/bonnus",
+  "api": "/companies/bonnus.json"
+}

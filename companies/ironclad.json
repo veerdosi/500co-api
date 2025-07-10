@@ -1,0 +1,21 @@
+{
+  "id": 4797,
+  "name": "Ironclad, Inc.",
+  "slug": "ironclad",
+  "website": "ironcladapp.com",
+  "description": "Developer of a contracting platform intended to transform contract processes by automating workflows and approvals. The company's platform automatically identifies key terms and entities, turns contracts into code, and allows users to search, tag, and manage their contracts, enabling legal, sales, and operations teams to streamline the way they create, store, and leverage contracts as intelligence assets.",
+  "one_liner": "Developer of a contracting platform intended to transform contract processes by automating workflows and approvals. The company's platform automatically identifies key terms and entities, turns contracts into code, and allows users to search, tag, and manage their contracts, enabling legal, sales, and operations teams to streamline the way they create, store, and leverage contracts as intelligence assets.",
+  "location": "United States",
+  "industry": "Legal",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d32746cc-10b1-4bac-9470-0ab6f21ace8f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Legal"
+  ],
+  "url": "https://500.co/portfolio/ironclad",
+  "api": "/companies/ironclad.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3456,
+  "name": "Magalix Corporation",
+  "slug": "magalix-corporation",
+  "website": "www.magalix.com",
+  "description": "Developer of a serverless cloud platform designed to helps developers build reliable and efficient cloud neutral application. The company's platform artificial intelligence automatically adjusts developers resource usage to meet demand, thereby removing the usage of infrastructure over provisioning, container micromanaging and removing downtime, enabling them to reducing their infrastructure costs and liberating their team.",
+  "one_liner": "Developer of a serverless cloud platform designed to helps developers build reliable and efficient cloud neutral application. The company's platform artificial intelligence automatically adjusts developers resource usage to meet demand, thereby removing the usage of infrastructure over provisioning, container micromanaging and removing downtime, enabling them to reducing their infrastructure costs and liberating their team.",
+  "location": "United States",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/magalix-corporation",
+  "api": "/companies/magalix-corporation.json"
+}

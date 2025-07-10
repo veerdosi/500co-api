@@ -1,0 +1,21 @@
+{
+  "id": 2864,
+  "name": "Escavox Pty Ltd",
+  "slug": "escavox",
+  "website": "www.escavox.com",
+  "description": "Developer of a supply chain tracking technology designed to provide data insights on the food supply chain. The company engages in to use of the data from its blue box tracker to offer independent and objective insights on the performance of fresh food supply chains, from farm to retail shelf, enabling producers to make better-informed decisions about the management of products and investments in the supply chain.",
+  "one_liner": "Developer of a supply chain tracking technology designed to provide data insights on the food supply chain. The company engages in to use of the data from its blue box tracker to offer independent and objective insights on the performance of fresh food supply chains, from farm to retail shelf, enabling producers to make better-informed decisions about the management of products and investments in the supply chain.",
+  "location": "Australia",
+  "industry": "Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/cc7d841b-3823-4b9f-9ab4-59d81684ecf5.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/escavox",
+  "api": "/companies/escavox.json"
+}

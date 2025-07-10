@@ -1,0 +1,21 @@
+{
+  "id": 4044,
+  "name": "Cucumbertown, Inc.",
+  "slug": "cucumbertown-inc",
+  "website": "cucumbertown.com",
+  "description": "Developer of an online recipe publishing platform. The company provides a social platform for chefs, food bloggers and home cooks to connect, share ideas and food secrets.",
+  "one_liner": "Developer of an online recipe publishing platform. The company provides a social platform for chefs, food bloggers and home cooks to connect, share ideas and food secrets.",
+  "location": "United States",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d0060fec-4add-497c-a07b-2917bdd1d6b2.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/cucumbertown-inc",
+  "api": "/companies/cucumbertown-inc.json"
+}

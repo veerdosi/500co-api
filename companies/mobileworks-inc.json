@@ -1,0 +1,21 @@
+{
+  "id": 4150,
+  "name": "MobileWorks, Inc.",
+  "slug": "mobileworks-inc",
+  "website": "www.leadgenius.com",
+  "description": "Developer of an end-to-end sales software designed to offer lead data at scale to organizations. The company's software helps data experts to conduct ongoing research to automatically supply teams with accurate contact information and hard-to-acquire data points, enabling clients to generate high lead value and promote sales for their organization.",
+  "one_liner": "Developer of an end-to-end sales software designed to offer lead data at scale to organizations. The company's software helps data experts to conduct ongoing research to automatically supply teams with accurate contact information and hard-to-acquire data points, enabling clients to generate high lead value and promote sales for their organization.",
+  "location": "United States",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/3aa33eec-9214-49c1-8f45-f0bc3be4206e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/mobileworks-inc",
+  "api": "/companies/mobileworks-inc.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2787,
+  "name": "Innohub Inc.",
+  "slug": "innohub-inc",
+  "website": "uplette.com",
+  "description": "Developer of automated data analysis and visualization platform designed to make data accessible and insightful. The company's automated data analysis and visualization platform offers data automation, data integration and analysis, enabling companies and their employees to request, analyze and visualize internal business data to quickly capitalize on hidden trends and improve organizational productivity.",
+  "one_liner": "Developer of automated data analysis and visualization platform designed to make data accessible and insightful. The company's automated data analysis and visualization platform offers data automation, data integration and analysis, enabling companies and their employees to request, analyze and visualize internal business data to quickly capitalize on hidden trends and improve organizational productivity.",
+  "location": "Canada",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/81f7bce7-44bf-4c17-8d0e-b568be15f80b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/innohub-inc",
+  "api": "/companies/innohub-inc.json"
+}

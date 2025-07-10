@@ -1,0 +1,21 @@
+{
+  "id": 3336,
+  "name": "Mycotech Pte. Ltd.",
+  "slug": "mycotech",
+  "website": "mycl.bio",
+  "description": "Producer of mycelium-based composites intended to deliver sustainable materials from renewable resources. The company's composites are affordable, environment-friendly, and recyclable materials from agricultural waste, bound together with mushroom mycelia to form custom shapes such as panels, tiles, cabinetry, and interiors, enabling customers to get durable and lightweight products made from strong and organic fibers.",
+  "one_liner": "Producer of mycelium-based composites intended to deliver sustainable materials from renewable resources. The company's composites are affordable, environment-friendly, and recyclable materials from agricultural waste, bound together with mushroom mycelia to form custom shapes such as panels, tiles, cabinetry, and interiors, enabling customers to get durable and lightweight products made from strong and organic fibers.",
+  "location": "Indonesia",
+  "industry": "Robotics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/01a40d7d-3692-4c2e-bcd9-0799cffe3779.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Robotics"
+  ],
+  "url": "https://500.co/portfolio/mycotech",
+  "api": "/companies/mycotech.json"
+}

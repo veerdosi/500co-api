@@ -1,0 +1,21 @@
+{
+  "id": 4168,
+  "name": "Merchbar, Inc.",
+  "slug": "merchbar",
+  "website": "www.merchbar.com",
+  "description": "Operator of an online retail marketplace intended to sell music band merchandise. The company's marketplace allows fans to discover and buy merchandise such as clothes, accessories, bags, digital video discs, and vinyl from their favorite music artists, enabling fans to buy their desired accessories and merchandise at a reasonable price range.",
+  "one_liner": "Operator of an online retail marketplace intended to sell music band merchandise. The company's marketplace allows fans to discover and buy merchandise such as clothes, accessories, bags, digital video discs, and vinyl from their favorite music artists, enabling fans to buy their desired accessories and merchandise at a reasonable price range.",
+  "location": "United States",
+  "industry": "Fashion",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d03e8cf9-126b-482d-be23-d049a697bc11.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion"
+  ],
+  "url": "https://500.co/portfolio/merchbar",
+  "api": "/companies/merchbar.json"
+}

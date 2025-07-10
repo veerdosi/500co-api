@@ -1,0 +1,22 @@
+{
+  "id": 3526,
+  "name": "Massive Bio, Inc.",
+  "slug": "massive-bio",
+  "website": "massivebio.com",
+  "description": "Developer of an artificial intelligence-driven platform intended to connect cancer patients to biopharmaceutical clinical trials. The company offers tech-enabled services and a big data platform that addresses the clinical trial enrollment value chain by providing patient identification, pre-screening, and concierge enrollment enablement while being focused on oncology and innovative data, technology, and services, enabling patients to get an effective treatment without disrupting lives and becoming a financial hindrance.",
+  "one_liner": "Developer of an artificial intelligence-driven platform intended to connect cancer patients to biopharmaceutical clinical trials. The company offers tech-enabled services and a big data platform that addresses the clinical trial enrollment value chain by providing patient identification, pre-screening, and concierge enrollment enablement while being focused on oncology and innovative data, technology, and services, enabling patients to get an effective treatment without disrupting lives and becoming a financial hindrance.",
+  "location": "United States",
+  "industry": "Health Tech, Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/121c8749-d93d-4bac-b2c3-20167207b183.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Health Tech",
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/massive-bio",
+  "api": "/companies/massive-bio.json"
+}

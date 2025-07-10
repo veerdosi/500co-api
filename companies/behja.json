@@ -1,0 +1,21 @@
+{
+  "id": 5849,
+  "name": "Behja Holdings Limited",
+  "slug": "behja",
+  "website": "www.behja.co",
+  "description": "Developer of a real estate platform intended for those who want to rent a home with the option to eventually buy it. The company's platform allows one to choose any property available for sale on the market with transparency and reliability in the contractual agreements between landlords and tenants and handles everything from managing utility bills to seamless rental payments, enabling aspiring homeowners with a more flexible and convenient path.",
+  "one_liner": "Developer of a real estate platform intended for those who want to rent a home with the option to eventually buy it. The company's platform allows one to choose any property available for sale on the market with transparency and reliability in the contractual agreements between landlords and tenants and handles everything from managing utility bills to seamless rental payments, enabling aspiring homeowners with a more flexible and convenient path.",
+  "location": "Saudi Arabia",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/2f850b51-8780-4824-8ddf-0c9a7d3e9e9e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/behja",
+  "api": "/companies/behja.json"
+}

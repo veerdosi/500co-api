@@ -1,0 +1,21 @@
+{
+  "id": 4211,
+  "name": "This is L., Inc.",
+  "slug": "this-is-l-inc",
+  "website": "thisisl.com",
+  "description": "Provider of personal care products for women intended to impact women's lives. The company's personal care products are organically made and provides a range of tampons, pads and condom prophylactics, providing women with an access to basic health products.",
+  "one_liner": "Provider of personal care products for women intended to impact women's lives. The company's personal care products are organically made and provides a range of tampons, pads and condom prophylactics, providing women with an access to basic health products.",
+  "location": "United States",
+  "industry": "Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/30100b6c-a7ed-4364-bc61-8e585ad0685e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/this-is-l-inc",
+  "api": "/companies/this-is-l-inc.json"
+}

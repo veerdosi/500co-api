@@ -1,0 +1,22 @@
+{
+  "id": 5209,
+  "name": "Reelables, Inc.",
+  "slug": "reelables",
+  "website": "reelables.com",
+  "description": "Developer of Bluetooth labels designed to keep track of shared things at work as tools. The company's labels automatically track anything, keep an audit trail of things moving, and integrate into ERP systems, enabling companies to keep track of inventory, assets, and orders.",
+  "one_liner": "Developer of Bluetooth labels designed to keep track of shared things at work as tools. The company's labels automatically track anything, keep an audit trail of things moving, and integrate into ERP systems, enabling companies to keep track of inventory, assets, and orders.",
+  "location": "United States",
+  "industry": "Cybersecurity, Supply Chain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4f22be36-b2b1-49de-a97d-3a0eb3f2ab90.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Cybersecurity",
+    "Supply Chain"
+  ],
+  "url": "https://500.co/portfolio/reelables",
+  "api": "/companies/reelables.json"
+}

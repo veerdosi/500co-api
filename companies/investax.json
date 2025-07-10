@@ -1,0 +1,22 @@
+{
+  "id": 4837,
+  "name": "Investacrowd Limited",
+  "slug": "investax",
+  "website": "www.investax.io",
+  "description": "Developer of a digital securities finance and investment platform designed to raise funds and facilitate secondary trading of technology-driven investment products. The company's platform provides the key infrastructure to digitize real assets to buy, sell, trade, borrow, or lend instantly and helps clients make intelligent investment decisions using data and technology, enabling users to reduce transaction costs and increase transparency in the private markets.",
+  "one_liner": "Developer of a digital securities finance and investment platform designed to raise funds and facilitate secondary trading of technology-driven investment products. The company's platform provides the key infrastructure to digitize real assets to buy, sell, trade, borrow, or lend instantly and helps clients make intelligent investment decisions using data and technology, enabling users to reduce transaction costs and increase transparency in the private markets.",
+  "location": "Singapore",
+  "industry": "Blockchain, SaaS",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ec9bcfcd-a519-4a60-b72d-b1ab02789da1.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Blockchain",
+    "SaaS"
+  ],
+  "url": "https://500.co/portfolio/investax",
+  "api": "/companies/investax.json"
+}

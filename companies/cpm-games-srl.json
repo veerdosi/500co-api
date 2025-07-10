@@ -1,0 +1,21 @@
+{
+  "id": 2812,
+  "name": "CPM Games S.R.L",
+  "slug": "cpm-games-srl",
+  "website": "other-guys.com",
+  "description": "Operator of a mobile and social games studio intended to develop immersive mobile games. The company's mobile and social games models are based on virtual goods and micro-transactions with strong storytelling features and delivered in episodes, which are free to play and available for download on mobile and computer devices, enabling game players to enjoy social story telling games",
+  "one_liner": "Operator of a mobile and social games studio intended to develop immersive mobile games. The company's mobile and social games models are based on virtual goods and micro-transactions with strong storytelling features and delivered in episodes, which are free to play and available for download on mobile and computer devices, enabling game players to enjoy social story telling games",
+  "location": "Argentina",
+  "industry": "Gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/19375c82-ce43-4c52-8e95-86992bb694a9.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Gaming"
+  ],
+  "url": "https://500.co/portfolio/cpm-games-srl",
+  "api": "/companies/cpm-games-srl.json"
+}

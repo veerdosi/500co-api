@@ -1,0 +1,22 @@
+{
+  "id": 4179,
+  "name": "Amazegroup Inc",
+  "slug": "amazegroup-inc",
+  "website": "unikrn.com",
+  "description": "Provider of an eSports wagering service. The company provides a platform enabling users to game and put wagers on multiplayer online games such as 'Shadow Daggers,' 'League of Legends,' 'Call of Duty' and 'Starcraft 2.'",
+  "one_liner": "Provider of an eSports wagering service. The company provides a platform enabling users to game and put wagers on multiplayer online games such as 'Shadow Daggers,' 'League of Legends,' 'Call of Duty' and 'Starcraft 2.'",
+  "location": "United States",
+  "industry": "Gambling, Gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b88ffccb-c286-406b-965a-8929be43298d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Gambling",
+    "Gaming"
+  ],
+  "url": "https://500.co/portfolio/amazegroup-inc",
+  "api": "/companies/amazegroup-inc.json"
+}

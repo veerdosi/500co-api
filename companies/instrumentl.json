@@ -1,0 +1,21 @@
+{
+  "id": 4512,
+  "name": "Instrumentl, Inc.",
+  "slug": "instrumentl",
+  "website": "www.instrumentl.com",
+  "description": "Developer of a grant discovery, research, and tracking platform designed to connect nonprofits who are seeking grant funding with investors. The company's platform helps to make the grant process faster, easier, and more efficient to make a positive impact and create and manage all grant-related tasks in one place, enabling nonprofit organizations to easily see progress towards the grant-seeking goals.",
+  "one_liner": "Developer of a grant discovery, research, and tracking platform designed to connect nonprofits who are seeking grant funding with investors. The company's platform helps to make the grant process faster, easier, and more efficient to make a positive impact and create and manage all grant-related tasks in one place, enabling nonprofit organizations to easily see progress towards the grant-seeking goals.",
+  "location": "United States",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/174790bf-5e97-4f0e-a666-79deb1104179.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/instrumentl",
+  "api": "/companies/instrumentl.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4958,
+  "name": "mxHero, Inc.",
+  "slug": "mxhero",
+  "website": "www.mxhero.com",
+  "description": "Developer of a cloud storage platform designed to automatically file messages, attachments, and documents in one place for free access and control. The company's platform feasibly integrates with email and cloud storage, securely shares important emails with team members, and automatically captures email conversations to the cloud folders with meta-data, enabling users to drag and drop email messages directly into their cloud storage folders without leaving outlook.",
+  "one_liner": "Developer of a cloud storage platform designed to automatically file messages, attachments, and documents in one place for free access and control. The company's platform feasibly integrates with email and cloud storage, securely shares important emails with team members, and automatically captures email conversations to the cloud folders with meta-data, enabling users to drag and drop email messages directly into their cloud storage folders without leaving outlook.",
+  "location": "United States",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/810391e5-69b1-470d-8ca0-63e4a8c41000.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/mxhero",
+  "api": "/companies/mxhero.json"
+}

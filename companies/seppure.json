@@ -1,0 +1,23 @@
+{
+  "id": 3093,
+  "name": "Seppure Pte. Ltd.",
+  "slug": "seppure",
+  "website": "seppure.com",
+  "description": "Developer of a nano-filtration technology designed to revolutionize chemical separation and purification in multiple industries. The company's technology provides a sustainable package for industrial chemical separations by replacing the current distillation process with chemical-resistant nano-filtration membranes, enabling clients to lower global energy use, emissions, and pollution substantially.",
+  "one_liner": "Developer of a nano-filtration technology designed to revolutionize chemical separation and purification in multiple industries. The company's technology provides a sustainable package for industrial chemical separations by replacing the current distillation process with chemical-resistant nano-filtration membranes, enabling clients to lower global energy use, emissions, and pollution substantially.",
+  "location": "Singapore",
+  "industry": "CleanTech, Climate Tech, Manufacturing",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/8f712650-bda7-44c2-a761-c2f76e6d34b5.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "CleanTech",
+    "Climate Tech",
+    "Manufacturing"
+  ],
+  "url": "https://500.co/portfolio/seppure",
+  "api": "/companies/seppure.json"
+}

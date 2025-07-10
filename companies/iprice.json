@@ -1,0 +1,21 @@
+{
+  "id": 5005,
+  "name": "iPrice Group Sdn Bhd",
+  "slug": "iprice",
+  "website": "ipricegroup.com",
+  "description": "Developer of an online price comparison platform designed to provide information for multi-category products. The company's product catalog includes electronic products, fashion apparel, home improvements, baby products, accessories and commercial content, enabling users to find affordable products across multiple online retail sites and purchase them easily.",
+  "one_liner": "Developer of an online price comparison platform designed to provide information for multi-category products. The company's product catalog includes electronic products, fashion apparel, home improvements, baby products, accessories and commercial content, enabling users to find affordable products across multiple online retail sites and purchase them easily.",
+  "location": "Japan",
+  "industry": "Fashion",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/96c0f5db-9c03-412c-9305-671a77fba844.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion"
+  ],
+  "url": "https://500.co/portfolio/iprice",
+  "api": "/companies/iprice.json"
+}

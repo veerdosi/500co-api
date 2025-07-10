@@ -1,0 +1,22 @@
+{
+  "id": 4301,
+  "name": "Connected Analytics Inc.",
+  "slug": "thankucash",
+  "website": "storesmart.africa",
+  "description": "Operator of a store management platform designed to optimize store operations. The company's platform allows one to oversee business from anywhere using a mobile phone, enabling businesses to gain real-time insights into store activities, receive prompt stock replenishment alerts, and access profit and loss projections alongside detailed sales comparisons on a daily, weekly, and monthly basis.",
+  "one_liner": "Operator of a store management platform designed to optimize store operations. The company's platform allows one to oversee business from anywhere using a mobile phone, enabling businesses to gain real-time insights into store activities, receive prompt stock replenishment alerts, and access profit and loss projections alongside detailed sales comparisons on a daily, weekly, and monthly basis.",
+  "location": "Nigeria",
+  "industry": "FinTech, Payments",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ca5bc08c-e03b-40ee-b4a3-ade76e88015e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech",
+    "Payments"
+  ],
+  "url": "https://500.co/portfolio/thankucash",
+  "api": "/companies/thankucash.json"
+}

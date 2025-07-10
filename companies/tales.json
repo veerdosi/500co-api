@@ -1,0 +1,23 @@
+{
+  "id": 5088,
+  "name": "Tales, Inc.",
+  "slug": "tales",
+  "website": "talescreator.com",
+  "description": "Developer of a content publishing platform through generative artificial intelligence tools, new storytelling formats, and ownership models, designed to offer budding writers a space to showcase their creative skills. The company's platform lets creators make books, comics, games, audiobooks, and everything in between, enabling content creators to rapidly pilot episodic stories and iterate off feedback or metrics to improve performance.",
+  "one_liner": "Developer of a content publishing platform through generative artificial intelligence tools, new storytelling formats, and ownership models, designed to offer budding writers a space to showcase their creative skills. The company's platform lets creators make books, comics, games, audiobooks, and everything in between, enabling content creators to rapidly pilot episodic stories and iterate off feedback or metrics to improve performance.",
+  "location": "United States",
+  "industry": "AI/Machine Learning, Gaming, Creator Economy",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/084fdd8c-8946-4358-8c2f-c015a216da18.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning",
+    "Gaming",
+    "Creator Economy"
+  ],
+  "url": "https://500.co/portfolio/tales",
+  "api": "/companies/tales.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3391,
+  "name": "SageLink, Inc.",
+  "slug": "glyph",
+  "website": "glyph.earth",
+  "description": "Manufacturer of footwear products intended to sell hand-knitted shoes. The company offers shoes whose upper portion is constructed from a blend of knitted fibers and is fully recyclable thus making them lighter, and more flexible, and ensuring that the shoes will last for a longer period of time, enabling customers to buy hand-knitted shoes for more comfort and style.",
+  "one_liner": "Manufacturer of footwear products intended to sell hand-knitted shoes. The company offers shoes whose upper portion is constructed from a blend of knitted fibers and is fully recyclable thus making them lighter, and more flexible, and ensuring that the shoes will last for a longer period of time, enabling customers to buy hand-knitted shoes for more comfort and style.",
+  "location": "United States",
+  "industry": "Fashion",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f41c0463-9d71-42a8-9da8-1820fff30f94.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion"
+  ],
+  "url": "https://500.co/portfolio/glyph",
+  "api": "/companies/glyph.json"
+}

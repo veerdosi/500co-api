@@ -1,0 +1,21 @@
+{
+  "id": 3946,
+  "name": "Riide, Inc.",
+  "slug": "riide",
+  "website": "riide.com",
+  "description": "Manufacturer of single-speed electric bikes designed for urban transportation. The company designs electric bikes and sells them as a subscription service that is lightweight, nearly silent to operate, and well-balanced, as well as offers add-on services like unlimited maintenance, theft insurance, and a lock, enabling users to commute without traffic, parking, or congestion.",
+  "one_liner": "Manufacturer of single-speed electric bikes designed for urban transportation. The company designs electric bikes and sells them as a subscription service that is lightweight, nearly silent to operate, and well-balanced, as well as offers add-on services like unlimited maintenance, theft insurance, and a lock, enabling users to commute without traffic, parking, or congestion.",
+  "location": "United States",
+  "industry": "Mobility",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4c402baf-bf5c-4dbf-bd8d-3ebe0cea7219.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Mobility"
+  ],
+  "url": "https://500.co/portfolio/riide",
+  "api": "/companies/riide.json"
+}

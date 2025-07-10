@@ -1,0 +1,21 @@
+{
+  "id": 2889,
+  "name": "Insightful Pvt. Ltd.",
+  "slug": "insightful-pvt-ltd",
+  "website": "targetingmantra.com",
+  "description": "Provider of a personalization marketing automation platform. The company offers an online platform that helps its users to manage customer life cycle through personalization, targeting and big data analytics.",
+  "one_liner": "Provider of a personalization marketing automation platform. The company offers an online platform that helps its users to manage customer life cycle through personalization, targeting and big data analytics.",
+  "location": "India",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/40faa673-45a3-4ae2-a4bb-d0bd04495e98.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/insightful-pvt-ltd",
+  "api": "/companies/insightful-pvt-ltd.json"
+}

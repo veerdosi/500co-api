@@ -1,0 +1,21 @@
+{
+  "id": 4936,
+  "name": "MentorCloud, Inc.",
+  "slug": "mentorcloud",
+  "website": "www.mentorcloud.com",
+  "description": "Operator of an educational online platform designed for mentoring and knowledge sharing. The company develops a cloud-based platform that helps organizations to match and engage their employees globally with suitable peers, experts, mentors, and filtered content, according to employees' goals, interests, skills, and knowledge needs, enabling human resource leaders to easily identify subject matter experts and rising stars in the organization.",
+  "one_liner": "Operator of an educational online platform designed for mentoring and knowledge sharing. The company develops a cloud-based platform that helps organizations to match and engage their employees globally with suitable peers, experts, mentors, and filtered content, according to employees' goals, interests, skills, and knowledge needs, enabling human resource leaders to easily identify subject matter experts and rising stars in the organization.",
+  "location": "United States",
+  "industry": "Enterprise",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/82148a20-728e-4423-b0de-d7416df3cb0d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Enterprise"
+  ],
+  "url": "https://500.co/portfolio/mentorcloud",
+  "api": "/companies/mentorcloud.json"
+}

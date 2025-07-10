@@ -1,0 +1,21 @@
+{
+  "id": 4270,
+  "name": "Credit Karma, Inc.",
+  "slug": "creditkarma",
+  "website": "creditkarma.com",
+  "description": "Developer of an consumer finance education and recommendation platform designed to provide credit score information and recommendations. The company's platform offers saving recommendations based on data comparisons as well as financial education and access to free tools, such as the credit report card and credit card statistics, enabling users to monitor and manage different aspects of their credit financial health.",
+  "one_liner": "Developer of an consumer finance education and recommendation platform designed to provide credit score information and recommendations. The company's platform offers saving recommendations based on data comparisons as well as financial education and access to free tools, such as the credit report card and credit card statistics, enabling users to monitor and manage different aspects of their credit financial health.",
+  "location": "United States",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/4f3939ab-f02b-4571-8bfe-61dfa0d2c749.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/creditkarma",
+  "api": "/companies/creditkarma.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5566,
+  "name": "YourPay Capital Group Pte. Ltd.",
+  "slug": "yourpay",
+  "website": "yourpay.co",
+  "description": "Developer of a mobile banking platform intended to empower and transform the financial lives of customers. The company's platform helps to provide savings accounts, productive loans, consumer loans, low-interest rates and prepaid cards with no fees, enabling users to easily manage their money through their mobile.",
+  "one_liner": "Developer of a mobile banking platform intended to empower and transform the financial lives of customers. The company's platform helps to provide savings accounts, productive loans, consumer loans, low-interest rates and prepaid cards with no fees, enabling users to easily manage their money through their mobile.",
+  "location": "Indonesia",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/990bfbd8-e091-4f1c-8438-d1faa3a941eb.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/yourpay",
+  "api": "/companies/yourpay.json"
+}

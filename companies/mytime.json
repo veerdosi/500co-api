@@ -1,0 +1,22 @@
+{
+  "id": 4784,
+  "name": "Melian Labs, Inc.",
+  "slug": "mytime",
+  "website": "mytime.com",
+  "description": "Developer of a SaaS based point of sale designed to automate workflow. The company's platform helps in scheduling appointments, social bookings, growth marketing, staff, and listing management along with detailed analytics reports, enabling businesses to improve sales and productivity.",
+  "one_liner": "Developer of a SaaS based point of sale designed to automate workflow. The company's platform helps in scheduling appointments, social bookings, growth marketing, staff, and listing management along with detailed analytics reports, enabling businesses to improve sales and productivity.",
+  "location": "United States",
+  "industry": "Enterprise, Retail",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/6815b10f-741d-41b3-af00-35ff336a41f4.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Enterprise",
+    "Retail"
+  ],
+  "url": "https://500.co/portfolio/mytime",
+  "api": "/companies/mytime.json"
+}

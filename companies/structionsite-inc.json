@@ -1,0 +1,21 @@
+{
+  "id": 4519,
+  "name": "StructionSite Inc",
+  "slug": "structionsite-inc",
+  "website": "www.structionsite.com",
+  "description": "Developer of a construction site management platform designed to simplify the process of inspection, monitoring and quality control analysis of construction projects. The company's platform automatically tag photos with date, time, and user information for filtering and fast search-ability, gives photos location and direction intelligence and facilitates push photos along with tagged information, enabling project teams to communicate in the context of the jobsite anytime, from anywhere.",
+  "one_liner": "Developer of a construction site management platform designed to simplify the process of inspection, monitoring and quality control analysis of construction projects. The company's platform automatically tag photos with date, time, and user information for filtering and fast search-ability, gives photos location and direction intelligence and facilitates push photos along with tagged information, enabling project teams to communicate in the context of the jobsite anytime, from anywhere.",
+  "location": "United States",
+  "industry": "Construction",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/382c8e04-c7c8-444f-8c40-1bf8691b510d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Construction"
+  ],
+  "url": "https://500.co/portfolio/structionsite-inc",
+  "api": "/companies/structionsite-inc.json"
+}

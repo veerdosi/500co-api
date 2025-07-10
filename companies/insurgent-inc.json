@@ -1,0 +1,21 @@
+{
+  "id": 3413,
+  "name": "Insurgent, Inc.",
+  "slug": "insurgent-inc",
+  "website": "www.fundrocket.com",
+  "description": "Developer of an online funding platform designed to empower small businesses by giving them access to the capital they need to thrive. The company's platform make the process simple by leveraging data and technology to bring fairly priced capital directly to the merchant and flip the capital search process on its head by bringing capital offers direct to the business with no credit checks, 2 minute applications and high approval rates, enabling merchant to apply for fund in minutes and get fund as soon as the next business day.",
+  "one_liner": "Developer of an online funding platform designed to empower small businesses by giving them access to the capital they need to thrive. The company's platform make the process simple by leveraging data and technology to bring fairly priced capital directly to the merchant and flip the capital search process on its head by bringing capital offers direct to the business with no credit checks, 2 minute applications and high approval rates, enabling merchant to apply for fund in minutes and get fund as soon as the next business day.",
+  "location": "United States",
+  "industry": "Credit & Lending",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/e7e2fd1b-a861-4ccc-a9ab-bc88945c19fb.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Credit & Lending"
+  ],
+  "url": "https://500.co/portfolio/insurgent-inc",
+  "api": "/companies/insurgent-inc.json"
+}

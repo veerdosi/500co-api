@@ -1,0 +1,22 @@
+{
+  "id": 5077,
+  "name": "Stonks, Inc.",
+  "slug": "sandhill-markets",
+  "website": "sandhillmarkets.com",
+  "description": "Operator of a crowdfunding platform intended to offer funds to various projects. The company's platform helps in discovering new startups, watching live pitches, asking questions, and attending deep dives all on mobile phones and other devices, enabling businesses to find the resources required to convert their ideas into a reality and raise funding.",
+  "one_liner": "Operator of a crowdfunding platform intended to offer funds to various projects. The company's platform helps in discovering new startups, watching live pitches, asking questions, and attending deep dives all on mobile phones and other devices, enabling businesses to find the resources required to convert their ideas into a reality and raise funding.",
+  "location": "United States",
+  "industry": "Crowdfunding, FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7cf1ca55-4b88-4c24-8b75-06f7853c929f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Crowdfunding",
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/sandhill-markets",
+  "api": "/companies/sandhill-markets.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2973,
+  "name": "VivaReal, Inc.",
+  "slug": "vivareal-inc",
+  "website": "vivareal.com.br",
+  "description": "Provider of an online real estate marketplace designed to help thousands of people to find their dream house. The company's online real estate marketplace connects buyers, sellers and renters with the properties they are interested in, enabling them to avail profitable real estate deals.",
+  "one_liner": "Provider of an online real estate marketplace designed to help thousands of people to find their dream house. The company's online real estate marketplace connects buyers, sellers and renters with the properties they are interested in, enabling them to avail profitable real estate deals.",
+  "location": "Cayman Islands",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/56e683ad-e8fb-4eef-be25-b428caaeee84.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/vivareal-inc",
+  "api": "/companies/vivareal-inc.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4910,
+  "name": "Kairos AR, Inc.",
+  "slug": "kairos-ar",
+  "website": "www.kairos.com",
+  "description": "Developer of a face recognition tool designed to find, analyze and understand facial expressions. The company's tool uses artificial intelligence and facial recognition technology through computer vision and machine learning to recognize faces in videos, photos, and in the real world, enabling organizations to transform the way they interact with people along with control of data, security, and privacy.",
+  "one_liner": "Developer of a face recognition tool designed to find, analyze and understand facial expressions. The company's tool uses artificial intelligence and facial recognition technology through computer vision and machine learning to recognize faces in videos, photos, and in the real world, enabling organizations to transform the way they interact with people along with control of data, security, and privacy.",
+  "location": "United States",
+  "industry": "AI/Machine Learning",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f3703c56-0f45-49a7-a9fa-ed5762e1751d.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AI/Machine Learning"
+  ],
+  "url": "https://500.co/portfolio/kairos-ar",
+  "api": "/companies/kairos-ar.json"
+}

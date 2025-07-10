@@ -1,0 +1,21 @@
+{
+  "id": 4800,
+  "name": "Qubiqle, Inc.",
+  "slug": "ottimate",
+  "website": "ottimate.com",
+  "description": "Developer of accounting software intended to digitize the restaurant invoicing process. The company's platform offers a range of services including invoice management, bill payments, invoice insights, spend management, and analytics as well as cloud-based data storage, enabling clients to track their costs efficiently, manage finances in a better way, and get better predictive insights.",
+  "one_liner": "Developer of accounting software intended to digitize the restaurant invoicing process. The company's platform offers a range of services including invoice management, bill payments, invoice insights, spend management, and analytics as well as cloud-based data storage, enabling clients to track their costs efficiently, manage finances in a better way, and get better predictive insights.",
+  "location": "United States",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f8a84cfc-4854-4369-a0fe-d47b17d4845a.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/ottimate",
+  "api": "/companies/ottimate.json"
+}

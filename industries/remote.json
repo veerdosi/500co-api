@@ -1,0 +1,70 @@
+[
+  {
+    "id": 5426,
+    "name": "SPORTS TECH LATAM LLC",
+    "slug": "alquila-tu-cancha",
+    "website": "alquilatucancha.com",
+    "description": "Developer of sports platform intended for reserving the court online instantly. The company's platform specializes in providing a network to choose a court and book spaces for soccer, padel, tennis, and more sports, providing users with the option of celebrating birthdays as well by renting the court which is available in their city and in real-time.",
+    "one_liner": "Developer of sports platform intended for reserving the court online instantly. The company's platform specializes in providing a network to choose a court and book spaces for soccer, padel, tennis, and more sports, providing users with the option of celebrating birthdays as well by renting the court which is available in their city and in real-time.",
+    "location": "Argentina",
+    "industry": "Direct to Consumer, Remote, Sports",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5a452f11-f6c8-4843-ad6f-dc749e878b20.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Direct to Consumer",
+      "Remote",
+      "Sports"
+    ],
+    "url": "https://500.co/portfolio/alquila-tu-cancha",
+    "api": "/companies/alquila-tu-cancha.json"
+  },
+  {
+    "id": 5460,
+    "name": "Lets Holding Limited",
+    "slug": "letswork",
+    "website": "www.letswork.io",
+    "description": "Letswork is a global platform that connects people to flexible workspaces, meeting rooms, and private offices, enabling productive work from anywhere.",
+    "one_liner": "Letswork is a global platform that connects people to flexible workspaces, meeting rooms, and private offices, enabling productive work from anywhere.",
+    "location": "United Arab Emirates",
+    "industry": "Real Estate, Remote, HR Tech",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/eab6f5a7-3561-4178-9c28-5142fd2b11e6.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Real Estate",
+      "Remote",
+      "HR Tech"
+    ],
+    "url": "https://500.co/portfolio/letswork",
+    "api": "/companies/letswork.json"
+  },
+  {
+    "id": 2912,
+    "name": "Wishup Technology Private Limited",
+    "slug": "wishup",
+    "website": "www.wishup.co",
+    "description": "Operator of an online concierge service platform intended to connect business owners to virtual assistants. The company's platform hires trains and manages experienced assistants to handle recurring and specialized tasks, providing clients to streamline operations and spend more time on core business functions.",
+    "one_liner": "Operator of an online concierge service platform intended to connect business owners to virtual assistants. The company's platform hires trains and manages experienced assistants to handle recurring and specialized tasks, providing clients to streamline operations and spend more time on core business functions.",
+    "location": "India",
+    "industry": "Gig Economy, Remote",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/402f4e7e-0b5d-4165-82a7-1287b8dcaf59.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Gig Economy",
+      "Remote"
+    ],
+    "url": "https://500.co/portfolio/wishup",
+    "api": "/companies/wishup.json"
+  }
+]

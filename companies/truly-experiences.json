@@ -1,0 +1,21 @@
+{
+  "id": 4801,
+  "name": "Truly Experiences Ltd",
+  "slug": "truly-experiences",
+  "website": "trulyexperiences.com",
+  "description": "Operator of an e-commerce platform designed to help in booking gift items that can be relived as memories by the person. The company's platform offers curated premium experiences including, a hand-picked collection of Michelin-starred tasting menus, city breaks, dining, tour and activities, and spa and pampering gifts for various occasions, enabling people to book a different and memorable experience gift or simply treat themselves.",
+  "one_liner": "Operator of an e-commerce platform designed to help in booking gift items that can be relived as memories by the person. The company's platform offers curated premium experiences including, a hand-picked collection of Michelin-starred tasting menus, city breaks, dining, tour and activities, and spa and pampering gifts for various occasions, enabling people to book a different and memorable experience gift or simply treat themselves.",
+  "location": "United Kingdom",
+  "industry": "Travel & Tourism",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/18e42e0c-4b80-4497-8da3-61ba9269a6b2.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Travel & Tourism"
+  ],
+  "url": "https://500.co/portfolio/truly-experiences",
+  "api": "/companies/truly-experiences.json"
+}

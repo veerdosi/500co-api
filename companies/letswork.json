@@ -1,0 +1,23 @@
+{
+  "id": 5460,
+  "name": "Lets Holding Limited",
+  "slug": "letswork",
+  "website": "www.letswork.io",
+  "description": "Letswork is a global platform that connects people to flexible workspaces, meeting rooms, and private offices, enabling productive work from anywhere.",
+  "one_liner": "Letswork is a global platform that connects people to flexible workspaces, meeting rooms, and private offices, enabling productive work from anywhere.",
+  "location": "United Arab Emirates",
+  "industry": "Real Estate, Remote, HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/eab6f5a7-3561-4178-9c28-5142fd2b11e6.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate",
+    "Remote",
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/letswork",
+  "api": "/companies/letswork.json"
+}

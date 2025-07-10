@@ -1,0 +1,21 @@
+{
+  "id": 4046,
+  "name": "Intercom, Inc.",
+  "slug": "intercom",
+  "website": "www.intercom.com",
+  "description": "Developer of a conversational relationship platform designed to create personal connections with customers. The company's platform helps businesses to browse their customers, view their social profiles, and reach out to them, enabling businesses to track and filter customer data and grow their business.",
+  "one_liner": "Developer of a conversational relationship platform designed to create personal connections with customers. The company's platform helps businesses to browse their customers, view their social profiles, and reach out to them, enabling businesses to track and filter customer data and grow their business.",
+  "location": "United States",
+  "industry": "SaaS",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d9b52a6e-a99b-4899-89eb-a9426e290204.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "SaaS"
+  ],
+  "url": "https://500.co/portfolio/intercom",
+  "api": "/companies/intercom.json"
+}

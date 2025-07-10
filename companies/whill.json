@@ -1,0 +1,21 @@
+{
+  "id": 2886,
+  "name": "Whill, Inc.",
+  "slug": "whill",
+  "website": "whill.inc",
+  "description": "Developer of an intelligent personal electric vehicle designed to deliver fun and innovative mobility for all. The company connects the world with personal transportation solutions, in addition to designing and selling mobility vehicles it provides mobility-as-a-service, offering autonomous transportation services as well as on-site fleet and short-term rental services that make public spaces such as airports, hospitals, and vacation destinations more accessible, enabling customers to drive on public roads without the need for a driver's license and empowering wheelchair users to lead a liberating lifestyle.",
+  "one_liner": "Developer of an intelligent personal electric vehicle designed to deliver fun and innovative mobility for all. The company connects the world with personal transportation solutions, in addition to designing and selling mobility vehicles it provides mobility-as-a-service, offering autonomous transportation services as well as on-site fleet and short-term rental services that make public spaces such as airports, hospitals, and vacation destinations more accessible, enabling customers to drive on public roads without the need for a driver's license and empowering wheelchair users to lead a liberating lifestyle.",
+  "location": "Japan",
+  "industry": "Mobility",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/949eeebc-4a21-4eab-ba69-3e14fc5ac091.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Mobility"
+  ],
+  "url": "https://500.co/portfolio/whill",
+  "api": "/companies/whill.json"
+}

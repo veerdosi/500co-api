@@ -1,0 +1,21 @@
+{
+  "id": 5752,
+  "name": "Agromatch LLC",
+  "slug": "agromatch",
+  "website": "agromatch.cl",
+  "description": "Developer of an online rental platform designed for farmers to buy new or used agricultural machinery. The company's platform offers competitive prices on all of its machinery rentals and sales including tractors, harvesters and planters, enabling agricultural industry to get the machinery they need with machinery maintenance.",
+  "one_liner": "Developer of an online rental platform designed for farmers to buy new or used agricultural machinery. The company's platform offers competitive prices on all of its machinery rentals and sales including tractors, harvesters and planters, enabling agricultural industry to get the machinery they need with machinery maintenance.",
+  "location": "Chile",
+  "industry": "AgTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/48c59ba5-7aa0-4634-90ac-f4ef41134362.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "AgTech"
+  ],
+  "url": "https://500.co/portfolio/agromatch",
+  "api": "/companies/agromatch.json"
+}

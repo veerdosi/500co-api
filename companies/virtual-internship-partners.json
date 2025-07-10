@@ -1,0 +1,21 @@
+{
+  "id": 3543,
+  "name": "Virtual Internship Partners Ltd.",
+  "slug": "virtual-internship-partners",
+  "website": "www.virtualinternships.com",
+  "description": "Provider of virtual internships intended to create opportunities to support career growth and enhance employability. The company offers university and high school internships along with the development of professional skills through the use of digital technology and online platforms that make students career-ready, enabling students and job seekers to access flexible and accessible ways to procure work experience around their current studies or work commitments.",
+  "one_liner": "Provider of virtual internships intended to create opportunities to support career growth and enhance employability. The company offers university and high school internships along with the development of professional skills through the use of digital technology and online platforms that make students career-ready, enabling students and job seekers to access flexible and accessible ways to procure work experience around their current studies or work commitments.",
+  "location": "United Kingdom",
+  "industry": "HR Tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/1cbbb4be-d039-4772-ba79-348c05cc8f75.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "HR Tech"
+  ],
+  "url": "https://500.co/portfolio/virtual-internship-partners",
+  "api": "/companies/virtual-internship-partners.json"
+}

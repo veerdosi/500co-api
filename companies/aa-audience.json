@@ -1,0 +1,21 @@
+{
+  "id": 4502,
+  "name": "AA Audience, Inc.",
+  "slug": "aa-audience",
+  "website": "aaaudi.com",
+  "description": "Developer of a mobile application designed to generate customers for the finance industry via mobile devices. The company's application is designed to collect data from partners and analyzes it using machine learning models, enabling financial institutions such as banks credit card companies, and financial services companies to generate customers' credit scores based on online and mobile activities.",
+  "one_liner": "Developer of a mobile application designed to generate customers for the finance industry via mobile devices. The company's application is designed to collect data from partners and analyzes it using machine learning models, enabling financial institutions such as banks credit card companies, and financial services companies to generate customers' credit scores based on online and mobile activities.",
+  "location": "United States",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/888fdeeb-30eb-44c6-802f-b96291019a03.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/aa-audience",
+  "api": "/companies/aa-audience.json"
+}

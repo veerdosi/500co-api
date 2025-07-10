@@ -1,0 +1,21 @@
+{
+  "id": 5082,
+  "name": "Yana Technologies LLC",
+  "slug": "yana",
+  "website": "www.yana.ai",
+  "description": "Developer of an emotional wellbeing chatbot designed to accompany people who have anxiety, and depression and seek to better their mental health. The company offers an automated conversational agent to evaluate user's moods to understand their day-to-day life and the factors associated with their mood, and daily conversations related to that mood, enabling users to tackle negative thoughts and behaviors any day, at any time",
+  "one_liner": "Developer of an emotional wellbeing chatbot designed to accompany people who have anxiety, and depression and seek to better their mental health. The company offers an automated conversational agent to evaluate user's moods to understand their day-to-day life and the factors associated with their mood, and daily conversations related to that mood, enabling users to tackle negative thoughts and behaviors any day, at any time",
+  "location": "Mexico",
+  "industry": "Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/407714e7-7311-4460-9644-ee4235a4b7f1.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/yana",
+  "api": "/companies/yana.json"
+}

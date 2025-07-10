@@ -1,0 +1,24 @@
+{
+  "id": 5395,
+  "name": "My Chinese Roots Pte. Ltd.",
+  "slug": "my-china-roots",
+  "website": "www.mychinaroots.com",
+  "description": "We empower Asians to trace their ancestry and connect with roots & relatives; starting with Overseas Chinese. ",
+  "one_liner": "We empower Asians to trace their ancestry and connect with roots & relatives; starting with Overseas Chinese. ",
+  "location": "China",
+  "industry": "Content, Wellness, Social Impact, Consumer",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/ade9a217-07b4-4a39-96bb-318974316c84.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content",
+    "Wellness",
+    "Social Impact",
+    "Consumer"
+  ],
+  "url": "https://500.co/portfolio/my-china-roots",
+  "api": "/companies/my-china-roots.json"
+}

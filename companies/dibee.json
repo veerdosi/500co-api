@@ -1,0 +1,21 @@
+{
+  "id": 2808,
+  "name": "Dabee Brazil, Ltda.",
+  "slug": "dibee",
+  "website": "dabee.com.br",
+  "description": "Developer of an online digital payment platform intended to manage fleet expenses and allow users to make secure, simple e-payments. The company's platform monitors all transactions in real-time and accesses insights for the fleet's fuel-related tasks saving costs and improving operations, enabling drivers, fleet managers, finance departments and owners to receive data accuracy, transparency and simplicity and manage their fleet effectively.",
+  "one_liner": "Developer of an online digital payment platform intended to manage fleet expenses and allow users to make secure, simple e-payments. The company's platform monitors all transactions in real-time and accesses insights for the fleet's fuel-related tasks saving costs and improving operations, enabling drivers, fleet managers, finance departments and owners to receive data accuracy, transparency and simplicity and manage their fleet effectively.",
+  "location": "United States",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/dibee",
+  "api": "/companies/dibee.json"
+}

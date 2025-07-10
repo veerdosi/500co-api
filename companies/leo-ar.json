@@ -1,0 +1,22 @@
+{
+  "id": 4250,
+  "name": "MojiLaLa Inc",
+  "slug": "leo-ar",
+  "website": "leoapp.com",
+  "description": "Developer of an augmented reality application designed for video creation with augmented reality characters. The company's software offers unique and creative AR objects that can be embedded in videos and then shared on various social media platforms, enabling users to express themselves and bring life to the environment around them.",
+  "one_liner": "Developer of an augmented reality application designed for video creation with augmented reality characters. The company's software offers unique and creative AR objects that can be embedded in videos and then shared on various social media platforms, enabling users to express themselves and bring life to the environment around them.",
+  "location": "United States",
+  "industry": "Social Media, Social Impact",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/019be096-ec25-448d-bad2-fb49edf54341.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Social Media",
+    "Social Impact"
+  ],
+  "url": "https://500.co/portfolio/leo-ar",
+  "api": "/companies/leo-ar.json"
+}

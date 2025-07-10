@@ -1,0 +1,21 @@
+{
+  "id": 4883,
+  "name": "Mogassam LLC",
+  "slug": "mogassam",
+  "website": "www.mogassam.com",
+  "description": "Manufacturer of automatic digital light processing (DLP) 3D printers designed to bring convenient reliable 3D printing for creative dentists. The company designs manufacture and market DLP 3D printers that help to self-customize and produce their 3D products with affordable price and quality and also offers automated dental CAM software, enabling dentists to demolish all barriers and get a seamless dental 3D printing experience.",
+  "one_liner": "Manufacturer of automatic digital light processing (DLP) 3D printers designed to bring convenient reliable 3D printing for creative dentists. The company designs manufacture and market DLP 3D printers that help to self-customize and produce their 3D products with affordable price and quality and also offers automated dental CAM software, enabling dentists to demolish all barriers and get a seamless dental 3D printing experience.",
+  "location": "Egypt",
+  "industry": "Robotics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/1740298a-eed7-4b99-a344-60415f2fd746.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Robotics"
+  ],
+  "url": "https://500.co/portfolio/mogassam",
+  "api": "/companies/mogassam.json"
+}

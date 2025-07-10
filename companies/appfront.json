@@ -1,0 +1,22 @@
+{
+  "id": 2974,
+  "name": "Beengo .ME LTD",
+  "slug": "appfront",
+  "website": "www.appfront.ai",
+  "description": "Developer of an all-in-one digital restaurant platform designed to make the online ordering experience simple, seamless, and efficient. The company's platform captures customers' data to engage and communicate with them via any digital channel and helps in customer loyalty programs, helping clients with restaurant marketing, customer loyalty, and online ordering.",
+  "one_liner": "Developer of an all-in-one digital restaurant platform designed to make the online ordering experience simple, seamless, and efficient. The company's platform captures customers' data to engage and communicate with them via any digital channel and helps in customer loyalty programs, helping clients with restaurant marketing, customer loyalty, and online ordering.",
+  "location": "Israel",
+  "industry": "Content, Data & Analytics",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/dbcaca64-68ef-4ee0-9a2c-904ddcbc6369.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content",
+    "Data & Analytics"
+  ],
+  "url": "https://500.co/portfolio/appfront",
+  "api": "/companies/appfront.json"
+}

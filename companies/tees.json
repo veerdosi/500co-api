@@ -1,0 +1,21 @@
+{
+  "id": 3138,
+  "name": "Tees it Together Pte Ltd.",
+  "slug": "tees",
+  "website": "tees.co.id",
+  "description": "Operator of an online clothing marketplace intended to offer a variety of merchandise. The company's marketplace sells graphics printed products such as t-shirts, bags, pillows, tumblers, hoodies, jackets, mobile cases, and posters on demand, enabling customers to buy products at affordable prices and get them home delivered.",
+  "one_liner": "Operator of an online clothing marketplace intended to offer a variety of merchandise. The company's marketplace sells graphics printed products such as t-shirts, bags, pillows, tumblers, hoodies, jackets, mobile cases, and posters on demand, enabling customers to buy products at affordable prices and get them home delivered.",
+  "location": "Indonesia",
+  "industry": "Fashion",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Fashion"
+  ],
+  "url": "https://500.co/portfolio/tees",
+  "api": "/companies/tees.json"
+}

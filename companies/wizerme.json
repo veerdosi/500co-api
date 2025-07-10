@@ -1,0 +1,21 @@
+{
+  "id": 2991,
+  "name": "WizerME L.S. Ltd",
+  "slug": "wizerme",
+  "website": "app.wizer.me",
+  "description": "Developer of an online student engagement platform designed to help teachers to create their own interactive worksheets, and find relevant materials. The company's platform provides insights into the child's progress and status, offering immediate feedback and encouragement, enabling teachers to leverage a social and gamified learning experience for their students.",
+  "one_liner": "Developer of an online student engagement platform designed to help teachers to create their own interactive worksheets, and find relevant materials. The company's platform provides insights into the child's progress and status, offering immediate feedback and encouragement, enabling teachers to leverage a social and gamified learning experience for their students.",
+  "location": "Israel",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/89e1bb84-89b7-4337-8c77-d5e8d18fb59a.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/wizerme",
+  "api": "/companies/wizerme.json"
+}

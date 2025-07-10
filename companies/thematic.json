@@ -1,0 +1,23 @@
+{
+  "id": 3447,
+  "name": "Thematic Inc.",
+  "slug": "thematic",
+  "website": "hellothematic.com",
+  "description": "Developer of a music licensing platform designed to empower music artists and content creators. The company's platform matches content creators on digital platforms with established and aspiring musicians, enabling artists to feature their music in online videos without the worry of copyright infringement.",
+  "one_liner": "Developer of a music licensing platform designed to empower music artists and content creators. The company's platform matches content creators on digital platforms with established and aspiring musicians, enabling artists to feature their music in online videos without the worry of copyright infringement.",
+  "location": "United States",
+  "industry": "Marketplace, Social Media, Creator Economy",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/5a9db6d6-4f8b-4352-81dc-755558b5031e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Marketplace",
+    "Social Media",
+    "Creator Economy"
+  ],
+  "url": "https://500.co/portfolio/thematic",
+  "api": "/companies/thematic.json"
+}

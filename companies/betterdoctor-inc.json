@@ -1,0 +1,21 @@
+{
+  "id": 4295,
+  "name": "BetterDoctor, Inc.",
+  "slug": "betterdoctor-inc",
+  "website": "betterdoctor.com",
+  "description": "Provider of a healthcare provider data platform designed to improve the flow and quality of healthcare data so that patients can get the care they need when required. The company's doctor searching platform offers a web and mobile application that helps to validate and deliver accurate provider data of health plans, health systems and other doctor related data, enabling patients to find all health related information at one place.",
+  "one_liner": "Provider of a healthcare provider data platform designed to improve the flow and quality of healthcare data so that patients can get the care they need when required. The company's doctor searching platform offers a web and mobile application that helps to validate and deliver accurate provider data of health plans, health systems and other doctor related data, enabling patients to find all health related information at one place.",
+  "location": "United States",
+  "industry": "Healthcare",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/ce30e616-d090-4c43-a541-d393ea829b4f.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Healthcare"
+  ],
+  "url": "https://500.co/portfolio/betterdoctor-inc",
+  "api": "/companies/betterdoctor-inc.json"
+}

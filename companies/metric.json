@@ -1,0 +1,21 @@
+{
+  "id": 8102,
+  "name": "METRIC TECHNOLOGIES PTE. LTD.",
+  "slug": "metric",
+  "website": "www.metricapp.co",
+  "description": "Access AI Powered Business Finance Insights",
+  "one_liner": "Access AI Powered Business Finance Insights",
+  "location": "United Arab Emirates",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/62b1dcb8-9842-4853-b05e-29e28a673c0c.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/metric",
+  "api": "/companies/metric.json"
+}

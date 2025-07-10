@@ -1,0 +1,21 @@
+{
+  "id": 4298,
+  "name": "UserPilot, Inc.",
+  "slug": "userpilot",
+  "website": "userpilot.com",
+  "description": "Developer of a product experience software designed to increase user adoption through behavior-driven product experiences. The company's software increases user adoption by assisting product teams to trigger the right in-application experience to the right persona at the right stage of their user journey, enabling businesses to increase activation and stimulate feature discovery among users as their product evolves.",
+  "one_liner": "Developer of a product experience software designed to increase user adoption through behavior-driven product experiences. The company's software increases user adoption by assisting product teams to trigger the right in-application experience to the right persona at the right stage of their user journey, enabling businesses to increase activation and stimulate feature discovery among users as their product evolves.",
+  "location": "United States",
+  "industry": "Productivity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/f40de114-6b4d-4fb5-9d1c-29e8a0a0f99e.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Productivity"
+  ],
+  "url": "https://500.co/portfolio/userpilot",
+  "api": "/companies/userpilot.json"
+}

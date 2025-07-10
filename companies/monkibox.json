@@ -1,0 +1,21 @@
+{
+  "id": 5233,
+  "name": "Monkibox Holding LTD",
+  "slug": "monkibox",
+  "website": "monkibox.com",
+  "description": "Provider of learning subscription services intended to support baby's cognitive and motor development with toys. The company provides educational toys every two months that contain unique and specifically tailored toys for a specified age group of babies, helping parents turn playtime into a learning experience for their children.",
+  "one_liner": "Provider of learning subscription services intended to support baby's cognitive and motor development with toys. The company provides educational toys every two months that contain unique and specifically tailored toys for a specified age group of babies, helping parents turn playtime into a learning experience for their children.",
+  "location": "United Arab Emirates",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/monkibox",
+  "api": "/companies/monkibox.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4775,
+  "name": "NoRedInk Corp.",
+  "slug": "noredink",
+  "website": "www.noredink.com",
+  "description": "Developer of a web-based learning platform designed to improve the grammar and writing skills of young students. The company's platform generates a set of questions based on topics from sports teams to TV shows to pop icons, identifies grammatical and other errors in the answers provides appropriate tutorials and follow-up exercises, and offers teachers a detailed breakdown of each student's strengths and weaknesses, enabling fresh talents to improve their writing skills in a way that's engaging and authentic as compared to the traditional method of relying solely on study materials.",
+  "one_liner": "Developer of a web-based learning platform designed to improve the grammar and writing skills of young students. The company's platform generates a set of questions based on topics from sports teams to TV shows to pop icons, identifies grammatical and other errors in the answers provides appropriate tutorials and follow-up exercises, and offers teachers a detailed breakdown of each student's strengths and weaknesses, enabling fresh talents to improve their writing skills in a way that's engaging and authentic as compared to the traditional method of relying solely on study materials.",
+  "location": "United States",
+  "industry": "Education",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a5ed19fa-720f-448d-aed7-81fbc2f15b19.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Education"
+  ],
+  "url": "https://500.co/portfolio/noredink",
+  "api": "/companies/noredink.json"
+}

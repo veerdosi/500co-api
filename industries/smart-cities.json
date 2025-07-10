@@ -1,0 +1,23 @@
+[
+  {
+    "id": 4743,
+    "name": "OWLR Technologies Ltd.",
+    "slug": "owlr",
+    "website": "owlr.com",
+    "description": "Developer of a universal smart home platform designed to make complex home security cameras safer and easier to use. The company's platform provides a free mobile application used for home security and network cameras, enabling users to monitor and control their homes anywhere.",
+    "one_liner": "Developer of a universal smart home platform designed to make complex home security cameras safer and easier to use. The company's platform provides a free mobile application used for home security and network cameras, enabling users to monitor and control their homes anywhere.",
+    "location": "United Kingdom",
+    "industry": "Smart Cities",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/1328052c-ddbc-4d4b-9abb-94380553d6ac.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "Smart Cities"
+    ],
+    "url": "https://500.co/portfolio/owlr",
+    "api": "/companies/owlr.json"
+  }
+]

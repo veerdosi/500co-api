@@ -1,0 +1,102 @@
+[
+  {
+    "id": 4395,
+    "name": "Awfar, Inc.",
+    "slug": "awfarcom",
+    "website": "solutions.awfar.com",
+    "description": "Awfar transforms WhatsApp into an AI-powered storefront and support desk that lets MENA businesses sell, serve, and get paid in a single chat.",
+    "one_liner": "Awfar transforms WhatsApp into an AI-powered storefront and support desk that lets MENA businesses sell, serve, and get paid in a single chat.",
+    "location": "Egypt",
+    "industry": "AI/Machine Learning, SaaS, CRM",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/211160c5-72e7-4d63-9c4f-4dd78ee8d6a9.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "AI/Machine Learning",
+      "SaaS",
+      "CRM"
+    ],
+    "url": "https://500.co/portfolio/awfarcom",
+    "api": "/companies/awfarcom.json"
+  },
+  {
+    "id": 3382,
+    "name": "One Life One Technology Inc",
+    "slug": "h2o-hospitality",
+    "website": "h2ohospitality.io",
+    "description": "Developer of digital transformation solutions for the hospitality industry revolutionizing hospitality facilities’ operational flow and value chain. H2O enables smart mobile check-in & check-out, 100% automatic reservation, and optimizes the funnel and processing of valuable data to increase direct sales volume.",
+    "one_liner": "Developer of digital transformation solutions for the hospitality industry revolutionizing hospitality facilities’ operational flow and value chain. H2O enables smart mobile check-in & check-out, 100% automatic reservation, and optimizes the funnel and processing of valuable data to increase direct sales volume.",
+    "location": "South Korea",
+    "industry": "CRM, Hospitality",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/31f8061a-9574-4de7-b4e5-7ba384059155.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "CRM",
+      "Hospitality"
+    ],
+    "url": "https://500.co/portfolio/h2o-hospitality",
+    "api": "/companies/h2o-hospitality.json"
+  },
+  {
+    "id": 3481,
+    "name": "Ovation Up Inc.",
+    "slug": "ovation",
+    "website": "ovationup.com",
+    "description": "Developer of an actionable guest feedback platform designed to drive revenue for multi-unit restaurants. The company's platform tracks and figures out the enterprise's loyal customers and assists them in leaving positive online reviews, as well as provides customer feedback and increases social media following, enabling businesses to monitor and measure their web presence and engage increased customers by improving their online marketing strategies.",
+    "one_liner": "Developer of an actionable guest feedback platform designed to drive revenue for multi-unit restaurants. The company's platform tracks and figures out the enterprise's loyal customers and assists them in leaving positive online reviews, as well as provides customer feedback and increases social media following, enabling businesses to monitor and measure their web presence and engage increased customers by improving their online marketing strategies.",
+    "location": "United States",
+    "industry": "SME Solution, CRM, Hospitality",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/0f8cecac-875f-4d82-8194-9fa76ec2ad97.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "SME Solution",
+      "CRM",
+      "Hospitality"
+    ],
+    "url": "https://500.co/portfolio/ovation",
+    "api": "/companies/ovation.json"
+  },
+  {
+    "id": 4953,
+    "name": "The Ticket Fairy, Inc.",
+    "slug": "ticket-fairy",
+    "website": "www.ticketfairy.com",
+    "description": "Ticket Fairy is Salesforce meets Eventbrite - AI-enabled vertical SaaS for events and venues that skyrockets their revenues and accelerates their path to profitability!",
+    "one_liner": "Ticket Fairy is Salesforce meets Eventbrite - AI-enabled vertical SaaS for events and venues that skyrockets their revenues and accelerates their path to profitability!",
+    "location": "United States",
+    "industry": "AI/Machine Learning, Blockchain, Leisure & Entretainment, Marketplace, SaaS, Ticketing, Web 3, CRM, Entertainment / Media, Social Media, B2B Marketplaces, Commerce",
+    "subindustry": "",
+    "status": "Active",
+    "logo_url": "https://founder-hub-public.s3.amazonaws.com/c67aed51-7eae-4dd4-ab61-26f16f18a0b7.png",
+    "is_billion_plus": false,
+    "is_in_program": true,
+    "is_bcorp": false,
+    "tags": [
+      "AI/Machine Learning",
+      "Blockchain",
+      "Leisure & Entretainment",
+      "Marketplace",
+      "SaaS",
+      "Ticketing",
+      "Web 3",
+      "CRM",
+      "Entertainment / Media",
+      "Social Media",
+      "B2B Marketplaces",
+      "Commerce"
+    ],
+    "url": "https://500.co/portfolio/ticket-fairy",
+    "api": "/companies/ticket-fairy.json"
+  }
+]

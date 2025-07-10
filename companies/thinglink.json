@@ -1,0 +1,21 @@
+{
+  "id": 3041,
+  "name": "ThingLink Oy",
+  "slug": "thinglink",
+  "website": "www.thinglink.com",
+  "description": "Developer of a cloud-based digital storytelling platform intended to help in distributing interactive media. The company's platform offers an online interactive identification tool that makes clickable tags on images on the web and helps to share the tagged images on social networks and images for blogs, social channels, and advertising, enabling companies to create memorable interactive digital experiences and attract customers.",
+  "one_liner": "Developer of a cloud-based digital storytelling platform intended to help in distributing interactive media. The company's platform offers an online interactive identification tool that makes clickable tags on images on the web and helps to share the tagged images on social networks and images for blogs, social channels, and advertising, enabling companies to create memorable interactive digital experiences and attract customers.",
+  "location": "Finland",
+  "industry": "Developer Tools",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/901d9878-85da-422b-b73d-96ae10571b9b.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Developer Tools"
+  ],
+  "url": "https://500.co/portfolio/thinglink",
+  "api": "/companies/thinglink.json"
+}

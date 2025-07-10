@@ -1,0 +1,21 @@
+{
+  "id": 3107,
+  "name": "FazWaz Pte Ltd.",
+  "slug": "fazwaz-pte-ltd",
+  "website": "www.fazwaz.com",
+  "description": "Operator of a property search portal designed to find desirable properties in a hassle-free manner. The company's portal uses the latest technologies and up-to-date market data to capture leads, analyze trends and investment opportunities quickly scale across new markets, enabling customers to find properties of their choice in a hassle-free manner.",
+  "one_liner": "Operator of a property search portal designed to find desirable properties in a hassle-free manner. The company's portal uses the latest technologies and up-to-date market data to capture leads, analyze trends and investment opportunities quickly scale across new markets, enabling customers to find properties of their choice in a hassle-free manner.",
+  "location": "Singapore",
+  "industry": "Real Estate",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/44bc0743-e85a-44c1-9dbf-d9df8566fc7c.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Real Estate"
+  ],
+  "url": "https://500.co/portfolio/fazwaz-pte-ltd",
+  "api": "/companies/fazwaz-pte-ltd.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3195,
+  "name": "HEXAGONO SOLUTIONS LLC",
+  "slug": "syscap",
+  "website": "syscap.com.mx",
+  "description": "Developer of a financial platform dedicated to connecting the leaders of financial and real estate institutions with their funders. The company ensures the optimization of funding source management processes and offers tailored analysis and reporting along with timely monitoring of funds, it helps in building infrastructure, and providing access to private credit, enabling managers and funders to empower and connect underwriters, borrowers, and investors together in a data-rich and streamlined ecosystem.",
+  "one_liner": "Developer of a financial platform dedicated to connecting the leaders of financial and real estate institutions with their funders. The company ensures the optimization of funding source management processes and offers tailored analysis and reporting along with timely monitoring of funds, it helps in building infrastructure, and providing access to private credit, enabling managers and funders to empower and connect underwriters, borrowers, and investors together in a data-rich and streamlined ecosystem.",
+  "location": "Mexico",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.amazonaws.com/de5bdf35-96eb-4b29-bddb-be8a40dd62ea.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/syscap",
+  "api": "/companies/syscap.json"
+}

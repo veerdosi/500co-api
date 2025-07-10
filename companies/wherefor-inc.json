@@ -1,0 +1,21 @@
+{
+  "id": 3676,
+  "name": "WhereFor, Inc.",
+  "slug": "wherefor-inc",
+  "website": "wherefor.com",
+  "description": "Provider of an AI-based corporate travel platform designed to help users search across dozens of channels for the best prices. The company's platform helps users to input their actual meeting location or business name rather than city or airport permitting the algorithm to factor in real time commute conditions in making the flight and hotel recommendations, enabling corporations to adjust pre-configured algorithms to meet their business objectives, generating real-time, complete trip recommendations that balance cost against convenience and user preferences.",
+  "one_liner": "Provider of an AI-based corporate travel platform designed to help users search across dozens of channels for the best prices. The company's platform helps users to input their actual meeting location or business name rather than city or airport permitting the algorithm to factor in real time commute conditions in making the flight and hotel recommendations, enabling corporations to adjust pre-configured algorithms to meet their business objectives, generating real-time, complete trip recommendations that balance cost against convenience and user preferences.",
+  "location": "United States",
+  "industry": "Travel & Tourism",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/0b2dbb2a-e23a-4de6-b9ca-bb5f23ee2a00.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Travel & Tourism"
+  ],
+  "url": "https://500.co/portfolio/wherefor-inc",
+  "api": "/companies/wherefor-inc.json"
+}

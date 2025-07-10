@@ -1,0 +1,21 @@
+{
+  "id": 2868,
+  "name": "Influitive Corporation",
+  "slug": "influitive",
+  "website": "influitive.com",
+  "description": "Provider of an advocacy and engagement marketing platform designed to help companies discover, nurture, and mobilize their advocates to accelerate sales and increase customer lifetime value. The company's platform captures customer enthusiasm and uses it to turbocharge marketing and sales efforts for more rapid and profitable revenue growth, enabling advocates to convert prospects into customers and new customers into successful customers.",
+  "one_liner": "Provider of an advocacy and engagement marketing platform designed to help companies discover, nurture, and mobilize their advocates to accelerate sales and increase customer lifetime value. The company's platform captures customer enthusiasm and uses it to turbocharge marketing and sales efforts for more rapid and profitable revenue growth, enabling advocates to convert prospects into customers and new customers into successful customers.",
+  "location": "Canada",
+  "industry": "Content",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/020b8df7-5e1c-4478-a54b-87c96ebe8be1.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "Content"
+  ],
+  "url": "https://500.co/portfolio/influitive",
+  "api": "/companies/influitive.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5732,
+  "name": "Askria Ltd.",
+  "slug": "askria",
+  "website": "www.askria.ai",
+  "description": "Developer of a financial and fundraising decision engine for startups designed to get funding for businesses easily. The company's tool enables companies to create financial models, and KPIs, run scenarios, create connections with investors, and identify financing options, enabling clients to manage their business operations efficiently.",
+  "one_liner": "Developer of a financial and fundraising decision engine for startups designed to get funding for businesses easily. The company's tool enables companies to create financial models, and KPIs, run scenarios, create connections with investors, and identify financing options, enabling clients to manage their business operations efficiently.",
+  "location": "United Kingdom",
+  "industry": "FinTech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://founder-hub-public.s3.us-west-1.amazonaws.com/dd1c3e9d-9f0a-45f5-8292-594482f3d206.png",
+  "is_billion_plus": false,
+  "is_in_program": true,
+  "is_bcorp": false,
+  "tags": [
+    "FinTech"
+  ],
+  "url": "https://500.co/portfolio/askria",
+  "api": "/companies/askria.json"
+}
